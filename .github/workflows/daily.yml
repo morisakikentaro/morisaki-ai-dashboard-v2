@@ -1,12 +1,11 @@
 name: Daily AI Brief
 
 on:
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-build:
-runs-on: ubuntu-latest
-
-steps:
-  - name: Hello
-    run: echo "Morning AI Brief running"
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello
+        run: echo "Morning AI Brief running"
