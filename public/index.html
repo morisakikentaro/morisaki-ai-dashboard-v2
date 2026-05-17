@@ -1,270 +1,110 @@
 <!doctype html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Morning AI Brief</title>
-  <style>
-    :root{
-      --ink:#0f172a;
-      --muted:#64748b;
-      --line:#dbe3ef;
-      --blue:#0f62fe;
-      --blue-soft:#eef6ff;
-      --purple:#6d28d9;
-      --purple-soft:#f5f0ff;
-      --green:#059669;
-      --green-soft:#ecfdf5;
-      --bg:#f8fbff;
-      --card:#ffffff;
-      --shadow:0 16px 40px rgba(15,23,42,.08);
-    }
-    *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
-    body{
-      margin:0;
-      color:var(--ink);
-      background:
-        radial-gradient(circle at 0% 0%, rgba(15,98,254,.10), transparent 32%),
-        radial-gradient(circle at 100% 0%, rgba(109,40,217,.08), transparent 28%),
-        linear-gradient(180deg,#ffffff 0%,var(--bg) 100%);
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;
-      line-height:1.7;
-    }
-    .wrap{width:min(1180px, calc(100% - 40px));margin:0 auto;padding:28px 0 32px}
-    header{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:26px}
-    h1{margin:0;font-size:46px;line-height:1.05;letter-spacing:-.055em;color:#111936}
-    .subtitle{margin-top:8px;color:#25324d;font-size:18px;font-weight:650}
-    .meta{text-align:right;color:#334155;font-weight:800;white-space:nowrap}
-    .meta small{display:block;color:var(--muted);margin-top:4px;font-weight:750}
-    .tabs{display:flex;justify-content:space-between;gap:10px;border-bottom:1px solid var(--line);margin-bottom:28px;overflow-x:auto}
-    .tab{color:#17233f;text-decoration:none;font-weight:900;padding:13px 14px 14px;border-bottom:3px solid transparent;white-space:nowrap}
-    .tab:hover{color:var(--blue)}
-    .tab.active{color:var(--blue);border-color:var(--blue)}
-    .tab.archive{border:1px solid var(--line);border-radius:10px;margin-bottom:8px;padding:9px 13px;background:#fff}
-    .panel{background:rgba(255,255,255,.92);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:28px;margin-bottom:22px}
-    .panel h2{margin:0 0 12px;font-size:25px;line-height:1.35;letter-spacing:-.03em}
-    .lead{font-size:16px;color:#1f2937;margin:0 0 22px;max-width:960px}
-    .three{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-    .point{border:1px solid #d8e6fb;background:linear-gradient(180deg,#ffffff,#f8fbff);border-radius:15px;padding:18px}
-    .badge{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:999px;background:var(--blue);color:#fff;font-size:18px;font-weight:950;margin-bottom:8px}
-    .point h3,.item h3,.action h3{margin:0 0 8px;font-size:17px;line-height:1.45;letter-spacing:-.02em}
-    .point p,.item p,.action p{margin:0;color:#263248;font-size:14px}
-    .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}
-    .perspective{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:24px}
-    .perspective.media{border-color:#cfe1ff}
-    .perspective.solution{border-color:#ddd3ff}
-    .section-title{display:flex;align-items:center;gap:12px;margin:0 0 22px;font-size:23px;letter-spacing:-.03em}
-    .media .section-title{color:var(--blue)}
-    .solution .section-title{color:var(--purple)}
-    .icon{width:44px;height:44px;display:grid;place-items:center;border-radius:12px;flex:0 0 auto;font-size:23px}
-    .media .icon{background:var(--blue-soft)}
-    .solution .icon{background:var(--purple-soft)}
-    .item{display:grid;grid-template-columns:58px 1fr;gap:14px;align-items:start;margin:0 0 23px}
-    .item:last-child{margin-bottom:0}
-    .mini{width:58px;height:58px;border-radius:14px;display:grid;place-items:center;font-size:26px;border:1px solid var(--line)}
-    .media .mini{background:var(--blue-soft);color:var(--blue)}
-    .solution .mini{background:var(--purple-soft);color:var(--purple)}
-    .actions{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
-    .action{border:1px solid #cfe9dc;background:linear-gradient(180deg,#ffffff,#f4fffa);border-radius:15px;padding:18px}
-    .check{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:999px;border:2px solid var(--green);color:var(--green);font-weight:950;margin-bottom:10px}
-    .arrow{color:var(--green);font-weight:950;font-size:20px;margin-top:10px}
-    .note{color:var(--muted);font-size:13px;text-align:center;margin:22px 0 4px}
-    .links{display:grid;gap:10px}
-    .link-card{border:1px solid var(--line);border-radius:14px;background:#fff;padding:14px 16px}
-    .link-card a{color:var(--blue);font-weight:900;text-decoration:none}
-    .link-card a:hover{text-decoration:underline}
-    .link-card p{margin:4px 0 0;color:var(--muted);font-size:13px}
-    @media(max-width:900px){
-      .wrap{width:min(100% - 24px, 1180px);padding-top:18px}
-      header{display:block}
-      h1{font-size:36px}
-      .meta{text-align:left;margin-top:16px}
-      .three,.grid,.actions{grid-template-columns:1fr}
-      .panel,.perspective{padding:20px}
-      .tabs{justify-content:flex-start}
-    }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>森崎さん専用 AI経営ダッシュボード</title>
+<style>
+:root{--bg:#eef3fb;--panel:#fff;--ink:#0f172a;--muted:#64748b;--line:#d8e0ef;--blue:#1d4ed8;--green:#15803d;--orange:#ea580c;--red:#dc2626;--shadow:0 14px 40px rgba(15,23,42,.08)}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;color:var(--ink);background:radial-gradient(circle at top left,rgba(29,78,216,.15),transparent 34%),var(--bg)}
+a{color:var(--blue);font-weight:800;text-decoration:none}a:hover{text-decoration:underline}
+.app{display:grid;grid-template-columns:270px 1fr;min-height:100vh}
+aside{padding:22px;border-right:1px solid var(--line);background:rgba(255,255,255,.75);position:sticky;top:0;height:100vh}
+.brand{font-weight:950;font-size:22px;letter-spacing:-.04em;line-height:1.12;margin-bottom:4px}.owner{font-size:13px;color:var(--muted);font-weight:800;margin-bottom:22px}
+select{width:100%;border:1px solid var(--line);border-radius:12px;padding:10px;background:#fff;font-weight:800;margin-bottom:14px}
+.nav button{width:100%;text-align:left;border:0;border-radius:12px;padding:11px 12px;background:transparent;cursor:pointer;font-weight:850;color:#334155;margin:3px 0}.nav button:hover{background:#dbeafe;color:#1e40af}
+.sidebox{margin-top:18px;border:1px solid var(--line);border-radius:14px;padding:12px;background:#fff}.sidebox h4{margin:0 0 8px;font-size:13px;color:#334155}
+.tag{display:inline-block;font-size:12px;font-weight:850;border:1px solid #e2e8f0;background:#f8fafc;padding:5px 8px;border-radius:999px;margin:3px}
+main{padding:26px}header{display:flex;justify-content:space-between;gap:24px;align-items:flex-start;margin-bottom:18px}
+.eyebrow{font-size:13px;color:#1d4ed8;font-weight:950;letter-spacing:.06em}h1{font-size:42px;line-height:1;margin:4px 0 8px;letter-spacing:-.055em}.subtitle{color:#475569;font-weight:700}
+.status{display:grid;gap:8px;min-width:270px}.pill{border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 13px;font-size:13px;font-weight:850;box-shadow:0 8px 22px rgba(15,23,42,.04)}
+.grid{display:grid;grid-template-columns:1.2fr .8fr;gap:14px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow);margin-bottom:14px}
+.panel-title{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 16px;border-bottom:1px solid var(--line);font-weight:950}.panel-title small{color:var(--muted);font-weight:800}.body{padding:16px}
+.news{display:grid;gap:12px}.item{border:1px solid #e5eaf3;border-radius:14px;padding:14px;background:#fff}.item-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}.item h3{margin:0 0 6px;font-size:18px;letter-spacing:-.02em}.item p{margin:7px 0;line-height:1.65}.cat{font-size:12px;color:#1d4ed8;font-weight:950;margin-bottom:4px}
+.quote{border-left:4px solid #93c5fd;background:#eff6ff;border-radius:10px;padding:10px 12px;font-weight:800;margin:9px 0}.score{min-width:76px;text-align:center;border-radius:12px;padding:8px;background:#f8fafc;border:1px solid #e2e8f0;font-weight:950}.score b{font-size:24px;display:block}.high b{color:var(--red)}.mid b{color:var(--orange)}.low b{color:var(--green)}.source{font-size:12px;color:var(--muted);font-weight:700}
+ul{line-height:1.7;margin:0;padding-left:1.2em}textarea{width:100%;min-height:150px;border:1px solid var(--line);border-radius:14px;padding:12px;font:inherit;line-height:1.6;resize:vertical;background:#fff}.btn{border:0;border-radius:12px;background:#1d4ed8;color:white;padding:10px 13px;font-weight:900;cursor:pointer;margin-top:8px}
+@media(max-width:980px){.app{grid-template-columns:1fr}aside{position:relative;height:auto}.grid{grid-template-columns:1fr}header{display:block}.status{margin-top:14px}h1{font-size:34px}}
+</style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
-        <h1>Morning AI Brief</h1>
-        <div class="subtitle">AI経営ダッシュボード</div>
-      </div>
-      <div class="meta">
-        <span id="todayLabel">2026年5月18日（月）</span>
-        <small>毎朝7時更新</small>
-      </div>
-    </header>
-
-    <nav class="tabs" aria-label="ページ内ナビゲーション">
-      <a class="tab active" href="#summary">今日のAI要約</a>
-      <a class="tab" href="#industry">業界・企業動向</a>
-      <a class="tab" href="#impact">経営インパクト</a>
-      <a class="tab" href="#actions">今日のアクション</a>
-      <a class="tab archive" href="#links">アーカイブ</a>
-    </nav>
-
-    <section class="panel" id="summary">
-      <h2>今日のAI要約（3分で把握）</h2>
-      <p class="lead">
-        本日のAIニュースから、経営に関わる重要ポイントを3つに整理しました。
-        生成AIの企業活用がさらに加速し、AIエージェントや自律型システムの実用化が進展しています。
-        また、AI規制やガバナンスの議論も活発化し、信頼性と安全性が競争力の鍵になりつつあります。
-      </p>
-      <div class="three">
-        <article class="point">
-          <div class="badge">1</div>
-          <h3>AIエージェントの実用化が加速</h3>
-          <p>業務自動化や意思決定支援において、AIエージェントの導入事例が拡大。複数タスクを自律的に実行するシステムが本格展開へ。</p>
-        </article>
-        <article class="point">
-          <div class="badge">2</div>
-          <h3>企業の生成AI活用が次の段階へ</h3>
-          <p>PoCから本格運用フェーズへ移行する企業が増加。社内データ連携や業務プロセス再設計が成功の鍵に。</p>
-        </article>
-        <article class="point">
-          <div class="badge">3</div>
-          <h3>AIガバナンス・規制の動きが活発化</h3>
-          <p>各国でAIの透明性・安全性に関する規制議論が進展。信頼できるAIの構築が企業価値に直結する時代へ。</p>
-        </article>
-      </div>
-    </section>
-
-    <section class="grid" id="industry">
-      <div class="perspective media">
-        <h2 class="section-title"><span class="icon">▤</span>視点A：メディア視点</h2>
-        <article class="item">
-          <div class="mini">✎</div>
-          <div>
-            <h3>取材・編集業務の高度化</h3>
-            <p>生成AIの活用により、記事要約・データ分析・翻訳業務が効率化。記者や編集者がより多くの時間を取材・検証・企画に投下できる環境が整いつつある。</p>
-          </div>
-        </article>
-        <article class="item">
-          <div class="mini">◎</div>
-          <div>
-            <h3>読者体験のパーソナライズ</h3>
-            <p>AIによるレコメンドや興味関心分析を活用し、個々の読者に最適化されたニュース提供が可能に。エンゲージメント向上に寄与。</p>
-          </div>
-        </article>
-        <article class="item">
-          <div class="mini">◇</div>
-          <div>
-            <h3>信頼性と倫理の重要性</h3>
-            <p>ファクトチェック支援やAI倫理指針の整備が加速。報道機関としての信頼性を維持しながら、AI活用の透明性を高める取り組みが鍵。</p>
-          </div>
-        </article>
-      </div>
-
-      <div class="perspective solution">
-        <h2 class="section-title"><span class="icon">△</span>視点B：ソリューション視点</h2>
-        <article class="item">
-          <div class="mini">⌕</div>
-          <div>
-            <h3>AI活用支援ニーズの拡大</h3>
-            <p>企業の生成AI・AIエージェント導入需要が急増。戦略立案から実装・運用まで一気通貫で支援する価値がさらに高まる。</p>
-          </div>
-        </article>
-        <article class="item">
-          <div class="mini">⬡</div>
-          <div>
-            <h3>データ基盤とシステム統合の重要性</h3>
-            <p>AIの成果を最大化するには、データ整備・基盤構築・既存システムとの統合が不可欠。技術力と実装力が競争優位の源泉に。</p>
-          </div>
-        </article>
-        <article class="item">
-          <div class="mini">◉</div>
-          <div>
-            <h3>顧客の変革パートナーとしての役割強化</h3>
-            <p>単なるシステム提供ではなく、業務変革・組織変革まで伴走するパートナーシップ型支援が差別化の鍵となる。</p>
-          </div>
-        </article>
-      </div>
-    </section>
-
-    <section class="panel" id="impact">
-      <h2>経営へのインパクト</h2>
-      <div class="three">
-        <article class="point">
-          <div class="badge">↗</div>
-          <h3>生産性の飛躍的向上</h3>
-          <p>定型業務の自動化により、人材をより付加価値の高い業務へシフト可能に。</p>
-        </article>
-        <article class="point">
-          <div class="badge">◎</div>
-          <h3>競争優位性の確立</h3>
-          <p>AI活用のスピードと質が、今後の市場競争における差別化要因に。</p>
-        </article>
-        <article class="point">
-          <div class="badge">⚖</div>
-          <h3>リスク管理の重要性増大</h3>
-          <p>AIの信頼性・透明性・安全性への対応が、企業の持続的成長に不可欠。</p>
-        </article>
-      </div>
-    </section>
-
-    <section class="panel" id="actions">
-      <h2 style="color:var(--green)">今日のアクション提案</h2>
-      <div class="actions">
-        <article class="action">
-          <div class="check">✓</div>
-          <h3>AI活用の現状を棚卸し</h3>
-          <p>自社のAI活用状況を整理し、次の投資領域を明確にする。</p>
-          <div class="arrow">→</div>
-        </article>
-        <article class="action">
-          <div class="check">◎</div>
-          <h3>小さく始めて早く検証</h3>
-          <p>AIエージェントの小規模導入を検討し、効果検証を進める。</p>
-          <div class="arrow">→</div>
-        </article>
-        <article class="action">
-          <div class="check">▣</div>
-          <h3>データ基盤を整備</h3>
-          <p>AI活用の前提となるデータ品質と連携基盤を見直す。</p>
-          <div class="arrow">→</div>
-        </article>
-        <article class="action">
-          <div class="check">◇</div>
-          <h3>ガバナンス体制を強化</h3>
-          <p>AI活用におけるリスク管理とガバナンス体制を整備する。</p>
-          <div class="arrow">→</div>
-        </article>
-      </div>
-    </section>
-
-    <section class="panel" id="links">
-      <h2>参考リンク</h2>
-      <div class="links">
-        <div class="link-card">
-          <a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a>
-          <p>AIモデル、プロダクト、エージェント関連の公式アップデート。</p>
-        </div>
-        <div class="link-card">
-          <a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI Blog</a>
-          <p>検索、AIプロダクト、研究開発に関する発表。</p>
-        </div>
-        <div class="link-card">
-          <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a>
-          <p>Claude、AI安全性、エンタープライズ活用の最新情報。</p>
-        </div>
-      </div>
-    </section>
-
-    <p class="note">本レポートは公開情報を基にAIが生成した要約です。投資判断・経営判断はご自身の責任で行ってください。</p>
+<div class="app">
+<aside>
+  <div class="brand">森崎さん専用<br>AI経営ダッシュボード</div>
+  <div class="owner">Morning AI Brief / Auto Updated</div>
+  <select id="dateSelect" onchange="render(this.value)"></select>
+  <div class="nav">
+    <button onclick="scrollToId('news')">重要ニュース</button>
+    <button onclick="scrollToId('asahi')">朝日新聞社視点</button>
+    <button onclick="scrollToId('alfasado')">アルファサード視点</button>
+    <button onclick="scrollToId('actions')">経営アクション</button>
+    <button onclick="scrollToId('memo')">メモ</button>
   </div>
-
-  <script>
-    const d = new Date();
-    const formatter = new Intl.DateTimeFormat("ja-JP", {
-      year:"numeric", month:"long", day:"numeric", weekday:"short",
-      timeZone:"Asia/Tokyo"
-    });
-    const label = document.getElementById("todayLabel");
-    if(label) label.textContent = formatter.format(d);
-  </script>
+  <div class="sidebox"><h4>追跡テーマ</h4><span class="tag">AI検索</span><span class="tag">メディアDX</span><span class="tag">CMS</span><span class="tag">RAG</span><span class="tag">AIエージェント</span></div>
+</aside>
+<main>
+<header>
+  <div>
+    <div class="eyebrow">EXECUTIVE AI INTELLIGENCE</div>
+    <h1 id="headline">Morning AI Brief</h1>
+    <div class="subtitle" id="oneLiner"></div>
+  </div>
+  <div class="status">
+    <div class="pill" id="datePill"></div>
+    <div class="pill">⏱ 想定読了：5分</div>
+    <div class="pill">🎯 Focus：朝日新聞社 / アルファサード / 経営判断</div>
+  </div>
+</header>
+<div class="grid">
+  <div>
+    <section class="panel" id="news"><div class="panel-title">重要ニュース <small>クリック可能リンク付き</small></div><div class="body news" id="newsList"></div></section>
+  </div>
+  <div>
+    <section class="panel" id="asahi"><div class="panel-title">朝日新聞社視点</div><div class="body"><ul id="asahiList"></ul></div></section>
+    <section class="panel" id="alfasado"><div class="panel-title">アルファサード視点</div><div class="body"><ul id="alfasadoList"></ul></div></section>
+    <section class="panel" id="actions"><div class="panel-title">今日の経営アクション</div><div class="body"><ul id="actionList"></ul></div></section>
+    <section class="panel" id="memo"><div class="panel-title">森崎さんメモ <small>ブラウザ内保存</small></div><div class="body"><textarea id="memoText"></textarea><br><button class="btn" onclick="saveMemo()">保存</button></div></section>
+  </div>
+</div>
+</main>
+</div>
+<script>
+const briefs = {"2026-05-17": {"date": "2026-05-17", "headline": "生成AIの最新動向を確認", "one_liner": "AIを使うだけでなく、AIが動ける情報基盤を作れるかが差になります。", "items": [{"title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens", "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.", "quote": "経営視点では、業務と情報基盤への影響を見るべきです。", "url": "https://openai.com/index/malta-chatgpt-plus-partnership", "source": "OpenAI News", "importance_score": 70, "asahi_score": 60, "alfasado_score": 60, "category": "その他"}, {"title": "Databricks brings GPT-5.5 to enterprise agent workflows", "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.", "quote": "経営視点では、業務と情報基盤への影響を見るべきです。", "url": "https://openai.com/index/databricks", "source": "OpenAI News", "importance_score": 70, "asahi_score": 60, "alfasado_score": 60, "category": "その他"}, {"title": "A new personal finance experience in ChatGPT", "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your fi", "quote": "経営視点では、業務と情報基盤への影響を見るべきです。", "url": "https://openai.com/index/personal-finance-chatgpt", "source": "OpenAI News", "importance_score": 70, "asahi_score": 60, "alfasado_score": 60, "category": "その他"}, {"title": "Sea's View on the Future of Agentic Software Development with Codex", "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.", "quote": "経営視点では、業務と情報基盤への影響を見るべきです。", "url": "https://openai.com/index/sea-david-chen", "source": "OpenAI News", "importance_score": 70, "asahi_score": 60, "alfasado_score": 60, "category": "その他"}, {"title": "Work with Codex from anywhere", "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.", "quote": "経営視点では、業務と情報基盤への影響を見るべきです。", "url": "https://openai.com/index/work-with-codex-from-anywhere", "source": "OpenAI News", "importance_score": 70, "asahi_score": 60, "alfasado_score": 60, "category": "その他"}], "asahi_insights": ["AI検索時代には、一次情報・信頼性・引用されやすさが重要になります。", "記事をAIが理解しやすい構造に整えることが、流通面の競争力になります。", "著作権と学習データの論点は継続監視が必要です。"], "alfasado_insights": ["CMSはAI-readyな知識基盤へ拡張できます。", "RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。", "顧客の社内ナレッジ整理は、生成AI導入の入口になります。"], "actions": ["顧客向けAI-ready CMS診断項目を1つ追加する。", "朝日新聞社視点で、AI検索と信頼性の論点をメモ化する。", "社内のAI活用小実験を1つ選び、効果測定する。"]}};
+const dates = Object.keys(briefs).sort().reverse();
+const select = document.getElementById("dateSelect");
+dates.forEach(d => {
+  const opt = document.createElement("option");
+  opt.value = d; opt.textContent = d;
+  select.appendChild(opt);
+});
+function esc(s){return String(s ?? "").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));}
+function scoreClass(score){score=Number(score||0);return score>=85?"high":score>=70?"mid":"low";}
+function render(dateKey){
+  const b = briefs[dateKey];
+  document.getElementById("headline").textContent = b.headline || "Morning AI Brief";
+  document.getElementById("oneLiner").textContent = b.one_liner || "";
+  document.getElementById("datePill").textContent = "📅 " + dateKey;
+  document.getElementById("newsList").innerHTML = (b.items||[]).map(item => `
+    <article class="item">
+      <div class="item-head">
+        <div>
+          <div class="cat">${esc(item.category)}</div>
+          <h3>${esc(item.title)}</h3>
+          <p>${esc(item.summary)}</p>
+        </div>
+        <div class="score ${scoreClass(item.importance_score)}"><span>重要度</span><b>${esc(item.importance_score)}</b></div>
+      </div>
+      <div class="quote">${esc(item.quote)}</div>
+      <div class="source">出典・参考：<a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.source || "記事を開く")}</a></div>
+    </article>
+  `).join("");
+  document.getElementById("asahiList").innerHTML = (b.asahi_insights||[]).map(x=>`<li>${esc(x)}</li>`).join("");
+  document.getElementById("alfasadoList").innerHTML = (b.alfasado_insights||[]).map(x=>`<li>${esc(x)}</li>`).join("");
+  document.getElementById("actionList").innerHTML = (b.actions||[]).map(x=>`<li>${esc(x)}</li>`).join("");
+  document.getElementById("memoText").value = localStorage.getItem("memo-"+dateKey) || "";
+}
+function scrollToId(id){document.getElementById(id).scrollIntoView({behavior:"smooth",block:"start"})}
+function saveMemo(){localStorage.setItem("memo-"+select.value, document.getElementById("memoText").value);}
+render(dates[0] || "2026-05-17");
+</script>
 </body>
 </html>
