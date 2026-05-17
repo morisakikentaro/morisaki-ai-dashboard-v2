@@ -1,0 +1,285 @@
+{
+  "generated_at": "2026-05-17T15:07:45.750063+00:00",
+  "articles": [
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "published": "Sat, 16 May 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "published": "Thu, 14 May 2026 20:30:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "published": "Thu, 14 May 2026 13:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "published": "Thu, 14 May 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "published": "Wed, 13 May 2026 11:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "published": "Wed, 13 May 2026 00:00:00 GMT",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "summary": "A screenshot of the AI-powered experience on Google Finance.",
+      "published": "Mon, 11 May 2026 06:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+      "published": "Fri, 08 May 2026 15:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+      "published": "Wed, 06 May 2026 16:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "published": "Tue, 05 May 2026 16:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+      "published": "Mon, 04 May 2026 17:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "summary": "Gemini API",
+      "published": "Mon, 04 May 2026 15:30:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "summary": "A web next to a laptop",
+      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+      "published": "Fri, 24 Apr 2026 19:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "published": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "source": "AI"
+    },
+    {
+      "title": "Your AI steering committee’s 2026 checklist: Sovereignty",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
+      "summary": "<p>As organizations scale AI, one question keeps coming up in AI steering committee conversations: Can we move fast without losing control? That tension shows up most clearly when AI systems cross borders—touching sensitive data, operating under different regulations, and supporting teams around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/\">Your AI steering committee’s 2026 checklist: Sovereignty </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Thu, 07 May 2026 15:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
+      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
+      "summary": "<p>Spend time with any software engineering team right now and you’ll see something worth paying attention to. Over the last few years, the way software gets built has moved through four distinct patterns of human-agent collaboration—and the same patterns are beginning to show up across other functions of the firm.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/\">How Frontier Firms are rebuilding the operating model for the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Tue, 05 May 2026 16:57:48 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "Cricket Australia uses AI Insights to bring fans closer to the action",
+      "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/",
+      "summary": "<p>When England and Australia faced off on Day 5 of the fifth Test of the always tense Ashes cricket series in January, every ball bowled and solid crack had fans on the edge of their seats both at the Sydney Cricket Ground and around the globe.</p>\n<p>The post <a href=\"https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/\">Cricket Australia uses AI Insights to bring fans closer to the action</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Thu, 23 Apr 2026 16:26:11 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "Your AI steering committee’s 2026 checklist: Observability",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
+      "summary": "<p>AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/\">Your AI steering committee&#8217;s 2026 checklist: Observability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "Frontier Transformation is powering growth and innovation across industries",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/15/frontier-transformation-is-powering-growth-and-innovation-across-industries/",
+      "summary": "<p>Across industries, we are witnessing a fundamental shift. At Microsoft, we're seeing this shift play out firsthand as we work with thousands of organizations. This post is the first in a series on industry Frontier Transformation exploring how AI is driving growth and reshaping innovation across various industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/15/frontier-transformation-is-powering-growth-and-innovation-across-industries/\">Frontier Transformation is powering growth and innovation across industries</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Wed, 15 Apr 2026 15:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "The New York Jets are happy to have a ‘Titan’ in their corner at the NFL Draft",
+      "url": "https://news.microsoft.com/source/features/digital-transformation/the-new-york-jets-are-happy-to-have-a-titan-in-their-corner-at-the-nfl-draft",
+      "summary": "<p>When NFL commissioner Roger Goodell announces that the New York Jets are “officially on the clock” during this month’s NFL Draft, the franchise will have an opportunity to reshape its roster by choosing some of the best college talent available. And with four picks at the time of this writing – including No. 2 overall – within the first 44 selections, the need to add several impact players is paramount as they face off against some of the AFC’s best teams.</p>\n<p>The post <a href=\"https://news.microsoft.com/source/features/digital-transformation/the-new-york-jets-are-happy-to-have-a-titan-in-their-corner-at-the-nfl-draft\">The New York Jets are happy to have a &#8216;Titan&#8217; in their corner at the NFL Draft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Tue, 14 Apr 2026 16:38:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "AI Decision Brief: How leaders can drive Frontier Transformation",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/31/ai-decision-brief-how-leaders-can-drive-frontier-transformation/",
+      "summary": "<p>While adoption of AI technology is now widespread, impact is not. Many organizations are experimenting and running pilot programs, but far fewer have the operating discipline to become what we call Frontier Firms—companies that scale AI in ways that meaningfully reshape work, decisions, and value creation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/31/ai-decision-brief-how-leaders-can-drive-frontier-transformation/\">AI Decision Brief: How leaders can drive Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Tue, 31 Mar 2026 15:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "How to introduce agents into your workforce: 5 actions leaders can take",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/26/how-to-introduce-agents-into-your-workforce-5-actions-leaders-can-take/",
+      "summary": "<p>How Microsoft helps organizations introduce AI agents responsibly—turning copilots into digital teammates that drive real business impact.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/26/how-to-introduce-agents-into-your-workforce-5-actions-leaders-can-take/\">How to introduce agents into your workforce: 5 actions leaders can take</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Thu, 26 Mar 2026 15:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "María Almenara: The First Data-Driven Peruvian Bakery",
+      "url": "https://news.microsoft.com/es-xl/maria-almenara-the-first-data-driven-peruvian-bakery/",
+      "summary": "<p>The technology available to us and the context we’ve been living in have sped up the digital transformation of all industries and companies of all sizes. A clear example of this is María Almenara. This well-known bakery in Lima has been able to predict daily sales of each product one week ahead of time, therefore avoiding overproduction or lack of stock—all thanks to artificial intelligence.</p>\n<p>The post <a href=\"https://news.microsoft.com/es-xl/maria-almenara-the-first-data-driven-peruvian-bakery/\">María Almenara: The First Data-Driven Peruvian Bakery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+      "published": "Thu, 26 Mar 2026 14:00:00 +0000",
+      "source": "The Microsoft Cloud Blog"
+    },
+    {
+      "title": "Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says",
+      "url": "https://www.niemanlab.org/2026/05/creator-journalisms-rise-is-the-most-disruptive-shift-the-news-industry-has-seen-ex-bbc-news-head-says/",
+      "summary": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consumers moving to different platforms,&#8221; Turness,...",
+      "published": "Thu, 14 May 2026 18:30:15 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Local stories by nonprofit college media resonated nationally at the start of 2026",
+      "url": "https://www.niemanlab.org/2026/05/local-stories-by-nonprofit-college-media-resonated-nationally-at-the-start-of-2026/",
+      "summary": "At Nieman Lab, we&#8217;ve long covered the impact of student-run news outlets filling information gaps in their communities. Recent data from SimilarWeb shows just how far their work reaches. In February, three Southern college media outlets — The Duke Chronicle (Duke University), The Daily Tar Heel (University of North Carolina — Chapel Hill), and the...",
+      "published": "Thu, 14 May 2026 17:16:28 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "When ICE came to Minneapolis, readers turned to The Minnesota Star Tribune’s free live blog",
+      "url": "https://www.niemanlab.org/2026/05/when-ice-came-to-minneapolis-readers-turned-to-the-minnesota-star-tribunes-free-live-blog/",
+      "summary": "When Minneapolis became ground zero for the Trump administration&#8217;s unprecedented federal immigration crackdown, its local news institutions were, once again, on the front lines of a global story. And just as Minnesota&#8217;s nonprofits and public radio station punched above their audience weight with their reporting, so too did its local newspapers. The flagship Minnesota Star...",
+      "published": "Thu, 14 May 2026 16:10:52 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "These for-profit local news sites have become the “papers” of record in their communities",
+      "url": "https://www.niemanlab.org/2026/05/these-for-profit-local-news-sites-have-become-the-papers-of-record-in-their-communities/",
+      "summary": "In most American cities, the largest local newsroom still belongs to the local newspaper. But that certainly doesn&#8217;t mean the largest local news audience always goes to the people with a printing press. And in some cases, the local traffic champ isn&#8217;t even a TV station or public radio station — it&#8217;s a for-profit, digital-native...",
+      "published": "Wed, 13 May 2026 19:40:53 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Minnesota — and MPR — kept everyone’s attention at the start of 2026",
+      "url": "https://www.niemanlab.org/2026/05/minnesota-and-its-public-radio-station-kept-everyones-attention-at-the-start-of-2026/",
+      "summary": "Minnesota Public Radio&#8217;s coverage of ICE put it at the top of the traffic rankings for public media websites in the last quarter of 2025. That trend continued in the first quarter of 2026; according to our regular rankings derived from Similarweb data, MPR saw 7 million more visits in January than in December, driven in...",
+      "published": "Wed, 13 May 2026 14:38:24 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "“Affiliation, not just access”: Newsrooms try to move beyond membership to a focus on “belonging”",
+      "url": "https://www.niemanlab.org/2026/05/affiliation-not-just-access-newsrooms-try-to-move-beyond-membership-to-a-focus-on-belonging/",
+      "summary": "Facing declining trust, unreliable social platforms, and search traffic weakened by AI summaries, the media industry is looking for a deeper way to hold onto audiences. Could the answer be a sense of “belonging”? “I think belonging is trying to figure out ways for the audiences to feel heard and seen, to engage or learn...",
+      "published": "Tue, 12 May 2026 20:38:34 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "The European Union backs Italy’s right to make Meta pay for news",
+      "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
+      "summary": "Meta must comply with Italian law requiring it to negotiate with and fairly compensate news publishers for the the use of their content, according to a ruling by the Europe&#8217;s highest court on Tuesday. The decision by the Court of Justice of the European Union (CJEU) found that EU copyright law doesn&#8217;t prohibit individual countries...",
+      "published": "Tue, 12 May 2026 19:10:59 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "In Atlanta, the push for digital subscriptions hasn’t taken off as much as hoped",
+      "url": "https://www.niemanlab.org/2026/05/in-atlanta-the-push-for-digital-subscriptions-hasnt-taken-off-as-much-as-hoped/",
+      "summary": "For American newspapers, the past decade-plus has been all about seeking digital subscribers. The print business is shot. Digital advertising is shot. And while not everyone can be The New York Times — now the proud provider of 13 million subscriptions — even most local and regional newspapers have made digital subs Priority No. 1....",
+      "published": "Mon, 11 May 2026 18:51:01 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Behind the scenes at Wirecutter for an epic duel of air purifiers",
+      "url": "https://www.niemanlab.org/2026/05/behind-the-scenes-at-wirecutter-for-an-epic-duel-of-air-purifiers/",
+      "summary": "Tim Heffernan lights five matches with a single stroke and waves them up and down to spread the smoke. He sets them on a dinner plate as the small conference room fills with the smell of burning wood. He checks his particle meter to make sure the room is sufficiently smoky, then steps around the...",
+      "published": "Mon, 11 May 2026 16:11:31 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Trolling, memes, and deepfakes: How AI is thickening the fog of war",
+      "url": "https://www.niemanlab.org/2026/05/trolling-memes-and-deepfakes-how-ai-is-thickening-the-fog-of-war/",
+      "summary": "War has never been fought only on the ground. Clausewitz’s concept of the “fog of war” once described the uncertainty and confusion that cloud battlefield decision-making. Errol Morris’ 2003 documentary made the phrase a shorthand for the moral and informational ambiguities of modern conflict. But in the digital age, where war is also filmed, edited and promoted...",
+      "published": "Mon, 11 May 2026 12:00:58 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Semafor’s new AI tool helped boil down its entire flagship conference into nine takeaways",
+      "url": "https://www.niemanlab.org/2026/05/semafors-new-ai-tool-helped-boil-down-its-entire-flagship-conference-into-nine-takeaways/",
+      "summary": "On April 13, more than 500 CEOs and other power brokers gathered in Washington, D.C. to join Semafor World Economy. Across the five-day event, hundreds of speakers took the stage, including Goldman Sachs President John Waldron, Singapore’s Deputy Prime Minister Gan Kim Yong, and nine sitting U.S. cabinet officials. In the weeks since the event...",
+      "published": "Thu, 07 May 2026 21:00:46 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "News podcasts are, increasingly, something you watch (but The Daily still works best as audio)",
+      "url": "https://www.niemanlab.org/2026/05/news-podcasts-are-increasingly-something-you-watch-but-the-daily-still-works-best-as-audio/",
+      "summary": "Large publishers see video as one big future for podcasts, according to a report out Thursday from the Reuters Institute for the Study of Journalism (RISJ). They&#8217;re certainly not abandoning audio, but they&#8217;re aware that many young people hear &#8220;podcast&#8221; and think &#8220;YouTube.&#8221; &#8220;The discovery mechanisms for video are much better. Video as a medium...",
+      "published": "Thu, 07 May 2026 16:24:32 +0000",
+      "source": "Nieman Lab"
+    },
+    {
+      "title": "Fair Is Fair",
+      "url": "https://www.cjr.org/analysis/fair-is-fair-new-york-nonprofit-news-outlets-lobbying-albany-hochul.php",
+      "summary": "New York’s nonprofit news outlets are lobbying Albany for the same boost available to their for-profit peers.",
+      "published": "Fri, 15 May 2026 21:28:20 +0000",
+      "source": "Columbia Journalism Review"
+    }
+  ]
+}

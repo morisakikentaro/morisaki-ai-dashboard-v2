@@ -1,19 +1,63 @@
 {
   "2026-05-17": {
     "date": "2026-05-17",
-    "headline": "生成AIは検索・実行・知識基盤へ",
-    "one_liner": "AIを使うだけでなく、AIが動ける情報基盤を持つ会社が強くなります。",
+    "headline": "生成AIの最新動向を確認",
+    "one_liner": "AIを使うだけでなく、AIが動ける情報基盤を作れるかが差になります。",
     "items": [
       {
-        "title": "AI検索とAIエージェントが経営テーマ化",
-        "summary": "生成AIは、検索、要約、実行、社内ツール連携へ広がっています。",
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
         "quote": "経営視点では、業務と情報基盤への影響を見るべきです。",
-        "url": "https://openai.com/news/",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
         "source": "OpenAI News",
-        "importance_score": 88,
-        "asahi_score": 82,
-        "alfasado_score": 91,
-        "category": "AI検索"
+        "importance_score": 70,
+        "asahi_score": 60,
+        "alfasado_score": 60,
+        "category": "その他"
+      },
+      {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+        "quote": "経営視点では、業務と情報基盤への影響を見るべきです。",
+        "url": "https://openai.com/index/databricks",
+        "source": "OpenAI News",
+        "importance_score": 70,
+        "asahi_score": 60,
+        "alfasado_score": 60,
+        "category": "その他"
+      },
+      {
+        "title": "A new personal finance experience in ChatGPT",
+        "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your fi",
+        "quote": "経営視点では、業務と情報基盤への影響を見るべきです。",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "source": "OpenAI News",
+        "importance_score": 70,
+        "asahi_score": 60,
+        "alfasado_score": 60,
+        "category": "その他"
+      },
+      {
+        "title": "Sea's View on the Future of Agentic Software Development with Codex",
+        "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+        "quote": "経営視点では、業務と情報基盤への影響を見るべきです。",
+        "url": "https://openai.com/index/sea-david-chen",
+        "source": "OpenAI News",
+        "importance_score": 70,
+        "asahi_score": 60,
+        "alfasado_score": 60,
+        "category": "その他"
+      },
+      {
+        "title": "Work with Codex from anywhere",
+        "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+        "quote": "経営視点では、業務と情報基盤への影響を見るべきです。",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere",
+        "source": "OpenAI News",
+        "importance_score": 70,
+        "asahi_score": 60,
+        "alfasado_score": 60,
+        "category": "その他"
       }
     ],
     "asahi_insights": [
