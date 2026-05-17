@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>森崎さん専用 AI経営ダッシュボード</title>
+<title>生成AI経営ダッシュボード</title>
 <style>
 :root{--bg:#eef3fb;--panel:#fff;--ink:#0f172a;--muted:#64748b;--line:#d8e0ef;--blue:#1d4ed8;--green:#15803d;--orange:#ea580c;--red:#dc2626;--shadow:0 14px 40px rgba(15,23,42,.08)}
 *{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;color:var(--ink);background:radial-gradient(circle at top left,rgba(29,78,216,.15),transparent 34%),var(--bg)}
@@ -51,7 +51,7 @@ ul{line-height:1.7;margin:0;padding-left:1.2em}textarea{width:100%;min-height:15
   <div class="status">
     <div class="pill" id="datePill"></div>
     <div class="pill">⏱ 想定読了：5分</div>
-    <div class="pill">🎯 Focus：朝日新聞社 / アルファサード / 経営判断</div>
+    <div class="pill">🎯 Focus：メディア / ソリューション / 経営判断</div>
   </div>
 </header>
 <div class="grid">
@@ -59,10 +59,10 @@ ul{line-height:1.7;margin:0;padding-left:1.2em}textarea{width:100%;min-height:15
     <section class="panel" id="news"><div class="panel-title">重要ニュース <small>クリック可能リンク付き</small></div><div class="body news" id="newsList"></div></section>
   </div>
   <div>
-    <section class="panel" id="asahi"><div class="panel-title">朝日新聞社視点</div><div class="body"><ul id="asahiList"></ul></div></section>
-    <section class="panel" id="alfasado"><div class="panel-title">アルファサード視点</div><div class="body"><ul id="alfasadoList"></ul></div></section>
+    <section class="panel" id="asahi"><div class="panel-title">視点A：メディア視点</div><div class="body"><ul id="asahiList"></ul></div></section>
+    <section class="panel" id="alfasado"><div class="panel-title">視点B:ソリューション視点</div><div class="body"><ul id="alfasadoList"></ul></div></section>
     <section class="panel" id="actions"><div class="panel-title">今日の経営アクション</div><div class="body"><ul id="actionList"></ul></div></section>
-    <section class="panel" id="memo"><div class="panel-title">森崎さんメモ <small>ブラウザ内保存</small></div><div class="body"><textarea id="memoText"></textarea><br><button class="btn" onclick="saveMemo()">保存</button></div></section>
+    <section class="panel" id="memo"><div class="panel-title">メモ <small>ブラウザ内保存</small></div><div class="body"><textarea id="memoText"></textarea><br><button class="btn" onclick="saveMemo()">保存</button></div></section>
   </div>
 </div>
 </main>
