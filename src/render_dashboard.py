@@ -5,8 +5,10 @@ from datetime import datetime, timedelta, timezone
 
 JST = timezone(timedelta(hours=9))
 
+
 def esc(value):
     return escape(str(value or ""))
+
 
 def load_briefs():
     path = Path("data/briefs.json")
@@ -14,9 +16,13 @@ def load_briefs():
         return {}
     return json.loads(path.read_text(encoding="utf-8"))
 
+
 def normalize_item(item):
+    title_jp = item.get("title_jp") or item.get("title") or item.get("original_title", "")
+    original_title = item.get("original_title") or item.get("title") or title_jp
     return {
-        "title": item.get("title", ""),
+        "title_jp": title_jp,
+        "original_title": original_title,
         "summary": item.get("summary", ""),
         "quote": item.get("quote", ""),
         "url": item.get("url", ""),
@@ -27,6 +33,7 @@ def normalize_item(item):
         "impact": item.get("impact", item.get("business_impact", [])),
     }
 
+
 def render_impacts(impact):
     if isinstance(impact, str):
         impact = [impact]
@@ -36,7 +43,8 @@ def render_impacts(impact):
             "社内外のコンテンツを構造化し、AIが参照しやすくする必要がある",
             "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる",
         ]
-    return "\n".join(f"<li>{esc(x)}</li>" for x in impact[:4])
+    return "\\n".join(f"<li>{esc(x)}</li>" for x in impact[:5])
+
 
 def render_card(item):
     item = normalize_item(item)
@@ -46,23 +54,38 @@ def render_card(item):
         <div class="news-head">
           <div>
             <div class="category">{esc(item["category"])}</div>
-            <h3>{esc(item["title"])}</h3>
+            <h3>{esc(item["title_jp"])}</h3>
           </div>
           <div class="score"><span>重要度</span><b>{esc(item["importance_score"])}</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">{esc(item["title"])}</div>
+          <div class="source-title">{esc(item["original_title"])}</div>
           <div class="source-url">{source_link}</div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>{esc(item["summary"])}</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>{esc(item["why"])}</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul>{render_impacts(item["impact"])}</ul></div>
+
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>{esc(item["summary"])}</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>{esc(item["why"])}</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul>{render_impacts(item["impact"])}</ul>
+        </div>
       </article>
     """
 
+
 def render_list(items):
-    return "\n".join(f"<li>{esc(x)}</li>" for x in (items or []))
+    return "\\n".join(f"<li>{esc(x)}</li>" for x in (items or []))
+
 
 def main():
     briefs = load_briefs()
@@ -74,8 +97,8 @@ def main():
             "headline": "Morning AI Brief",
             "one_liner": "生成AIの最新動向を、経営・メディア・ソリューション視点で整理します。",
             "items": [],
-            "asahi_insights": [],
-            "alfasado_insights": [],
+            "media_insights": [],
+            "solution_insights": [],
             "actions": [],
         }
 
@@ -83,19 +106,20 @@ def main():
     items = brief.get("items", [])[:6]
     if not items:
         items = [{
-            "title": "AI検索・AIエージェント・企業ナレッジ基盤が主要テーマに",
+            "title_jp": "AI検索・AIエージェント・企業ナレッジ基盤が主要テーマに",
+            "original_title": "AI search, AI agents and enterprise knowledge platforms",
             "summary": "生成AIはチャット利用から、検索、業務実行、社内外の知識活用へ広がっています。企業はAIが参照しやすい情報基盤を整える必要があります。",
             "source": "OpenAI News",
             "url": "https://openai.com/news/",
             "category": "AI動向",
             "importance_score": 80,
             "why": "AI活用の競争軸が、モデル選定から情報基盤・業務設計・運用体制へ移っているためです。",
-            "impact": ["AI検索に引用されやすい情報設計が重要になる","CMSやナレッジ基盤の価値が高まる","AI導入支援は継続運用モデルと相性がよい"],
+            "impact": ["AI検索に引用されやすい情報設計が重要になる", "CMSやナレッジ基盤の価値が高まる", "AI導入支援は継続運用モデルと相性がよい"],
         }]
 
     media_insights = brief.get("media_insights") or brief.get("asahi_insights") or [
         "AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。",
-        "記事をAIが理解しやすい構造に整えることが、流通面の競争力になります。",
+        "記事をAIが理解しやすい構造に整えることが、検索流入や読者接点の再設計につながります。",
         "著作権、学習データ、要約表示による流入変化は継続監視が必要です。",
     ]
     solution_insights = brief.get("solution_insights") or brief.get("alfasado_insights") or [
@@ -108,7 +132,8 @@ def main():
         "出典付きニュースカードを継続的にレビューする。",
         "AI-readyな情報基盤の提案項目を1つ追加する。",
     ]
-    cards_html = "\n".join(render_card(item) for item in items)
+
+    cards_html = "\\n".join(render_card(item) for item in items)
 
     html = f"""<!doctype html>
 <html lang="ja">
@@ -119,7 +144,7 @@ def main():
   <style>
     :root{{--ink:#0f172a;--muted:#64748b;--line:#dbe3ef;--blue:#0f62fe;--blue-soft:#eef6ff;--purple:#6d28d9;--purple-soft:#f5f0ff;--green:#059669;--bg:#f8fbff;--shadow:0 16px 40px rgba(15,23,42,.08)}}
     *{{box-sizing:border-box}} html{{scroll-behavior:smooth}}
-    body{{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.7}}
+    body{{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.75}}
     .wrap{{width:min(1180px,calc(100% - 40px));margin:0 auto;padding:28px 0 34px}}
     header{{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:26px}}
     h1{{margin:0;font-size:46px;line-height:1.05;letter-spacing:-.055em;color:#111936}}
@@ -140,7 +165,7 @@ def main():
     .source-box{{border:1px solid #d8e6fb;background:#f8fbff;border-radius:14px;padding:13px 15px;margin:14px 0}}
     .source-label{{font-size:12px;color:var(--muted);font-weight:900}} .source-title{{font-weight:900;margin-top:2px}}
     .source-url a{{color:var(--blue);font-weight:850;text-decoration:none;font-size:13px;word-break:break-all}}
-    .summary-block{{margin-top:14px}} .summary-block h4{{margin:0 0 4px;font-size:14px;color:#17233f}}
+    .summary-block{{margin-top:16px}} .summary-block h4{{margin:0 0 5px;font-size:14px;color:#17233f}}
     .summary-block p{{margin:0;color:#263248}} .summary-block ul{{margin:0;padding-left:1.2em;color:#263248}}
     .grid{{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}}
     .perspective.media{{border-color:#cfe1ff}} .perspective.solution{{border-color:#ddd3ff}}
@@ -159,12 +184,12 @@ def main():
 <body>
   <div class="wrap">
     <header>
-      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付きニュースカード版</div></div>
+      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付き解説カード版</div></div>
       <div class="meta"><span>{esc(today_label)}</span><small>毎朝7時更新</small></div>
     </header>
     <nav class="tabs" aria-label="ページ内ナビゲーション">
       <a class="tab active" href="#summary">今日のAI要約</a>
-      <a class="tab" href="#news">出典付きカード</a>
+      <a class="tab" href="#news">出典付き解説</a>
       <a class="tab" href="#perspectives">視点別示唆</a>
       <a class="tab" href="#actions">今日のアクション</a>
       <a class="tab" href="#links">参考リンク</a>
@@ -193,6 +218,7 @@ def main():
 </html>"""
     Path("public").mkdir(exist_ok=True)
     Path("public/index.html").write_text(html, encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()
