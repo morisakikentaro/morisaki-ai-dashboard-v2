@@ -1,164 +1,196 @@
 import json
 from pathlib import Path
 from html import escape
+from datetime import datetime, timedelta, timezone
 
-def score_class(score):
-    try:
-        score = int(score)
-    except Exception:
-        score = 0
-    if score >= 85:
-        return "high"
-    if score >= 70:
-        return "mid"
-    return "low"
+JST = timezone(timedelta(hours=9))
 
-def render_item(item):
-    title = escape(item.get("title", ""))
-    summary = escape(item.get("summary", ""))
-    quote = escape(item.get("quote", ""))
-    url = escape(item.get("url", ""))
-    source = escape(item.get("source", ""))
-    category = escape(item.get("category", ""))
-    score = item.get("importance_score", 0)
-    cls = score_class(score)
-    link = f'<a href="{url}" target="_blank" rel="noopener">{source or "記事を開く"}</a>' if url else source
+def esc(value):
+    return escape(str(value or ""))
+
+def load_briefs():
+    path = Path("data/briefs.json")
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+def normalize_item(item):
+    return {
+        "title": item.get("title", ""),
+        "summary": item.get("summary", ""),
+        "quote": item.get("quote", ""),
+        "url": item.get("url", ""),
+        "source": item.get("source", "記事を開く"),
+        "category": item.get("category", "AI動向"),
+        "importance_score": item.get("importance_score", ""),
+        "why": item.get("why", item.get("why_important", "経営・事業戦略に影響する可能性があるため、継続的に確認したいテーマです。")),
+        "impact": item.get("impact", item.get("business_impact", [])),
+    }
+
+def render_impacts(impact):
+    if isinstance(impact, str):
+        impact = [impact]
+    if not impact:
+        impact = [
+            "AI検索・AI活用を前提にした情報設計が重要になる",
+            "社内外のコンテンツを構造化し、AIが参照しやすくする必要がある",
+            "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる",
+        ]
+    return "\n".join(f"<li>{esc(x)}</li>" for x in impact[:4])
+
+def render_card(item):
+    item = normalize_item(item)
+    source_link = f'<a href="{esc(item["url"])}" target="_blank" rel="noopener">{esc(item["source"])}</a>' if item["url"] else esc(item["source"])
     return f"""
-    <article class="item">
-      <div class="item-head">
-        <div>
-          <div class="cat">{category}</div>
-          <h3>{title}</h3>
-          <p>{summary}</p>
+      <article class="news-card">
+        <div class="news-head">
+          <div>
+            <div class="category">{esc(item["category"])}</div>
+            <h3>{esc(item["title"])}</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>{esc(item["importance_score"])}</b></div>
         </div>
-        <div class="score {cls}"><span>重要度</span><b>{score}</b></div>
-      </div>
-      <div class="quote">{quote}</div>
-      <div class="source">出典・参考：{link}</div>
-    </article>
+        <div class="source-box">
+          <div class="source-label">出典</div>
+          <div class="source-title">{esc(item["title"])}</div>
+          <div class="source-url">{source_link}</div>
+        </div>
+        <div class="summary-block"><h4>3行要約</h4><p>{esc(item["summary"])}</p></div>
+        <div class="summary-block"><h4>なぜ重要か</h4><p>{esc(item["why"])}</p></div>
+        <div class="summary-block"><h4>経営インパクト</h4><ul>{render_impacts(item["impact"])}</ul></div>
+      </article>
     """
 
-def list_html(items):
-    return "".join(f"<li>{escape(str(x))}</li>" for x in items)
+def render_list(items):
+    return "\n".join(f"<li>{esc(x)}</li>" for x in (items or []))
 
 def main():
-    briefs = json.loads(Path("data/briefs.json").read_text(encoding="utf-8"))
-    dates = sorted(briefs.keys(), reverse=True)
-    latest = dates[0] if dates else ""
+    briefs = load_briefs()
+    if briefs:
+        latest_date = sorted(briefs.keys())[-1]
+        brief = briefs[latest_date]
+    else:
+        brief = {
+            "headline": "Morning AI Brief",
+            "one_liner": "生成AIの最新動向を、経営・メディア・ソリューション視点で整理します。",
+            "items": [],
+            "asahi_insights": [],
+            "alfasado_insights": [],
+            "actions": [],
+        }
 
-    data_json = json.dumps(briefs, ensure_ascii=False)
+    today_label = datetime.now(JST).strftime("%Y年%m月%d日")
+    items = brief.get("items", [])[:6]
+    if not items:
+        items = [{
+            "title": "AI検索・AIエージェント・企業ナレッジ基盤が主要テーマに",
+            "summary": "生成AIはチャット利用から、検索、業務実行、社内外の知識活用へ広がっています。企業はAIが参照しやすい情報基盤を整える必要があります。",
+            "source": "OpenAI News",
+            "url": "https://openai.com/news/",
+            "category": "AI動向",
+            "importance_score": 80,
+            "why": "AI活用の競争軸が、モデル選定から情報基盤・業務設計・運用体制へ移っているためです。",
+            "impact": ["AI検索に引用されやすい情報設計が重要になる","CMSやナレッジ基盤の価値が高まる","AI導入支援は継続運用モデルと相性がよい"],
+        }]
+
+    media_insights = brief.get("media_insights") or brief.get("asahi_insights") or [
+        "AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。",
+        "記事をAIが理解しやすい構造に整えることが、流通面の競争力になります。",
+        "著作権、学習データ、要約表示による流入変化は継続監視が必要です。",
+    ]
+    solution_insights = brief.get("solution_insights") or brief.get("alfasado_insights") or [
+        "CMSはWeb更新ツールから、AI-readyな企業知識基盤へ拡張できます。",
+        "RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。",
+        "顧客の社内ナレッジ整理は、生成AI導入の入口になります。",
+    ]
+    actions = brief.get("actions") or [
+        "AI検索・生成AI時代に必要なCMS要件を整理する。",
+        "出典付きニュースカードを継続的にレビューする。",
+        "AI-readyな情報基盤の提案項目を1つ追加する。",
+    ]
+    cards_html = "\n".join(render_card(item) for item in items)
 
     html = f"""<!doctype html>
 <html lang="ja">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>森崎さん専用 AI経営ダッシュボード</title>
-<style>
-:root{{--bg:#eef3fb;--panel:#fff;--ink:#0f172a;--muted:#64748b;--line:#d8e0ef;--blue:#1d4ed8;--green:#15803d;--orange:#ea580c;--red:#dc2626;--shadow:0 14px 40px rgba(15,23,42,.08)}}
-*{{box-sizing:border-box}}body{{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;color:var(--ink);background:radial-gradient(circle at top left,rgba(29,78,216,.15),transparent 34%),var(--bg)}}
-a{{color:var(--blue);font-weight:800;text-decoration:none}}a:hover{{text-decoration:underline}}
-.app{{display:grid;grid-template-columns:270px 1fr;min-height:100vh}}
-aside{{padding:22px;border-right:1px solid var(--line);background:rgba(255,255,255,.75);position:sticky;top:0;height:100vh}}
-.brand{{font-weight:950;font-size:22px;letter-spacing:-.04em;line-height:1.12;margin-bottom:4px}}.owner{{font-size:13px;color:var(--muted);font-weight:800;margin-bottom:22px}}
-select{{width:100%;border:1px solid var(--line);border-radius:12px;padding:10px;background:#fff;font-weight:800;margin-bottom:14px}}
-.nav button{{width:100%;text-align:left;border:0;border-radius:12px;padding:11px 12px;background:transparent;cursor:pointer;font-weight:850;color:#334155;margin:3px 0}}.nav button:hover{{background:#dbeafe;color:#1e40af}}
-.sidebox{{margin-top:18px;border:1px solid var(--line);border-radius:14px;padding:12px;background:#fff}}.sidebox h4{{margin:0 0 8px;font-size:13px;color:#334155}}
-.tag{{display:inline-block;font-size:12px;font-weight:850;border:1px solid #e2e8f0;background:#f8fafc;padding:5px 8px;border-radius:999px;margin:3px}}
-main{{padding:26px}}header{{display:flex;justify-content:space-between;gap:24px;align-items:flex-start;margin-bottom:18px}}
-.eyebrow{{font-size:13px;color:#1d4ed8;font-weight:950;letter-spacing:.06em}}h1{{font-size:42px;line-height:1;margin:4px 0 8px;letter-spacing:-.055em}}.subtitle{{color:#475569;font-weight:700}}
-.status{{display:grid;gap:8px;min-width:270px}}.pill{{border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 13px;font-size:13px;font-weight:850;box-shadow:0 8px 22px rgba(15,23,42,.04)}}
-.grid{{display:grid;grid-template-columns:1.2fr .8fr;gap:14px}}.panel{{background:var(--panel);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow);margin-bottom:14px}}
-.panel-title{{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 16px;border-bottom:1px solid var(--line);font-weight:950}}.panel-title small{{color:var(--muted);font-weight:800}}.body{{padding:16px}}
-.news{{display:grid;gap:12px}}.item{{border:1px solid #e5eaf3;border-radius:14px;padding:14px;background:#fff}}.item-head{{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}}.item h3{{margin:0 0 6px;font-size:18px;letter-spacing:-.02em}}.item p{{margin:7px 0;line-height:1.65}}.cat{{font-size:12px;color:#1d4ed8;font-weight:950;margin-bottom:4px}}
-.quote{{border-left:4px solid #93c5fd;background:#eff6ff;border-radius:10px;padding:10px 12px;font-weight:800;margin:9px 0}}.score{{min-width:76px;text-align:center;border-radius:12px;padding:8px;background:#f8fafc;border:1px solid #e2e8f0;font-weight:950}}.score b{{font-size:24px;display:block}}.high b{{color:var(--red)}}.mid b{{color:var(--orange)}}.low b{{color:var(--green)}}.source{{font-size:12px;color:var(--muted);font-weight:700}}
-ul{{line-height:1.7;margin:0;padding-left:1.2em}}textarea{{width:100%;min-height:150px;border:1px solid var(--line);border-radius:14px;padding:12px;font:inherit;line-height:1.6;resize:vertical;background:#fff}}.btn{{border:0;border-radius:12px;background:#1d4ed8;color:white;padding:10px 13px;font-weight:900;cursor:pointer;margin-top:8px}}
-@media(max-width:980px){{.app{{grid-template-columns:1fr}}aside{{position:relative;height:auto}}.grid{{grid-template-columns:1fr}}header{{display:block}}.status{{margin-top:14px}}h1{{font-size:34px}}}}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning AI Brief</title>
+  <style>
+    :root{{--ink:#0f172a;--muted:#64748b;--line:#dbe3ef;--blue:#0f62fe;--blue-soft:#eef6ff;--purple:#6d28d9;--purple-soft:#f5f0ff;--green:#059669;--bg:#f8fbff;--shadow:0 16px 40px rgba(15,23,42,.08)}}
+    *{{box-sizing:border-box}} html{{scroll-behavior:smooth}}
+    body{{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.7}}
+    .wrap{{width:min(1180px,calc(100% - 40px));margin:0 auto;padding:28px 0 34px}}
+    header{{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:26px}}
+    h1{{margin:0;font-size:46px;line-height:1.05;letter-spacing:-.055em;color:#111936}}
+    .subtitle{{margin-top:8px;color:#25324d;font-size:18px;font-weight:650}}
+    .meta{{text-align:right;color:#334155;font-weight:800;white-space:nowrap}} .meta small{{display:block;color:var(--muted);margin-top:4px;font-weight:750}}
+    .tabs{{display:flex;gap:10px;border-bottom:1px solid var(--line);margin-bottom:28px;overflow-x:auto}}
+    .tab{{color:#17233f;text-decoration:none;font-weight:900;padding:13px 14px 14px;border-bottom:3px solid transparent;white-space:nowrap}}
+    .tab:hover{{color:var(--blue)}} .tab.active{{color:var(--blue);border-color:var(--blue)}}
+    .panel,.news-card,.perspective,.actions{{background:rgba(255,255,255,.94);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:24px;margin-bottom:22px}}
+    .panel h2,.actions h2{{margin:0 0 12px;font-size:25px;line-height:1.35;letter-spacing:-.03em}}
+    .lead{{font-size:16px;color:#1f2937;margin:0;max-width:960px}}
+    .news-grid{{display:grid;grid-template-columns:1fr;gap:18px}}
+    .news-head{{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;margin-bottom:14px}}
+    .category{{display:inline-block;background:var(--blue-soft);color:var(--blue);font-size:12px;font-weight:950;padding:4px 9px;border-radius:999px;margin-bottom:8px}}
+    .news-card h3{{margin:0;font-size:22px;line-height:1.35;letter-spacing:-.03em}}
+    .score{{min-width:76px;text-align:center;border:1px solid #e2e8f0;background:#f8fafc;border-radius:14px;padding:8px;font-weight:900}}
+    .score span{{display:block;color:var(--muted);font-size:11px}} .score b{{display:block;color:#dc2626;font-size:26px;line-height:1.1}}
+    .source-box{{border:1px solid #d8e6fb;background:#f8fbff;border-radius:14px;padding:13px 15px;margin:14px 0}}
+    .source-label{{font-size:12px;color:var(--muted);font-weight:900}} .source-title{{font-weight:900;margin-top:2px}}
+    .source-url a{{color:var(--blue);font-weight:850;text-decoration:none;font-size:13px;word-break:break-all}}
+    .summary-block{{margin-top:14px}} .summary-block h4{{margin:0 0 4px;font-size:14px;color:#17233f}}
+    .summary-block p{{margin:0;color:#263248}} .summary-block ul{{margin:0;padding-left:1.2em;color:#263248}}
+    .grid{{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}}
+    .perspective.media{{border-color:#cfe1ff}} .perspective.solution{{border-color:#ddd3ff}}
+    .section-title{{display:flex;align-items:center;gap:12px;margin:0 0 18px;font-size:23px;letter-spacing:-.03em}}
+    .media .section-title{{color:var(--blue)}} .solution .section-title{{color:var(--purple)}}
+    .icon{{width:44px;height:44px;display:grid;place-items:center;border-radius:12px;flex:0 0 auto;font-size:23px}}
+    .media .icon{{background:var(--blue-soft)}} .solution .icon{{background:var(--purple-soft)}}
+    .perspective ul,.actions ul{{margin:0;padding-left:1.2em;color:#263248}}
+    .actions h2{{color:var(--green)}} .links{{display:grid;gap:10px}}
+    .link-card{{border:1px solid var(--line);border-radius:14px;background:#fff;padding:14px 16px}}
+    .link-card a{{color:var(--blue);font-weight:900;text-decoration:none}} .link-card p{{margin:4px 0 0;color:var(--muted);font-size:13px}}
+    .note{{color:var(--muted);font-size:13px;text-align:center;margin:22px 0 4px}}
+    @media(max-width:900px){{.wrap{{width:min(100% - 24px,1180px);padding-top:18px}}header{{display:block}}h1{{font-size:36px}}.meta{{text-align:left;margin-top:16px}}.grid{{grid-template-columns:1fr}}.panel,.perspective,.news-card,.actions{{padding:20px}}.news-head{{display:block}}.score{{margin-top:12px;width:86px}}}}
+  </style>
 </head>
 <body>
-<div class="app">
-<aside>
-  <div class="brand">森崎さん専用<br>AI経営ダッシュボード</div>
-  <div class="owner">Morning AI Brief / Auto Updated</div>
-  <select id="dateSelect" onchange="render(this.value)"></select>
-  <div class="nav">
-    <button onclick="scrollToId('news')">重要ニュース</button>
-    <button onclick="scrollToId('asahi')">朝日新聞社視点</button>
-    <button onclick="scrollToId('alfasado')">アルファサード視点</button>
-    <button onclick="scrollToId('actions')">経営アクション</button>
-    <button onclick="scrollToId('memo')">メモ</button>
-  </div>
-  <div class="sidebox"><h4>追跡テーマ</h4><span class="tag">AI検索</span><span class="tag">メディアDX</span><span class="tag">CMS</span><span class="tag">RAG</span><span class="tag">AIエージェント</span></div>
-</aside>
-<main>
-<header>
-  <div>
-    <div class="eyebrow">EXECUTIVE AI INTELLIGENCE</div>
-    <h1 id="headline">Morning AI Brief</h1>
-    <div class="subtitle" id="oneLiner"></div>
-  </div>
-  <div class="status">
-    <div class="pill" id="datePill"></div>
-    <div class="pill">⏱ 想定読了：5分</div>
-    <div class="pill">🎯 Focus：朝日新聞社 / アルファサード / 経営判断</div>
-  </div>
-</header>
-<div class="grid">
-  <div>
-    <section class="panel" id="news"><div class="panel-title">重要ニュース <small>クリック可能リンク付き</small></div><div class="body news" id="newsList"></div></section>
-  </div>
-  <div>
-    <section class="panel" id="asahi"><div class="panel-title">朝日新聞社視点</div><div class="body"><ul id="asahiList"></ul></div></section>
-    <section class="panel" id="alfasado"><div class="panel-title">アルファサード視点</div><div class="body"><ul id="alfasadoList"></ul></div></section>
-    <section class="panel" id="actions"><div class="panel-title">今日の経営アクション</div><div class="body"><ul id="actionList"></ul></div></section>
-    <section class="panel" id="memo"><div class="panel-title">森崎さんメモ <small>ブラウザ内保存</small></div><div class="body"><textarea id="memoText"></textarea><br><button class="btn" onclick="saveMemo()">保存</button></div></section>
-  </div>
-</div>
-</main>
-</div>
-<script>
-const briefs = {data_json};
-const dates = Object.keys(briefs).sort().reverse();
-const select = document.getElementById("dateSelect");
-dates.forEach(d => {{
-  const opt = document.createElement("option");
-  opt.value = d; opt.textContent = d;
-  select.appendChild(opt);
-}});
-function esc(s){{return String(s ?? "").replace(/[&<>"']/g,m=>({{"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","'":"&#039;"}}[m]));}}
-function scoreClass(score){{score=Number(score||0);return score>=85?"high":score>=70?"mid":"low";}}
-function render(dateKey){{
-  const b = briefs[dateKey];
-  document.getElementById("headline").textContent = b.headline || "Morning AI Brief";
-  document.getElementById("oneLiner").textContent = b.one_liner || "";
-  document.getElementById("datePill").textContent = "📅 " + dateKey;
-  document.getElementById("newsList").innerHTML = (b.items||[]).map(item => `
-    <article class="item">
-      <div class="item-head">
-        <div>
-          <div class="cat">${{esc(item.category)}}</div>
-          <h3>${{esc(item.title)}}</h3>
-          <p>${{esc(item.summary)}}</p>
-        </div>
-        <div class="score ${{scoreClass(item.importance_score)}}"><span>重要度</span><b>${{esc(item.importance_score)}}</b></div>
+  <div class="wrap">
+    <header>
+      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付きニュースカード版</div></div>
+      <div class="meta"><span>{esc(today_label)}</span><small>毎朝7時更新</small></div>
+    </header>
+    <nav class="tabs" aria-label="ページ内ナビゲーション">
+      <a class="tab active" href="#summary">今日のAI要約</a>
+      <a class="tab" href="#news">出典付きカード</a>
+      <a class="tab" href="#perspectives">視点別示唆</a>
+      <a class="tab" href="#actions">今日のアクション</a>
+      <a class="tab" href="#links">参考リンク</a>
+    </nav>
+    <section class="panel" id="summary">
+      <h2>{esc(brief.get("headline", "今日のAI要約"))}</h2>
+      <p class="lead">{esc(brief.get("one_liner", "生成AIの最新動向を、経営・メディア・ソリューション視点で整理します。"))}</p>
+    </section>
+    <section id="news" class="news-grid">{cards_html}</section>
+    <section class="grid" id="perspectives">
+      <div class="perspective media"><h2 class="section-title"><span class="icon">▤</span>視点A：メディア視点</h2><ul>{render_list(media_insights)}</ul></div>
+      <div class="perspective solution"><h2 class="section-title"><span class="icon">△</span>視点B：ソリューション視点</h2><ul>{render_list(solution_insights)}</ul></div>
+    </section>
+    <section class="actions" id="actions"><h2>今日のアクション提案</h2><ul>{render_list(actions)}</ul></section>
+    <section class="panel" id="links">
+      <h2>参考リンク</h2>
+      <div class="links">
+        <div class="link-card"><a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><p>AIモデル、プロダクト、エージェント関連の公式アップデート。</p></div>
+        <div class="link-card"><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI Blog</a><p>検索、AIプロダクト、研究開発に関する発表。</p></div>
+        <div class="link-card"><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a><p>Claude、AI安全性、エンタープライズ活用の最新情報。</p></div>
       </div>
-      <div class="quote">${{esc(item.quote)}}</div>
-      <div class="source">出典・参考：<a href="${{esc(item.url)}}" target="_blank" rel="noopener">${{esc(item.source || "記事を開く")}}</a></div>
-    </article>
-  `).join("");
-  document.getElementById("asahiList").innerHTML = (b.asahi_insights||[]).map(x=>`<li>${{esc(x)}}</li>`).join("");
-  document.getElementById("alfasadoList").innerHTML = (b.alfasado_insights||[]).map(x=>`<li>${{esc(x)}}</li>`).join("");
-  document.getElementById("actionList").innerHTML = (b.actions||[]).map(x=>`<li>${{esc(x)}}</li>`).join("");
-  document.getElementById("memoText").value = localStorage.getItem("memo-"+dateKey) || "";
-}}
-function scrollToId(id){{document.getElementById(id).scrollIntoView({{behavior:"smooth",block:"start"}})}}
-function saveMemo(){{localStorage.setItem("memo-"+select.value, document.getElementById("memoText").value);}}
-render(dates[0] || "{latest}");
-</script>
+    </section>
+    <p class="note">本レポートは公開情報を基にAIが生成した要約です。投資判断・経営判断はご自身の責任で行ってください。</p>
+  </div>
 </body>
 </html>"""
-
     Path("public").mkdir(exist_ok=True)
     Path("public/index.html").write_text(html, encoding="utf-8")
 
