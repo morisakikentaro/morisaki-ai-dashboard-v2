@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T13:34:26.029313+00:00",
+  "generated_at": "2026-05-18T13:58:12.316565+00:00",
   "articles": [
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -198,6 +198,13 @@
       "source": "The Microsoft Cloud Blog"
     },
     {
+      "title": "Here’s a new database for local news research, from Syracuse University and Rebuild Local News",
+      "url": "https://www.niemanlab.org/2026/05/heres-a-new-database-for-local-news-research-from-syracuse-university-and-rebuild-local-news/",
+      "summary": "If you&#8217;re trying to get a handle on evidence from academic research about the state of local news, it&#8217;s hard to know where to start. The research is scattered — across disciplines from political science to economics to computer science; across universities; across paywalled journals. To some extent, it&#8217;s part of the academic job description...",
+      "published": "Mon, 18 May 2026 13:45:58 +0000",
+      "source": "Nieman Lab"
+    },
+    {
       "title": "Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says",
       "url": "https://www.niemanlab.org/2026/05/creator-journalisms-rise-is-the-most-disruptive-shift-the-news-industry-has-seen-ex-bbc-news-head-says/",
       "summary": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consumers moving to different platforms,&#8221; Turness,...",
@@ -272,13 +279,6 @@
       "url": "https://www.niemanlab.org/2026/05/semafors-new-ai-tool-helped-boil-down-its-entire-flagship-conference-into-nine-takeaways/",
       "summary": "On April 13, more than 500 CEOs and other power brokers gathered in Washington, D.C. to join Semafor World Economy. Across the five-day event, hundreds of speakers took the stage, including Goldman Sachs President John Waldron, Singapore’s Deputy Prime Minister Gan Kim Yong, and nine sitting U.S. cabinet officials. In the weeks since the event...",
       "published": "Thu, 07 May 2026 21:00:46 +0000",
-      "source": "Nieman Lab"
-    },
-    {
-      "title": "News podcasts are, increasingly, something you watch (but The Daily still works best as audio)",
-      "url": "https://www.niemanlab.org/2026/05/news-podcasts-are-increasingly-something-you-watch-but-the-daily-still-works-best-as-audio/",
-      "summary": "Large publishers see video as one big future for podcasts, according to a report out Thursday from the Reuters Institute for the Study of Journalism (RISJ). They&#8217;re certainly not abandoning audio, but they&#8217;re aware that many young people hear &#8220;podcast&#8221; and think &#8220;YouTube.&#8221; &#8220;The discovery mechanisms for video are much better. Video as a medium...",
-      "published": "Thu, 07 May 2026 16:24:32 +0000",
       "source": "Nieman Lab"
     }
   ]
