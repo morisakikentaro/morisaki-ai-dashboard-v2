@@ -79,15 +79,16 @@
   "2026-05-18": {
     "date": "2026-05-18",
     "headline": "生成AIは検索・実行・知識基盤へ",
-    "one_liner": "AIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。",
+    "one_liner": "生成AIは、単なるチャットツールから、検索、業務実行、企業ナレッジ活用の基盤へ広がっています。これからはAIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。",
     "items": [
       {
-        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "企業向けストレージベンダのCEO、半導体部品の調達コストが4倍から10倍に急騰していると説明。製品価格を70％値上げ、今後さらなる値上げも",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/ceo41070.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",
@@ -97,12 +98,13 @@
         "importance_score": 70
       },
       {
-        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/databricks",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",
@@ -112,12 +114,13 @@
         "importance_score": 70
       },
       {
-        "title": "A new personal finance experience in ChatGPT",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",
@@ -127,12 +130,13 @@
         "importance_score": 70
       },
       {
-        "title": "Sea's View on the Future of Agentic Software Development with Codex",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/sea-david-chen",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に。2026年第1四半期、Synergy Research",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",
@@ -142,12 +146,13 @@
         "importance_score": 70
       },
       {
-        "title": "Work with Codex from anywhere",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/work-with-codex-from-anywhere",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "AnthropicがAWS上で提供する「Claude Platform on AWS」正式リリース。Claudeの新機能を含むフルセットをAWSで提供",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",
@@ -157,12 +162,13 @@
         "importance_score": 70
       },
       {
-        "title": "Helping ChatGPT better recognize context in sensitive conversations",
-        "source": "OpenAI News",
-        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+        "title_jp": "生成AI・AI活用に関する注目動向",
+        "original_title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
+        "source": "Publickey",
+        "url": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
         "category": "AI動向",
-        "summary": "生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。",
-        "why": "AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。",
+        "summary": "この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。",
+        "why": "AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。",
         "impact": [
           "AI検索に引用されやすい情報設計が重要になる",
           "社内外のコンテンツを構造化する必要が高まる",

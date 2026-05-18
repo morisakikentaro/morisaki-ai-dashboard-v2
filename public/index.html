@@ -7,7 +7,7 @@
   <style>
     :root{--ink:#0f172a;--muted:#64748b;--line:#dbe3ef;--blue:#0f62fe;--blue-soft:#eef6ff;--purple:#6d28d9;--purple-soft:#f5f0ff;--green:#059669;--bg:#f8fbff;--shadow:0 16px 40px rgba(15,23,42,.08)}
     *{box-sizing:border-box} html{scroll-behavior:smooth}
-    body{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.7}
+    body{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.75}
     .wrap{width:min(1180px,calc(100% - 40px));margin:0 auto;padding:28px 0 34px}
     header{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:26px}
     h1{margin:0;font-size:46px;line-height:1.05;letter-spacing:-.055em;color:#111936}
@@ -28,7 +28,7 @@
     .source-box{border:1px solid #d8e6fb;background:#f8fbff;border-radius:14px;padding:13px 15px;margin:14px 0}
     .source-label{font-size:12px;color:var(--muted);font-weight:900} .source-title{font-weight:900;margin-top:2px}
     .source-url a{color:var(--blue);font-weight:850;text-decoration:none;font-size:13px;word-break:break-all}
-    .summary-block{margin-top:14px} .summary-block h4{margin:0 0 4px;font-size:14px;color:#17233f}
+    .summary-block{margin-top:16px} .summary-block h4{margin:0 0 5px;font-size:14px;color:#17233f}
     .summary-block p{margin:0;color:#263248} .summary-block ul{margin:0;padding-left:1.2em;color:#263248}
     .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}
     .perspective.media{border-color:#cfe1ff} .perspective.solution{border-color:#ddd3ff}
@@ -47,157 +47,212 @@
 <body>
   <div class="wrap">
     <header>
-      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付きニュースカード版</div></div>
+      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付き解説カード版</div></div>
       <div class="meta"><span>2026年05月18日</span><small>毎朝7時更新</small></div>
     </header>
     <nav class="tabs" aria-label="ページ内ナビゲーション">
       <a class="tab active" href="#summary">今日のAI要約</a>
-      <a class="tab" href="#news">出典付きカード</a>
+      <a class="tab" href="#news">出典付き解説</a>
       <a class="tab" href="#perspectives">視点別示唆</a>
       <a class="tab" href="#actions">今日のアクション</a>
       <a class="tab" href="#links">参考リンク</a>
     </nav>
     <section class="panel" id="summary">
       <h2>生成AIは検索・実行・知識基盤へ</h2>
-      <p class="lead">AIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。</p>
+      <p class="lead">生成AIは、単なるチャットツールから、検索、業務実行、企業ナレッジ活用の基盤へ広がっています。これからはAIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。</p>
     </section>
     <section id="news" class="news-grid">
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">OpenAI and Malta partner to bring ChatGPT Plus to all citizens</div>
-          <div class="source-url"><a href="https://openai.com/index/malta-chatgpt-plus-partnership" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">企業向けストレージベンダのCEO、半導体部品の調達コストが4倍から10倍に急騰していると説明。製品価格を70％値上げ、今後さらなる値上げも</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/ceo41070.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
-      </article>
-    
 
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
+      </article>
+    \n
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>Databricks brings GPT-5.5 to enterprise agent workflows</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">Databricks brings GPT-5.5 to enterprise agent workflows</div>
-          <div class="source-url"><a href="https://openai.com/index/databricks" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/aized_10atomrust.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
-      </article>
-    
 
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
+      </article>
+    \n
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>A new personal finance experience in ChatGPT</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">A new personal finance experience in ChatGPT</div>
-          <div class="source-url"><a href="https://openai.com/index/personal-finance-chatgpt" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
-      </article>
-    
 
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
+      </article>
+    \n
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>Sea&#x27;s View on the Future of Agentic Software Development with Codex</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">Sea&#x27;s View on the Future of Agentic Software Development with Codex</div>
-          <div class="source-url"><a href="https://openai.com/index/sea-david-chen" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に。2026年第1四半期、Synergy Research</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
-      </article>
-    
 
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
+      </article>
+    \n
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>Work with Codex from anywhere</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">Work with Codex from anywhere</div>
-          <div class="source-url"><a href="https://openai.com/index/work-with-codex-from-anywhere" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">AnthropicがAWS上で提供する「Claude Platform on AWS」正式リリース。Claudeの新機能を含むフルセットをAWSで提供</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
-      </article>
-    
 
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
+      </article>
+    \n
       <article class="news-card">
         <div class="news-head">
           <div>
             <div class="category">AI動向</div>
-            <h3>Helping ChatGPT better recognize context in sensitive conversations</h3>
+            <h3>生成AI・AI活用に関する注目動向</h3>
           </div>
           <div class="score"><span>重要度</span><b>70</b></div>
         </div>
+
         <div class="source-box">
           <div class="source-label">出典</div>
-          <div class="source-title">Helping ChatGPT better recognize context in sensitive conversations</div>
-          <div class="source-url"><a href="https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations" target="_blank" rel="noopener">OpenAI News</a></div>
+          <div class="source-title">AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達</div>
+          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/aipythonmojo.html" target="_blank" rel="noopener">Publickey</a></div>
         </div>
-        <div class="summary-block"><h4>3行要約</h4><p>生成AI、AI検索、またはエンタープライズAIに関連する注目記事です。企業の情報発信、業務設計、ナレッジ活用への影響を確認する価値があります。</p></div>
-        <div class="summary-block"><h4>なぜ重要か</h4><p>AI活用の競争軸が、ツール導入から情報基盤・業務プロセス・運用体制へ移っているためです。</p></div>
-        <div class="summary-block"><h4>経営インパクト</h4><ul><li>AI検索に引用されやすい情報設計が重要になる</li>
-<li>社内外のコンテンツを構造化する必要が高まる</li>
-<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul></div>
+
+        <div class="summary-block">
+          <h4>何が起きているか</h4>
+          <p>この記事は、生成AI、AI検索、エンタープライズAI、または企業のAI活用に関連する動向を扱っています。詳細な本文取得やAI要約に失敗した場合でも、経営者としては、情報発信、業務設計、ナレッジ活用、AIガバナンスへの影響を確認する価値があります。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>なぜ重要か</h4>
+          <p>AI活用の競争軸が、単なるツール導入から、情報基盤、業務プロセス、運用体制、リスク管理へ移っているためです。</p>
+        </div>
+
+        <div class="summary-block">
+          <h4>経営インパクト</h4>
+          <ul><li>AI検索に引用されやすい情報設計が重要になる</li>\n<li>社内外のコンテンツを構造化する必要が高まる</li>\n<li>AI活用支援は単発導入より継続運用モデルと相性がよい</li></ul>
+        </div>
       </article>
     </section>
     <section class="grid" id="perspectives">
-      <div class="perspective media"><h2 class="section-title"><span class="icon">▤</span>視点A：メディア視点</h2><ul><li>AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。</li>
-<li>記事をAIが理解しやすい構造に整えることが、検索流入や読者接点の再設計につながります。</li>
-<li>著作権、学習データ、要約表示による流入変化は継続監視が必要です。</li></ul></div>
-      <div class="perspective solution"><h2 class="section-title"><span class="icon">△</span>視点B：ソリューション視点</h2><ul><li>CMSはWeb更新ツールから、AI-readyな企業知識基盤へ拡張できます。</li>
-<li>RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。</li>
-<li>顧客の社内ナレッジ整理は、生成AI導入の入口として提案しやすい領域です。</li></ul></div>
+      <div class="perspective media"><h2 class="section-title"><span class="icon">▤</span>視点A：メディア視点</h2><ul><li>AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。</li>\n<li>記事をAIが理解しやすい構造に整えることが、検索流入や読者接点の再設計につながります。</li>\n<li>著作権、学習データ、要約表示による流入変化は継続監視が必要です。</li></ul></div>
+      <div class="perspective solution"><h2 class="section-title"><span class="icon">△</span>視点B：ソリューション視点</h2><ul><li>CMSはWeb更新ツールから、AI-readyな企業知識基盤へ拡張できます。</li>\n<li>RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。</li>\n<li>顧客の社内ナレッジ整理は、生成AI導入の入口として提案しやすい領域です。</li></ul></div>
     </section>
-    <section class="actions" id="actions"><h2>今日のアクション提案</h2><ul><li>AI検索・生成AI時代に必要なCMS要件を整理する。</li>
-<li>出典付きニュースカードを継続的にレビューする。</li>
-<li>AI-readyな情報基盤の提案項目を1つ追加する。</li></ul></section>
+    <section class="actions" id="actions"><h2>今日のアクション提案</h2><ul><li>AI検索・生成AI時代に必要なCMS要件を整理する。</li>\n<li>出典付きニュースカードを継続的にレビューする。</li>\n<li>AI-readyな情報基盤の提案項目を1つ追加する。</li></ul></section>
     <section class="panel" id="links">
       <h2>参考リンク</h2>
       <div class="links">

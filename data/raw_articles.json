@@ -1,285 +1,405 @@
 {
-  "generated_at": "2026-05-18T13:58:12.316565+00:00",
+  "generated_at": "2026-05-18T14:19:44.013561+00:00",
   "articles": [
     {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "published": "Sat, 16 May 2026 00:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "企業向けストレージベンダのCEO、半導体部品の調達コストが4倍から10倍に急騰していると説明。製品価格を70％値上げ、今後さらなる値上げも",
+      "url": "https://www.publickey1.jp/blog/26/ceo41070.html",
+      "summary": "エンタープライズ向けストレージベンダとして知られるEverpure（旧Pure Storage）の会長兼CEOであるチャールズ・ジャンカルロ（Charles Giancarlo)氏は、4月23日付けで公開した同社のブログ「サプライチェーンの...",
+      "published": "2026-05-10T15:07:24Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
+      "url": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
+      "summary": "Rust製の高速コードエディタ「Zed」を開発しているZed Industries社は、Zedがバージョン1.0に到達したことを発表しました。Windows、Mac、Linuxで利用可能です。 We've shipped more ...",
+      "published": "2026-05-11T15:05:37Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "summary": "Node.js互換のJavaScriptランタイムであるBunの作者Jarred Sumner氏は、これまでZig言語で開発してきたBunの開発言語を、Rust言語へ移行する作業を進めていることを明らかにしています。 移行にはClaudeを...",
+      "published": "2026-05-11T15:08:46Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "published": "Thu, 14 May 2026 20:30:00 GMT",
-      "source": "OpenAI News"
+      "title": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に。2026年第1四半期、Synergy Research",
+      "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+      "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第1四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
+      "published": "2026-05-12T15:36:30Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "published": "Thu, 14 May 2026 13:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "AnthropicがAWS上で提供する「Claude Platform on AWS」正式リリース。Claudeの新機能を含むフルセットをAWSで提供",
+      "url": "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
+      "summary": "Amazon Web Services（AWS）とAnthropicは、AWS上でAnthropicが運営しClaudeのフル機能を提供する「Claude Platform on AWS」の正式リリースを発表しました（AWSの発表、Anth...",
+      "published": "2026-05-12T15:38:50Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "published": "Thu, 14 May 2026 00:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
+      "url": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
+      "summary": "Modular社は、AIを高速に実行することを目指したPythonライクな新言語「Mojo」のベータ版公開を発表しました。今後数カ月以内に正式版が登場する予定です。 Mojo 1.0 is in beta! Beta 1 marks th...",
+      "published": "2026-05-13T15:48:40Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-      "published": "Wed, 13 May 2026 11:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+      "summary": "Visual Studio Code（以下、VS Code）の開発チームは、VS Codeで複数のAIエージェントを用いた開発を容易にする新機能「Agent window」を5月13日に公開されたVisual Studio Code 1.1...",
+      "published": "2026-05-14T15:13:08Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "published": "Wed, 13 May 2026 00:00:00 GMT",
-      "source": "OpenAI News"
+      "title": "ソニーの新フラッグシップスマホ「Xperia 1 VIII」の実機に触れた",
+      "url": "https://japan.cnet.com/article/35247590/",
+      "summary": "ソニーが6月11日に発売するフラッグシップスマートフォン「Xperia 1 VIII」は、シーンに応じて撮影表現を提案する「AIカメラアシスタント」、約4倍に大型化した望遠センサー、左右同一ユニットのステレオスピーカーを搭載する。体験会で各機能を試した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247590/\"><img src=\"https://japan.cnet.com/storage/2026/05/15/8ffb2bf65010efc1ae801dae21384aca/t/184/138/d/01.jpg\" /></a>",
+      "published": "2026-05-16T06:52:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "summary": "A screenshot of the AI-powered experience on Google Finance.",
-      "published": "Mon, 11 May 2026 06:00:00 +0000",
-      "source": "AI"
+      "title": "AWS、Oracle Cloudと閉域網で直結する「AWS Interconnect - multicloud」新機能をプレビュー。Google Cloudとの接続に続き",
+      "url": "https://www.publickey1.jp/blog/26/awsoracle_cloudaws_interconnect_-_multicloudgoogle_cloud.html",
+      "summary": "AWSは、Oracle Cloudと閉域網で直接接続する「AWS Interconnect - multicloud」の新機能をプレビュー公開しました。 AWS Interconnect - multicloudは、Amazon VPCやA...",
+      "published": "2026-05-17T15:55:59Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-      "published": "Fri, 08 May 2026 15:00:00 +0000",
-      "source": "AI"
+      "title": "「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ",
+      "url": "https://japan.cnet.com/article/35247615/",
+      "summary": "「Android 16」に新たな脆弱性の可能性が浮上。アプリがVPNの設定を無視して、IPアドレスを含む通信情報を外部に送ってしまうというもので、「常時オン」のVPNでも回避できないという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247615/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/a5804bf4152e7cdf49668de82d17a9c2/t/184/138/d/shutterstock-vpn-android.jpeg\" /></a>",
+      "published": "2026-05-18T08:09:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-      "published": "Wed, 06 May 2026 16:00:00 +0000",
-      "source": "AI"
+      "title": "Gmailの無料容量、新規アカウントは15GB→5GBに縮小か グーグルがテスト中",
+      "url": "https://japan.cnet.com/article/35247616/",
+      "summary": "グーグルが、新規のGmailアカウントに付与する無料ストレージを、従来の15GBから5GBへと大幅に縮小する可能性があると報じられた。5GBから増やすには、電話番号をグーグルに登録する必要があるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247616/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/83d0e3ffeef9d0f92ff10d9bc8d0429d/t/184/138/d/google-gmail-email-2136.jpeg\" /></a>",
+      "published": "2026-05-18T08:19:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "published": "Tue, 05 May 2026 16:00:00 +0000",
-      "source": "AI"
+      "title": "ChatGPTに「マネフォ」のような家計簿機能 米国で先行提供",
+      "url": "https://japan.cnet.com/article/35247617/",
+      "summary": "OpenAIは5月15日、ChatGPTに個人の金融口座を連携できる新機能のプレビュー提供を開始した。対象は米国のChatGPT Proユーザーで、WebとiOSから利用できる。連携は1万2000以上の金融機関に対応する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247617/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/7d0a6be4b1acf633f0e902f18ec8a4bf/t/184/138/d/2026-05-18_8.46の画像__2_.jpeg\" /></a>",
+      "published": "2026-05-18T09:05:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
-      "published": "Mon, 04 May 2026 17:00:00 +0000",
-      "source": "AI"
+      "title": "「PayPay引落未完」などのSMSに要注意 記載URLを絶対にクリックしないで",
+      "url": "https://japan.cnet.com/article/35247618/",
+      "summary": "PayPayは5月15日、「クレジットカードの請求や通信料金、税金などが未払い・未納である」とするSMSやメールを送り、PayPayアプリで残高を送らせようとする手口が確認されているとして、注意を呼びかけた。編集部員のスマートフォンにも、PayPayを装って「引落未完了」とするSMSが届いていた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247618/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/985b2b54d2f4a7aebc2bd78e63b2eb10/t/184/138/d/2026-05-18_9.07の画像.jpg\" /></a>",
+      "published": "2026-05-18T09:40:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "summary": "Gemini API",
-      "published": "Mon, 04 May 2026 15:30:00 +0000",
-      "source": "AI"
+      "title": "名門プリンストン大学が133年守り続けた伝統を廃止、AIカンニング横行で",
+      "url": "https://japan.cnet.com/article/35247619/",
+      "summary": "プリンストン大学の学生は、1800年代後半以来の経験をすることになる。それは、試験中に監視を受けるというものだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247619/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/d2539377f680289730c26eda0784f894/t/184/138/d/princeton-university_1280x960.jpg\" /></a>",
+      "published": "2026-05-18T09:50:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "summary": "A web next to a laptop",
-      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "source": "AI"
+      "title": "手ぶらで玄関解錠、SwitchBot新型スマートロックは顔認証と静脈認証に対応",
+      "url": "https://japan.cnet.com/article/35247623/",
+      "summary": "SwitchBotが発表した新製品「Lock Vision」（170ドル）と「Lock Vision Pro」（230ドル）は、3D構造化光による顔認証技術を採用しており、すばやく簡単に解錠できるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247623/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/1305fe7c75032ea7add2c681f6d4b021/t/184/138/d/lock-vision-pro-facial-recognition_1280x960.jpg\" /></a>",
+      "published": "2026-05-18T11:42:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
-      "published": "Fri, 24 Apr 2026 19:00:00 +0000",
-      "source": "AI"
+      "title": "モトローラ折りたたみスマホ「Razr Fold」レビュー サムスンとGoogleを脅かす実力あり",
+      "url": "https://japan.cnet.com/article/35247587/",
+      "summary": "筆者はこれまで、折りたたみスマートフォンの熱心なファンというわけではなかった。悪くはないが、その魅力をいまひとつ理解しきれずにいた。従来の板状スマホより本当に優れているのかと疑っていた。だが、その考えが変わり始めている。ここ数週間、モトローラの最新フラッグシップ「2026年版Razr Fold」を試してきたが、率直に感心させられた。自分で買おうかと、少し心が動いているほどだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247587/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/556325aba58f1a5f4d4d92ee1ad000fb/t/184/138/d/motorola-2026-razr-fold-image-3.jpeg\" /></a>",
+      "published": "2026-05-18T14:02:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "source": "AI"
+      "title": "Amazon、麻布台ヒルズに新オフィス 34〜44階に入居",
+      "url": "https://japan.cnet.com/article/35247630/",
+      "summary": "アマゾンジャパンとアマゾン ウェブ サービス ジャパン（AWSジャパン）は5月18日、東京都港区の麻布台ヒルズに新オフィスを開設したと発表した。同日からAWSジャパンのチームが入居を開始し、2026年内にはアマゾンジャパンの複数のチームも移転する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247630/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/026b1f33b73c672c57af9551723a1b04/t/184/138/d/4612-2131-16cedf41ac790b9d49ac6152d0fff22c-3900x2273.jpeg\" /></a>",
+      "published": "2026-05-18T14:20:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "published": "Wed, 22 Apr 2026 12:00:00 +0000",
-      "source": "AI"
+      "title": "画面なしトラッカー「Fitbit Air」がグーグル新型スマートグラスの強力な武器になる理由",
+      "url": "https://japan.cnet.com/article/35247632/",
+      "summary": "グーグルの新型トラッカー「Fitbit Air」を試していると、これが同社の次期スマートグラスにとって決定的なパートナーになるのではないかと思えてくる。きっとそうなるだろう。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247632/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/8c3bb0f3f549012f74be190ed844b058/t/184/138/d/image-17_1280x960.jpg\" /></a>",
+      "published": "2026-05-18T15:20:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
-      "summary": "<p>AI is no longer a question of possibility—it’s a question of readiness. </p>\n<p>Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/\">From AI ambition to Frontier Transformation: Readiness defines the leaders</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 14 May 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "災害時に被災地へモバイルバッテリーを供給へ 携帯4社らとメーカー7社がタッグ",
+      "url": "https://japan.cnet.com/article/35247633/",
+      "summary": "モバイルバッテリーメーカー7社と通信事業者4社は、大規模災害発生時における被災地への電源確保に関する連携協定を締結した。メーカー各社が調達・提供するモバイルバッテリーや充電ケーブルなどの電源機材を、通信事業者が被災地の要望や被災状況に応じて避難所などに配送する。取り組みは2026年6月1日に開始する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247633/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/50aac53ed1c122c815ad215474a4172f/t/184/138/d/012221.jpeg\" /></a>",
+      "published": "2026-05-18T15:30:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Your AI steering committee’s 2026 checklist: Sovereignty",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
-      "summary": "<p>As organizations scale AI, one question keeps coming up in AI steering committee conversations: Can we move fast without losing control? That tension shows up most clearly when AI systems cross borders—touching sensitive data, operating under different regulations, and supporting teams around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/\">Your AI steering committee’s 2026 checklist: Sovereignty </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 07 May 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
+      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
+      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "published": "2026-05-18T15:49:20Z",
+      "source": "Publickey",
+      "source_group": "japan"
     },
     {
-      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
-      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-      "summary": "<p>Spend time with any software engineering team right now and you’ll see something worth paying attention to. Over the last few years, the way software gets built has moved through four distinct patterns of human-agent collaboration—and the same patterns are beginning to show up across other functions of the firm.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/\">How Frontier Firms are rebuilding the operating model for the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Tue, 05 May 2026 16:57:48 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "部屋中どこでも「あなたがいる方」へ風を送る扇風機、ダイソンから登場",
+      "url": "https://japan.cnet.com/article/35247645/",
+      "summary": "ダイソンの新製品「Dyson Find+Follow Purifier Cool」は、羽根のない扇風機と空気清浄機を組み合わせ、AIを使って室内の人がいる場所へ清浄な空気を送り出す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247645/\"><img src=\"https://japan.cnet.com/storage/2026/05/18/4afcd7c057c65006254efbab03287ff6/t/184/138/d/438n-web-pdp-gallery-4_1280x960.jpg\" /></a>",
+      "published": "2026-05-18T18:14:00+09:00",
+      "source": "CNET Japan",
+      "source_group": "japan"
     },
     {
-      "title": "Cricket Australia uses AI Insights to bring fans closer to the action",
-      "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/",
-      "summary": "<p>When England and Australia faced off on Day 5 of the fifth Test of the always tense Ashes cricket series in January, every ball bowled and solid crack had fans on the edge of their seats both at the Sydney Cricket Ground and around the globe.</p>\n<p>The post <a href=\"https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/\">Cricket Australia uses AI Insights to bring fans closer to the action</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 23 Apr 2026 16:26:11 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "テンプレート、RAG、管理機能など法人ユースを想定したIBM i向けの生成AIソリューション ～ベル・データ ｜特集 生成AIとIBM i 7社の取り組み - アイマガジン",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IaFl5N211b3FOdHlqMjFPTlNDUDFMemJnUDFTRGtMQ21IR0ZOTnpJbFRRMzREMV9HYTd2dENTZkFoS2k4b0Nqd2NIRUVpZXJEMGhXdER3VHlySV9CYV9OQU1NdUo2aXM0VEQxbWp3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9IaFl5N211b3FOdHlqMjFPTlNDUDFMemJnUDFTRGtMQ21IR0ZOTnpJbFRRMzREMV9HYTd2dENTZkFoS2k4b0Nqd2NIRUVpZXJEMGhXdER3VHlySV9CYV9OQU1NdUo2aXM0VEQxbWp3?oc=5\" target=\"_blank\">テンプレート、RAG、管理機能など法人ユースを想定したIBM i向けの生成AIソリューション ～ベル・データ ｜特集 生成AIとIBM i 7社の取り組み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アイマガジン</font>",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "source": "Google News JP: CMS AI RAG ナレッジ",
+      "source_group": "japan"
     },
     {
-      "title": "Your AI steering committee’s 2026 checklist: Observability",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
-      "summary": "<p>AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/\">Your AI steering committee&#8217;s 2026 checklist: Observability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "生成系AIの技術を駆使し、保険業界向けのナレッジベースを構築した結心会が、ChatGPTに匹敵するAIをリリース！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTl9mSFQ1ajZaRVNOTmN5cUR5WHZwckYwR2VVT1pBdXBCckJDbkliQ2xSSXIwdmpFQkp3V1Q1cmJqdGNWMGl2RndYcGpGV1V5SmIybjRRczMyUjZEajFLMVEtZllCaXR6emc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTl9mSFQ1ajZaRVNOTmN5cUR5WHZwckYwR2VVT1pBdXBCckJDbkliQ2xSSXIwdmpFQkp3V1Q1cmJqdGNWMGl2RndYcGpGV1V5SmIybjRRczMyUjZEajFLMVEtZllCaXR6emc?oc=5\" target=\"_blank\">生成系AIの技術を駆使し、保険業界向けのナレッジベースを構築した結心会が、ChatGPTに匹敵するAIをリリース！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "published": "Fri, 06 Oct 2023 07:00:00 GMT",
+      "source": "Google News JP: CMS AI RAG ナレッジ",
+      "source_group": "japan"
     },
     {
-      "title": "Frontier Transformation is powering growth and innovation across industries",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/15/frontier-transformation-is-powering-growth-and-innovation-across-industries/",
-      "summary": "<p>Across industries, we are witnessing a fundamental shift. At Microsoft, we're seeing this shift play out firsthand as we work with thousands of organizations. This post is the first in a series on industry Frontier Transformation exploring how AI is driving growth and reshaping innovation across various industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/15/frontier-transformation-is-powering-growth-and-innovation-across-industries/\">Frontier Transformation is powering growth and innovation across industries</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Wed, 15 Apr 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "日本の生成AI利用率は低調！？海外企業の利用促進の取り組みとは？ - クロス・マーケティング",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4UWhRaF9QanktbDRYbkVhdTduN2Y3VmFiWmNPOEk0YlVQX0FBNmdyb1J0S2VVMDN0NnlUR0NuOV94M0p1LXRRZXJsbjB2dmMtbEZfLUllNU5XNE9FY1dyQjRwc1JaZEtWeGpUeU9zZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA4UWhRaF9QanktbDRYbkVhdTduN2Y3VmFiWmNPOEk0YlVQX0FBNmdyb1J0S2VVMDN0NnlUR0NuOV94M0p1LXRRZXJsbjB2dmMtbEZfLUllNU5XNE9FY1dyQjRwc1JaZEtWeGpUeU9zZw?oc=5\" target=\"_blank\">日本の生成AI利用率は低調！？海外企業の利用促進の取り組みとは？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">クロス・マーケティング</font>",
+      "published": "Fri, 07 Nov 2025 08:00:00 GMT",
+      "source": "Google News JP: 生成AI 企業 導入",
+      "source_group": "japan"
     },
     {
-      "title": "The New York Jets are happy to have a ‘Titan’ in their corner at the NFL Draft",
-      "url": "https://news.microsoft.com/source/features/digital-transformation/the-new-york-jets-are-happy-to-have-a-titan-in-their-corner-at-the-nfl-draft",
-      "summary": "<p>When NFL commissioner Roger Goodell announces that the New York Jets are “officially on the clock” during this month’s NFL Draft, the franchise will have an opportunity to reshape its roster by choosing some of the best college talent available. And with four picks at the time of this writing – including No. 2 overall – within the first 44 selections, the need to add several impact players is paramount as they face off against some of the AFC’s best teams.</p>\n<p>The post <a href=\"https://news.microsoft.com/source/features/digital-transformation/the-new-york-jets-are-happy-to-have-a-titan-in-their-corner-at-the-nfl-draft\">The New York Jets are happy to have a &#8216;Titan&#8217; in their corner at the NFL Draft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Tue, 14 Apr 2026 16:38:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5\" target=\"_blank\">【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SHIFT AI</font>",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "source": "Google News JP: 生成AI 企業 導入",
+      "source_group": "japan"
     },
     {
-      "title": "AI Decision Brief: How leaders can drive Frontier Transformation",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/31/ai-decision-brief-how-leaders-can-drive-frontier-transformation/",
-      "summary": "<p>While adoption of AI technology is now widespread, impact is not. Many organizations are experimenting and running pilot programs, but far fewer have the operating discipline to become what we call Frontier Firms—companies that scale AI in ways that meaningfully reshape work, decisions, and value creation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/31/ai-decision-brief-how-leaders-can-drive-frontier-transformation/\">AI Decision Brief: How leaders can drive Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Tue, 31 Mar 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "ファナックがGoogleと協業、AIエージェントでロボットを操作へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news087.html",
+      "summary": "ファナックは、Googleとの協業により、産業用ロボットのフィジカルAIシステムを構築した。",
+      "published": "Fri, 15 May 2026 13:45:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "How to introduce agents into your workforce: 5 actions leaders can take",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/26/how-to-introduce-agents-into-your-workforce-5-actions-leaders-can-take/",
-      "summary": "<p>How Microsoft helps organizations introduce AI agents responsibly—turning copilots into digital teammates that drive real business impact.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/26/how-to-introduce-agents-into-your-workforce-5-actions-leaders-can-take/\">How to introduce agents into your workforce: 5 actions leaders can take</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 26 Mar 2026 15:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "「中小企業向けClaude」登場 各種SaaSと連携し業務を代行",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html",
+      "summary": "Anthropicは「Claude Cowork」で利用できるプラグイン「Claude for Small Business」を発表。さまざまなSaaSと連携し、それらの操作を代行する機能を提供する。",
+      "published": "Fri, 15 May 2026 15:03:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "María Almenara: The First Data-Driven Peruvian Bakery",
-      "url": "https://news.microsoft.com/es-xl/maria-almenara-the-first-data-driven-peruvian-bakery/",
-      "summary": "<p>The technology available to us and the context we’ve been living in have sped up the digital transformation of all industries and companies of all sizes. A clear example of this is María Almenara. This well-known bakery in Lima has been able to predict daily sales of each product one week ahead of time, therefore avoiding overproduction or lack of stock—all thanks to artificial intelligence.</p>\n<p>The post <a href=\"https://news.microsoft.com/es-xl/maria-almenara-the-first-data-driven-peruvian-bakery/\">María Almenara: The First Data-Driven Peruvian Bakery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-      "published": "Thu, 26 Mar 2026 14:00:00 +0000",
-      "source": "The Microsoft Cloud Blog"
+      "title": "生成AIで効率化できる業務8選！活用事例や注意点まで完全解説",
+      "url": "https://ainow.ai/2026/05/16/278083/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25a7%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%25998%25e9%2581%25b8%25ef%25bc%2581%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b%25e3%2582%2584%25e6%25b3%25a8%25e6%2584%258f%25e7%2582%25b9",
+      "summary": "<p>&#29983;&#25104;AI&#12434;&#33258;&#20998;&#12398;&#26989;&#21209;&#12395;&#21462;&#12426;&#20837;&#12428;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#12300;&#32080;&#23616;&#12393;&#12398;&#26989;&#21209;&#12395;&#12393;&#12358;&#20351;&#12360;&#12400;&#12356;&#12356;&#12398;&#12363;&#12301;&#12364;&#35211;&#12360;&#12378;&#25163;&#12364;&#27490;&#12414;&#12387;&#12390;&#12356;&#12427;&#26041;&#12399;&#22810;&#12356;&#12398;&#12391;&#12399;&#12394;&#12356;&#12391;&#12375;&#12423;&#12358;&#12363;&#12290;&#29983;&#25104;AI&#12399;&#25991;&#26360;&#20316;&#25104;&#12539;&#12522;&#12469;&",
+      "published": "Fri, 15 May 2026 17:15:38 +0000",
+      "source": "AINOW",
+      "source_group": "japan"
     },
     {
-      "title": "Here’s a new database for local news research, from Syracuse University and Rebuild Local News",
-      "url": "https://www.niemanlab.org/2026/05/heres-a-new-database-for-local-news-research-from-syracuse-university-and-rebuild-local-news/",
-      "summary": "If you&#8217;re trying to get a handle on evidence from academic research about the state of local news, it&#8217;s hard to know where to start. The research is scattered — across disciplines from political science to economics to computer science; across universities; across paywalled journals. To some extent, it&#8217;s part of the academic job description...",
-      "published": "Mon, 18 May 2026 13:45:58 +0000",
-      "source": "Nieman Lab"
+      "title": "キオクシア社長「記録的な増収増益」 3カ月の売上収益1兆円、純利益は2990％増 好決算の背景は",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/15/news112.html",
+      "summary": "キオクシアは、2026年1～3月の売上収益が1兆29億円だったと発表した。太田裕雄社長は「記録的な増収増益となった」と語る。好決算の背景は何か。",
+      "published": "Fri, 15 May 2026 20:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says",
-      "url": "https://www.niemanlab.org/2026/05/creator-journalisms-rise-is-the-most-disruptive-shift-the-news-industry-has-seen-ex-bbc-news-head-says/",
-      "summary": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consumers moving to different platforms,&#8221; Turness,...",
-      "published": "Thu, 14 May 2026 18:30:15 +0000",
-      "source": "Nieman Lab"
+      "title": "動画生成AIのRunwayが日本進出、60億円超を投資 「日本は世界で最も洗練されたクリエイティブ産業持つ」とCEO",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html",
+      "summary": "動画生成AIなどを開発する米Runwayは5月14日（現地時間）、日本市場に本格進出すると発表した。",
+      "published": "Fri, 15 May 2026 20:18:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "Local stories by nonprofit college media resonated nationally at the start of 2026",
-      "url": "https://www.niemanlab.org/2026/05/local-stories-by-nonprofit-college-media-resonated-nationally-at-the-start-of-2026/",
-      "summary": "At Nieman Lab, we&#8217;ve long covered the impact of student-run news outlets filling information gaps in their communities. Recent data from SimilarWeb shows just how far their work reaches. In February, three Southern college media outlets — The Duke Chronicle (Duke University), The Daily Tar Heel (University of North Carolina — Chapel Hill), and the...",
-      "published": "Thu, 14 May 2026 17:16:28 +0000",
-      "source": "Nieman Lab"
+      "title": "「AI、気になるけど使うのは不安…」そんな企業にこそ試してほしい。法人向けAIサービス「Opera AI Chat」を正式リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeUR2VXBDM3dnLUFuTm92VGZwUEo4dXl4eGVOXzMyaDZhZkVCRlc4b1RhUEZ1T1k0N0Y2dEs4MUJoUXVsa0F4Z05Jcm1rVk9KOWF0ZlBJTWxPcEhuUXdsT1RkQ0JrcUZtRFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeUR2VXBDM3dnLUFuTm92VGZwUEo4dXl4eGVOXzMyaDZhZkVCRlc4b1RhUEZ1T1k0N0Y2dEs4MUJoUXVsa0F4Z05Jcm1rVk9KOWF0ZlBJTWxPcEhuUXdsT1RkQ0JrcUZtRFE?oc=5\" target=\"_blank\">「AI、気になるけど使うのは不安…」そんな企業にこそ試してほしい。法人向けAIサービス「Opera AI Chat」を正式リリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "published": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "source": "Google News JP: CMS AI RAG ナレッジ",
+      "source_group": "japan"
     },
     {
-      "title": "When ICE came to Minneapolis, readers turned to The Minnesota Star Tribune’s free live blog",
-      "url": "https://www.niemanlab.org/2026/05/when-ice-came-to-minneapolis-readers-turned-to-the-minnesota-star-tribunes-free-live-blog/",
-      "summary": "When Minneapolis became ground zero for the Trump administration&#8217;s unprecedented federal immigration crackdown, its local news institutions were, once again, on the front lines of a global story. And just as Minnesota&#8217;s nonprofits and public radio station punched above their audience weight with their reporting, so too did its local newspapers. The flagship Minnesota Star...",
-      "published": "Thu, 14 May 2026 16:10:52 +0000",
-      "source": "Nieman Lab"
+      "title": "「中小企業AI導入実態調査2026」を公開 ── 導入率わずか12%、最大障壁は\"何から始めればいいか分からない\" - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vTmFQVS1WX0ZhT0lkalczSDNocXdxUi1KWnQwV2VyQ1NDOG11dXZ6MUhpUjRISHpVa2JkaThGWEtrSldIc0xkZ0Z3Szhvc251NzF0QnZIV2VxN29BOWE2R0g5Z243TDIwazhvZlZZaXpyMS1LeUVXQ3dpSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1vTmFQVS1WX0ZhT0lkalczSDNocXdxUi1KWnQwV2VyQ1NDOG11dXZ6MUhpUjRISHpVa2JkaThGWEtrSldIc0xkZ0Z3Szhvc251NzF0QnZIV2VxN29BOWE2R0g5Z243TDIwazhvZlZZaXpyMS1LeUVXQ3dpSQ?oc=5\" target=\"_blank\">「中小企業AI導入実態調査2026」を公開 ── 導入率わずか12%、最大障壁は\"何から始めればいいか分からない\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "published": "Mon, 18 May 2026 02:18:42 GMT",
+      "source": "Google News JP: 生成AI 企業 導入",
+      "source_group": "japan"
     },
     {
-      "title": "These for-profit local news sites have become the “papers” of record in their communities",
-      "url": "https://www.niemanlab.org/2026/05/these-for-profit-local-news-sites-have-become-the-papers-of-record-in-their-communities/",
-      "summary": "In most American cities, the largest local newsroom still belongs to the local newspaper. But that certainly doesn&#8217;t mean the largest local news audience always goes to the people with a printing press. And in some cases, the local traffic champ isn&#8217;t even a TV station or public radio station — it&#8217;s a for-profit, digital-native...",
-      "published": "Wed, 13 May 2026 19:40:53 +0000",
-      "source": "Nieman Lab"
+      "title": "プロダクトファーストを貫くイーロン・マスク 中国の若手起業家たちに与え続ける「技術への執着」",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/18/news038.html",
+      "summary": "イーロン・マスク氏は中国での立ち回りに神経を使ってきた。世界最大の自動車市場であり、巨大なサプライチェーンを持つ中国は、EV、太陽光発電、宇宙プログラムにまたがる彼の広大なビジネス帝国を支える上で不可欠な存在だからだ。",
+      "published": "Mon, 18 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "Minnesota — and MPR — kept everyone’s attention at the start of 2026",
-      "url": "https://www.niemanlab.org/2026/05/minnesota-and-its-public-radio-station-kept-everyones-attention-at-the-start-of-2026/",
-      "summary": "Minnesota Public Radio&#8217;s coverage of ICE put it at the top of the traffic rankings for public media websites in the last quarter of 2025. That trend continued in the first quarter of 2026; according to our regular rankings derived from Similarweb data, MPR saw 7 million more visits in January than in December, driven in...",
-      "published": "Wed, 13 May 2026 14:38:24 +0000",
-      "source": "Nieman Lab"
+      "title": "1分で膨大なAI約款のリスクを「見える化」 天秤AI Bizが新機能を提供開始",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/18/news034.html",
+      "summary": "GMO天秤AIは、法人向けサービス「天秤AI Biz byGMO」で、主要生成AIサービスの約款を比較できる機能「主要AI約款比較」の提供を開始した。AI導入時に負担となりやすい規約確認を効率化し、導入判断および約款変更の継続的な追跡を支援する。",
+      "published": "Mon, 18 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "“Affiliation, not just access”: Newsrooms try to move beyond membership to a focus on “belonging”",
-      "url": "https://www.niemanlab.org/2026/05/affiliation-not-just-access-newsrooms-try-to-move-beyond-membership-to-a-focus-on-belonging/",
-      "summary": "Facing declining trust, unreliable social platforms, and search traffic weakened by AI summaries, the media industry is looking for a deeper way to hold onto audiences. Could the answer be a sense of “belonging”? “I think belonging is trying to figure out ways for the audiences to feel heard and seen, to engage or learn...",
-      "published": "Tue, 12 May 2026 20:38:34 +0000",
-      "source": "Nieman Lab"
+      "title": "「AIデータセンターの電力需要が急増」はホント？ 発電大手Jパワー社長が明かした“報道との温度差”",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/18/news017.html",
+      "summary": "AIブームを受けて、データセンターの電力需要が急増しているといわれる。電力関連企業は対応に追われているかと思いきや、実態は異なるようだ。発電大手J-POWERの社長が実態を語った。",
+      "published": "Mon, 18 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "The European Union backs Italy’s right to make Meta pay for news",
-      "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
-      "summary": "Meta must comply with Italian law requiring it to negotiate with and fairly compensate news publishers for the the use of their content, according to a ruling by the Europe&#8217;s highest court on Tuesday. The decision by the Court of Justice of the European Union (CJEU) found that EU copyright law doesn&#8217;t prohibit individual countries...",
-      "published": "Tue, 12 May 2026 19:10:59 +0000",
-      "source": "Nieman Lab"
+      "title": "伊藤忠商事や三菱ケミカルなど16社が参画 大手企業の「暗黙知」を活用する新プロジェクト",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/18/news036.html",
+      "summary": "ストックマークは5月14日、企業の秘匿データや暗黙知をAIが学習・活用できる形式に変換する「AI-Ready化」の実証実験を開始すると発表した。伊藤忠商事や三菱ケミカルなど16社が協業するプロジェクトの狙いとは？",
+      "published": "Mon, 18 May 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "In Atlanta, the push for digital subscriptions hasn’t taken off as much as hoped",
-      "url": "https://www.niemanlab.org/2026/05/in-atlanta-the-push-for-digital-subscriptions-hasnt-taken-off-as-much-as-hoped/",
-      "summary": "For American newspapers, the past decade-plus has been all about seeking digital subscribers. The print business is shot. Digital advertising is shot. And while not everyone can be The New York Times — now the proud provider of 13 million subscriptions — even most local and regional newspapers have made digital subs Priority No. 1....",
-      "published": "Mon, 11 May 2026 18:51:01 +0000",
-      "source": "Nieman Lab"
+      "title": "企業の生成AI活用、大企業は46.5％に 一方で半数が情報の正確性に懸念 帝国データバンク調査",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news115.html",
+      "summary": "帝国データバンクが生成AIに関する企業の動向調査結果を公表した。生成AIを活用している企業は全体の34.5％に達し、そのうち86.7％が効果を実感している。導入率は、企業規模が大きいほど上がる傾向となった。",
+      "published": "Mon, 18 May 2026 08:00:00 +0900",
+      "source": "ITmedia NEWS",
+      "source_group": "japan"
     },
     {
-      "title": "Behind the scenes at Wirecutter for an epic duel of air purifiers",
-      "url": "https://www.niemanlab.org/2026/05/behind-the-scenes-at-wirecutter-for-an-epic-duel-of-air-purifiers/",
-      "summary": "Tim Heffernan lights five matches with a single stroke and waves them up and down to spread the smoke. He sets them on a dinner plate as the small conference room fills with the smell of burning wood. He checks his particle meter to make sure the room is sufficiently smoky, then steps around the...",
-      "published": "Mon, 11 May 2026 16:11:31 +0000",
-      "source": "Nieman Lab"
+      "title": "「ポンコツ」と呼ばれたM365 Copilotの逆転劇、GPT-5が転換点 活用の秘訣は“脱・プロンプト職人”",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news013.html",
+      "summary": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
+      "published": "Mon, 18 May 2026 10:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
     },
     {
-      "title": "Trolling, memes, and deepfakes: How AI is thickening the fog of war",
-      "url": "https://www.niemanlab.org/2026/05/trolling-memes-and-deepfakes-how-ai-is-thickening-the-fog-of-war/",
-      "summary": "War has never been fought only on the ground. Clausewitz’s concept of the “fog of war” once described the uncertainty and confusion that cloud battlefield decision-making. Errol Morris’ 2003 documentary made the phrase a shorthand for the moral and informational ambiguities of modern conflict. But in the digital age, where war is also filmed, edited and promoted...",
-      "published": "Mon, 11 May 2026 12:00:58 +0000",
-      "source": "Nieman Lab"
+      "title": "AWS、Oracle Cloudと閉域網で直結する「AWS Interconnect-multicloud」新機能をプレビュー Google Cloudとの接続に続き",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/18/news056.html",
+      "summary": "米AWSは、Oracle Cloudと閉域網で直接接続する「AWS Interconnect-multicloud」の新機能をプレビュー公開しました。",
+      "published": "Mon, 18 May 2026 10:34:00 +0900",
+      "source": "ITmedia NEWS",
+      "source_group": "japan"
     },
     {
-      "title": "Semafor’s new AI tool helped boil down its entire flagship conference into nine takeaways",
-      "url": "https://www.niemanlab.org/2026/05/semafors-new-ai-tool-helped-boil-down-its-entire-flagship-conference-into-nine-takeaways/",
-      "summary": "On April 13, more than 500 CEOs and other power brokers gathered in Washington, D.C. to join Semafor World Economy. Across the five-day event, hundreds of speakers took the stage, including Goldman Sachs President John Waldron, Singapore’s Deputy Prime Minister Gan Kim Yong, and nine sitting U.S. cabinet officials. In the weeks since the event...",
-      "published": "Thu, 07 May 2026 21:00:46 +0000",
-      "source": "Nieman Lab"
+      "title": "人間 vs. 人型ロボ、より多く作業をこなせるのは？ 生配信で対決した結果…… 米企業",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html",
+      "summary": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。",
+      "published": "Mon, 18 May 2026 12:23:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
+    },
+    {
+      "title": "NEC社長が説く AI時代と新たな安全保障環境の到来で「ITサービスはこう変わる」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news062.html",
+      "summary": "AI時代、そして新たな安全保障環境の到来で、ITサービスはどう変わるのか。NECの森田隆之社長が説く、「これからのITサービス産業における勝者の条件」に迫る。",
+      "published": "Mon, 18 May 2026 13:10:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
+    },
+    {
+      "title": "日立製作所の「HMAX」 センサーでデータ収集、AIが解析 保守作業など効率化",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/18/news085.html",
+      "summary": "人手不足やインフラの老朽化への対応で、保守・点検作業で鉄道事業者が直面するさまざまな課題に対し、デジタルトランスフォーメーション（DX）やAIを活用する動きが広がっている。日立製作所は、電車の車両などにセンサーを取り付け、膨大なデータを収集し、高性能のAIが分析。保守作業や運用を効率化するソリューションサービス「HMAX」を展開する。",
+      "published": "Mon, 18 May 2026 14:38:00 +0900",
+      "source": "ITmedia NEWS",
+      "source_group": "japan"
+    },
+    {
+      "title": "本田技研工業株式会社 事例紹介 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMFBLdDZoWFdjN3JTWERqeUwzZ1ZZcFlVVXFPelU5dURqc3c0MHBKQnZvZmpVRExvYXNLUnIzZm11YklTdW1NbEswYjhzUWhFTW5zaGZkY2M5LTMtX1Rkakl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMFBLdDZoWFdjN3JTWERqeUwzZ1ZZcFlVVXFPelU5dURqc3c0MHBKQnZvZmpVRExvYXNLUnIzZm11YklTdW1NbEswYjhzUWhFTW5zaGZkY2M5LTMtX1Rkakl3?oc=5\" target=\"_blank\">本田技研工業株式会社 事例紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+      "published": "Mon, 27 May 2024 03:40:47 GMT",
+      "source": "Google News JP: CMS AI RAG ナレッジ",
+      "source_group": "japan"
+    },
+    {
+      "title": "知識管理のための生成AI - IBM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzlKY3RLSnp5QWpyMnQ4bjBoZ1JoZDlWaEVqb0p6SXRBZXpwdWRRUnpWS01wZVpvU1kzWUVUX3ZHTjQ5U1FlSnZVQ1FIekRMR1FjR3ZWZk9zdzRyblBUVWJ5eWMyNjNZSk9sZm1lMEZuSWxiQXp3cjZ1T1FYSFItR0NuYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzlKY3RLSnp5QWpyMnQ4bjBoZ1JoZDlWaEVqb0p6SXRBZXpwdWRRUnpWS01wZVpvU1kzWUVUX3ZHTjQ5U1FlSnZVQ1FIekRMR1FjR3ZWZk9zdzRyblBUVWJ5eWMyNjNZSk9sZm1lMEZuSWxiQXp3cjZ1T1FYSFItR0NuYw?oc=5\" target=\"_blank\">知識管理のための生成AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+      "published": "Sat, 05 Apr 2025 05:25:22 GMT",
+      "source": "Google News JP: CMS AI RAG ナレッジ",
+      "source_group": "japan"
+    },
+    {
+      "title": "生成AIの意識改革を進める6ステップ！3層別アプローチで現場の抵抗を突破",
+      "url": "https://ainow.ai/2026/05/10/278055/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e6%2584%258f%25e8%25ad%2598%25e6%2594%25b9%25e9%259d%25a9%25e3%2582%2592%25e9%2580%25b2%25e3%2582%2581%25e3%2582%258b6%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%25813%25e5%25b1%25a4%25e5%2588%25a5%25e3%2582%25a2%25e3%2583%2597%25e3%2583%25ad",
+      "summary": "<p>&#29983;&#25104;AI&#12434;&#23566;&#20837;&#12375;&#12383;&#12398;&#12395;&#12300;&#20351;&#12431;&#12428;&#12394;&#12356;&#12301;&#12300;&#29694;&#22580;&#12364;&#21205;&#12363;&#12394;&#12356;&#12301;&#12392;&#24745;&#12435;&#12391;&#12356;&#12414;&#12379;&#12435;&#12363;&#12290;&#24847;&#35672;&#25913;&#38761;&#12394;&#12375;&#12391;&#23450;&#30528;&#12377;&#12427;&#20225;&#26989;&#12399;&#12411;&#12412;&#23384;&#22312;&#12375;&#12414;&#12379;&#12435;&#12290; &#25918;&#32622;&#12377;&#12428;&#12400;&#21322;&#24180;&#12391;&#21033;&#29992;&#29575;&#12399;1&#12316;2&#21106;&#12395;&#33853;",
+      "published": "Sat, 09 May 2026 16:31:08 +0000",
+      "source": "AINOW",
+      "source_group": "japan"
+    },
+    {
+      "title": "生成AI導入計画書の作り方を9項目で解説！経営層を動かすテンプレ付き",
+      "url": "https://ainow.ai/2026/05/10/278058/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e8%25a8%2588%25e7%2594%25bb%25e6%259b%25b8%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2582%25929%25e9%25a0%2585%25e7%259b%25ae%25e3%2581%25a7%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25b5%258c%25e5%2596%25b6%25e5%25b1%25a4",
+      "summary": "<p>&#29983;&#25104;AI&#12398;&#23566;&#20837;&#35336;&#30011;&#26360;&#12434;&#24613;&#12395;&#26360;&#12369;&#12392;&#35328;&#12431;&#12428;&#12289;&#20309;&#12363;&#12425;&#25163;&#12434;&#12388;&#12369;&#12428;&#12400;&#12424;&#12356;&#12363;&#12431;&#12363;&#12425;&#12378;&#25163;&#12364;&#27490;&#12414;&#12387;&#12390;&#12356;&#12414;&#12379;&#12435;&#12363;&#12290;&#29983;&#25104;AI&#23566;&#20837;&#35336;&#30011;&#26360;&#12399;9&#38917;&#30446;&#12392;ROI&#35430;&#31639;&#12391;&#27083;&#36896;&#21270;&#12377;&#12428;&#12400;&#12289;&#21021;&#31295;&#12434;&#12381;&#12398;&#26085;&#123",
+      "published": "Sat, 09 May 2026 16:49:49 +0000",
+      "source": "AINOW",
+      "source_group": "japan"
+    },
+    {
+      "title": "生成AIで社内ナレッジ共有を仕組み化！RAG活用と導入事例7選を解説",
+      "url": "https://ainow.ai/2026/05/10/278062/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25a7%25e7%25a4%25be%25e5%2586%2585%25e3%2583%258a%25e3%2583%25ac%25e3%2583%2583%25e3%2582%25b8%25e5%2585%25b1%25e6%259c%2589%25e3%2582%2592%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e5%258c%2596%25ef%25bc%2581rag%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%25a8%25e5%25b0%258e",
+      "summary": "<p>&#12505;&#12486;&#12521;&#12531;&#31038;&#21729;&#12398;&#36864;&#32887;&#12420;&#30064;&#21205;&#12391;&#12490;&#12524;&#12483;&#12472;&#12364;&#22833;&#12431;&#12428;&#12289;&#26032;&#20154;&#25945;&#32946;&#12420;&#21839;&#12356;&#21512;&#12431;&#12379;&#23550;&#24540;&#12395;&#24037;&#25968;&#12434;&#21462;&#12425;&#12428;&#12390;&#12356;&#12414;&#12379;&#12435;&#12363;&#12290;&#29983;&#25104;AI&#215;RAG&#12391;&#31038;&#20869;&#12487;&#12540;&#12479;&#12434;&#23398;&#32722;&#12373;&#12379;&#12428;&#12400;&#12289;&#35504;&#12391;&#12418;&#12539;&#12356;&#12388;&#12391;&#12418;&#12539;&#",
+      "published": "Sat, 09 May 2026 17:07:40 +0000",
+      "source": "AINOW",
+      "source_group": "japan"
+    },
+    {
+      "title": "OpenAI、「ChatGPT」に個人向け資産管理機能 金融口座と連携",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
+      "summary": "OpenAIは、ChatGPTの新機能として個人向け資産管理機能のプレビュー版を米国のProプランユーザー向けにリリースした。金融データネットワークPlaidを介して銀行や証券などの口座と連携し、ダッシュボードでの資産管理や、実際の財務状況に基づいたパーソナライズされた相談が可能。将来的に全ユーザーへの拡大を計画している。",
+      "published": "Sat, 16 May 2026 07:59:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan"
+    },
+    {
+      "title": "OpenAI、企業向けAI導入支援会社「OpenAI Deployment Company」を設立 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FN2JfR3pTd2RPNV9IMGZITDJTaGFuU0tTODRHOVZERTVZQXJYc2tKTFp6SndLU3ZSTm1JR3dvQ1VLRmVCcGNfV3FIWngyZjJ4WU8wZEJOcWMzSkM2RXlkaGlxQU9obkZoUnFraWpIZmdHQnlLT1VreHp3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5FN2JfR3pTd2RPNV9IMGZITDJTaGFuU0tTODRHOVZERTVZQXJYc2tKTFp6SndLU3ZSTm1JR3dvQ1VLRmVCcGNfV3FIWngyZjJ4WU8wZEJOcWMzSkM2RXlkaGlxQU9obkZoUnFraWpIZmdHQnlLT1VreHp3?oc=5\" target=\"_blank\">OpenAI、企業向けAI導入支援会社「OpenAI Deployment Company」を設立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIsmiley</font>",
+      "published": "Sat, 16 May 2026 08:30:13 GMT",
+      "source": "Google News JP: 生成AI 企業 導入",
+      "source_group": "japan"
+    },
+    {
+      "title": "企業の生成AI活用、大企業は46.5％に 一方で半数が情報の正確性に懸念 帝国データバンク調査 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hNm1WQTU4VEg3ZGt2cS1FbmZmOVRja0d2cU40MFduT01EN1pUOTJVWDd0eWhnMzhwbWs0UkpveVpjUUNPY3Exb1dJVzBBRThMaWRVLWw1bl9yWWpLR2c1eWNobmxQVXNCR1NIVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9hNm1WQTU4VEg3ZGt2cS1FbmZmOVRja0d2cU40MFduT01EN1pUOTJVWDd0eWhnMzhwbWs0UkpveVpjUUNPY3Exb1dJVzBBRThMaWRVLWw1bl9yWWpLR2c1eWNobmxQVXNCR1NIVw?oc=5\" target=\"_blank\">企業の生成AI活用、大企業は46.5％に 一方で半数が情報の正確性に懸念 帝国データバンク調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "published": "Sun, 17 May 2026 23:00:00 GMT",
+      "source": "Google News JP: 生成AI 企業 導入",
+      "source_group": "japan"
     }
   ]
 }
