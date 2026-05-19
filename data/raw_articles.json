@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-05-18T15:20:20.432913+00:00",
+  "generated_at": "2026-05-19T10:48:11.203738+00:00",
   "articles": [
+    {
+      "title": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
+      "url": "https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/",
+      "summary": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a rare moment, Altman was asked point blank by a media executive...",
+      "content": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a rare moment, Altman was asked point blank by a media executive...",
+      "published": "Mon, 18 May 2026 19:17:36 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "Here’s a new database for local news research, from Syracuse University and Rebuild Local News",
       "url": "https://www.niemanlab.org/2026/05/heres-a-new-database-for-local-news-research-from-syracuse-university-and-rebuild-local-news/",
@@ -28,19 +42,6 @@
       ]
     },
     {
-      "title": "Minnesota — and MPR — kept everyone’s attention at the start of 2026",
-      "url": "https://www.niemanlab.org/2026/05/minnesota-and-its-public-radio-station-kept-everyones-attention-at-the-start-of-2026/",
-      "summary": "Minnesota Public Radio&#8217;s coverage of ICE put it at the top of the traffic rankings for public media websites in the last quarter of 2025. That trend continued in the first quarter of 2026; according to our regular rankings derived from Similarweb data, MPR saw 7 million more visits in January than in December, driven in...",
-      "content": "Minnesota Public Radio&#8217;s coverage of ICE put it at the top of the traffic rankings for public media websites in the last quarter of 2025. That trend continued in the first quarter of 2026; according to our regular rankings derived from Similarweb data, MPR saw 7 million more visits in January than in December, driven in...",
-      "published": "Wed, 13 May 2026 14:38:24 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
       "title": "5 gardening tips you can try right in Search",
       "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
       "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
@@ -54,14 +55,41 @@
       ]
     },
     {
-      "title": "人間 vs. 人型ロボ、より多く作業をこなせるのは？ 生配信で対決した結果…… 米企業",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html",
-      "summary": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。",
-      "content": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。",
-      "published": "Mon, 18 May 2026 12:23:00 +0900",
+      "title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す 契約書検索のムダを効率化",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
+      "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
+      "content": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
+      "published": "Tue, 19 May 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "生成AIで3Dモデルを自動作成 専門スキル不要でテキストや画像から3D化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+      "summary": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+      "content": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+      "published": "Tue, 19 May 2026 06:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "デル、ローカルでAIエージェントを動かすためのデスクトップPCなど「Dell Deskside Agentic AI」発表。NVIDIA GB10やGB300搭載",
+      "url": "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
+      "summary": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
+      "content": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
+      "published": "2026-05-18T23:50:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
@@ -80,11 +108,11 @@
       ]
     },
     {
-      "title": "「ポンコツ」と呼ばれたM365 Copilotの逆転劇、GPT-5が転換点 活用の秘訣は“脱・プロンプト職人”",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news013.html",
-      "summary": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
-      "content": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
-      "published": "Mon, 18 May 2026 10:15:00 +0900",
+      "title": "AIが医療データを基に健康アドバイス――SMBC、富士通、ソフトバンク共同で「国産ヘルスケア基盤」開発へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000005/",
+      "summary": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
+      "content": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
+      "published": "Tue, 19 May 2026 07:13:44 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -93,51 +121,11 @@
       ]
     },
     {
-      "title": "伊藤忠商事や三菱ケミカルなど16社が参画 大手企業の「暗黙知」を活用する新プロジェクト",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/18/news036.html",
-      "summary": "ストックマークは5月14日、企業の秘匿データや暗黙知をAIが学習・活用できる形式に変換する「AI-Ready化」の実証実験を開始すると発表した。伊藤忠商事や三菱ケミカルなど16社が協業するプロジェクトの狙いとは？",
-      "content": "ストックマークは5月14日、企業の秘匿データや暗黙知をAIが学習・活用できる形式に変換する「AI-Ready化」の実証実験を開始すると発表した。伊藤忠商事や三菱ケミカルなど16社が協業するプロジェクトの狙いとは？",
-      "published": "Mon, 18 May 2026 08:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "1分で膨大なAI約款のリスクを「見える化」 天秤AI Bizが新機能を提供開始",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2605/18/news034.html",
-      "summary": "GMO天秤AIは、法人向けサービス「天秤AI Biz byGMO」で、主要生成AIサービスの約款を比較できる機能「主要AI約款比較」の提供を開始した。AI導入時に負担となりやすい規約確認を効率化し、導入判断および約款変更の継続的な追跡を支援する。",
-      "content": "GMO天秤AIは、法人向けサービス「天秤AI Biz byGMO」で、主要生成AIサービスの約款を比較できる機能「主要AI約款比較」の提供を開始した。AI導入時に負担となりやすい規約確認を効率化し、導入判断および約款変更の継続的な追跡を支援する。",
-      "published": "Mon, 18 May 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
-      "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
-      "content": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 14 May 2026 15:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise",
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "published": "Sat, 16 May 2026 00:00:00 GMT",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "content": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "published": "Mon, 18 May 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -146,11 +134,11 @@
       ]
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "published": "Sat, 16 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -198,6 +186,30 @@
       ]
     },
     {
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "content": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "中小企業の約65％が「情シス不在」 デジタル化でも残る課題との関連は？",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/17/news013.html",
+      "summary": "ファイル管理のデジタル化を進めても、「目的のファイルが見つからない」「データ復旧に不安が残る」という課題が残るのはなぜか。中小企業の約65％が情シス不在であることは、この課題にどのような影響を与えているのか。デジタル化だけでは解消しない非効率の原因に迫る。",
+      "content": "ファイル管理のデジタル化を進めても、「目的のファイルが見つからない」「データ復旧に不安が残る」という課題が残るのはなぜか。中小企業の約65％が情シス不在であることは、この課題にどのような影響を与えているのか。デジタル化だけでは解消しない非効率の原因に迫る。",
+      "published": "Tue, 19 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
       "title": "Local stories by nonprofit college media resonated nationally at the start of 2026",
       "url": "https://www.niemanlab.org/2026/05/local-stories-by-nonprofit-college-media-resonated-nationally-at-the-start-of-2026/",
       "summary": "At Nieman Lab, we&#8217;ve long covered the impact of student-run news outlets filling information gaps in their communities. Recent data from SimilarWeb shows just how far their work reaches. In February, three Southern college media outlets — The Duke Chronicle (Duke University), The Daily Tar Heel (University of North Carolina — Chapel Hill), and the...",
@@ -231,26 +243,17 @@
       "matched_topics": []
     },
     {
-      "title": "AWS、Oracle Cloudと閉域網で直結する「AWS Interconnect - multicloud」新機能をプレビュー。Google Cloudとの接続に続き",
-      "url": "https://www.publickey1.jp/blog/26/awsoracle_cloudaws_interconnect_-_multicloudgoogle_cloud.html",
-      "summary": "AWSは、Oracle Cloudと閉域網で直接接続する「AWS Interconnect - multicloud」の新機能をプレビュー公開しました。 AWS Interconnect - multicloudは、Amazon VPCやA...",
-      "content": "AWSは、Oracle Cloudと閉域網で直接接続する「AWS Interconnect - multicloud」の新機能をプレビュー公開しました。 AWS Interconnect - multicloudは、Amazon VPCやA...",
-      "published": "2026-05-17T15:55:59Z",
-      "source": "Publickey",
+      "title": "「最新のAI創薬ラボ」なのに会議室みたい!? 製薬大手がラブコール送る“異色のAI企業”による新拠点とは",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/19/news032.html",
+      "summary": "AI創薬サービスを手掛けるFRONTEO（東京都港区）が新たな拠点を公開した。新たなラボは試験管も実験器具も置いていない。一体どのような役割を担うのか。",
+      "content": "AI創薬サービスを手掛けるFRONTEO（東京都港区）が新たな拠点を公開した。新たなラボは試験管も実験器具も置いていない。一体どのような役割を担うのか。",
+      "published": "Tue, 19 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-      "summary": "Visual Studio Code（以下、VS Code）の開発チームは、VS Codeで複数のAIエージェントを用いた開発を容易にする新機能「Agent window」を5月13日に公開されたVisual Studio Code 1.1...",
-      "content": "Visual Studio Code（以下、VS Code）の開発チームは、VS Codeで複数のAIエージェントを用いた開発を容易にする新機能「Agent window」を5月13日に公開されたVisual Studio Code 1.1...",
-      "published": "2026-05-14T15:13:08Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     }
   ]
 }

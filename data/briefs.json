@@ -177,5 +177,123 @@
       "出典付きニュースカードを継続的にレビューする。",
       "AI-readyな情報基盤の提案項目を1つ追加する。"
     ]
+  },
+  "2026-05-19": {
+    "date": "2026-05-19",
+    "headline": "生成AIは検索・実行・知識基盤へ",
+    "one_liner": "生成AIは、単なるチャットツールから、検索、業務実行、企業ナレッジ活用の基盤へ広がっています。これからはAIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。",
+    "items": [
+      {
+        "title_jp": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
+        "original_title": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
+        "source": "Nieman Lab",
+        "url": "https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/",
+        "category": "AI動向",
+        "summary": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a rare moment, Altman was asked point blank by a media executive...",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      },
+      {
+        "title_jp": "Here’s a new database for local news research, from Syracuse University and Rebu",
+        "original_title": "Here’s a new database for local news research, from Syracuse University and Rebuild Local News",
+        "source": "Nieman Lab",
+        "url": "https://www.niemanlab.org/2026/05/heres-a-new-database-for-local-news-research-from-syracuse-university-and-rebuild-local-news/",
+        "category": "AI動向",
+        "summary": "If you&#8217;re trying to get a handle on evidence from academic research about the state of local news, it&#8217;s hard to know where to start. The research is scattered — across disciplines from political science to economics to computer science; across universities; across paywalled journals. To some extent, it&#8217;s part of the academic job d",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      },
+      {
+        "title_jp": "Creator journalism is the most disruptive shift the news industry has seen, ex-B",
+        "original_title": "Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says",
+        "source": "Nieman Lab",
+        "url": "https://www.niemanlab.org/2026/05/creator-journalisms-rise-is-the-most-disruptive-shift-the-news-industry-has-seen-ex-bbc-news-head-says/",
+        "category": "AI動向",
+        "summary": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consume",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      },
+      {
+        "title_jp": "5 gardening tips you can try right in Search",
+        "original_title": "5 gardening tips you can try right in Search",
+        "source": "Google AI Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+        "category": "AI動向",
+        "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      },
+      {
+        "title_jp": "福岡銀行、AI活用で年間7000時間の業務削減を目指す 契約書検索のムダを効率化",
+        "original_title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す 契約書検索のムダを効率化",
+        "source": "ITmedia AI+",
+        "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
+        "category": "AI動向",
+        "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      },
+      {
+        "title_jp": "生成AIで3Dモデルを自動作成 専門スキル不要でテキストや画像から3D化",
+        "original_title": "生成AIで3Dモデルを自動作成 専門スキル不要でテキストや画像から3D化",
+        "source": "ITmedia AI+",
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+        "category": "AI動向",
+        "summary": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+        "why": "この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。",
+        "impact": [
+          "AI活用を前提にした情報設計や業務設計が重要になる",
+          "社内外のコンテンツやデータを整理する必要が高まる",
+          "単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる"
+        ],
+        "quote": "AI活用は情報基盤と運用体制の競争になりつつあります。",
+        "importance_score": 65
+      }
+    ],
+    "media_insights": [
+      "AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。",
+      "記事をAIが理解しやすい構造に整えることが、検索流入や読者接点の再設計につながります。",
+      "著作権、学習データ、要約表示による流入変化は継続監視が必要です。"
+    ],
+    "solution_insights": [
+      "CMSはWeb更新ツールから、AI-readyな企業知識基盤へ拡張できます。",
+      "RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。",
+      "顧客の社内ナレッジ整理は、生成AI導入の入口として提案しやすい領域です。"
+    ],
+    "actions": [
+      "AI検索・生成AI時代に必要なCMS要件を整理する。",
+      "出典付きニュースカードを継続的にレビューする。",
+      "AI-readyな情報基盤の提案項目を1つ追加する。"
+    ]
   }
 }
