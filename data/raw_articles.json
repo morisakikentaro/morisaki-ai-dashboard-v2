@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:48:11.203738+00:00",
+  "generated_at": "2026-05-20T10:30:22.115248+00:00",
   "articles": [
     {
       "title": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
@@ -42,24 +42,39 @@
       ]
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-      "content": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-      "published": "Wed, 06 May 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
+      "title": "Google「25年で最大の刷新」 AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
+      "summary": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
+      "content": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
+      "published": "Wed, 20 May 2026 16:35:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
       "matched_topics": [
-        "ai_search"
+        "ai_search",
+        "enterprise"
       ]
     },
     {
-      "title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す 契約書検索のムダを効率化",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
-      "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
-      "content": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
-      "published": "Tue, 19 May 2026 07:00:00 +0900",
+      "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
+      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。...",
+      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。...",
+      "published": "2026-05-20T03:16:39Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "cms_knowledge",
+        "japan"
+      ]
+    },
+    {
+      "title": "NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/20/news029.html",
+      "summary": "NHNテコラスは、AIエージェントの導入から運用、改善までを支援するサービスの提供を開始した。Amazon Bedrock AgentCoreを軸にした構築支援と、Amazon Quickの導入パッケージを通じて業務へのAI定着を後押しする。",
+      "content": "NHNテコラスは、AIエージェントの導入から運用、改善までを支援するサービスの提供を開始した。Amazon Bedrock AgentCoreを軸にした構築支援と、Amazon Quickの導入パッケージを通じて業務へのAI定着を後押しする。",
+      "published": "Wed, 20 May 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
@@ -69,14 +84,14 @@
       ]
     },
     {
-      "title": "生成AIで3Dモデルを自動作成 専門スキル不要でテキストや画像から3D化",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
-      "summary": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
-      "content": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
-      "published": "Tue, 19 May 2026 06:30:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
+      "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
+      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
+      "published": "2026-05-20T02:30:01Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
@@ -108,16 +123,17 @@
       ]
     },
     {
-      "title": "AIが医療データを基に健康アドバイス――SMBC、富士通、ソフトバンク共同で「国産ヘルスケア基盤」開発へ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000005/",
-      "summary": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
-      "content": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
-      "published": "Tue, 19 May 2026 07:13:44 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
+      "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
+      "content": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
+      "published": "Thu, 14 May 2026 15:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 40,
       "matched_topics": [
-        "enterprise"
+        "enterprise",
+        "cms_knowledge"
       ]
     },
     {
@@ -147,16 +163,29 @@
       ]
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "content": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+      "content": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -173,11 +202,24 @@
       ]
     },
     {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "summary": "Gemini API",
-      "content": "Gemini API",
-      "published": "Mon, 04 May 2026 15:30:00 +0000",
+      "title": "「Gemini 3.5」登場 軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
+      "summary": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
+      "content": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
+      "published": "Wed, 20 May 2026 09:02:56 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "summary": "a series of colorful icons representing Google I/O against a black background",
+      "content": "a series of colorful icons representing Google I/O against a black background",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -186,22 +228,24 @@
       ]
     },
     {
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "content": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "content": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "source": "Google AI Blog",
       "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
+      "selection_score": 22,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
-      "title": "中小企業の約65％が「情シス不在」 デジタル化でも残る課題との関連は？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/17/news013.html",
-      "summary": "ファイル管理のデジタル化を進めても、「目的のファイルが見つからない」「データ復旧に不安が残る」という課題が残るのはなぜか。中小企業の約65％が情シス不在であることは、この課題にどのような影響を与えているのか。デジタル化だけでは解消しない非効率の原因に迫る。",
-      "content": "ファイル管理のデジタル化を進めても、「目的のファイルが見つからない」「データ復旧に不安が残る」という課題が残るのはなぜか。中小企業の約65％が情シス不在であることは、この課題にどのような影響を与えているのか。デジタル化だけでは解消しない非効率の原因に迫る。",
-      "published": "Tue, 19 May 2026 07:00:00 +0900",
+      "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破 「Mythos」が見せつけた脆弱性攻撃の威力",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+      "summary": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
+      "content": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
+      "published": "Wed, 20 May 2026 06:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -210,50 +254,15 @@
       ]
     },
     {
-      "title": "Local stories by nonprofit college media resonated nationally at the start of 2026",
-      "url": "https://www.niemanlab.org/2026/05/local-stories-by-nonprofit-college-media-resonated-nationally-at-the-start-of-2026/",
-      "summary": "At Nieman Lab, we&#8217;ve long covered the impact of student-run news outlets filling information gaps in their communities. Recent data from SimilarWeb shows just how far their work reaches. In February, three Southern college media outlets — The Duke Chronicle (Duke University), The Daily Tar Heel (University of North Carolina — Chapel Hill), and the...",
-      "content": "At Nieman Lab, we&#8217;ve long covered the impact of student-run news outlets filling information gaps in their communities. Recent data from SimilarWeb shows just how far their work reaches. In February, three Southern college media outlets — The Duke Chronicle (Duke University), The Daily Tar Heel (University of North Carolina — Chapel Hill), and the...",
-      "published": "Thu, 14 May 2026 17:16:28 +0000",
+      "title": "Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things",
+      "url": "https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/",
+      "summary": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
+      "content": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
+      "published": "Tue, 19 May 2026 16:58:42 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
-    },
-    {
-      "title": "When ICE came to Minneapolis, readers turned to The Minnesota Star Tribune’s free live blog",
-      "url": "https://www.niemanlab.org/2026/05/when-ice-came-to-minneapolis-readers-turned-to-the-minnesota-star-tribunes-free-live-blog/",
-      "summary": "When Minneapolis became ground zero for the Trump administration&#8217;s unprecedented federal immigration crackdown, its local news institutions were, once again, on the front lines of a global story. And just as Minnesota&#8217;s nonprofits and public radio station punched above their audience weight with their reporting, so too did its local newspapers. The flagship Minnesota Star...",
-      "content": "When Minneapolis became ground zero for the Trump administration&#8217;s unprecedented federal immigration crackdown, its local news institutions were, once again, on the front lines of a global story. And just as Minnesota&#8217;s nonprofits and public radio station punched above their audience weight with their reporting, so too did its local newspapers. The flagship Minnesota Star...",
-      "published": "Thu, 14 May 2026 16:10:52 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "These for-profit local news sites have become the “papers” of record in their communities",
-      "url": "https://www.niemanlab.org/2026/05/these-for-profit-local-news-sites-have-become-the-papers-of-record-in-their-communities/",
-      "summary": "In most American cities, the largest local newsroom still belongs to the local newspaper. But that certainly doesn&#8217;t mean the largest local news audience always goes to the people with a printing press. And in some cases, the local traffic champ isn&#8217;t even a TV station or public radio station — it&#8217;s a for-profit, digital-native...",
-      "content": "In most American cities, the largest local newsroom still belongs to the local newspaper. But that certainly doesn&#8217;t mean the largest local news audience always goes to the people with a printing press. And in some cases, the local traffic champ isn&#8217;t even a TV station or public radio station — it&#8217;s a for-profit, digital-native...",
-      "published": "Wed, 13 May 2026 19:40:53 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "「最新のAI創薬ラボ」なのに会議室みたい!? 製薬大手がラブコール送る“異色のAI企業”による新拠点とは",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/19/news032.html",
-      "summary": "AI創薬サービスを手掛けるFRONTEO（東京都港区）が新たな拠点を公開した。新たなラボは試験管も実験器具も置いていない。一体どのような役割を担うのか。",
-      "content": "AI創薬サービスを手掛けるFRONTEO（東京都港区）が新たな拠点を公開した。新たなラボは試験管も実験器具も置いていない。一体どのような役割を担うのか。",
-      "published": "Tue, 19 May 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
     }
   ]
 }
