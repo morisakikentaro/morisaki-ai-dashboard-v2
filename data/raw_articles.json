@@ -1,11 +1,25 @@
 {
-  "generated_at": "2026-05-20T10:30:22.115248+00:00",
+  "generated_at": "2026-05-21T10:53:23.199655+00:00",
   "articles": [
+    {
+      "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "summary": "In January, Nieman Lab broke the story that major news publishers — including The New York Times, The Guardian, and USA Today Co. — had started blocking the Internet Archive due to concerns that AI companies might scrape the nonprofit&#8217;s repositories for training data. No news publisher has confirmed to Nieman Lab that an AI...",
+      "content": "In January, Nieman Lab broke the story that major news publishers — including The New York Times, The Guardian, and USA Today Co. — had started blocking the Internet Archive due to concerns that AI companies might scrape the nonprofit&#8217;s repositories for training data. No news publisher has confirmed to Nieman Lab that an AI...",
+      "published": "Wed, 20 May 2026 21:03:15 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 56,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
       "url": "https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/",
-      "summary": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a rare moment, Altman was asked point blank by a media executive...",
-      "content": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a rare moment, Altman was asked point blank by a media executive...",
+      "summary": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of &#8220;The Most Interesting Thing in AI.&#8221; The show is produced by Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a...",
+      "content": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of &#8220;The Most Interesting Thing in AI.&#8221; The show is produced by Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a...",
       "published": "Mon, 18 May 2026 19:17:36 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
@@ -29,30 +43,30 @@
       ]
     },
     {
-      "title": "Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says",
-      "url": "https://www.niemanlab.org/2026/05/creator-journalisms-rise-is-the-most-disruptive-shift-the-news-industry-has-seen-ex-bbc-news-head-says/",
-      "summary": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consumers moving to different platforms,&#8221; Turness,...",
-      "content": "If broadcasters want to rebuild trust and remain relevant, they must &#8220;liberate their talent&#8221; and let their journalists act more like independent creators, Deborah Turness said in a speech in London this week. &#8220;I believe the established media hasn&#8217;t confronted the hard truth that this revolution isn&#8217;t just about consumers moving to different platforms,&#8221; Turness,...",
-      "published": "Thu, 14 May 2026 18:30:15 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+      "content": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
-        "media"
+        "ai_search"
       ]
     },
     {
-      "title": "Google「25年で最大の刷新」 AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
-      "summary": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
-      "content": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
-      "published": "Wed, 20 May 2026 16:35:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表",
+      "url": "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
+      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...",
+      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...",
+      "published": "2026-05-20T15:21:12Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 42,
       "matched_topics": [
-        "ai_search",
-        "enterprise"
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -70,16 +84,15 @@
       ]
     },
     {
-      "title": "NHNテコラス、AIエージェント導入から運用改善まで支援する新サービスを提供",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2605/20/news029.html",
-      "summary": "NHNテコラスは、AIエージェントの導入から運用、改善までを支援するサービスの提供を開始した。Amazon Bedrock AgentCoreを軸にした構築支援と、Amazon Quickの導入パッケージを通じて業務へのAI定着を後押しする。",
-      "content": "NHNテコラスは、AIエージェントの導入から運用、改善までを支援するサービスの提供を開始した。Amazon Bedrock AgentCoreを軸にした構築支援と、Amazon Quickの導入パッケージを通じて業務へのAI定着を後押しする。",
-      "published": "Wed, 20 May 2026 07:00:00 +0900",
+      "title": "OpenAI、日本政府と一部企業にセキュリティ特化AI「GPT-5.5-Cyber」提供へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
+      "summary": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
+      "content": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
+      "published": "Thu, 21 May 2026 09:23:40 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 34,
       "matched_topics": [
-        "enterprise",
         "japan"
       ]
     },
@@ -110,19 +123,6 @@
       ]
     },
     {
-      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
-      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
-      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "published": "2026-05-18T15:49:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
       "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
@@ -150,45 +150,6 @@
       ]
     },
     {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "published": "Sat, 16 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-      "content": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "Your AI steering committee’s 2026 checklist: Observability",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
       "summary": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
@@ -202,24 +163,11 @@
       ]
     },
     {
-      "title": "「Gemini 3.5」登場 軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
-      "summary": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
-      "content": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
-      "published": "Wed, 20 May 2026 09:02:56 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "summary": "a series of colorful icons representing Google I/O against a black background",
-      "content": "a series of colorful icons representing Google I/O against a black background",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "content": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "published": "Wed, 20 May 2026 19:30:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -228,29 +176,51 @@
       ]
     },
     {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "content": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Google AI Blog",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
       "source_group": "global",
-      "selection_score": 22,
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
+      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
+      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "published": "2026-05-18T15:49:20Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破 「Mythos」が見せつけた脆弱性攻撃の威力",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
-      "summary": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
-      "content": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
-      "published": "Wed, 20 May 2026 06:00:00 +0900",
+      "title": "「SaaSの死」への反撃シナリオ Anthropicショックを覆すIBMの「4つの武器」",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/21/news026.html",
+      "summary": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を根底から揺るがす。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し、IBMはどう立ち向かうのか。レガシーをAI時代の資産へと変える「4つの武器」と、反撃に向けた逆転のシナリオを現地から詳報する。",
+      "content": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を根底から揺るがす。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し、IBMはどう立ち向かうのか。レガシーをAI時代の資産へと変える「4つの武器」と、反撃に向けた逆転のシナリオを現地から詳報する。",
+      "published": "Thu, 21 May 2026 07:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -263,6 +233,30 @@
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "NPR may be flush with gifts to transform its tech, but it still has to cut jobs",
+      "url": "https://www.niemanlab.org/2026/05/npr-may-be-flush-with-gifts-to-transform-its-tech-but-it-still-has-to-cut-jobs/",
+      "summary": "Last month, NPR announced two private gifts totaling $113 million — among the largest donations it&#8217;s received in its history. The $80 million donation, from philanthropist Connie Ballmer, is specifically for &#8220;ensuring NPR transforms its technology to meet the needs and serve the interests of public media audiences on whatever platforms or devices they may...",
+      "content": "Last month, NPR announced two private gifts totaling $113 million — among the largest donations it&#8217;s received in its history. The $80 million donation, from philanthropist Connie Ballmer, is specifically for &#8220;ensuring NPR transforms its technology to meet the needs and serve the interests of public media audiences on whatever platforms or devices they may...",
+      "published": "Tue, 19 May 2026 15:34:57 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "AI投資など成果最大化へ国・地域別戦略 自民提言案の全容判明 骨太にも反映",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
+      "summary": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
+      "content": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
+      "published": "Thu, 21 May 2026 19:10:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     }
   ]
 }
