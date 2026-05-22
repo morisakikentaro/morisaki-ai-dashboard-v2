@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T10:53:23.199655+00:00",
+  "generated_at": "2026-05-22T10:30:03.973173+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -30,19 +30,6 @@
       ]
     },
     {
-      "title": "Here’s a new database for local news research, from Syracuse University and Rebuild Local News",
-      "url": "https://www.niemanlab.org/2026/05/heres-a-new-database-for-local-news-research-from-syracuse-university-and-rebuild-local-news/",
-      "summary": "If you&#8217;re trying to get a handle on evidence from academic research about the state of local news, it&#8217;s hard to know where to start. The research is scattered — across disciplines from political science to economics to computer science; across universities; across paywalled journals. To some extent, it&#8217;s part of the academic job description...",
-      "content": "If you&#8217;re trying to get a handle on evidence from academic research about the state of local news, it&#8217;s hard to know where to start. The research is scattered — across disciplines from political science to economics to computer science; across universities; across paywalled journals. To some extent, it&#8217;s part of the academic job description...",
-      "published": "Mon, 18 May 2026 13:45:58 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "How AI Mode is changing the way people search in the U.S.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
@@ -54,6 +41,17 @@
       "matched_topics": [
         "ai_search"
       ]
+    },
+    {
+      "title": "Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things",
+      "url": "https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/",
+      "summary": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
+      "content": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
+      "published": "Tue, 19 May 2026 16:58:42 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表",
@@ -84,19 +82,6 @@
       ]
     },
     {
-      "title": "OpenAI、日本政府と一部企業にセキュリティ特化AI「GPT-5.5-Cyber」提供へ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
-      "summary": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
-      "content": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
-      "published": "Thu, 21 May 2026 09:23:40 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
       "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
       "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
@@ -123,6 +108,19 @@
       ]
     },
     {
+      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
+      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
+      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "published": "2026-05-18T15:49:20Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
       "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
@@ -137,11 +135,11 @@
       ]
     },
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "content": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "published": "Mon, 18 May 2026 10:00:00 GMT",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "published": "Thu, 21 May 2026 12:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -176,6 +174,17 @@
       ]
     },
     {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "content": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -187,35 +196,11 @@
       "matched_topics": []
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
-      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
-      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "published": "2026-05-18T15:49:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "「SaaSの死」への反撃シナリオ Anthropicショックを覆すIBMの「4つの武器」",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/21/news026.html",
-      "summary": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を根底から揺るがす。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し、IBMはどう立ち向かうのか。レガシーをAI時代の資産へと変える「4つの武器」と、反撃に向けた逆転のシナリオを現地から詳報する。",
-      "content": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を根底から揺るがす。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し、IBMはどう立ち向かうのか。レガシーをAI時代の資産へと変える「4つの武器」と、反撃に向けた逆転のシナリオを現地から詳報する。",
-      "published": "Thu, 21 May 2026 07:45:00 +0900",
+      "title": "「Cursor」開発の新モデル、コスト1/10で最先端モデル並み性能 第三者機関が評価",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
+      "summary": "Cursorが新AIモデル「Composer 2.5」を発表。Artificial Analysisの評価で、コーディングエージェント性能ランキング3位に。Claude Opus 4.7やGPT-5.5などの最先端モデル並みの性能を約10分の1のコストで実現したという。",
+      "content": "Cursorが新AIモデル「Composer 2.5」を発表。Artificial Analysisの評価で、コーディングエージェント性能ランキング3位に。Claude Opus 4.7やGPT-5.5などの最先端モデル並みの性能を約10分の1のコストで実現したという。",
+      "published": "Fri, 22 May 2026 07:13:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -224,15 +209,30 @@
       ]
     },
     {
-      "title": "Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things",
-      "url": "https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/",
-      "summary": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
-      "content": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
-      "published": "Tue, 19 May 2026 16:58:42 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
+      "title": "不法滞在・就労 入管がSNS分析強化へ AIで自動巡回システム導入を検討",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
+      "summary": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
+      "content": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
+      "published": "Fri, 22 May 2026 10:18:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "「SaaS is Dead」でも採用激化？ 「作れるだけ」のエンジニアが淘汰されるワケ",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/22/news034.html",
+      "summary": "生成AIの進化を背景に「SaaS is Dead」論が、SNSや投資家向けの論考を中心に広がっています。一方、SaaS業界の採用市場は縮小することなく、むしろ強化する企業も目立ちます。しかし、求める人材の条件が大きく変化しました。AIによるSaaS開発が容易になった今、企業が求めるIT人材の条件とは何なのでしょうか。",
+      "content": "生成AIの進化を背景に「SaaS is Dead」論が、SNSや投資家向けの論考を中心に広がっています。一方、SaaS業界の採用市場は縮小することなく、むしろ強化する企業も目立ちます。しかし、求める人材の条件が大きく変化しました。AIによるSaaS開発が容易になった今、企業が求めるIT人材の条件とは何なのでしょうか。",
+      "published": "Fri, 22 May 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "NPR may be flush with gifts to transform its tech, but it still has to cut jobs",
@@ -246,17 +246,15 @@
       "matched_topics": []
     },
     {
-      "title": "AI投資など成果最大化へ国・地域別戦略 自民提言案の全容判明 骨太にも反映",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
-      "summary": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
-      "content": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
-      "published": "Thu, 21 May 2026 19:10:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Linux Foundation、AIエージェントをテーマにしたイベント「AGNTCon + MCPCon」を東京渋谷で開催。9月10日、11日の2日間",
+      "url": "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
+      "summary": "Linux Foundationは、AIエージェントとMCPをテーマとしたイベント「AGNTCon + MCPCon Japan」を東京で開催します。日程は9月10日、11日の2日間。会場はベルサール渋谷ガーデン。 Linux Founda...",
+      "content": "Linux Foundationは、AIエージェントとMCPをテーマとしたイベント「AGNTCon + MCPCon Japan」を東京で開催します。日程は9月10日、11日の2日間。会場はベルサール渋谷ガーデン。 Linux Founda...",
+      "published": "2026-05-19T16:32:11Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
