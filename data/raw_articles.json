@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:29:56.891355+00:00",
+  "generated_at": "2026-05-23T07:41:08.298175+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -174,19 +174,6 @@
       ]
     },
     {
-      "title": "Your AI steering committee’s 2026 checklist: Observability",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
-      "summary": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
-      "content": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "100 things we announced at I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
@@ -198,6 +185,17 @@
       "matched_topics": [
         "enterprise"
       ]
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
     },
     {
       "title": "「Cursor」開発の新モデル、コスト1/10で最先端モデル並み性能 第三者機関が評価",
