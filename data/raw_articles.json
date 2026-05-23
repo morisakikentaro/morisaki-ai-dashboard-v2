@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:30:03.973173+00:00",
+  "generated_at": "2026-05-23T07:29:56.891355+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -135,6 +135,32 @@
       ]
     },
     {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "content": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "cms_knowledge"
+      ]
+    },
+    {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
@@ -172,28 +198,6 @@
       "matched_topics": [
         "enterprise"
       ]
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "content": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
     },
     {
       "title": "「Cursor」開発の新モデル、コスト1/10で最先端モデル並み性能 第三者機関が評価",
@@ -246,15 +250,17 @@
       "matched_topics": []
     },
     {
-      "title": "Linux Foundation、AIエージェントをテーマにしたイベント「AGNTCon + MCPCon」を東京渋谷で開催。9月10日、11日の2日間",
-      "url": "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
-      "summary": "Linux Foundationは、AIエージェントとMCPをテーマとしたイベント「AGNTCon + MCPCon Japan」を東京で開催します。日程は9月10日、11日の2日間。会場はベルサール渋谷ガーデン。 Linux Founda...",
-      "content": "Linux Foundationは、AIエージェントとMCPをテーマとしたイベント「AGNTCon + MCPCon Japan」を東京で開催します。日程は9月10日、11日の2日間。会場はベルサール渋谷ガーデン。 Linux Founda...",
-      "published": "2026-05-19T16:32:11Z",
-      "source": "Publickey",
+      "title": "「Google Antigravity」利用上限緩和 ただし2.0アップデート手順に要注意",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
+      "summary": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
+      "content": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
+      "published": "Fri, 22 May 2026 14:53:26 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     }
   ]
 }

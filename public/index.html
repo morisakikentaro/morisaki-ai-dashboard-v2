@@ -5,262 +5,235 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Morning AI Brief</title>
   <style>
-    :root{--ink:#0f172a;--muted:#64748b;--line:#dbe3ef;--blue:#0f62fe;--blue-soft:#eef6ff;--purple:#6d28d9;--purple-soft:#f5f0ff;--green:#059669;--bg:#f8fbff;--shadow:0 16px 40px rgba(15,23,42,.08)}
-    *{box-sizing:border-box} html{scroll-behavior:smooth}
-    body{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.75}
-    .wrap{width:min(1180px,calc(100% - 40px));margin:0 auto;padding:28px 0 34px}
-    header{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:26px}
-    h1{margin:0;font-size:46px;line-height:1.05;letter-spacing:-.055em;color:#111936}
-    .subtitle{margin-top:8px;color:#25324d;font-size:18px;font-weight:650}
-    .meta{text-align:right;color:#334155;font-weight:800;white-space:nowrap} .meta small{display:block;color:var(--muted);margin-top:4px;font-weight:750}
+    :root{--ink:#0f172a;--muted:#64748b;--line:#dbe3ef;--blue:#0f62fe;--blue-soft:#eef6ff;--purple:#6d28d9;--purple-soft:#f5f0ff;--green:#059669;--green-soft:#ecfdf5;--bg:#f8fbff;--shadow:0 16px 40px rgba(15,23,42,.08)}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;color:var(--ink);background:radial-gradient(circle at 0% 0%,rgba(15,98,254,.10),transparent 32%),radial-gradient(circle at 100% 0%,rgba(109,40,217,.08),transparent 28%),linear-gradient(180deg,#fff 0%,var(--bg) 100%);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;line-height:1.85}
+    .wrap{width:min(1120px,calc(100% - 40px));margin:0 auto;padding:30px 0 42px}
+    header{display:flex;justify-content:space-between;gap:24px;align-items:flex-start;margin-bottom:28px}
+    h1{font-size:46px;line-height:1.06;letter-spacing:-.055em;margin:0;color:#111936}
+    .subtitle{margin-top:10px;color:#25324d;font-size:18px;font-weight:700}
+    .meta{text-align:right;color:#334155;font-weight:850;white-space:nowrap}.meta small{display:block;color:var(--muted);font-weight:750;margin-top:4px}
     .tabs{display:flex;gap:10px;border-bottom:1px solid var(--line);margin-bottom:28px;overflow-x:auto}
-    .tab{color:#17233f;text-decoration:none;font-weight:900;padding:13px 14px 14px;border-bottom:3px solid transparent;white-space:nowrap}
-    .tab:hover{color:var(--blue)} .tab.active{color:var(--blue);border-color:var(--blue)}
-    .panel,.news-card,.perspective,.actions{background:rgba(255,255,255,.94);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:24px;margin-bottom:22px}
-    .panel h2,.actions h2{margin:0 0 12px;font-size:25px;line-height:1.35;letter-spacing:-.03em}
-    .lead{font-size:16px;color:#1f2937;margin:0;max-width:960px}
-    .news-grid{display:grid;grid-template-columns:1fr;gap:18px}
-    .news-head{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;margin-bottom:14px}
+    .tab{color:#17233f;text-decoration:none;font-weight:900;padding:13px 14px 14px;border-bottom:3px solid transparent;white-space:nowrap}.tab.active{color:var(--blue);border-color:var(--blue)}
+    .hero,.section,.perspective,.signal,.actions-panel{background:rgba(255,255,255,.94);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow);padding:28px;margin-bottom:22px}
+    .eyebrow{font-size:13px;color:var(--blue);font-weight:950;letter-spacing:.08em;margin-bottom:8px}
+    h2{font-size:28px;line-height:1.35;letter-spacing:-.035em;margin:0 0 16px}
+    .hero h2{font-size:34px}
+    p{margin:0 0 1em;color:#263248}
+    p:last-child{margin-bottom:0}
+    .body-text p{font-size:16px}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+    .perspective.media{border-color:#cfe1ff}.perspective.solution{border-color:#ddd3ff}
+    .perspective h2{display:flex;align-items:center;gap:10px}
+    .icon{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-size:22px;flex:0 0 auto}
+    .media .icon{background:var(--blue-soft);color:var(--blue)}.solution .icon{background:var(--purple-soft);color:var(--purple)}
+    ul{margin:12px 0 0;padding-left:1.2em;color:#263248}
+    li{margin:.35em 0}
+    .signals{display:grid;grid-template-columns:1fr;gap:16px}
+    .signal{margin-bottom:0;padding:22px}
+    .signal-top{display:flex;justify-content:space-between;gap:18px;align-items:flex-start}
     .category{display:inline-block;background:var(--blue-soft);color:var(--blue);font-size:12px;font-weight:950;padding:4px 9px;border-radius:999px;margin-bottom:8px}
-    .news-card h3{margin:0;font-size:22px;line-height:1.35;letter-spacing:-.03em}
+    .signal h3{font-size:21px;line-height:1.35;letter-spacing:-.03em;margin:0}
     .score{min-width:76px;text-align:center;border:1px solid #e2e8f0;background:#f8fafc;border-radius:14px;padding:8px;font-weight:900}
-    .score span{display:block;color:var(--muted);font-size:11px} .score b{display:block;color:#dc2626;font-size:26px;line-height:1.1}
+    .score span{display:block;color:var(--muted);font-size:11px}.score b{display:block;color:#dc2626;font-size:26px;line-height:1.1}
     .source-box{border:1px solid #d8e6fb;background:#f8fbff;border-radius:14px;padding:13px 15px;margin:14px 0}
-    .source-label{font-size:12px;color:var(--muted);font-weight:900} .source-title{font-weight:900;margin-top:2px}
-    .source-url a{color:var(--blue);font-weight:850;text-decoration:none;font-size:13px;word-break:break-all}
-    .summary-block{margin-top:16px} .summary-block h4{margin:0 0 5px;font-size:14px;color:#17233f}
-    .summary-block p{margin:0;color:#263248} .summary-block ul{margin:0;padding-left:1.2em;color:#263248}
-    .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}
-    .perspective.media{border-color:#cfe1ff} .perspective.solution{border-color:#ddd3ff}
-    .section-title{display:flex;align-items:center;gap:12px;margin:0 0 18px;font-size:23px;letter-spacing:-.03em}
-    .media .section-title{color:var(--blue)} .solution .section-title{color:var(--purple)}
-    .icon{width:44px;height:44px;display:grid;place-items:center;border-radius:12px;flex:0 0 auto;font-size:23px}
-    .media .icon{background:var(--blue-soft)} .solution .icon{background:var(--purple-soft)}
-    .perspective ul,.actions ul{margin:0;padding-left:1.2em;color:#263248}
-    .actions h2{color:var(--green)} .links{display:grid;gap:10px}
-    .link-card{border:1px solid var(--line);border-radius:14px;background:#fff;padding:14px 16px}
-    .link-card a{color:var(--blue);font-weight:900;text-decoration:none} .link-card p{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .source-label{font-size:12px;color:var(--muted);font-weight:900}.source-title{font-weight:900;margin-top:2px}
+    .source-url{font-size:13px;color:var(--muted);margin-top:3px}.source-url a{color:var(--blue);font-weight:850;text-decoration:none;word-break:break-all}
+    .meaning h4{margin:0 0 5px;font-size:14px;color:#17233f}
+    .actions-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .action{border:1px solid #cfe9dc;background:linear-gradient(180deg,#fff,#f4fffa);border-radius:15px;padding:18px}
+    .action h3{margin:0 0 8px;font-size:17px;color:#047857}
     .note{color:var(--muted);font-size:13px;text-align:center;margin:22px 0 4px}
-    @media(max-width:900px){.wrap{width:min(100% - 24px,1180px);padding-top:18px}header{display:block}h1{font-size:36px}.meta{text-align:left;margin-top:16px}.grid{grid-template-columns:1fr}.panel,.perspective,.news-card,.actions{padding:20px}.news-head{display:block}.score{margin-top:12px;width:86px}}
+    @media(max-width:900px){.wrap{width:min(100% - 24px,1120px);padding-top:18px}header{display:block}h1{font-size:36px}.meta{text-align:left;margin-top:16px}.grid,.actions-grid{grid-template-columns:1fr}.hero,.section,.perspective,.signal,.actions-panel{padding:20px}.signal-top{display:block}.score{margin-top:12px;width:86px}}
   </style>
 </head>
 <body>
   <div class="wrap">
     <header>
-      <div><h1>Morning AI Brief</h1><div class="subtitle">AI経営ダッシュボード / 出典付き解説カード版</div></div>
-      <div class="meta"><span>2026年05月22日</span><small>毎朝7時更新</small></div>
+      <div>
+        <h1>Morning AI Brief</h1>
+        <div class="subtitle">AI時代の変化を理解する朝の戦略メモ</div>
+      </div>
+      <div class="meta"><span>2026年05月23日</span><small>毎朝更新</small></div>
     </header>
-    <nav class="tabs" aria-label="ページ内ナビゲーション">
-      <a class="tab active" href="#summary">今日のAI要約</a>
-      <a class="tab" href="#news">出典付き解説</a>
+
+    <nav class="tabs">
+      <a class="tab active" href="#summary">全体像</a>
+      <a class="tab" href="#shift">今日の変化</a>
       <a class="tab" href="#perspectives">視点別示唆</a>
-      <a class="tab" href="#actions">今日のアクション</a>
-      <a class="tab" href="#links">参考リンク</a>
+      <a class="tab" href="#signals">関連ニュース</a>
+      <a class="tab" href="#actions">今日の一手</a>
     </nav>
-    <section class="panel" id="summary">
-      <h2>生成AIは検索・実行・知識基盤へ</h2>
-      <p class="lead">生成AIは、単なるチャットツールから、検索、業務実行、企業ナレッジ活用の基盤へ広がっています。これからはAIを使うだけでなく、AIが正しく参照できる情報基盤を持つことが競争力になります。</p>
+
+    <section class="hero" id="summary">
+      <div class="eyebrow">EXECUTIVE CONTEXT</div>
+      <h2>生成AIは、検索・実行・知識基盤の競争へ移っている</h2>
+      <div class="body-text"><p>今日の生成AI動向で重要なのは、個別の新機能やモデル性能ではなく、AIが情報流通と業務実行の中心に入り始めていることです。検索では、ユーザーがリンクを選ぶ前にAIが回答を作るようになり、企業ではAIエージェントが社内データや業務システムを横断して使われ始めています。この変化の中心には、AIが参照できる信頼性の高い情報基盤があります。メディアにとっては一次情報、出典、アーカイブ、信頼性がより重要になり、ソリューション側にとってはCMS、RAG、構造化データ、権限管理、運用保守が事業機会になります。</p></div>
     </section>
-    <section id="news" class="news-grid">
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>More than 340 local news outlets are limiting the Internet Archive’s access to t</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
 
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">More than 340 local news outlets are limiting the Internet Archive’s access to their journalism</div>
-          <div class="source-url"><a href="https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/" target="_blank" rel="noopener">Nieman Lab</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>In January, Nieman Lab broke the story that major news publishers — including The New York Times, The Guardian, and USA Today Co. — had started blocking the Internet Archive due to concerns that AI companies might scrape the nonprofit&amp;#8217;s repositories for training data. No news publisher has confirmed to Nieman Lab that an AI...</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
-    \n
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>Sam Altman backs “micropayment” model for AI agents to compensate publishers</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
-
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">Sam Altman backs “micropayment” model for AI agents to compensate publishers</div>
-          <div class="source-url"><a href="https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/" target="_blank" rel="noopener">Nieman Lab</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of &amp;#8220;The Most Interesting Thing in AI.&amp;#8221; The show is produced by Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a...</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
-    \n
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>How AI Mode is changing the way people search in the U.S.</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
-
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">How AI Mode is changing the way people search in the U.S.</div>
-          <div class="source-url"><a href="https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/" target="_blank" rel="noopener">Google AI Blog</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>A graphic features the text &quot;How people are using AI Mode in the U.S.&quot; surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
-    \n
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
-
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things</div>
-          <div class="source-url"><a href="https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/" target="_blank" rel="noopener">Nieman Lab</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>Joanna Stern is no stranger to new things. It&amp;#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
-    \n
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
-
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表</div>
-          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html" target="_blank" rel="noopener">Publickey</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
-    \n
-      <article class="news-card">
-        <div class="news-head">
-          <div>
-            <div class="category">AI動向</div>
-            <h3>Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Androi</h3>
-          </div>
-          <div class="score"><span>重要度</span><b>65</b></div>
-        </div>
-
-        <div class="source-box">
-          <div class="source-label">出典</div>
-          <div class="source-title">Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開</div>
-          <div class="source-url"><a href="https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html" target="_blank" rel="noopener">Publickey</a></div>
-        </div>
-
-        <div class="summary-block">
-          <h4>何が起きているか</h4>
-          <p>Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。...</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>なぜ重要か</h4>
-          <p>この記事は、AI活用、企業の情報基盤、業務変革、またはAIインフラに関係する可能性があります。詳細を確認し、自社の事業や顧客提案にどう影響するかを見極める価値があります。</p>
-        </div>
-
-        <div class="summary-block">
-          <h4>経営インパクト</h4>
-          <ul><li>AI活用を前提にした情報設計や業務設計が重要になる</li>\n<li>社内外のコンテンツやデータを整理する必要が高まる</li>\n<li>単発導入ではなく、運用・改善・ガバナンスまで含めた体制が必要になる</li></ul>
-        </div>
-      </article>
+    <section class="section" id="shift">
+      <div class="eyebrow">BIG SHIFT</div>
+      <h2>AIは、コンテンツを読む側から業務を動かす側へ進み始めている</h2>
+      <div class="body-text"><p>これまで生成AIは、文章を作る、質問に答える、要約する、といった利用が中心でした。しかし今起きている変化は、AIがユーザーの代わりに情報を探し、整理し、判断の材料を作り、場合によっては業務の一部を実行する方向へ進んでいることです。検索ではAIが回答を先に提示し、企業内ではAIエージェントが文書、FAQ、顧客情報、業務システムを横断して使われ始めています。このとき価値を持つのは、AIモデルそのものだけではありません。AIが参照できる情報が整理されているか、権限が管理されているか、出典や更新履歴が明確か、業務に接続できる形になっているかが重要になります。つまり、生成AIの競争は、モデル選定の競争から、情報基盤と業務設計の競争へ移っています。</p></div>
     </section>
+
+    <section class="section">
+      <div class="eyebrow">WHY NOW</div>
+      <h2>なぜ今、情報基盤が重要になっているのか</h2>
+      <div class="body-text"><p>背景には、AI検索とEnterprise AIの同時進行があります。AI検索では、ユーザーがWebページへ移動する前にAIが回答をまとめるため、情報源として引用されるかどうかが重要になります。一方、企業内ではAIエージェントやRAGの活用が進み、社内文書、Webコンテンツ、FAQ、製品情報、業務データをAIが利用できる状態にする必要が出ています。そのため、従来のCMSやWebサイトは、単に人間に見せるためのものではなく、AIが理解し、検索し、参照し、業務に使うための知識基盤として再定義されつつあります。この変化は、メディア企業にもCMS・ソリューション企業にも関係します。信頼できる情報を持つ側と、それをAIが使える形に整える側の価値が同時に高まっているからです。</p></div>
+    </section>
+
     <section class="grid" id="perspectives">
-      <div class="perspective media"><h2 class="section-title"><span class="icon">▤</span>視点A：メディア視点</h2><ul><li>AI検索時代には、一次情報・信頼性・引用されやすい構造がメディア価値になります。</li>\n<li>記事をAIが理解しやすい構造に整えることが、検索流入や読者接点の再設計につながります。</li>\n<li>著作権、学習データ、要約表示による流入変化は継続監視が必要です。</li></ul></div>
-      <div class="perspective solution"><h2 class="section-title"><span class="icon">△</span>視点B：ソリューション視点</h2><ul><li>CMSはWeb更新ツールから、AI-readyな企業知識基盤へ拡張できます。</li>\n<li>RAG、構造化、権限管理、履歴管理は顧客提案の中核になります。</li>\n<li>顧客の社内ナレッジ整理は、生成AI導入の入口として提案しやすい領域です。</li></ul></div>
-    </section>
-    <section class="actions" id="actions"><h2>今日のアクション提案</h2><ul><li>AI検索・生成AI時代に必要なCMS要件を整理する。</li>\n<li>出典付きニュースカードを継続的にレビューする。</li>\n<li>AI-readyな情報基盤の提案項目を1つ追加する。</li></ul></section>
-    <section class="panel" id="links">
-      <h2>参考リンク</h2>
-      <div class="links">
-        <div class="link-card"><a href="https://openai.com/news/" target="_blank" rel="noopener">OpenAI News</a><p>AIモデル、プロダクト、エージェント関連の公式アップデート。</p></div>
-        <div class="link-card"><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI Blog</a><p>検索、AIプロダクト、研究開発に関する発表。</p></div>
-        <div class="link-card"><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic News</a><p>Claude、AI安全性、エンタープライズ活用の最新情報。</p></div>
+      <div class="perspective media">
+        <h2><span class="icon">▤</span>視点A：メディア視点</h2>
+        <div class="body-text"><p>メディアにとって、AI検索の普及は単なる検索流入の変化ではありません。読者が記事ページに来る前に、AIが記事の内容を要約し、他の情報源と組み合わせて回答する時代が近づいています。このとき重要になるのは、記事がどれだけ多いかだけではなく、AIが信頼できる一次情報として扱えるかどうかです。出典、更新日、文脈、人物・組織・出来事の関係、過去記事とのつながり、解説の質が、AI時代のメディア価値になります。さらに、アーカイブの価値も上がります。過去記事は単なる保管物ではなく、AIが社会的文脈を理解するための知識資産になります。これを構造化し、正しく参照される形にできるかが、今後の競争力になります。</p></div>
+        <ul><li>AI検索時代には、一次情報・出典・更新履歴の明確さがメディア価値になる</li>
+<li>アーカイブは過去記事ではなく、AI時代の知識資産として再評価される</li>
+<li>検索流入だけでなく、AIに正しく引用される仕組みを設計する必要がある</li></ul>
+      </div>
+      <div class="perspective solution">
+        <h2><span class="icon">△</span>視点B：ソリューション視点</h2>
+        <div class="body-text"><p>ソリューション側から見ると、CMSの役割は大きく変わっています。従来のCMSは、Webページを作り、承認し、公開するための仕組みでした。しかしAI時代には、CMSは企業の知識を整理し、AI検索やRAG、AIエージェントへ供給する基盤になります。製品情報、FAQ、導入事例、ニュース、PDF、動画、アクセシビリティ情報、更新履歴などを、AIが理解できる形で管理する必要があります。ここには大きな事業機会があります。多くの企業はAIツールを導入しても、社内情報が散らばっていてAIが使えません。CMS、ナレッジ管理、構造化データ、権限管理、運用保守を組み合わせた提案は、AI導入の現実的な入口になります。</p></div>
+        <ul><li>CMSはWeb更新ツールからAI-readyなKnowledge OSへ拡張できる</li>
+<li>RAG、構造化、権限管理、履歴管理は顧客提案の中核になる</li>
+<li>AI導入支援は初期構築だけでなく、継続運用・改善モデルに向いている</li></ul>
       </div>
     </section>
+
+    <section id="signals">
+      <div class="eyebrow">SOURCE SIGNALS</div>
+      <h2>関連ニュース：今日の変化を示す材料</h2>
+      <div class="signals">
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">メディア</div>
+            <h3>メディアと著作権をめぐるAI動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>56</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">More than 340 local news outlets are limiting the Internet Archive’s access to their journalism</div>
+          <div class="source-url">出典：<a href="https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/" target="_blank" rel="noopener">Nieman Lab</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「More than 340 local news outlets are limiting the Internet Archive’s access to their journalism」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    
+
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">メディア</div>
+            <h3>メディアと著作権をめぐるAI動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>46</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">Sam Altman backs “micropayment” model for AI agents to compensate publishers</div>
+          <div class="source-url">出典：<a href="https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/" target="_blank" rel="noopener">Nieman Lab</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「Sam Altman backs “micropayment” model for AI agents to compensate publishers」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    
+
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">AI動向</div>
+            <h3>生成AIをめぐる重要動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>30</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">How AI Mode is changing the way people search in the U.S.</div>
+          <div class="source-url">出典：<a href="https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/" target="_blank" rel="noopener">Google AI Blog</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「How AI Mode is changing the way people search in the U.S.」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    
+
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">AI動向</div>
+            <h3>生成AIをめぐる重要動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>26</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things</div>
+          <div class="source-url">出典：<a href="https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/" target="_blank" rel="noopener">Nieman Lab</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    
+
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">AIエージェント</div>
+            <h3>AIエージェント活用の重要動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>42</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表</div>
+          <div class="source-url">出典：<a href="https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html" target="_blank" rel="noopener">Publickey</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    
+
+      <article class="signal">
+        <div class="signal-top">
+          <div>
+            <div class="category">CMS/ナレッジ</div>
+            <h3>CMS・ナレッジ基盤に関するAI動向</h3>
+          </div>
+          <div class="score"><span>重要度</span><b>42</b></div>
+        </div>
+        <div class="source-box">
+          <div class="source-label">元記事タイトル</div>
+          <div class="source-title">Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開</div>
+          <div class="source-url">出典：<a href="https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html" target="_blank" rel="noopener">Publickey</a></div>
+        </div>
+        <div class="meaning">
+          <h4>このニュースが示す意味</h4>
+          <p>元記事「Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。</p>
+        </div>
+      </article>
+    </div>
+    </section>
+
+    <section class="actions-panel" id="actions">
+      <div class="eyebrow">NEXT ACTIONS</div>
+      <h2>今日の一手</h2>
+      <div class="actions-grid"><article class='action'><h3>AI-ready CMSの要件を1枚に整理する</h3><p>構造化データ、出典管理、更新履歴、権限管理、API、RAG連携、アクセシビリティを含めて、AI時代にCMSへ求められる要件を簡潔に整理します。営業資料や社内議論の土台になります。</p></article>
+<article class='action'><h3>AI検索で引用される情報設計を考える</h3><p>記事や製品ページがAIにどう読まれるかを前提に、見出し、要約、FAQ、メタデータ、出典表示を見直します。これはSEOの延長ではなく、AIに信頼される情報設計です。</p></article>
+<article class='action'><h3>社内ナレッジの散らばりを棚卸しする</h3><p>AI活用が進まない原因は、モデルではなく情報の散在にあることが多いです。社内文書、FAQ、提案資料、製品情報、サポート履歴がどこにあるかを整理するだけでも次の打ち手が見えてきます。</p></article></div>
+    </section>
+
     <p class="note">本レポートは公開情報を基にAIが生成した要約です。投資判断・経営判断はご自身の責任で行ってください。</p>
   </div>
 </body>
