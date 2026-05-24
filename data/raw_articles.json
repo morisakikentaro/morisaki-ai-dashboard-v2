@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:41:08.298175+00:00",
+  "generated_at": "2026-05-24T08:02:56.203564+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -82,6 +82,32 @@
       ]
     },
     {
+      "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+      "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+      "content": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+      "published": "Sun, 24 May 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+      "summary": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+      "content": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+      "published": "Sun, 24 May 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
       "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
       "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
@@ -92,32 +118,6 @@
       "selection_score": 32,
       "matched_topics": [
         "japan"
-      ]
-    },
-    {
-      "title": "デル、ローカルでAIエージェントを動かすためのデスクトップPCなど「Dell Deskside Agentic AI」発表。NVIDIA GB10やGB300搭載",
-      "url": "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
-      "summary": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
-      "content": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
-      "published": "2026-05-18T23:50:18Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
-      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
-      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "published": "2026-05-18T15:49:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -198,16 +198,29 @@
       "matched_topics": []
     },
     {
-      "title": "「Cursor」開発の新モデル、コスト1/10で最先端モデル並み性能 第三者機関が評価",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
-      "summary": "Cursorが新AIモデル「Composer 2.5」を発表。Artificial Analysisの評価で、コーディングエージェント性能ランキング3位に。Claude Opus 4.7やGPT-5.5などの最先端モデル並みの性能を約10分の1のコストで実現したという。",
-      "content": "Cursorが新AIモデル「Composer 2.5」を発表。Artificial Analysisの評価で、コーディングエージェント性能ランキング3位に。Claude Opus 4.7やGPT-5.5などの最先端モデル並みの性能を約10分の1のコストで実現したという。",
-      "published": "Fri, 22 May 2026 07:13:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
+      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
+      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
+      "published": "2026-05-18T15:49:20Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "デル、ローカルでAIエージェントを動かすためのデスクトップPCなど「Dell Deskside Agentic AI」発表。NVIDIA GB10やGB300搭載",
+      "url": "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
+      "summary": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
+      "content": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
+      "published": "2026-05-18T23:50:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
       ]
     },
     {
@@ -216,19 +229,6 @@
       "summary": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
       "content": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
       "published": "Fri, 22 May 2026 10:18:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "「SaaS is Dead」でも採用激化？ 「作れるだけ」のエンジニアが淘汰されるワケ",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/22/news034.html",
-      "summary": "生成AIの進化を背景に「SaaS is Dead」論が、SNSや投資家向けの論考を中心に広がっています。一方、SaaS業界の採用市場は縮小することなく、むしろ強化する企業も目立ちます。しかし、求める人材の条件が大きく変化しました。AIによるSaaS開発が容易になった今、企業が求めるIT人材の条件とは何なのでしょうか。",
-      "content": "生成AIの進化を背景に「SaaS is Dead」論が、SNSや投資家向けの論考を中心に広がっています。一方、SaaS業界の採用市場は縮小することなく、むしろ強化する企業も目立ちます。しかし、求める人材の条件が大きく変化しました。AIによるSaaS開発が容易になった今、企業が求めるIT人材の条件とは何なのでしょうか。",
-      "published": "Fri, 22 May 2026 08:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
