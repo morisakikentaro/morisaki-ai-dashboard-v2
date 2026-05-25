@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:02:56.203564+00:00",
+  "generated_at": "2026-05-25T12:02:51.635835+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -54,6 +54,20 @@
       "matched_topics": []
     },
     {
+      "title": "日大、教職員1万人が「Google AI Pro」活用へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+      "summary": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
+      "content": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
+      "published": "Mon, 25 May 2026 19:38:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 52,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
       "title": "APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表",
       "url": "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
       "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...",
@@ -82,29 +96,17 @@
       ]
     },
     {
-      "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
-      "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
-      "content": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
-      "published": "Sun, 24 May 2026 08:00:00 +0900",
+      "title": "「Claude Mythos」が1万件以上の脆弱性を発見 しかし修正追い付かず Anthropicが報告書",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+      "summary": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
+      "content": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
+      "published": "Mon, 25 May 2026 20:20:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
-      "summary": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
-      "content": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
-      "published": "Sun, 24 May 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise"
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -174,6 +176,19 @@
       ]
     },
     {
+      "title": "Your AI steering committee’s 2026 checklist: Observability",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
+      "summary": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
+      "content": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
+      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "100 things we announced at I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
@@ -184,56 +199,6 @@
       "selection_score": 22,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
-      "url": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
-      "summary": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "content": "IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026」で、期限の定めなく特定のバージョンのRed Hat Enterprise Linux（以下RHEL）のサポート...",
-      "published": "2026-05-18T15:49:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "デル、ローカルでAIエージェントを動かすためのデスクトップPCなど「Dell Deskside Agentic AI」発表。NVIDIA GB10やGB300搭載",
-      "url": "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
-      "summary": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
-      "content": "デル・テクノロジーズ（以下デル）は、日本時間5月18日未明に米ラスベガスで開幕した年次イベント「Dell Technologies World 2026」で、ローカルでAIエージェントを動かすためのデスクトップPCなどの製品群「Dell D...",
-      "published": "2026-05-18T23:50:18Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "不法滞在・就労 入管がSNS分析強化へ AIで自動巡回システム導入を検討",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
-      "summary": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
-      "content": "出入国在留管理庁は5月22日、不法残留・不法就労外国人の摘発強化に向け、SNS上の投稿を収集・分析するサイバーパトロールを強化する方針を明らかにした。外国語でやり取りされる不法就労の募集や偽造在留カードの取引情報などを把握し、摘発の端緒とする狙い。民間の分析ツールやAIの活用も視野に、担当体制の整備を進める。",
-      "published": "Fri, 22 May 2026 10:18:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
       ]
     },
     {
@@ -248,17 +213,54 @@
       "matched_topics": []
     },
     {
-      "title": "「Google Antigravity」利用上限緩和 ただし2.0アップデート手順に要注意",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
-      "summary": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
-      "content": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
-      "published": "Fri, 22 May 2026 14:53:26 +0900",
+      "title": "ServiceNow、AIエージェントの「データの空白」を埋める機能群を発表",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news043.html",
+      "summary": "AIエージェント導入の「壁」になるのが、サイロ化したデータとガバナンスの未整備だ。ServiceNowはこの課題をどう解決しようとしているのか。年次イベントで発表された新機能群を紹介する。",
+      "content": "AIエージェント導入の「壁」になるのが、サイロ化したデータとガバナンスの未整備だ。ServiceNowはこの課題をどう解決しようとしているのか。年次イベントで発表された新機能群を紹介する。",
+      "published": "Mon, 25 May 2026 15:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
+    },
+    {
+      "title": "金融庁と日銀、「フロンティアAI」による脆弱性大量発見に備えた対応を金融機関に要請",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000020/",
+      "summary": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
+      "content": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
+      "published": "Mon, 25 May 2026 10:57:42 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "「控えめに言って100兆円」巨大フィジカルAI市場、日本の勝ち筋は 日立がAnthropicとの提携で示した戦略",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
+      "summary": "日立製作所はフィジカルAIをテーマにしたカンファレンスを開催。前日に発表した米Anthropicとの戦略的パートナーシップを軸に、100兆円市場の獲得戦略を示した。",
+      "content": "日立製作所はフィジカルAIをテーマにしたカンファレンスを開催。前日に発表した米Anthropicとの戦略的パートナーシップを軸に、100兆円市場の獲得戦略を示した。",
+      "published": "Mon, 25 May 2026 10:33:18 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "DartがサーバレスのCloud Functions for Firebaseに対応、Dartはフルスタック言語へ。事前コンパイルでコールドスタートが10ミリ秒",
+      "url": "https://www.publickey1.jp/blog/26/dartcloud_functions_for_firebasedart10.html",
+      "summary": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、Dart言語がFirebaseのサーバレス実行環境であるCloud Functions for Firebaseに実験的対応をしたと発表しま...",
+      "content": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、Dart言語がFirebaseのサーバレス実行環境であるCloud Functions for Firebaseに実験的対応をしたと発表しま...",
+      "published": "2026-05-24T15:15:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
