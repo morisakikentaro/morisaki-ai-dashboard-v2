@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T12:02:51.635835+00:00",
+  "generated_at": "2026-05-27T11:06:38.328181+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -10,20 +10,6 @@
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 56,
-      "matched_topics": [
-        "ai_search",
-        "media"
-      ]
-    },
-    {
-      "title": "Sam Altman backs “micropayment” model for AI agents to compensate publishers",
-      "url": "https://www.niemanlab.org/2026/05/sam-altman-backs-micropayment-model-for-ai-agents-to-compensate-publishers/",
-      "summary": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of &#8220;The Most Interesting Thing in AI.&#8221; The show is produced by Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a...",
-      "content": "Late last month, Sam Altman sat down with Nicholas Thompson, the CEO of The Atlantic, for a podcast episode of &#8220;The Most Interesting Thing in AI.&#8221; The show is produced by Re:think, the publication’s marketing and branded content studio. One clip has been making the rounds on social media the past couple days. In a...",
-      "published": "Mon, 18 May 2026 19:17:36 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 46,
       "matched_topics": [
         "ai_search",
         "media"
@@ -43,6 +29,17 @@
       ]
     },
     {
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "summary": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
+      "content": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
+      "published": "Tue, 26 May 2026 19:34:01 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
       "title": "Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things",
       "url": "https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/",
       "summary": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
@@ -54,72 +51,83 @@
       "matched_topics": []
     },
     {
-      "title": "日大、教職員1万人が「Google AI Pro」活用へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
-      "summary": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
-      "content": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
-      "published": "Mon, 25 May 2026 19:38:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 52,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表",
-      "url": "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
-      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...",
-      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、簡単に実行環境付きのカスタムAIエージェントを起動できるGemini API「Managed Agent API」の提供を発表しました。 intro...",
-      "published": "2026-05-20T15:21:12Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
-      "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
-      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。...",
-      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。...",
-      "published": "2026-05-20T03:16:39Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "cms_knowledge",
-        "japan"
-      ]
-    },
-    {
-      "title": "「Claude Mythos」が1万件以上の脆弱性を発見 しかし修正追い付かず Anthropicが報告書",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
-      "summary": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
-      "content": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
-      "published": "Mon, 25 May 2026 20:20:00 +0900",
+      "title": "Notion、新開発基盤をリリース ナレッジ共有から「AIと協働する基盤」へ",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
+      "summary": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
+      "content": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
+      "published": "Wed, 27 May 2026 11:55:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
         "enterprise",
-        "japan"
+        "cms_knowledge"
       ]
     },
     {
-      "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
-      "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
-      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
-      "content": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。 Antigravity 2...",
-      "published": "2026-05-20T02:30:01Z",
+      "title": "企業向けAIエージェント基盤をオンプレミスやクラウドで構築可能に。ベアメタルへのKubernetes展開も。Nutanix .NEXT 2026［PR］",
+      "url": "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html",
+      "summary": "Nutanixが4月に米シカゴで開催した年次イベント「Nutanix .NEXT 2026」で発表した「Nutanix Agentic AI」を始めとする新たな製品群は、現在のIT部門やシステムインテグレータ、サービスプロバイダなどが直面す...",
+      "content": "Nutanixが4月に米シカゴで開催した年次イベント「Nutanix .NEXT 2026」で発表した「Nutanix Agentic AI」を始めとする新たな製品群は、現在のIT部門やシステムインテグレータ、サービスプロバイダなどが直面す...",
+      "published": "2026-05-25T15:12:48Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "japan"
+      ]
+    },
+    {
+      "title": "xAIがコーディングエージェント「Grok Build」ベータ公開。サブエージェントを並列に実行可能など",
+      "url": "https://www.publickey1.jp/blog/26/xaigrok_build.html",
+      "summary": "イーロン・マスク氏が設立したAI企業のxAIが、コーディングに特化したAIエージェント「Grok Build」早期ベータ版を公開しました。 Grok Buildはプロフェッショナルなソフトウェアエンジニアリングおよび複雑なコーディングに対応...",
+      "content": "イーロン・マスク氏が設立したAI企業のxAIが、コーディングに特化したAIエージェント「Grok Build」早期ベータ版を公開しました。 Grok Buildはプロフェッショナルなソフトウェアエンジニアリングおよび複雑なコーディングに対応...",
+      "published": "2026-05-25T15:04:43Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "「AIに任せ過ぎて本番データ消失」 活用率98％のGMOが導き出した、生成AIを使いこなせる人の5つの特徴",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news020.html",
+      "summary": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
+      "content": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
+      "published": "Wed, 27 May 2026 13:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "ヒト型AIロボスタートアップのアトムが30億円調達 「日本のGDPを1％アップ」目指す",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
+      "summary": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
+      "content": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
+      "published": "Wed, 27 May 2026 12:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "content": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "enterprise",
+        "media"
       ]
     },
     {
@@ -176,19 +184,6 @@
       ]
     },
     {
-      "title": "Your AI steering committee’s 2026 checklist: Observability",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/04/16/your-ai-steering-committees-2026-checklist-observability/",
-      "summary": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
-      "content": "AI observability checklist for 2026: gain visibility, control AI agents, manage risks, and scale trusted enterprise AI. The post Your AI steering committee&#8217;s 2026 checklist: Observability appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 16 Apr 2026 15:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "100 things we announced at I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
@@ -202,54 +197,15 @@
       ]
     },
     {
-      "title": "NPR may be flush with gifts to transform its tech, but it still has to cut jobs",
-      "url": "https://www.niemanlab.org/2026/05/npr-may-be-flush-with-gifts-to-transform-its-tech-but-it-still-has-to-cut-jobs/",
-      "summary": "Last month, NPR announced two private gifts totaling $113 million — among the largest donations it&#8217;s received in its history. The $80 million donation, from philanthropist Connie Ballmer, is specifically for &#8220;ensuring NPR transforms its technology to meet the needs and serve the interests of public media audiences on whatever platforms or devices they may...",
-      "content": "Last month, NPR announced two private gifts totaling $113 million — among the largest donations it&#8217;s received in its history. The $80 million donation, from philanthropist Connie Ballmer, is specifically for &#8220;ensuring NPR transforms its technology to meet the needs and serve the interests of public media audiences on whatever platforms or devices they may...",
-      "published": "Tue, 19 May 2026 15:34:57 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
+      "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
+      "url": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
+      "summary": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
+      "content": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
+      "published": "2026-05-26T15:40:27Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
-    },
-    {
-      "title": "ServiceNow、AIエージェントの「データの空白」を埋める機能群を発表",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news043.html",
-      "summary": "AIエージェント導入の「壁」になるのが、サイロ化したデータとガバナンスの未整備だ。ServiceNowはこの課題をどう解決しようとしているのか。年次イベントで発表された新機能群を紹介する。",
-      "content": "AIエージェント導入の「壁」になるのが、サイロ化したデータとガバナンスの未整備だ。ServiceNowはこの課題をどう解決しようとしているのか。年次イベントで発表された新機能群を紹介する。",
-      "published": "Mon, 25 May 2026 15:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "金融庁と日銀、「フロンティアAI」による脆弱性大量発見に備えた対応を金融機関に要請",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000020/",
-      "summary": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
-      "content": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
-      "published": "Mon, 25 May 2026 10:57:42 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "「控えめに言って100兆円」巨大フィジカルAI市場、日本の勝ち筋は 日立がAnthropicとの提携で示した戦略",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
-      "summary": "日立製作所はフィジカルAIをテーマにしたカンファレンスを開催。前日に発表した米Anthropicとの戦略的パートナーシップを軸に、100兆円市場の獲得戦略を示した。",
-      "content": "日立製作所はフィジカルAIをテーマにしたカンファレンスを開催。前日に発表した米Anthropicとの戦略的パートナーシップを軸に、100兆円市場の獲得戦略を示した。",
-      "published": "Mon, 25 May 2026 10:33:18 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
     },
     {
       "title": "DartがサーバレスのCloud Functions for Firebaseに対応、Dartはフルスタック言語へ。事前コンパイルでコールドスタートが10ミリ秒",
@@ -260,6 +216,39 @@
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Google、「Dart＆Flutter Agent Skills」リリース。DartとFlutter開発の最新ベストプラクティスをAIエージェントに提供",
+      "url": "https://www.publickey1.jp/blog/26/googledartflutter_agent_skillsdartflutterai.html",
+      "summary": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、AIエージェントに対してDart言語とFlutterフレームワークを用いたアプリケーション開発のベストプラクティスを提供する「Dart＆Fl...",
+      "content": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、AIエージェントに対してDart言語とFlutterフレームワークを用いたアプリケーション開発のベストプラクティスを提供する「Dart＆Fl...",
+      "published": "2026-05-24T15:11:51Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "「この答弁はAIが原案作成」 参院本会議で松本デジタル相「職員が事実確認し私が決済」",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
+      "summary": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
+      "content": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
+      "published": "Wed, 27 May 2026 16:48:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
