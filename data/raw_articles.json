@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T11:06:38.328181+00:00",
+  "generated_at": "2026-05-28T11:53:11.144836+00:00",
   "articles": [
     {
       "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
@@ -16,6 +16,33 @@
       ]
     },
     {
+      "title": "The emerging AI content licensing market puts news publishers in a “double bind,” a new report warns",
+      "url": "https://www.niemanlab.org/2026/05/the-emerging-ai-content-licensing-market-puts-news-publishers-in-a-double-bind-a-new-report-warns/",
+      "summary": "A new report from the thinktank Open Markets Institute scopes out the current state of AI content licensing for news publishers. “Same Gatekeepers, New Tollbooths: Mapping the AI Content Licensing Market” explores the emerging market for content licensing, arguing that news publishers are currently in a “double bind”: The same big tech companies that are...",
+      "content": "A new report from the thinktank Open Markets Institute scopes out the current state of AI content licensing for news publishers. “Same Gatekeepers, New Tollbooths: Mapping the AI Content Licensing Market” explores the emerging market for content licensing, arguing that news publishers are currently in a “double bind”: The same big tech companies that are...",
+      "published": "Wed, 27 May 2026 20:35:02 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
+    {
+      "title": "The Economist launches a dedicated ChatGPT app",
+      "url": "https://www.niemanlab.org/2026/05/the-economist-launches-a-dedicated-chatgpt-app/",
+      "summary": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
+      "content": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
+      "published": "Wed, 27 May 2026 16:03:37 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "How AI Mode is changing the way people search in the U.S.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
@@ -29,39 +56,16 @@
       ]
     },
     {
-      "title": "Erin Brockovich made a map to track data centers around the country",
-      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-      "summary": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
-      "content": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
-      "published": "Tue, 26 May 2026 19:34:01 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "Tech journalist Joanna Stern on leaving the Wall Street Journal and moving on to New Things",
-      "url": "https://www.niemanlab.org/2026/05/tech-journalist-joanna-stern-on-leaving-the-wall-street-journal-and-moving-on-to-new-things/",
-      "summary": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
-      "content": "Joanna Stern is no stranger to new things. It&#8217;s part of the job: Stern began working as a technology journalist in 2007, the year Apple launched the first iPhone, and has covered the shifts in the industry through the rise of smartphones, the mobile internet, and AI. Along the way, she won an Emmy and...",
-      "published": "Tue, 19 May 2026 16:58:42 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "Notion、新開発基盤をリリース ナレッジ共有から「AIと協働する基盤」へ",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
-      "summary": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
-      "content": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
-      "published": "Wed, 27 May 2026 11:55:00 +0900",
+      "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+      "summary": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
+      "content": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
+      "published": "Thu, 28 May 2026 19:25:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 47,
       "matched_topics": [
-        "enterprise",
-        "cms_knowledge"
+        "japan"
       ]
     },
     {
@@ -91,30 +95,28 @@
       ]
     },
     {
-      "title": "「AIに任せ過ぎて本番データ消失」 活用率98％のGMOが導き出した、生成AIを使いこなせる人の5つの特徴",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news020.html",
-      "summary": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
-      "content": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
-      "published": "Wed, 27 May 2026 13:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "ヒト型AIロボスタートアップのアトムが30億円調達 「日本のGDPを1％アップ」目指す",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
-      "summary": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
-      "content": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
-      "published": "Wed, 27 May 2026 12:30:00 +0900",
+      "title": "OpenAI、Anthropicが新会社設立 国内SIerは「黒船襲来」に対抗できるか？",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news061.html",
+      "summary": "AnthropicとOpenAIがAIサービスを担う新会社の設立を相次いで発表した。FDEやApplied AI Engineerを擁する「黒船」来襲はSIerにとって脅威となるのか。国内SIerが取るべき備えとは何か。",
+      "content": "AnthropicとOpenAIがAIサービスを担う新会社の設立を相次いで発表した。FDEやApplied AI Engineerを擁する「黒船」来襲はSIerにとって脅威となるのか。国内SIerが取るべき備えとは何か。",
+      "published": "Thu, 28 May 2026 10:50:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
+    },
+    {
+      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "published": "2026-05-27T15:56:26Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -145,11 +147,11 @@
       ]
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "published": "Wed, 27 May 2026 11:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -158,24 +160,11 @@
       ]
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "content": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "published": "Fri, 22 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "published": "Thu, 21 May 2026 12:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -195,6 +184,28 @@
       "matched_topics": [
         "enterprise"
       ]
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "summary": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
+      "content": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
+      "published": "Tue, 26 May 2026 19:34:01 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
@@ -219,33 +230,22 @@
       "matched_topics": []
     },
     {
-      "title": "Google、「Dart＆Flutter Agent Skills」リリース。DartとFlutter開発の最新ベストプラクティスをAIエージェントに提供",
-      "url": "https://www.publickey1.jp/blog/26/googledartflutter_agent_skillsdartflutterai.html",
-      "summary": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、AIエージェントに対してDart言語とFlutterフレームワークを用いたアプリケーション開発のベストプラクティスを提供する「Dart＆Fl...",
-      "content": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、AIエージェントに対してDart言語とFlutterフレームワークを用いたアプリケーション開発のベストプラクティスを提供する「Dart＆Fl...",
-      "published": "2026-05-24T15:11:51Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "「この答弁はAIが原案作成」 参院本会議で松本デジタル相「職員が事実確認し私が決済」",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
-      "summary": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
-      "content": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
-      "published": "Wed, 27 May 2026 16:48:00 +0900",
+      "title": "Docker専用のAIエージェント「Gordon」が正式リリース 無料アカウントでも利用可能",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+      "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+      "content": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+      "published": "Thu, 28 May 2026 12:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "content": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
