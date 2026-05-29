@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28T11:53:11.144836+00:00",
+  "generated_at": "2026-05-29T10:57:57.413432+00:00",
   "articles": [
     {
-      "title": "More than 340 local news outlets are limiting the Internet Archive’s access to their journalism",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "summary": "In January, Nieman Lab broke the story that major news publishers — including The New York Times, The Guardian, and USA Today Co. — had started blocking the Internet Archive due to concerns that AI companies might scrape the nonprofit&#8217;s repositories for training data. No news publisher has confirmed to Nieman Lab that an AI...",
-      "content": "In January, Nieman Lab broke the story that major news publishers — including The New York Times, The Guardian, and USA Today Co. — had started blocking the Internet Archive due to concerns that AI companies might scrape the nonprofit&#8217;s repositories for training data. No news publisher has confirmed to Nieman Lab that an AI...",
-      "published": "Wed, 20 May 2026 21:03:15 +0000",
+      "title": "Micropayments for news have failed everywhere. Can they succeed in Kenya?",
+      "url": "https://www.niemanlab.org/2026/05/micropayments-for-news-have-failed-everywhere-can-they-succeed-in-kenya/",
+      "summary": "Reader revenue models are under strain worldwide. Audiences are overwhelmed by paywalls, trust in news is shrinking, and publishers are searching for new ways to persuade people to pay. In Kenya, some newsrooms are trying a different approach. Instead of asking for monthly commitments, they are testing whether readers will pay small amounts for a...",
+      "content": "Reader revenue models are under strain worldwide. Audiences are overwhelmed by paywalls, trust in news is shrinking, and publishers are searching for new ways to persuade people to pay. In Kenya, some newsrooms are trying a different approach. Instead of asking for monthly commitments, they are testing whether readers will pay small amounts for a...",
+      "published": "Thu, 28 May 2026 18:24:52 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 56,
@@ -30,42 +30,29 @@
       ]
     },
     {
-      "title": "The Economist launches a dedicated ChatGPT app",
-      "url": "https://www.niemanlab.org/2026/05/the-economist-launches-a-dedicated-chatgpt-app/",
-      "summary": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
-      "content": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
-      "published": "Wed, 27 May 2026 16:03:37 +0000",
+      "title": "Think the media’s biased against you? You probably think misinformation is too",
+      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
+      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "published": "Thu, 28 May 2026 20:59:14 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-      "content": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
       "matched_topics": [
         "ai_search"
       ]
     },
     {
-      "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
-      "summary": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
-      "content": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
-      "published": "Thu, 28 May 2026 19:25:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 47,
+      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
+      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
+      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "published": "Thu, 28 May 2026 20:32:32 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
       "matched_topics": [
-        "japan"
+        "cms_knowledge"
       ]
     },
     {
@@ -95,14 +82,27 @@
       ]
     },
     {
-      "title": "OpenAI、Anthropicが新会社設立 国内SIerは「黒船襲来」に対抗できるか？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news061.html",
-      "summary": "AnthropicとOpenAIがAIサービスを担う新会社の設立を相次いで発表した。FDEやApplied AI Engineerを擁する「黒船」来襲はSIerにとって脅威となるのか。国内SIerが取るべき備えとは何か。",
-      "content": "AnthropicとOpenAIがAIサービスを担う新会社の設立を相次いで発表した。FDEやApplied AI Engineerを擁する「黒船」来襲はSIerにとって脅威となるのか。国内SIerが取るべき備えとは何か。",
-      "published": "Thu, 28 May 2026 10:50:00 +0900",
+      "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得 サイバー対策強化へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+      "summary": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
+      "content": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
+      "published": "Fri, 29 May 2026 19:14:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
+      "summary": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
+      "content": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
+      "published": "Fri, 29 May 2026 17:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
@@ -119,17 +119,16 @@
       "matched_topics": []
     },
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "content": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "published": "Thu, 28 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 40,
       "matched_topics": [
-        "enterprise",
-        "media"
+        "enterprise"
       ]
     },
     {
@@ -160,19 +159,6 @@
       ]
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "published": "Fri, 22 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "100 things we announced at I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
@@ -186,15 +172,39 @@
       ]
     },
     {
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "content": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "published": "Fri, 29 May 2026 03:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "content": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "published": "Thu, 28 May 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "The Economist launches a dedicated ChatGPT app",
+      "url": "https://www.niemanlab.org/2026/05/the-economist-launches-a-dedicated-chatgpt-app/",
+      "summary": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
+      "content": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
+      "published": "Wed, 27 May 2026 16:03:37 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
       "title": "Erin Brockovich made a map to track data centers around the country",
@@ -230,25 +240,14 @@
       "matched_topics": []
     },
     {
-      "title": "Docker専用のAIエージェント「Gordon」が正式リリース 無料アカウントでも利用可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
-      "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
-      "content": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
-      "published": "Thu, 28 May 2026 12:00:00 +0900",
+      "title": "クラウド依存、コストの課題を解消？ MicrosoftのローカルAI基盤「Foundry Local」",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
+      "summary": "Microsoftは、開発者がアプリケーションにAI機能を組み込めるローカルAI実行基盤「Foundry Local」の一般提供を開始した。ユーザーの端末上でAI処理を完結させる仕組みにより、クラウドへの依存やネットワーク遅延、トークン課金が発生しないAI実装が可能になるという。",
+      "content": "Microsoftは、開発者がアプリケーションにAI機能を組み込めるローカルAI実行基盤「Foundry Local」の一般提供を開始した。ユーザーの端末上でAI処理を完結させる仕組みにより、クラウドへの依存やネットワーク遅延、トークン課金が発生しないAI実装が可能になるという。",
+      "published": "Fri, 29 May 2026 11:30:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "content": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
       "matched_topics": []
     }
   ]
