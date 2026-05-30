@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:57:57.413432+00:00",
+  "generated_at": "2026-05-30T07:59:42.946092+00:00",
   "articles": [
     {
       "title": "Micropayments for news have failed everywhere. Can they succeed in Kenya?",
@@ -82,6 +82,19 @@
       ]
     },
     {
+      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始 「2」は動画からの画像生成もサポート",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+      "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
+      "content": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
+      "published": "Fri, 29 May 2026 20:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得 サイバー対策強化へ",
       "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
       "summary": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
@@ -95,40 +108,16 @@
       ]
     },
     {
-      "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
-      "summary": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
-      "content": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
-      "published": "Fri, 29 May 2026 17:00:00 +0900",
+      "title": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "content": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "published": "Fri, 29 May 2026 13:12:36 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
         "japan"
-      ]
-    },
-    {
-      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
-      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "published": "2026-05-27T15:56:26Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "published": "Thu, 28 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -146,24 +135,11 @@
       ]
     },
     {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "published": "Wed, 27 May 2026 11:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-      "content": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
-      "published": "Wed, 20 May 2026 19:30:00 +0000",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "content": "Gemini Omni & Gemini 3.5 hero",
+      "published": "Fri, 29 May 2026 17:30:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -172,11 +148,33 @@
       ]
     },
     {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "content": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "published": "Fri, 29 May 2026 03:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "content": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
@@ -218,34 +216,36 @@
       "matched_topics": []
     },
     {
+      "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
+      "summary": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
+      "content": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
+      "published": "Fri, 29 May 2026 17:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "published": "2026-05-27T15:56:26Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
       "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
       "url": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
       "summary": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
       "content": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
       "published": "2026-05-26T15:40:27Z",
       "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "DartがサーバレスのCloud Functions for Firebaseに対応、Dartはフルスタック言語へ。事前コンパイルでコールドスタートが10ミリ秒",
-      "url": "https://www.publickey1.jp/blog/26/dartcloud_functions_for_firebasedart10.html",
-      "summary": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、Dart言語がFirebaseのサーバレス実行環境であるCloud Functions for Firebaseに実験的対応をしたと発表しま...",
-      "content": "Googleは5月19日と20日の2日間にかけて行ったイベント「Google I/O 2026」で、Dart言語がFirebaseのサーバレス実行環境であるCloud Functions for Firebaseに実験的対応をしたと発表しま...",
-      "published": "2026-05-24T15:15:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "クラウド依存、コストの課題を解消？ MicrosoftのローカルAI基盤「Foundry Local」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
-      "summary": "Microsoftは、開発者がアプリケーションにAI機能を組み込めるローカルAI実行基盤「Foundry Local」の一般提供を開始した。ユーザーの端末上でAI処理を完結させる仕組みにより、クラウドへの依存やネットワーク遅延、トークン課金が発生しないAI実装が可能になるという。",
-      "content": "Microsoftは、開発者がアプリケーションにAI機能を組み込めるローカルAI実行基盤「Foundry Local」の一般提供を開始した。ユーザーの端末上でAI処理を完結させる仕組みにより、クラウドへの依存やネットワーク遅延、トークン課金が発生しないAI実装が可能になるという。",
-      "published": "Fri, 29 May 2026 11:30:00 +0900",
-      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
