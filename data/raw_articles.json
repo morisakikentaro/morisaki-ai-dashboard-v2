@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T07:59:42.946092+00:00",
+  "generated_at": "2026-05-31T08:30:00.228427+00:00",
   "articles": [
     {
       "title": "Micropayments for news have failed everywhere. Can they succeed in Kenya?",
@@ -56,6 +56,20 @@
       ]
     },
     {
+      "title": "日立はAnthropicと組んで何を狙うのか 従業員29万人へのClaude導入で目指す姿",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
+      "summary": "ミッションクリティカル領域でのAI活用に向け、日立はAnthropicと戦略的パートナーシップを締結した。同社は今回の提携で何を実現しようとしているのか。",
+      "content": "ミッションクリティカル領域でのAI活用に向け、日立はAnthropicと戦略的パートナーシップを締結した。同社は今回の提携で何を実現しようとしているのか。",
+      "published": "Sun, 31 May 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
       "title": "企業向けAIエージェント基盤をオンプレミスやクラウドで構築可能に。ベアメタルへのKubernetes展開も。Nutanix .NEXT 2026［PR］",
       "url": "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html",
       "summary": "Nutanixが4月に米シカゴで開催した年次イベント「Nutanix .NEXT 2026」で発表した「Nutanix Agentic AI」を始めとする新たな製品群は、現在のIT部門やシステムインテグレータ、サービスプロバイダなどが直面す...",
@@ -100,19 +114,6 @@
       "summary": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
       "content": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
       "published": "Fri, 29 May 2026 19:14:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
-      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
-      "content": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
-      "published": "Fri, 29 May 2026 13:12:36 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -205,6 +206,19 @@
       ]
     },
     {
+      "title": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "content": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "published": "Fri, 29 May 2026 13:12:36 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
       "title": "Erin Brockovich made a map to track data centers around the country",
       "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
       "summary": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
@@ -234,17 +248,6 @@
       "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
       "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
       "published": "2026-05-27T15:56:26Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
-      "url": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
-      "summary": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
-      "content": "Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました...",
-      "published": "2026-05-26T15:40:27Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
