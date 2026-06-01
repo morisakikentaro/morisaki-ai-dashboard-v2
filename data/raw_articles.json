@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-05-31T08:30:00.228427+00:00",
+  "generated_at": "2026-06-01T19:14:18.990180+00:00",
   "articles": [
+    {
+      "title": "“You’ll need journalism so distinctive it has its own gravity”: New York Times publisher A.G. Sulzberger on how news organizations can stand up to AI companies",
+      "url": "https://www.niemanlab.org/2026/06/youll-need-journalism-so-distinctive-it-has-its-own-gravity-new-york-times-publisher-a-g-sulzberger-on-how-news-organizations-can-stand-up-to-ai/",
+      "summary": "New York Times publisher A.G. Sulzberger delivered a keynote at the WAN-IFRA World News Media Congress in Marseille, France on Monday. Titled &#8220;AI, Journalism, and the Uncertain Future of the Public Square,&#8221; the talk is published in full here. &#8220;Our profession has been too quiet, too passive, and too fragmented in the face of abuses...",
+      "content": "New York Times publisher A.G. Sulzberger delivered a keynote at the WAN-IFRA World News Media Congress in Marseille, France on Monday. Titled &#8220;AI, Journalism, and the Uncertain Future of the Public Square,&#8221; the talk is published in full here. &#8220;Our profession has been too quiet, too passive, and too fragmented in the face of abuses...",
+      "published": "Mon, 01 Jun 2026 14:59:59 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 66,
+      "matched_topics": [
+        "ai_search",
+        "cms_knowledge",
+        "media"
+      ]
+    },
     {
       "title": "Micropayments for news have failed everywhere. Can they succeed in Kenya?",
       "url": "https://www.niemanlab.org/2026/05/micropayments-for-news-have-failed-everywhere-can-they-succeed-in-kenya/",
@@ -43,24 +58,11 @@
       ]
     },
     {
-      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
-      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
-      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "published": "Thu, 28 May 2026 20:32:32 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "日立はAnthropicと組んで何を狙うのか 従業員29万人へのClaude導入で目指す姿",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
-      "summary": "ミッションクリティカル領域でのAI活用に向け、日立はAnthropicと戦略的パートナーシップを締結した。同社は今回の提携で何を実現しようとしているのか。",
-      "content": "ミッションクリティカル領域でのAI活用に向け、日立はAnthropicと戦略的パートナーシップを締結した。同社は今回の提携で何を実現しようとしているのか。",
-      "published": "Sun, 31 May 2026 08:00:00 +0900",
+      "title": "Salesforceの「深謀遠慮」とは？ AIエージェント時代のオープンシステム、主導権争いの行方",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news107.html",
+      "summary": "AIエージェントが多数動き回る企業の業務システムに向けて、Salesforceが新たなソリューションを打ち出した。そのソリューションの狙いを考察すると、そこには同社の深謀遠慮があるようだ。",
+      "content": "AIエージェントが多数動き回る企業の業務システムに向けて、Salesforceが新たなソリューションを打ち出した。そのソリューションの狙いを考察すると、そこには同社の深謀遠慮があるようだ。",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
@@ -70,38 +72,12 @@
       ]
     },
     {
-      "title": "企業向けAIエージェント基盤をオンプレミスやクラウドで構築可能に。ベアメタルへのKubernetes展開も。Nutanix .NEXT 2026［PR］",
-      "url": "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html",
-      "summary": "Nutanixが4月に米シカゴで開催した年次イベント「Nutanix .NEXT 2026」で発表した「Nutanix Agentic AI」を始めとする新たな製品群は、現在のIT部門やシステムインテグレータ、サービスプロバイダなどが直面す...",
-      "content": "Nutanixが4月に米シカゴで開催した年次イベント「Nutanix .NEXT 2026」で発表した「Nutanix Agentic AI」を始めとする新たな製品群は、現在のIT部門やシステムインテグレータ、サービスプロバイダなどが直面す...",
-      "published": "2026-05-25T15:12:48Z",
+      "title": "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
+      "summary": "Google Cloudは、エンタープライズ向けに提供されているPostgreSQL互換のデータベースサービス「AlloyDB for PostgreSQL」で、通常30秒以内の高速なフェイルオーバーを可能にする新たなホットスタンバイ機能の...",
+      "content": "Google Cloudは、エンタープライズ向けに提供されているPostgreSQL互換のデータベースサービス「AlloyDB for PostgreSQL」で、通常30秒以内の高速なフェイルオーバーを可能にする新たなホットスタンバイ機能の...",
+      "published": "2026-05-31T15:26:39Z",
       "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "xAIがコーディングエージェント「Grok Build」ベータ公開。サブエージェントを並列に実行可能など",
-      "url": "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-      "summary": "イーロン・マスク氏が設立したAI企業のxAIが、コーディングに特化したAIエージェント「Grok Build」早期ベータ版を公開しました。 Grok Buildはプロフェッショナルなソフトウェアエンジニアリングおよび複雑なコーディングに対応...",
-      "content": "イーロン・マスク氏が設立したAI企業のxAIが、コーディングに特化したAIエージェント「Grok Build」早期ベータ版を公開しました。 Grok Buildはプロフェッショナルなソフトウェアエンジニアリングおよび複雑なコーディングに対応...",
-      "published": "2026-05-25T15:04:43Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始 「2」は動画からの画像生成もサポート",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
-      "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
-      "content": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
-      "published": "Fri, 29 May 2026 20:30:00 +0900",
-      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -109,17 +85,39 @@
       ]
     },
     {
-      "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得 サイバー対策強化へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
-      "summary": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
-      "content": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
-      "published": "Fri, 29 May 2026 19:14:00 +0900",
+      "title": "“VB.NET移行をAIで爆速化”した千葉銀行GのIT企業 「12.5人月→2.0人月」をどう実現？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news037.html",
+      "summary": "ちばぎんコンピューターサービスはAI駆動開発の仕組みを構築し、既存のVB.NETシステムのマイグレーション工数を12.5人月から2.0人月に削減した。どう実現したのか。",
+      "content": "ちばぎんコンピューターサービスはAI駆動開発の仕組みを構築し、既存のVB.NETシステムのマイグレーション工数を12.5人月から2.0人月に削減した。どう実現したのか。",
+      "published": "Mon, 01 Jun 2026 13:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
+    },
+    {
+      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
+      "url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+      "summary": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
+      "content": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
+      "published": "2026-05-31T15:24:56Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
+      "published": "2026-05-27T15:56:26Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -136,6 +134,19 @@
       ]
     },
     {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "content": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -147,6 +158,17 @@
       "matched_topics": [
         "enterprise"
       ]
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "content": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
     },
     {
       "title": "Boston Children’s uses AI to unlock new diagnoses",
@@ -171,84 +193,58 @@
       "matched_topics": []
     },
     {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "content": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "published": "Fri, 29 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "content": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "published": "Thu, 28 May 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "The Economist launches a dedicated ChatGPT app",
-      "url": "https://www.niemanlab.org/2026/05/the-economist-launches-a-dedicated-chatgpt-app/",
-      "summary": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
-      "content": "On Wednesday, The Economist launched its own ChatGPT app — the first of its kind by a major consumer news publication. “The Economist &#8211; Graphs” runs natively inside ChatGPT and allows users to interact with the publication’s data visualizations. At launch, the app is focused solely on U.S. polling data. After installing the app, ChatGPT...",
-      "published": "Wed, 27 May 2026 16:03:37 +0000",
+      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
+      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
+      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "published": "Thu, 28 May 2026 20:32:32 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
-        "enterprise"
+        "cms_knowledge"
       ]
     },
     {
-      "title": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
-      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
-      "content": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
-      "published": "Fri, 29 May 2026 13:12:36 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Erin Brockovich made a map to track data centers around the country",
-      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-      "summary": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
-      "content": "Erin Brockovich, the environmental activist whose name and work you may recognize from the Oscar-winning movie Erin Brockovich, has created a tool to map data centers across the country, along with a form for people to report data centers and their impacts in their community. &#8220;The RACE to build AI infrastructures is unfolding town by...",
-      "published": "Tue, 26 May 2026 19:34:01 +0000",
+      "title": "With Monitor Local, The Maine Monitor expands to civic news — written by local residents — for rural counties",
+      "url": "https://www.niemanlab.org/2026/06/with-monitor-local-the-maine-monitor-expands-to-civic-news-written-by-local-residents-for-rural-counties/",
+      "summary": "When The Maine Center for Public Interest Reporting began publishing The Maine Monitor in 2020, the publication became the latest vehicle for the mission the nonprofit had pursued since its founding in 2009: addressing Maine&#8217;s need for investigative reporting as the state&#8217;s legacy newsrooms cut capacity. Today, local investigative reporting is still the Monitor&#8217;s core...",
+      "content": "When The Maine Center for Public Interest Reporting began publishing The Maine Monitor in 2020, the publication became the latest vehicle for the mission the nonprofit had pursued since its founding in 2009: addressing Maine&#8217;s need for investigative reporting as the state&#8217;s legacy newsrooms cut capacity. Today, local investigative reporting is still the Monitor&#8217;s core...",
+      "published": "Mon, 01 Jun 2026 17:42:47 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
     },
     {
-      "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
-      "summary": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
-      "content": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
-      "published": "Fri, 29 May 2026 17:00:00 +0900",
+      "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html",
+      "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+      "content": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+      "published": "Mon, 01 Jun 2026 12:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
-      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
-      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "published": "2026-05-27T15:56:26Z",
-      "source": "Publickey",
+      "title": "NVIDIAがWindows PCに再参入「RTX Spark」 最新のNVIDIA GPUと128GBユニファイドメモリを搭載【訂正あり】",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/01/2000000040/",
+      "summary": "米NVIDIAは6月1日（現地時間）、コンピュータ関連の見本市「COMPUTEX TAIPEI 2026」に先駆けて開いたカンファレンス「NVIDIA GTC Taipei 2026」の中で、Microsoftと共同開発したWindows PC向けプロセッサ「RTX Spark」を発表した。Blackwell世代のGPUと、最大128GBのユニファイドメモリを搭載することで高いAI実行性能をうたう。",
+      "content": "米NVIDIAは6月1日（現地時間）、コンピュータ関連の見本市「COMPUTEX TAIPEI 2026」に先駆けて開いたカンファレンス「NVIDIA GTC Taipei 2026」の中で、Microsoftと共同開発したWindows PC向けプロセッサ「RTX Spark」を発表した。Blackwell世代のGPUと、最大128GBのユニファイドメモリを搭載することで高いAI実行性能をうたう。",
+      "published": "Mon, 01 Jun 2026 09:10:30 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "図面SaaSに高精度な3Dモデル生成とアセンブリ機能、CAE機能のβ版を追加",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news013.html",
+      "summary": "renueは、図面SaaS「Drawing Agent」をアップデートした。高精度な3Dモデル生成機能や複数パーツの組み立てに対応するアセンブリ機能、構造解析を実行する「CAE機能 β版」を追加し、図面の読み取りから構造解析までを一連の流れで扱えるようにした。",
+      "content": "renueは、図面SaaS「Drawing Agent」をアップデートした。高精度な3Dモデル生成機能や複数パーツの組み立てに対応するアセンブリ機能、構造解析を実行する「CAE機能 β版」を追加し、図面の読み取りから構造解析までを一連の流れで扱えるようにした。",
+      "published": "Mon, 01 Jun 2026 09:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
