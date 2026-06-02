@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:14:18.990180+00:00",
+  "generated_at": "2026-06-02T12:29:50.649295+00:00",
   "articles": [
     {
       "title": "“You’ll need journalism so distinctive it has its own gravity”: New York Times publisher A.G. Sulzberger on how news organizations can stand up to AI companies",
@@ -45,30 +45,17 @@
       ]
     },
     {
-      "title": "Think the media’s biased against you? You probably think misinformation is too",
-      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
-      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "published": "Thu, 28 May 2026 20:59:14 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "content": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
       "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "Salesforceの「深謀遠慮」とは？ AIエージェント時代のオープンシステム、主導権争いの行方",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news107.html",
-      "summary": "AIエージェントが多数動き回る企業の業務システムに向けて、Salesforceが新たなソリューションを打ち出した。そのソリューションの狙いを考察すると、そこには同社の深謀遠慮があるようだ。",
-      "content": "AIエージェントが多数動き回る企業の業務システムに向けて、Salesforceが新たなソリューションを打ち出した。そのソリューションの狙いを考察すると、そこには同社の深謀遠慮があるようだ。",
-      "published": "Mon, 01 Jun 2026 16:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "enterprise",
-        "japan"
+        "ai_search",
+        "cms_knowledge"
       ]
     },
     {
@@ -85,39 +72,56 @@
       ]
     },
     {
-      "title": "“VB.NET移行をAIで爆速化”した千葉銀行GのIT企業 「12.5人月→2.0人月」をどう実現？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news037.html",
-      "summary": "ちばぎんコンピューターサービスはAI駆動開発の仕組みを構築し、既存のVB.NETシステムのマイグレーション工数を12.5人月から2.0人月に削減した。どう実現したのか。",
-      "content": "ちばぎんコンピューターサービスはAI駆動開発の仕組みを構築し、既存のVB.NETシステムのマイグレーション工数を12.5人月から2.0人月に削減した。どう実現したのか。",
-      "published": "Mon, 01 Jun 2026 13:00:00 +0900",
+      "title": "生成AIを「悩み相談」に使う10代女性たち 阿部前監督事件を招いた「AI正論」の波紋",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
+      "summary": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
+      "content": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
+      "published": "Tue, 02 Jun 2026 10:31:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news058.html",
+      "summary": "NVIDIAは、工場を自律的に管理するAIエージェントのレファレンスデザイン「NVIDIA Factory Operations Blueprint（FOX）」を発表した。FOXを用いれば、工場内のさまざまなデータをリアルタイムに監視／分析し、複数のAIエージェントと機器を連携させることで問題を迅速に解決するAIアプリケーションを容易に構築できるという。",
+      "content": "NVIDIAは、工場を自律的に管理するAIエージェントのレファレンスデザイン「NVIDIA Factory Operations Blueprint（FOX）」を発表した。FOXを用いれば、工場内のさまざまなデータをリアルタイムに監視／分析し、複数のAIエージェントと機器を連携させることで問題を迅速に解決するAIアプリケーションを容易に構築できるという。",
+      "published": "Tue, 02 Jun 2026 07:45:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "製造現場の「AIアレルギー」をどう払拭？ 日立・新卒デジタル人材「3カ月奮闘記」",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/02/news023.html",
+      "summary": "日立製作所は、AIやデータ解析の専門スキルを持つ新人データサイエンティストを、製造現場へと送り込んでいる。いかにして現場の「AIアレルギー」を払拭し、現場とのコミュニケーションを通じて業務時間を短縮する生成AIツールを定着させたのか。実習に参加した若手女性データサイエンティストの禹周賢（ウ・ジュヒョン）さん（デジタルアナリティクス推進部）と、受け入れ先の現場担当者にインタビューした。",
+      "content": "日立製作所は、AIやデータ解析の専門スキルを持つ新人データサイエンティストを、製造現場へと送り込んでいる。いかにして現場の「AIアレルギー」を払拭し、現場とのコミュニケーションを通じて業務時間を短縮する生成AIツールを定着させたのか。実習に参加した若手女性データサイエンティストの禹周賢（ウ・ジュヒョン）さん（デジタルアナリティクス推進部）と、受け入れ先の現場担当者にインタビューした。",
+      "published": "Tue, 02 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "バイブコーディングの“プロトタイプで止まりがち”問題に「バイブ清書」が切り込む",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/02/news047.html",
+      "summary": "バイブコーディングの普及で社内ソフトウェアの開発は身近になった。一方でプロトタイプから本番利用へ移行する際の品質やセキュリティの確保に悩む企業もある。その課題に着目し、解決を図るのが「バイブ清書」だ。",
+      "content": "バイブコーディングの普及で社内ソフトウェアの開発は身近になった。一方でプロトタイプから本番利用へ移行する際の品質やセキュリティの確保に悩む企業もある。その課題に着目し、解決を図るのが「バイブ清書」だ。",
+      "published": "Tue, 02 Jun 2026 13:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
-    },
-    {
-      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
-      "url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
-      "summary": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
-      "content": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
-      "published": "2026-05-31T15:24:56Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
-      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-      "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "content": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...",
-      "published": "2026-05-27T15:56:26Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -131,6 +135,19 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
+      ]
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "content": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -160,33 +177,22 @@
       ]
     },
     {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "content": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "url": "https://openai.com/index/stargate-michigan-data-center",
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
       "content": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
       "published": "Mon, 01 Jun 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "content": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "published": "Fri, 29 May 2026 03:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
@@ -206,6 +212,32 @@
       ]
     },
     {
+      "title": "三菱重工とPFNが「国産AI技術」共同開発、安全保障などで活用 年度内に資本業務提携へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000047/",
+      "summary": "Preferred Networksは、三菱重工業と国産AI技術の共同開発で業務提携すると発表した。国家安全保障分野などにおける機械やシステムの高度化を図る。",
+      "content": "Preferred Networksは、三菱重工業と国産AI技術の共同開発で業務提携すると発表した。国家安全保障分野などにおける機械やシステムの高度化を図る。",
+      "published": "Tue, 02 Jun 2026 11:14:04 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Think the media’s biased against you? You probably think misinformation is too",
+      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
+      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "published": "Thu, 28 May 2026 20:59:14 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
       "title": "With Monitor Local, The Maine Monitor expands to civic news — written by local residents — for rural counties",
       "url": "https://www.niemanlab.org/2026/06/with-monitor-local-the-maine-monitor-expands-to-civic-news-written-by-local-residents-for-rural-counties/",
       "summary": "When The Maine Center for Public Interest Reporting began publishing The Maine Monitor in 2020, the publication became the latest vehicle for the mission the nonprofit had pursued since its founding in 2009: addressing Maine&#8217;s need for investigative reporting as the state&#8217;s legacy newsrooms cut capacity. Today, local investigative reporting is still the Monitor&#8217;s core...",
@@ -217,34 +249,12 @@
       "matched_topics": []
     },
     {
-      "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html",
-      "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
-      "content": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
-      "published": "Mon, 01 Jun 2026 12:45:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "NVIDIAがWindows PCに再参入「RTX Spark」 最新のNVIDIA GPUと128GBユニファイドメモリを搭載【訂正あり】",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/01/2000000040/",
-      "summary": "米NVIDIAは6月1日（現地時間）、コンピュータ関連の見本市「COMPUTEX TAIPEI 2026」に先駆けて開いたカンファレンス「NVIDIA GTC Taipei 2026」の中で、Microsoftと共同開発したWindows PC向けプロセッサ「RTX Spark」を発表した。Blackwell世代のGPUと、最大128GBのユニファイドメモリを搭載することで高いAI実行性能をうたう。",
-      "content": "米NVIDIAは6月1日（現地時間）、コンピュータ関連の見本市「COMPUTEX TAIPEI 2026」に先駆けて開いたカンファレンス「NVIDIA GTC Taipei 2026」の中で、Microsoftと共同開発したWindows PC向けプロセッサ「RTX Spark」を発表した。Blackwell世代のGPUと、最大128GBのユニファイドメモリを搭載することで高いAI実行性能をうたう。",
-      "published": "Mon, 01 Jun 2026 09:10:30 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "図面SaaSに高精度な3Dモデル生成とアセンブリ機能、CAE機能のβ版を追加",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news013.html",
-      "summary": "renueは、図面SaaS「Drawing Agent」をアップデートした。高精度な3Dモデル生成機能や複数パーツの組み立てに対応するアセンブリ機能、構造解析を実行する「CAE機能 β版」を追加し、図面の読み取りから構造解析までを一連の流れで扱えるようにした。",
-      "content": "renueは、図面SaaS「Drawing Agent」をアップデートした。高精度な3Dモデル生成機能や複数パーツの組み立てに対応するアセンブリ機能、構造解析を実行する「CAE機能 β版」を追加し、図面の読み取りから構造解析までを一連の流れで扱えるようにした。",
-      "published": "Mon, 01 Jun 2026 09:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
+      "url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+      "summary": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
+      "content": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
+      "published": "2026-05-31T15:24:56Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
