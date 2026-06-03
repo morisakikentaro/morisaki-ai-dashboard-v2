@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T12:29:50.649295+00:00",
+  "generated_at": "2026-06-03T15:28:29.786726+00:00",
   "articles": [
     {
       "title": "“You’ll need journalism so distinctive it has its own gravity”: New York Times publisher A.G. Sulzberger on how news organizations can stand up to AI companies",
@@ -13,34 +13,6 @@
       "matched_topics": [
         "ai_search",
         "cms_knowledge",
-        "media"
-      ]
-    },
-    {
-      "title": "Micropayments for news have failed everywhere. Can they succeed in Kenya?",
-      "url": "https://www.niemanlab.org/2026/05/micropayments-for-news-have-failed-everywhere-can-they-succeed-in-kenya/",
-      "summary": "Reader revenue models are under strain worldwide. Audiences are overwhelmed by paywalls, trust in news is shrinking, and publishers are searching for new ways to persuade people to pay. In Kenya, some newsrooms are trying a different approach. Instead of asking for monthly commitments, they are testing whether readers will pay small amounts for a...",
-      "content": "Reader revenue models are under strain worldwide. Audiences are overwhelmed by paywalls, trust in news is shrinking, and publishers are searching for new ways to persuade people to pay. In Kenya, some newsrooms are trying a different approach. Instead of asking for monthly commitments, they are testing whether readers will pay small amounts for a...",
-      "published": "Thu, 28 May 2026 18:24:52 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 56,
-      "matched_topics": [
-        "ai_search",
-        "media"
-      ]
-    },
-    {
-      "title": "The emerging AI content licensing market puts news publishers in a “double bind,” a new report warns",
-      "url": "https://www.niemanlab.org/2026/05/the-emerging-ai-content-licensing-market-puts-news-publishers-in-a-double-bind-a-new-report-warns/",
-      "summary": "A new report from the thinktank Open Markets Institute scopes out the current state of AI content licensing for news publishers. “Same Gatekeepers, New Tollbooths: Mapping the AI Content Licensing Market” explores the emerging market for content licensing, arguing that news publishers are currently in a “double bind”: The same big tech companies that are...",
-      "content": "A new report from the thinktank Open Markets Institute scopes out the current state of AI content licensing for news publishers. “Same Gatekeepers, New Tollbooths: Mapping the AI Content Licensing Market” explores the emerging market for content licensing, arguing that news publishers are currently in a “double bind”: The same big tech companies that are...",
-      "published": "Wed, 27 May 2026 20:35:02 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 46,
-      "matched_topics": [
-        "ai_search",
         "media"
       ]
     },
@@ -59,38 +31,52 @@
       ]
     },
     {
-      "title": "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
-      "url": "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
-      "summary": "Google Cloudは、エンタープライズ向けに提供されているPostgreSQL互換のデータベースサービス「AlloyDB for PostgreSQL」で、通常30秒以内の高速なフェイルオーバーを可能にする新たなホットスタンバイ機能の...",
-      "content": "Google Cloudは、エンタープライズ向けに提供されているPostgreSQL互換のデータベースサービス「AlloyDB for PostgreSQL」で、通常30秒以内の高速なフェイルオーバーを可能にする新たなホットスタンバイ機能の...",
-      "published": "2026-05-31T15:26:39Z",
+      "title": "Think the media’s biased against you? You probably think misinformation is too",
+      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
+      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
+      "published": "Thu, 28 May 2026 20:59:14 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
+      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
+      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
+      "published": "Thu, 28 May 2026 20:32:32 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+      "summary": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
+      "content": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
+      "published": "Wed, 03 Jun 2026 07:49:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "cms_knowledge",
+        "japan"
+      ]
+    },
+    {
+      "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
+      "url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+      "summary": "マイクロソフトは日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントにWindowsアプリ開発のライフサイクル全体に関する知識を与える「Windows Development Skill...",
+      "content": "マイクロソフトは日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントにWindowsアプリ開発のライフサイクル全体に関する知識を与える「Windows Development Skill...",
+      "published": "2026-06-03T15:11:06Z",
       "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "生成AIを「悩み相談」に使う10代女性たち 阿部前監督事件を招いた「AI正論」の波紋",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
-      "summary": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
-      "content": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
-      "published": "Tue, 02 Jun 2026 10:31:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news058.html",
-      "summary": "NVIDIAは、工場を自律的に管理するAIエージェントのレファレンスデザイン「NVIDIA Factory Operations Blueprint（FOX）」を発表した。FOXを用いれば、工場内のさまざまなデータをリアルタイムに監視／分析し、複数のAIエージェントと機器を連携させることで問題を迅速に解決するAIアプリケーションを容易に構築できるという。",
-      "content": "NVIDIAは、工場を自律的に管理するAIエージェントのレファレンスデザイン「NVIDIA Factory Operations Blueprint（FOX）」を発表した。FOXを用いれば、工場内のさまざまなデータをリアルタイムに監視／分析し、複数のAIエージェントと機器を連携させることで問題を迅速に解決するAIアプリケーションを容易に構築できるという。",
-      "published": "Tue, 02 Jun 2026 07:45:00 +0900",
-      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -98,27 +84,40 @@
       ]
     },
     {
-      "title": "製造現場の「AIアレルギー」をどう払拭？ 日立・新卒デジタル人材「3カ月奮闘記」",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/02/news023.html",
-      "summary": "日立製作所は、AIやデータ解析の専門スキルを持つ新人データサイエンティストを、製造現場へと送り込んでいる。いかにして現場の「AIアレルギー」を払拭し、現場とのコミュニケーションを通じて業務時間を短縮する生成AIツールを定着させたのか。実習に参加した若手女性データサイエンティストの禹周賢（ウ・ジュヒョン）さん（デジタルアナリティクス推進部）と、受け入れ先の現場担当者にインタビューした。",
-      "content": "日立製作所は、AIやデータ解析の専門スキルを持つ新人データサイエンティストを、製造現場へと送り込んでいる。いかにして現場の「AIアレルギー」を払拭し、現場とのコミュニケーションを通じて業務時間を短縮する生成AIツールを定着させたのか。実習に参加した若手女性データサイエンティストの禹周賢（ウ・ジュヒョン）さん（デジタルアナリティクス推進部）と、受け入れ先の現場担当者にインタビューした。",
-      "published": "Tue, 02 Jun 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "［速報］マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表",
+      "url": "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
+      "published": "2026-06-02T18:40:20Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
-      "title": "バイブコーディングの“プロトタイプで止まりがち”問題に「バイブ清書」が切り込む",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/02/news047.html",
-      "summary": "バイブコーディングの普及で社内ソフトウェアの開発は身近になった。一方でプロトタイプから本番利用へ移行する際の品質やセキュリティの確保に悩む企業もある。その課題に着目し、解決を図るのが「バイブ清書」だ。",
-      "content": "バイブコーディングの普及で社内ソフトウェアの開発は身近になった。一方でプロトタイプから本番利用へ移行する際の品質やセキュリティの確保に悩む企業もある。その課題に着目し、解決を図るのが「バイブ清書」だ。",
-      "published": "Tue, 02 Jun 2026 13:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "published": "2026-06-02T18:20:20Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
+      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、Windows上でLinuxコンテナの作成や実行、操作などを実現するWSL（Windows Subsystem for Linux）...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、Windows上でLinuxコンテナの作成や実行、操作などを実現するWSL（Windows Subsystem for Linux）...",
+      "published": "2026-06-02T17:27:08Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
@@ -138,16 +137,16 @@
       ]
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "content": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
-        "enterprise"
+        "ai_search"
       ]
     },
     {
@@ -177,65 +176,74 @@
       ]
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "content": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "content": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "content": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "content": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
-      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
-      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "published": "Thu, 28 May 2026 20:32:32 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
+      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "published": "2026-06-02T16:58:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
-        "cms_knowledge"
+        "japan"
       ]
     },
     {
-      "title": "三菱重工とPFNが「国産AI技術」共同開発、安全保障などで活用 年度内に資本業務提携へ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000047/",
-      "summary": "Preferred Networksは、三菱重工業と国産AI技術の共同開発で業務提携すると発表した。国家安全保障分野などにおける機械やシステムの高度化を図る。",
-      "content": "Preferred Networksは、三菱重工業と国産AI技術の共同開発で業務提携すると発表した。国家安全保障分野などにおける機械やシステムの高度化を図る。",
-      "published": "Tue, 02 Jun 2026 11:14:04 +0900",
+      "title": "トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
+      "summary": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
+      "content": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
+      "published": "Wed, 03 Jun 2026 09:42:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
-      "title": "Think the media’s biased against you? You probably think misinformation is too",
-      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
-      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "published": "Thu, 28 May 2026 20:59:14 +0000",
+      "title": "How a veteran video games journalist went solo and built a sustainable business",
+      "url": "https://www.niemanlab.org/2026/06/how-a-veteran-video-games-journalist-went-solo-and-built-a-sustainable-business/",
+      "summary": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
+      "content": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
+      "published": "Tue, 02 Jun 2026 18:14:49 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "ai_search"
-      ]
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "“Fueled by facts and receipts,” Sylvia Salazar explains U.S. politics for Latino audiences",
+      "url": "https://www.niemanlab.org/2026/06/fueled-by-facts-and-receipts-sylvia-salazar-explains-u-s-politics-for-latino-audiences/",
+      "summary": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
+      "content": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
+      "published": "Tue, 02 Jun 2026 16:09:20 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "With Monitor Local, The Maine Monitor expands to civic news — written by local residents — for rural counties",
@@ -246,17 +254,6 @@
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
-      "url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
-      "summary": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
-      "content": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...",
-      "published": "2026-05-31T15:24:56Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
       "matched_topics": []
     }
   ]
