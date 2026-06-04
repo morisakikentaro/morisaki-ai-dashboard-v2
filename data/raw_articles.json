@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T15:28:29.786726+00:00",
+  "generated_at": "2026-06-04T10:48:25.674485+00:00",
   "articles": [
     {
       "title": "“You’ll need journalism so distinctive it has its own gravity”: New York Times publisher A.G. Sulzberger on how news organizations can stand up to AI companies",
@@ -17,57 +17,43 @@
       ]
     },
     {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "content": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
+      "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
+      "url": "https://www.niemanlab.org/2026/06/these-16-new-journalism-jobs-are-designed-to-help-publishers-future-proof-their-newsrooms/",
+      "summary": "Ten years ago, the phrase &#8220;chatbots with specific character voices&#8221; would not have appeared in a journalism job posting. But here we are in 2026, and The Economist — hiring for a senior AI engineer for its AI Lab — mentions that &#8220;fine-tuning [AI] models for style or persona&#8221; is a great bit of experience...",
+      "content": "Ten years ago, the phrase &#8220;chatbots with specific character voices&#8221; would not have appeared in a journalism job posting. But here we are in 2026, and The Economist — hiring for a senior AI engineer for its AI Lab — mentions that &#8220;fine-tuning [AI] models for style or persona&#8221; is a great bit of experience...",
+      "published": "Wed, 03 Jun 2026 18:12:49 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 56,
       "matched_topics": [
         "ai_search",
-        "cms_knowledge"
+        "media"
       ]
     },
     {
-      "title": "Think the media’s biased against you? You probably think misinformation is too",
-      "url": "https://www.niemanlab.org/2026/05/think-the-medias-biased-against-you-you-probably-think-misinformation-is-too/",
-      "summary": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "content": "Ever feel like the news media is out to get you? That it skews its stories to make your side look bad? Okay — now what about the &#8220;fake news&#8221; media? All the misinformation out there online: Is it more unfair to your side of most arguments or the other one? Decades of communications research...",
-      "published": "Thu, 28 May 2026 20:59:14 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "content": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
         "ai_search"
       ]
     },
     {
-      "title": "A battle of the Stars looms in D.C.’s shifting media scene",
-      "url": "https://www.niemanlab.org/2026/05/a-battle-of-the-stars-looms-in-d-c-s-shifting-media-scene/",
-      "summary": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "content": "After The Washington Post laid off more than 300 journalists in February, several local and national news outlets based in the nation&#8217;s capital announced expansions to fill coverage gaps. Among newsrooms vying to step up where the Post was ceding ground, NOTUS emerged as the most ambitious. In March, it announced plans to double its...",
-      "published": "Thu, 28 May 2026 20:32:32 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
-      "summary": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
-      "content": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
-      "published": "Wed, 03 Jun 2026 07:49:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "cms_knowledge",
-        "japan"
+        "ai_search"
       ]
     },
     {
@@ -123,6 +109,32 @@
       ]
     },
     {
+      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
+      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "published": "2026-06-02T16:58:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
       "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
@@ -134,19 +146,6 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
-      ]
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
       ]
     },
     {
@@ -176,52 +175,50 @@
       ]
     },
     {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "content": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "content": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "published": "Wed, 03 Jun 2026 12:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "content": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "content": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
-      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "published": "2026-06-02T16:58:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
-      "summary": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
-      "content": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
-      "published": "Wed, 03 Jun 2026 09:42:00 +0900",
+      "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
+      "summary": "Autodeskは、主要製品向けに「Autodesk Assistant」のテックプレビュー版を提供する他、Fusion向けのMCPを公開した。設計データや業務コンテキストを理解するAIアシスタントに加え、外部AIとの連携を可能にする機能も提供し、設計／製造業務におけるAI活用の拡大を図る。",
+      "content": "Autodeskは、主要製品向けに「Autodesk Assistant」のテックプレビュー版を提供する他、Fusion向けのMCPを公開した。設計データや業務コンテキストを理解するAIアシスタントに加え、外部AIとの連携を可能にする機能も提供し、設計／製造業務におけるAI活用の拡大を図る。",
+      "published": "Thu, 04 Jun 2026 09:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
+    },
+    {
+      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
+      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
+      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "How a veteran video games journalist went solo and built a sustainable business",
