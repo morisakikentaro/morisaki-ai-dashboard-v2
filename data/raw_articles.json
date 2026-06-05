@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-04T10:48:25.674485+00:00",
+  "generated_at": "2026-06-05T10:59:22.316956+00:00",
   "articles": [
-    {
-      "title": "“You’ll need journalism so distinctive it has its own gravity”: New York Times publisher A.G. Sulzberger on how news organizations can stand up to AI companies",
-      "url": "https://www.niemanlab.org/2026/06/youll-need-journalism-so-distinctive-it-has-its-own-gravity-new-york-times-publisher-a-g-sulzberger-on-how-news-organizations-can-stand-up-to-ai/",
-      "summary": "New York Times publisher A.G. Sulzberger delivered a keynote at the WAN-IFRA World News Media Congress in Marseille, France on Monday. Titled &#8220;AI, Journalism, and the Uncertain Future of the Public Square,&#8221; the talk is published in full here. &#8220;Our profession has been too quiet, too passive, and too fragmented in the face of abuses...",
-      "content": "New York Times publisher A.G. Sulzberger delivered a keynote at the WAN-IFRA World News Media Congress in Marseille, France on Monday. Titled &#8220;AI, Journalism, and the Uncertain Future of the Public Square,&#8221; the talk is published in full here. &#8220;Our profession has been too quiet, too passive, and too fragmented in the face of abuses...",
-      "published": "Mon, 01 Jun 2026 14:59:59 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 66,
-      "matched_topics": [
-        "ai_search",
-        "cms_knowledge",
-        "media"
-      ]
-    },
     {
       "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
       "url": "https://www.niemanlab.org/2026/06/these-16-new-journalism-jobs-are-designed-to-help-publishers-future-proof-their-newsrooms/",
@@ -27,6 +12,19 @@
       "selection_score": 56,
       "matched_topics": [
         "ai_search",
+        "media"
+      ]
+    },
+    {
+      "title": "Tansa is pioneering a new model for investigative journalism in Japan",
+      "url": "https://www.niemanlab.org/2026/06/tansa-is-pioneering-a-new-model-for-investigative-journalism-in-japan/",
+      "summary": "On paper, Japan seems to have a thriving journalism sector. The world&#8217;s third-largest economy also is home to several of the most widely circulated newspapers in the world, such as the Yomiuri Shimbun, which, with 6.2 million subscribers, the highest paid circulation of any independent media outlet in the world, and the Asahi Shimbun, with...",
+      "content": "On paper, Japan seems to have a thriving journalism sector. The world&#8217;s third-largest economy also is home to several of the most widely circulated newspapers in the world, such as the Yomiuri Shimbun, which, with 6.2 million subscribers, the highest paid circulation of any independent media outlet in the world, and the Asahi Shimbun, with...",
+      "published": "Thu, 04 Jun 2026 14:37:41 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
         "media"
       ]
     },
@@ -54,6 +52,20 @@
       "selection_score": 30,
       "matched_topics": [
         "ai_search"
+      ]
+    },
+    {
+      "title": "「この1年はAI戦国時代」 メルカリに学ぶ、AIガバナンス策定の勘所",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news018.html",
+      "summary": "生成AIの業務利用が前提となり、AIを通じてビジネス価値をどう生み出すかが問われている一方で、「シャドーAI」をはじめとするリスクも指摘されている。先行企業はAIのリスクをどう受け止め、対策に乗り出しているのか。本稿では「AI-Native Company」への転換を宣言し、AIをフル活用するメルカリにインタビュー。AI活用・AIガバナンス策定のヒントを探る。",
+      "content": "生成AIの業務利用が前提となり、AIを通じてビジネス価値をどう生み出すかが問われている一方で、「シャドーAI」をはじめとするリスクも指摘されている。先行企業はAIのリスクをどう受け止め、対策に乗り出しているのか。本稿では「AI-Native Company」への転換を宣言し、AIをフル活用するメルカリにインタビュー。AI活用・AIガバナンス策定のヒントを探る。",
+      "published": "Fri, 05 Jun 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -109,19 +121,6 @@
       ]
     },
     {
-      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
-      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "published": "2026-06-02T16:58:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "How Endava is redesigning software delivery around AI agents",
       "url": "https://openai.com/index/endava-frontiers",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
@@ -146,6 +145,19 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "content": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "published": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -186,27 +198,42 @@
       "matched_topics": []
     },
     {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "content": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
-      "summary": "Autodeskは、主要製品向けに「Autodesk Assistant」のテックプレビュー版を提供する他、Fusion向けのMCPを公開した。設計データや業務コンテキストを理解するAIアシスタントに加え、外部AIとの連携を可能にする機能も提供し、設計／製造業務におけるAI活用の拡大を図る。",
-      "content": "Autodeskは、主要製品向けに「Autodesk Assistant」のテックプレビュー版を提供する他、Fusion向けのMCPを公開した。設計データや業務コンテキストを理解するAIアシスタントに加え、外部AIとの連携を可能にする機能も提供し、設計／製造業務におけるAI活用の拡大を図る。",
-      "published": "Thu, 04 Jun 2026 09:00:00 +0900",
+      "title": "検図から積算まで支援する図面解析AI、工数を最大60％削減",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
+      "summary": "フィーチャは、図面解析AI「Drawing-AI」の機能拡張と対応領域の拡大を発表した。回路図や金型図面に加えて建築図面にも対応し、検図やデータ化、積算業務を支援する。実証実験では作業工数を30～60％削減した。",
+      "content": "フィーチャは、図面解析AI「Drawing-AI」の機能拡張と対応領域の拡大を発表した。回路図や金型図面に加えて建築図面にも対応し、検図やデータ化、積算業務を支援する。実証実験では作業工数を30～60％削減した。",
+      "published": "Fri, 05 Jun 2026 09:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
+      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
+      "published": "2026-06-02T16:58:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か 米国決済サービスの支出調査で明らかに",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
+      "summary": "米Rampの支出調査で中国DeepSeekが急成長ベンダーの首位に。米国勢より1?2桁安い料金を背景に、DeepSeekへ直接支払う米企業が増加。AIエージェント「Cline」の開発者も同様の乗り換えを報告した。",
+      "content": "米Rampの支出調査で中国DeepSeekが急成長ベンダーの首位に。米国勢より1?2桁安い料金を背景に、DeepSeekへ直接支払う米企業が増加。AIエージェント「Cline」の開発者も同様の乗り換えを報告した。",
+      "published": "Fri, 05 Jun 2026 07:28:58 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
       ]
     },
     {
@@ -226,28 +253,6 @@
       "summary": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
       "content": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
       "published": "Tue, 02 Jun 2026 18:14:49 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "“Fueled by facts and receipts,” Sylvia Salazar explains U.S. politics for Latino audiences",
-      "url": "https://www.niemanlab.org/2026/06/fueled-by-facts-and-receipts-sylvia-salazar-explains-u-s-politics-for-latino-audiences/",
-      "summary": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
-      "content": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
-      "published": "Tue, 02 Jun 2026 16:09:20 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "With Monitor Local, The Maine Monitor expands to civic news — written by local residents — for rural counties",
-      "url": "https://www.niemanlab.org/2026/06/with-monitor-local-the-maine-monitor-expands-to-civic-news-written-by-local-residents-for-rural-counties/",
-      "summary": "When The Maine Center for Public Interest Reporting began publishing The Maine Monitor in 2020, the publication became the latest vehicle for the mission the nonprofit had pursued since its founding in 2009: addressing Maine&#8217;s need for investigative reporting as the state&#8217;s legacy newsrooms cut capacity. Today, local investigative reporting is still the Monitor&#8217;s core...",
-      "content": "When The Maine Center for Public Interest Reporting began publishing The Maine Monitor in 2020, the publication became the latest vehicle for the mission the nonprofit had pursued since its founding in 2009: addressing Maine&#8217;s need for investigative reporting as the state&#8217;s legacy newsrooms cut capacity. Today, local investigative reporting is still the Monitor&#8217;s core...",
-      "published": "Mon, 01 Jun 2026 17:42:47 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
