@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:52:08.215047+00:00",
+  "generated_at": "2026-06-08T13:55:20.711024+00:00",
   "articles": [
     {
       "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
@@ -55,6 +55,46 @@
       ]
     },
     {
+      "title": "AI×設計開発ニュースまとめ（2026年4月）",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news029.html",
+      "summary": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年4月）」をお送りします。",
+      "content": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年4月）」をお送りします。",
+      "published": "Mon, 08 Jun 2026 12:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "media"
+      ]
+    },
+    {
+      "title": "「業務の前提そのもの」をどうアップデートする？ IBMが説く「AXの要件」を考察",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news088.html",
+      "summary": "IBMが企業のAXにおける新たな指針として「AIオペレーティングモデル」を打ち出した。その内容から、企業がAXに向けて取り組むべき要件を探る。",
+      "content": "IBMが企業のAXにおける新たな指針として「AIオペレーティングモデル」を打ち出した。その内容から、企業がAXに向けて取り組むべき要件を探る。",
+      "published": "Mon, 08 Jun 2026 13:20:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "「AI＝質問」は遅れてる エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
+      "summary": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
+      "content": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
+      "published": "Mon, 08 Jun 2026 13:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
       "url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
       "summary": "マイクロソフトは日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントにWindowsアプリ開発のライフサイクル全体に関する知識を与える「Windows Development Skill...",
@@ -73,45 +113,6 @@
       "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
       "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
       "published": "2026-06-02T18:40:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
-      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "published": "2026-06-02T18:20:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
-      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、Windows上でLinuxコンテナの作成や実行、操作などを実現するWSL（Windows Subsystem for Linux）...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、Windows上でLinuxコンテナの作成や実行、操作などを実現するWSL（Windows Subsystem for Linux）...",
-      "published": "2026-06-02T17:27:08Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
-      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Windows」の一般公開を発表しました。 C...",
-      "published": "2026-06-02T16:58:57Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
@@ -197,38 +198,12 @@
       "matched_topics": []
     },
     {
-      "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-      "summary": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
-      "content": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
-      "published": "Sun, 07 Jun 2026 07:22:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "検図から積算まで支援する図面解析AI、工数を最大60％削減",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
-      "summary": "フィーチャは、図面解析AI「Drawing-AI」の機能拡張と対応領域の拡大を発表した。回路図や金型図面に加えて建築図面にも対応し、検図やデータ化、積算業務を支援する。実証実験では作業工数を30～60％削減した。",
-      "content": "フィーチャは、図面解析AI「Drawing-AI」の機能拡張と対応領域の拡大を発表した。回路図や金型図面に加えて建築図面にも対応し、検図やデータ化、積算業務を支援する。実証実験では作業工数を30～60％削減した。",
-      "published": "Fri, 05 Jun 2026 09:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か 米国決済サービスの支出調査で明らかに",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
-      "summary": "米Rampの支出調査で中国DeepSeekが急成長ベンダーの首位に。米国勢より1?2桁安い料金を背景に、DeepSeekへ直接支払う米企業が増加。AIエージェント「Cline」の開発者も同様の乗り換えを報告した。",
-      "content": "米Rampの支出調査で中国DeepSeekが急成長ベンダーの首位に。米国勢より1?2桁安い料金を背景に、DeepSeekへ直接支払う米企業が増加。AIエージェント「Cline」の開発者も同様の乗り換えを報告した。",
-      "published": "Fri, 05 Jun 2026 07:28:58 +0900",
-      "source": "ITmedia AI+",
+      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "published": "2026-06-02T18:20:20Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -255,6 +230,28 @@
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "“Fueled by facts and receipts,” Sylvia Salazar explains U.S. politics for Latino audiences",
+      "url": "https://www.niemanlab.org/2026/06/fueled-by-facts-and-receipts-sylvia-salazar-explains-u-s-politics-for-latino-audiences/",
+      "summary": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
+      "content": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
+      "published": "Tue, 02 Jun 2026 16:09:20 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
+      "url": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+      "summary": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – ...",
+      "content": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – ...",
+      "published": "2026-06-08T15:43:33Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     }
   ]
