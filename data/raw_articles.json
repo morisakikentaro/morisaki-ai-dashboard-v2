@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:55:20.711024+00:00",
+  "generated_at": "2026-06-09T10:45:48.202241+00:00",
   "articles": [
     {
       "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
@@ -29,11 +29,11 @@
       ]
     },
     {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "content": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "content": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -55,43 +55,16 @@
       ]
     },
     {
-      "title": "AI×設計開発ニュースまとめ（2026年4月）",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news029.html",
-      "summary": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年4月）」をお送りします。",
-      "content": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年4月）」をお送りします。",
-      "published": "Mon, 08 Jun 2026 12:30:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "「業務の前提そのもの」をどうアップデートする？ IBMが説く「AXの要件」を考察",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news088.html",
-      "summary": "IBMが企業のAXにおける新たな指針として「AIオペレーティングモデル」を打ち出した。その内容から、企業がAXに向けて取り組むべき要件を探る。",
-      "content": "IBMが企業のAXにおける新たな指針として「AIオペレーティングモデル」を打ち出した。その内容から、企業がAXに向けて取り組むべき要件を探る。",
-      "published": "Mon, 08 Jun 2026 13:20:00 +0900",
+      "title": "コンサルの品質、なぜ「バラつく」のか？ ガートナーが背景を解説",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news066.html",
+      "summary": "コンサルティングサービスを利用する国内企業のうち、「期待以上」の成果を実感する企業は半数に満たない。最大の不満要因である「品質のバラつき」はなぜ発生するのか。顧客企業が取るべき手立てとは。",
+      "content": "コンサルティングサービスを利用する国内企業のうち、「期待以上」の成果を実感する企業は半数に満たない。最大の不満要因である「品質のバラつき」はなぜ発生するのか。顧客企業が取るべき手立てとは。",
+      "published": "Tue, 09 Jun 2026 08:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
       "matched_topics": [
-        "enterprise",
         "japan"
-      ]
-    },
-    {
-      "title": "「AI＝質問」は遅れてる エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
-      "summary": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
-      "content": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
-      "published": "Mon, 08 Jun 2026 13:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -118,6 +91,32 @@
       "selection_score": 32,
       "matched_topics": [
         "japan"
+      ]
+    },
+    {
+      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
+      "published": "2026-06-02T18:20:20Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "AI合成写真で近大入試の確認をすりぬけ、替え玉受験対策に「生体認証システム」は必要か",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news088.html",
+      "summary": "元塾講師による近畿大入試を巡る替え玉事件で、大阪地検は６月8日、教え子に成りすまし受験した英検の結果を用いて近大に出願したとして、偽計業務妨害罪などで大阪市浪速区大国の元塾講師、野口瑞希容疑者（35）を起訴した。",
+      "content": "元塾講師による近畿大入試を巡る替え玉事件で、大阪地検は６月8日、教え子に成りすまし受験した英検の結果を用いて近大に出願したとして、偽計業務妨害罪などで大阪市浪速区大国の元塾講師、野口瑞希容疑者（35）を起訴した。",
+      "published": "Tue, 09 Jun 2026 12:10:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -187,27 +186,27 @@
       ]
     },
     {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "content": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "published": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
-      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "published": "2026-06-02T18:20:20Z",
-      "source": "Publickey",
+      "title": "OpenAIがIPO申請を発表 時期は未定",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
+      "summary": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
+      "content": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
+      "published": "Tue, 09 Jun 2026 10:25:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
