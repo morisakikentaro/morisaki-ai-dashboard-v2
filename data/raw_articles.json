@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:45:48.202241+00:00",
+  "generated_at": "2026-06-10T11:48:28.707431+00:00",
   "articles": [
     {
       "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
@@ -29,19 +29,6 @@
       ]
     },
     {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "content": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
@@ -55,17 +42,15 @@
       ]
     },
     {
-      "title": "コンサルの品質、なぜ「バラつく」のか？ ガートナーが背景を解説",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news066.html",
-      "summary": "コンサルティングサービスを利用する国内企業のうち、「期待以上」の成果を実感する企業は半数に満たない。最大の不満要因である「品質のバラつき」はなぜ発生するのか。顧客企業が取るべき手立てとは。",
-      "content": "コンサルティングサービスを利用する国内企業のうち、「期待以上」の成果を実感する企業は半数に満たない。最大の不満要因である「品質のバラつき」はなぜ発生するのか。顧客企業が取るべき手立てとは。",
-      "published": "Tue, 09 Jun 2026 08:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "japan"
-      ]
+      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
+      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
+      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
@@ -94,12 +79,12 @@
       ]
     },
     {
-      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
-      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...",
-      "published": "2026-06-02T18:20:20Z",
-      "source": "Publickey",
+      "title": "AIエージェントもフィッシング詐欺に引っかかる？ 米セキュリティ企業がOpenClawで検証 結果は……",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+      "summary": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
+      "content": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
+      "published": "Wed, 10 Jun 2026 19:42:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -107,11 +92,11 @@
       ]
     },
     {
-      "title": "AI合成写真で近大入試の確認をすりぬけ、替え玉受験対策に「生体認証システム」は必要か",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news088.html",
-      "summary": "元塾講師による近畿大入試を巡る替え玉事件で、大阪地検は６月8日、教え子に成りすまし受験した英検の結果を用いて近大に出願したとして、偽計業務妨害罪などで大阪市浪速区大国の元塾講師、野口瑞希容疑者（35）を起訴した。",
-      "content": "元塾講師による近畿大入試を巡る替え玉事件で、大阪地検は６月8日、教え子に成りすまし受験した英検の結果を用いて近大に出願したとして、偽計業務妨害罪などで大阪市浪速区大国の元塾講師、野口瑞希容疑者（35）を起訴した。",
-      "published": "Tue, 09 Jun 2026 12:10:00 +0900",
+      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
+      "summary": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
+      "content": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
+      "published": "Wed, 10 Jun 2026 17:30:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -120,14 +105,14 @@
       ]
     },
     {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
+      "title": "“Claude Fable 5の次\"に備えよ――Anthropicが東京でイベント開催、「Claude」責任者が明かした開発者向け3つの指針",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000076/",
+      "summary": "Anthropicが東京で開発者向けイベント「Code with Claude」を開催。同日に一般提供を始めた新モデル「Claude Fable 5」を念頭に、高性能なAIを組み込んだサービスを開発する際の指針が語られた。",
+      "content": "Anthropicが東京で開発者向けイベント「Code with Claude」を開催。同日に一般提供を始めた新モデル「Claude Fable 5」を念頭に、高性能なAIを組み込んだサービスを開発する際の指針が語られた。",
+      "published": "Wed, 10 Jun 2026 15:42:16 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
@@ -144,19 +129,6 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
-      ]
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "content": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "published": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -186,38 +158,36 @@
       ]
     },
     {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "content": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "published": "Wed, 10 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "OpenAIがIPO申請を発表 時期は未定",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
-      "summary": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
-      "content": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
-      "published": "Tue, 09 Jun 2026 10:25:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "published": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
     },
     {
-      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
-      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
-      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "content": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     },
     {
@@ -232,14 +202,14 @@
       "matched_topics": []
     },
     {
-      "title": "“Fueled by facts and receipts,” Sylvia Salazar explains U.S. politics for Latino audiences",
-      "url": "https://www.niemanlab.org/2026/06/fueled-by-facts-and-receipts-sylvia-salazar-explains-u-s-politics-for-latino-audiences/",
-      "summary": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
-      "content": "The last weekend of May, Sylvia Salazar was waiting for her flight to take off when she pulled out her phone and explained why protestors were on a hunger strike outside Delaney Hall, an ICE facility in New Jersey. As passengers found their seats and loaded their luggage into the overhead compartments behind her, Salazar,...",
-      "published": "Tue, 02 Jun 2026 16:09:20 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
+      "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
+      "summary": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
+      "content": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
+      "published": "2026-06-09T15:55:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     },
     {
@@ -251,6 +221,28 @@
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "published": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
