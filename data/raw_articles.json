@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-06-10T11:48:28.707431+00:00",
+  "generated_at": "2026-06-11T12:32:45.534718+00:00",
   "articles": [
-    {
-      "title": "These 16 new journalism jobs could help publishers “future-proof” their newsrooms",
-      "url": "https://www.niemanlab.org/2026/06/these-16-new-journalism-jobs-are-designed-to-help-publishers-future-proof-their-newsrooms/",
-      "summary": "Ten years ago, the phrase &#8220;chatbots with specific character voices&#8221; would not have appeared in a journalism job posting. But here we are in 2026, and The Economist — hiring for a senior AI engineer for its AI Lab — mentions that &#8220;fine-tuning [AI] models for style or persona&#8221; is a great bit of experience...",
-      "content": "Ten years ago, the phrase &#8220;chatbots with specific character voices&#8221; would not have appeared in a journalism job posting. But here we are in 2026, and The Economist — hiring for a senior AI engineer for its AI Lab — mentions that &#8220;fine-tuning [AI] models for style or persona&#8221; is a great bit of experience...",
-      "published": "Wed, 03 Jun 2026 18:12:49 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 56,
-      "matched_topics": [
-        "ai_search",
-        "media"
-      ]
-    },
     {
       "title": "Tansa is pioneering a new model for investigative journalism in Japan",
       "url": "https://www.niemanlab.org/2026/06/tansa-is-pioneering-a-new-model-for-investigative-journalism-in-japan/",
@@ -42,15 +28,52 @@
       ]
     },
     {
-      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
-      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
-      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
+      "title": "The Centre Daily Times unionizes after backlash to McClatchy’s AI tool",
+      "url": "https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/",
+      "summary": "Josh Moyer remembers the exact moment he decided he needed to unionize. Moyer is a senior reporter for the Centre Daily Times, a newspaper in State College, PA, and for months he had been concerned about a new AI tool being rolled out in his newsroom. McClatchy, the Centre Daily Times’ parent company, had chosen...",
+      "content": "Josh Moyer remembers the exact moment he decided he needed to unionize. Moyer is a senior reporter for the Centre Daily Times, a newspaper in State College, PA, and for months he had been concerned about a new AI tool being rolled out in his newsroom. McClatchy, the Centre Daily Times’ parent company, had chosen...",
+      "published": "Wed, 10 Jun 2026 19:38:45 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "AI use, growth challenges, and funding cuts: A new report looks at the state of nonprofit news",
+      "url": "https://www.niemanlab.org/2026/06/ai-use-growth-challenges-and-funding-cuts-a-new-report-looks-at-the-state-of-nonprofit-news/",
+      "summary": "The Institute for Nonprofit News released its ninth annual INN Index on Tuesday, analyzing data reported from hundreds of its members to understand the state of nonprofit news in 2025. The Index remains one of the most detailed snapshots of the revenue and audience picture across nonprofit newsrooms; this year&#8217;s data set primarily draws on...",
+      "content": "The Institute for Nonprofit News released its ninth annual INN Index on Tuesday, analyzing data reported from hundreds of its members to understand the state of nonprofit news in 2025. The Index remains one of the most detailed snapshots of the revenue and audience picture across nonprofit newsrooms; this year&#8217;s data set primarily draws on...",
+      "published": "Wed, 10 Jun 2026 17:18:34 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "「IT部門って結局、IT“導入”部門だよね」と言われないために JUASが示すAI時代の役割",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news048.html",
+      "summary": "IT部門はシステムやツールを導入していればよい――。こうした認識のままでは企業の変革を支え切れないと、JUASは指摘する。調査結果から見えてきた、生成AI時代のIT部門に求められる役割とは。",
+      "content": "IT部門はシステムやツールを導入していればよい――。こうした認識のままでは企業の変革を支え切れないと、JUASは指摘する。調査結果から見えてきた、生成AI時代のIT部門に求められる役割とは。",
+      "published": "Thu, 11 Jun 2026 13:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
+      "url": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+      "summary": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...",
+      "content": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...",
+      "published": "2026-06-10T15:29:34Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
@@ -66,53 +89,27 @@
       ]
     },
     {
-      "title": "［速報］マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表",
-      "url": "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
-      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
-      "content": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...",
-      "published": "2026-06-02T18:40:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "AIエージェントもフィッシング詐欺に引っかかる？ 米セキュリティ企業がOpenClawで検証 結果は……",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
-      "summary": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
-      "content": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
-      "published": "Wed, 10 Jun 2026 19:42:00 +0900",
+      "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
+      "summary": "Googleは、テキスト生成を最大4倍高速化する実験的AIモデル「DiffusionGemma」を発表した。画像生成の拡散手法を応用し、256トークンを一括で並列生成することで従来の自己回帰型モデルのボトルネックを解消する。品質は標準モデルに譲るものの、ローカル環境での高速なインライン編集やコード補完に強みを持つとしている。",
+      "content": "Googleは、テキスト生成を最大4倍高速化する実験的AIモデル「DiffusionGemma」を発表した。画像生成の拡散手法を応用し、256トークンを一括で並列生成することで従来の自己回帰型モデルのボトルネックを解消する。品質は標準モデルに譲るものの、ローカル環境での高速なインライン編集やコード補完に強みを持つとしている。",
+      "published": "Thu, 11 Jun 2026 12:00:09 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "japan"
+        "media"
       ]
     },
     {
-      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
-      "summary": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
-      "content": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
-      "published": "Wed, 10 Jun 2026 17:30:00 +0900",
+      "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+      "summary": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
+      "content": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
+      "published": "Thu, 11 Jun 2026 16:31:05 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "“Claude Fable 5の次\"に備えよ――Anthropicが東京でイベント開催、「Claude」責任者が明かした開発者向け3つの指針",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000076/",
-      "summary": "Anthropicが東京で開発者向けイベント「Code with Claude」を開催。同日に一般提供を始めた新モデル「Claude Fable 5」を念頭に、高性能なAIを組み込んだサービスを開発する際の指針が語られた。",
-      "content": "Anthropicが東京で開発者向けイベント「Code with Claude」を開催。同日に一般提供を始めた新モデル「Claude Fable 5」を念頭に、高性能なAIを組み込んだサービスを開発する際の指針が語られた。",
-      "published": "Wed, 10 Jun 2026 15:42:16 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
         "enterprise"
       ]
@@ -129,6 +126,32 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "published": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -158,44 +181,22 @@
       ]
     },
     {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "content": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "published": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "published": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "content": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "How a veteran video games journalist went solo and built a sustainable business",
-      "url": "https://www.niemanlab.org/2026/06/how-a-veteran-video-games-journalist-went-solo-and-built-a-sustainable-business/",
-      "summary": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
-      "content": "I always enjoy reading Creator Spotlight, a twice-weekly newsletter about the &#8220;creator&#8221; business. (Though man, I still wish we&#8217;d settled on some other term.) Led by Francis Zierer, it features lengthy interviews with creators of all sorts, some of them journalists. Today&#8217;s interview is worth a look. It&#8217;s with Stephen Totilo, a long-time video games...",
-      "published": "Tue, 02 Jun 2026 18:14:49 +0000",
+      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
+      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
+      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
+      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
@@ -224,22 +225,22 @@
       "matched_topics": []
     },
     {
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "published": "Tue, 09 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
+      "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
+      "summary": "Anthropicのダリオ・アモデイCEOは、AIの指数関数的な進歩と政策のあり方を論じたエッセイを公開した。技術の急進に法整備が追いつかない現状に警鐘を鳴らし、フロンティアモデルへの航空機並みの安全審査義務付けを提言。同時に、失業率の悪化シナリオに応じた経済政策フレームワークなどの具体策も公表した。",
+      "content": "Anthropicのダリオ・アモデイCEOは、AIの指数関数的な進歩と政策のあり方を論じたエッセイを公開した。技術の急進に法整備が追いつかない現状に警鐘を鳴らし、フロンティアモデルへの航空機並みの安全審査義務付けを提言。同時に、失業率の悪化シナリオに応じた経済政策フレームワークなどの具体策も公表した。",
+      "published": "Thu, 11 Jun 2026 14:12:43 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
