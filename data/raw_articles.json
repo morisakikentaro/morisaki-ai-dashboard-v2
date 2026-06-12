@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-11T12:32:45.534718+00:00",
+  "generated_at": "2026-06-12T11:54:44.232670+00:00",
   "articles": [
     {
-      "title": "Tansa is pioneering a new model for investigative journalism in Japan",
-      "url": "https://www.niemanlab.org/2026/06/tansa-is-pioneering-a-new-model-for-investigative-journalism-in-japan/",
-      "summary": "On paper, Japan seems to have a thriving journalism sector. The world&#8217;s third-largest economy also is home to several of the most widely circulated newspapers in the world, such as the Yomiuri Shimbun, which, with 6.2 million subscribers, the highest paid circulation of any independent media outlet in the world, and the Asahi Shimbun, with...",
-      "content": "On paper, Japan seems to have a thriving journalism sector. The world&#8217;s third-largest economy also is home to several of the most widely circulated newspapers in the world, such as the Yomiuri Shimbun, which, with 6.2 million subscribers, the highest paid circulation of any independent media outlet in the world, and the Asahi Shimbun, with...",
-      "published": "Thu, 04 Jun 2026 14:37:41 +0000",
+      "title": "How an Alaska news nonprofit bought the local newspaper it was founded to compete with",
+      "url": "https://www.niemanlab.org/2026/06/how-an-alaska-news-nonprofit-bought-the-local-newspaper-it-was-founded-to-compete-with/",
+      "summary": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
+      "content": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
+      "published": "Thu, 11 Jun 2026 18:14:00 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
-        "media"
+        "cms_knowledge"
       ]
     },
     {
@@ -50,15 +50,16 @@
       "matched_topics": []
     },
     {
-      "title": "「IT部門って結局、IT“導入”部門だよね」と言われないために JUASが示すAI時代の役割",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news048.html",
-      "summary": "IT部門はシステムやツールを導入していればよい――。こうした認識のままでは企業の変革を支え切れないと、JUASは指摘する。調査結果から見えてきた、生成AI時代のIT部門に求められる役割とは。",
-      "content": "IT部門はシステムやツールを導入していればよい――。こうした認識のままでは企業の変革を支え切れないと、JUASは指摘する。調査結果から見えてきた、生成AI時代のIT部門に求められる役割とは。",
-      "published": "Thu, 11 Jun 2026 13:00:00 +0900",
+      "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+      "summary": "Laboro.AIはメディア向けAI勉強会を開催し、2026年の業界トレンドや、日本の生存戦略となる次世代AIの動向を解説した。「SaaSの死」に伴うソフトウェア開発の変化や、グローバルなエコシステムで不可欠性を目指す「フィジカルAI」としての勝ち筋を語る。",
+      "content": "Laboro.AIはメディア向けAI勉強会を開催し、2026年の業界トレンドや、日本の生存戦略となる次世代AIの動向を解説した。「SaaSの死」に伴うソフトウェア開発の変化や、グローバルなエコシステムで不可欠性を目指す「フィジカルAI」としての勝ち筋を語る。",
+      "published": "Fri, 12 Jun 2026 06:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 42,
       "matched_topics": [
+        "media",
         "japan"
       ]
     },
@@ -89,27 +90,40 @@
       ]
     },
     {
-      "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
-      "summary": "Googleは、テキスト生成を最大4倍高速化する実験的AIモデル「DiffusionGemma」を発表した。画像生成の拡散手法を応用し、256トークンを一括で並列生成することで従来の自己回帰型モデルのボトルネックを解消する。品質は標準モデルに譲るものの、ローカル環境での高速なインライン編集やコード補完に強みを持つとしている。",
-      "content": "Googleは、テキスト生成を最大4倍高速化する実験的AIモデル「DiffusionGemma」を発表した。画像生成の拡散手法を応用し、256トークンを一括で並列生成することで従来の自己回帰型モデルのボトルネックを解消する。品質は標準モデルに譲るものの、ローカル環境での高速なインライン編集やコード補完に強みを持つとしている。",
-      "published": "Thu, 11 Jun 2026 12:00:09 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
       "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
       "summary": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
       "content": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
-      "published": "Thu, 11 Jun 2026 16:31:05 +0900",
+      "published": "Fri, 12 Jun 2026 20:20:12 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略” 日本市場をどう開拓？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+      "summary": "近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。",
+      "content": "近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。",
+      "published": "Fri, 12 Jun 2026 12:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
       "matched_topics": [
         "enterprise"
       ]
@@ -129,11 +143,11 @@
       ]
     },
     {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -142,11 +156,11 @@
       ]
     },
     {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "published": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -181,26 +195,17 @@
       ]
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "The Minnesota Star Tribune will cut 15% of its staff — and may become a nonprofit",
-      "url": "https://www.niemanlab.org/2026/06/the-minnesota-star-tribune-will-cut-15-of-its-staff-and-may-become-a-nonprofit/",
-      "summary": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "content": "Just a month after winning a Pulitzer Prize for breaking news reporting, The Minnesota Star Tribune will offer buyouts and lay off up to 15% of its staff, the company said Tuesday. The Star Tribune has 495 employees, including a newsroom of 200 journalists. The cuts will affect every department and the newsroom will be...",
-      "published": "Wed, 03 Jun 2026 18:38:08 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
+      "title": "データセンター建設に足りないのは「発電」ではなく「送電」 AI需要で電力消費26％増、Gartner予想",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+      "summary": "Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。",
+      "content": "Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。",
+      "published": "Fri, 12 Jun 2026 10:50:17 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
@@ -225,14 +230,14 @@
       "matched_topics": []
     },
     {
-      "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
-      "summary": "Anthropicのダリオ・アモデイCEOは、AIの指数関数的な進歩と政策のあり方を論じたエッセイを公開した。技術の急進に法整備が追いつかない現状に警鐘を鳴らし、フロンティアモデルへの航空機並みの安全審査義務付けを提言。同時に、失業率の悪化シナリオに応じた経済政策フレームワークなどの具体策も公表した。",
-      "content": "Anthropicのダリオ・アモデイCEOは、AIの指数関数的な進歩と政策のあり方を論じたエッセイを公開した。技術の急進に法整備が追いつかない現状に警鐘を鳴らし、フロンティアモデルへの航空機並みの安全審査義務付けを提言。同時に、失業率の悪化シナリオに応じた経済政策フレームワークなどの具体策も公表した。",
-      "published": "Thu, 11 Jun 2026 14:12:43 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "content": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "published": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     },
     {
