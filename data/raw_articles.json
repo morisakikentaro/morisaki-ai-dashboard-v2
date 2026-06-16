@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-06-15T17:34:27.730074+00:00",
+  "generated_at": "2026-06-16T16:10:54.010426+00:00",
   "articles": [
+    {
+      "title": "News sites are the new newspapers: People are abandoning them for social media",
+      "url": "https://www.niemanlab.org/2026/06/news-sites-are-the-new-newspapers-people-are-abandoning-them-for-social-media/",
+      "summary": "News sites are rapidly becoming the newspapers of the digital age. And you know what happened to newspapers. Worldwide, people in all age groups are ditching news sites and publishers&#8217; apps in favor of social media and video networks. In fact, 18- to 34-year-olds are abandoning content on publishers&#8217; platforms even more quickly than they&#8217;re...",
+      "content": "News sites are rapidly becoming the newspapers of the digital age. And you know what happened to newspapers. Worldwide, people in all age groups are ditching news sites and publishers&#8217; apps in favor of social media and video networks. In fact, 18- to 34-year-olds are abandoning content on publishers&#8217; platforms even more quickly than they&#8217;re...",
+      "published": "Mon, 15 Jun 2026 23:02:44 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "The Newsground turns to coffee to fund investigative journalism",
       "url": "https://www.niemanlab.org/2026/06/the-newsground-turns-to-coffee-to-fund-investigative-journalism/",
@@ -28,20 +42,6 @@
       ]
     },
     {
-      "title": "人工知能学会「AIは人間を代替しない」 社会実装へ4提言 安保・著作権にも言及",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/",
-      "summary": "人工知能学会は、設立40周年にあたり、日本におけるAIの社会実装に向けた提言を発表した。",
-      "content": "人工知能学会は、設立40周年にあたり、日本におけるAIの社会実装に向けた提言を発表した。",
-      "published": "Mon, 15 Jun 2026 19:56:36 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "ai_search",
-        "japan"
-      ]
-    },
-    {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
@@ -55,29 +55,16 @@
       ]
     },
     {
-      "title": "Javaアプリ更新を1カ月→3日に爆速化 “ソースコード生成AI止まり”じゃない「IBM Bob」の仕組み",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
-      "summary": "IBMが発表したAIツール「IBM Bob」は、先行導入した企業でJavaアプリケーションのモダナイゼーション作業を30日から3日に短縮するといった効果があったという。ソースコード生成にとどまらない、IBM Bobの特徴とは。",
-      "content": "IBMが発表したAIツール「IBM Bob」は、先行導入した企業でJavaアプリケーションのモダナイゼーション作業を30日から3日に短縮するといった効果があったという。ソースコード生成にとどまらない、IBM Bobの特徴とは。",
-      "published": "Mon, 15 Jun 2026 13:00:00 +0900",
+      "title": "OpenAIの高度AIでソフトバンクの脆弱性を1万件発見 孫正義氏「大変な危機」 日本の重要インフラ企業へ診断サービス提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
+      "summary": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで一気通貫で行うという。日本国内の重要インフラを支える一部の企業に対し優先的に提供する。",
+      "content": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで一気通貫で行うという。日本国内の重要インフラを支える一部の企業に対し優先的に提供する。",
+      "published": "Tue, 16 Jun 2026 18:06:44 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 47,
       "matched_topics": [
         "japan"
-      ]
-    },
-    {
-      "title": "Sakana AI、初の商用プロダクト「Marlin」リリース その実力は？【出力レポート全文掲載】",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
-      "summary": "Sakana AIがAI調査エージェント「Sakana Marlin」の提供を開始した。4月からβ版を提供していたものを商用化する。公開に先んじてメディア向けにサービスのハンズオンを実施。事前に集めたテーマを基に、AIに作成させたレポートを報道陣に公開した。",
-      "content": "Sakana AIがAI調査エージェント「Sakana Marlin」の提供を開始した。4月からβ版を提供していたものを商用化する。公開に先んじてメディア向けにサービスのハンズオンを実施。事前に集めたテーマを基に、AIに作成させたレポートを報道陣に公開した。",
-      "published": "Mon, 15 Jun 2026 11:56:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "media"
       ]
     },
     {
@@ -107,30 +94,28 @@
       ]
     },
     {
-      "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？ 8日間の実験で検証した研究",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news028.html",
-      "summary": "米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索エンジンではどちらが学習効果が高いかを検証した研究報告だ。",
-      "content": "米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索エンジンではどちらが学習効果が高いかを検証した研究報告だ。",
-      "published": "Mon, 15 Jun 2026 08:00:00 +0900",
+      "title": "Claude「Fable 5」が3日で停止 Anthropicが主張する“米国政府の誤解”の正体",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
+      "summary": "米国政府の指令に従い、Fable 5のサービス提供を停止したAnthropic。同社は指令について「政府の誤解に基づくもの」と主張しているが、その誤解とは具体的にどのようなものなのか。",
+      "content": "米国政府の指令に従い、Fable 5のサービス提供を停止したAnthropic。同社は指令について「政府の誤解に基づくもの」と主張しているが、その誤解とは具体的にどのようなものなのか。",
+      "published": "Tue, 16 Jun 2026 14:15:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
+      "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+      "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
+      "content": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
+      "published": "2026-06-16T18:05:15Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -186,6 +171,19 @@
       ]
     },
     {
+      "title": "AI amplifies creativity by removing friction",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
@@ -195,19 +193,6 @@
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
-    },
-    {
-      "title": "データセンターの見回り業務をロボットに 自在に伸びるカメラでくまなく点検できる「ugo mini」",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news119.html",
-      "summary": "6月10日から12日に幕張メッセで開催したインターネット技術の総合イベント「Interop Tokyo 2026」で、ugo（東京都千代田区）は小型の点検ロボット「ugo mini」を展示した。",
-      "content": "6月10日から12日に幕張メッセで開催したインターネット技術の総合イベント「Interop Tokyo 2026」で、ugo（東京都千代田区）は小型の点検ロボット「ugo mini」を展示した。",
-      "published": "Mon, 15 Jun 2026 20:40:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
     },
     {
       "title": "The Centre Daily Times unionizes after backlash to McClatchy’s AI tool",
@@ -232,25 +217,34 @@
       "matched_topics": []
     },
     {
-      "title": "Sakana?AI、初の商用サービスはリサーチ特化 「Deep Research」との違いは？ 後発で“ベンチマークも追わない”ワケ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/",
-      "summary": "Sakana?AIが6月15日に提供を始めた同社初の商用サービス「Sakana?Marlin」（サカナ・マーリン）。詳細や狙いを担当者に聞いた。",
-      "content": "Sakana?AIが6月15日に提供を始めた同社初の商用サービス「Sakana?Marlin」（サカナ・マーリン）。詳細や狙いを担当者に聞いた。",
-      "published": "Mon, 15 Jun 2026 11:50:55 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
       "url": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
       "summary": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
       "content": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
       "published": "2026-06-15T15:46:43Z",
       "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
+      "summary": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
+      "content": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
+      "published": "2026-06-09T15:55:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？ さくら田中社長と東電が対談",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news082.html",
+      "summary": "AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。",
+      "content": "AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。",
+      "published": "Tue, 16 Jun 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
