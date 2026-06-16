@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:10:54.010426+00:00",
+  "generated_at": "2026-06-16T23:25:08.240275+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -55,15 +55,16 @@
       ]
     },
     {
-      "title": "OpenAIの高度AIでソフトバンクの脆弱性を1万件発見 孫正義氏「大変な危機」 日本の重要インフラ企業へ診断サービス提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
-      "summary": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで一気通貫で行うという。日本国内の重要インフラを支える一部の企業に対し優先的に提供する。",
-      "content": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで一気通貫で行うという。日本国内の重要インフラを支える一部の企業に対し優先的に提供する。",
-      "published": "Tue, 16 Jun 2026 18:06:44 +0900",
+      "title": "財務諸表だけでは勝てない ブルームバーグ日本トップが語る「非構造化データ」の重要性",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/16/news016.html",
+      "summary": "デフレからインフレへ経済の潮目が激変した日本市場。もはや過去の数値（財務諸表）を眺めるだけのデータ経営では勝てない。情報の洪水におぼれず、気象や音声などの「非構造化データ」をいかに素早く選別し、リアルタイムの決断に生かすか。金融情報インフラを支えるブルームバーグの日本トップに、情報過多を突破するデータ経営学を聞く。",
+      "content": "デフレからインフレへ経済の潮目が激変した日本市場。もはや過去の数値（財務諸表）を眺めるだけのデータ経営では勝てない。情報の洪水におぼれず、気象や音声などの「非構造化データ」をいかに素早く選別し、リアルタイムの決断に生かすか。金融情報インフラを支えるブルームバーグの日本トップに、情報過多を突破するデータ経営学を聞く。",
+      "published": "Wed, 17 Jun 2026 07:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 47,
+      "selection_score": 42,
       "matched_topics": [
+        "cms_knowledge",
         "japan"
       ]
     },
@@ -94,28 +95,43 @@
       ]
     },
     {
-      "title": "Claude「Fable 5」が3日で停止 Anthropicが主張する“米国政府の誤解”の正体",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
-      "summary": "米国政府の指令に従い、Fable 5のサービス提供を停止したAnthropic。同社は指令について「政府の誤解に基づくもの」と主張しているが、その誤解とは具体的にどのようなものなのか。",
-      "content": "米国政府の指令に従い、Fable 5のサービス提供を停止したAnthropic。同社は指令について「政府の誤解に基づくもの」と主張しているが、その誤解とは具体的にどのようなものなのか。",
-      "published": "Tue, 16 Jun 2026 14:15:00 +0900",
+      "title": "セルフ給油、実はスタッフが手動で許可していた!? コスモ石油の「AI監視」は消えゆくガソリンスタンドを救うか",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/17/news012.html",
+      "summary": "従来のセルフ式ガソリンスタンドでは、利用者が給油ノズルを手にした後も、スタッフが安全を確認した上で給油を許可している。この監視業務をAIで支援する取り組みが動き出した。コスモ石油マーケティングとELEMENTSは、AIが給油許可を判断する監視システムを共同開発。背景には、人手不足やサービスステーション数の減少といった業界課題がある。AIはガソリンスタンドの現場をどう変えるのか。",
+      "content": "従来のセルフ式ガソリンスタンドでは、利用者が給油ノズルを手にした後も、スタッフが安全を確認した上で給油を許可している。この監視業務をAIで支援する取り組みが動き出した。コスモ石油マーケティングとELEMENTSは、AIが給油許可を判断する監視システムを共同開発。背景には、人手不足やサービスステーション数の減少といった業界課題がある。AIはガソリンスタンドの現場をどう変えるのか。",
+      "published": "Wed, 17 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
-      "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-      "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "content": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "published": "2026-06-16T18:05:15Z",
-      "source": "Publickey",
+      "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA 各社が目指す「フィジカルAI」は何が違うのか",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
+      "summary": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
+      "content": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
+      "published": "Wed, 17 Jun 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -137,19 +153,6 @@
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "published": "Sun, 14 Jun 2026 17:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -184,11 +187,11 @@
       ]
     },
     {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
@@ -206,14 +209,14 @@
       "matched_topics": []
     },
     {
-      "title": "AI use, growth challenges, and funding cuts: A new report looks at the state of nonprofit news",
-      "url": "https://www.niemanlab.org/2026/06/ai-use-growth-challenges-and-funding-cuts-a-new-report-looks-at-the-state-of-nonprofit-news/",
-      "summary": "The Institute for Nonprofit News released its ninth annual INN Index on Tuesday, analyzing data reported from hundreds of its members to understand the state of nonprofit news in 2025. The Index remains one of the most detailed snapshots of the revenue and audience picture across nonprofit newsrooms; this year&#8217;s data set primarily draws on...",
-      "content": "The Institute for Nonprofit News released its ninth annual INN Index on Tuesday, analyzing data reported from hundreds of its members to understand the state of nonprofit news in 2025. The Index remains one of the most detailed snapshots of the revenue and audience picture across nonprofit newsrooms; this year&#8217;s data set primarily draws on...",
-      "published": "Wed, 10 Jun 2026 17:18:34 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
+      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
+      "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+      "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
+      "content": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
+      "published": "2026-06-16T18:05:15Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     },
     {
@@ -239,11 +242,11 @@
       "matched_topics": []
     },
     {
-      "title": "急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？ さくら田中社長と東電が対談",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news082.html",
-      "summary": "AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。",
-      "content": "AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。",
-      "published": "Tue, 16 Jun 2026 08:00:00 +0900",
+      "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ ただし危うさも",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
+      "summary": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
+      "content": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
+      "published": "Wed, 17 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
