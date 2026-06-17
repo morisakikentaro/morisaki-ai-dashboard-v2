@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:25:08.240275+00:00",
+  "generated_at": "2026-06-17T23:26:37.617219+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -16,6 +16,32 @@
       ]
     },
     {
+      "title": "States with less local news have higher rates of loneliness",
+      "url": "https://www.niemanlab.org/2026/06/states-with-less-local-news-have-higher-rates-of-loneliness/",
+      "summary": "The 2026 Local Journalist Index, this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends to...",
+      "content": "The 2026 Local Journalist Index, this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends to...",
+      "published": "Wed, 17 Jun 2026 19:36:36 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "cms_knowledge"
+      ]
+    },
+    {
+      "title": "How should news organizations label their AI use for audiences? New studies suggest some answers",
+      "url": "https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/",
+      "summary": "As we&#8217;ve reported previously, AI-generated journalism provokes distrust from readers, with audiences favoring a human touch. That might seem obvious, but a lot of questions lie buried in that broad statement. First, with so many ways to use AI, what does &#8220;AI-generated&#8221; mean, and how do audiences respond to different types and levels of AI...",
+      "content": "As we&#8217;ve reported previously, AI-generated journalism provokes distrust from readers, with audiences favoring a human touch. That might seem obvious, but a lot of questions lie buried in that broad statement. First, with so many ways to use AI, what does &#8220;AI-generated&#8221; mean, and how do audiences respond to different types and levels of AI...",
+      "published": "Wed, 17 Jun 2026 16:19:10 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
+      ]
+    },
+    {
       "title": "The Newsground turns to coffee to fund investigative journalism",
       "url": "https://www.niemanlab.org/2026/06/the-newsground-turns-to-coffee-to-fund-investigative-journalism/",
       "summary": "It&#8217;s a beloved newspaper cliché: The reader sitting at the kitchen table sipping a hot cup of coffee while leisurely scanning the newspaper. The news consumption experience, for most people, hasn&#8217;t looked like that for a long time. But a new publication wants to update the news-and-coffee experience for the modern era. Enter: The Newsground,...",
@@ -26,46 +52,6 @@
       "selection_score": 36,
       "matched_topics": [
         "media"
-      ]
-    },
-    {
-      "title": "How an Alaska news nonprofit bought the local newspaper it was founded to compete with",
-      "url": "https://www.niemanlab.org/2026/06/how-an-alaska-news-nonprofit-bought-the-local-newspaper-it-was-founded-to-compete-with/",
-      "summary": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
-      "content": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
-      "published": "Thu, 11 Jun 2026 18:14:00 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "財務諸表だけでは勝てない ブルームバーグ日本トップが語る「非構造化データ」の重要性",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/16/news016.html",
-      "summary": "デフレからインフレへ経済の潮目が激変した日本市場。もはや過去の数値（財務諸表）を眺めるだけのデータ経営では勝てない。情報の洪水におぼれず、気象や音声などの「非構造化データ」をいかに素早く選別し、リアルタイムの決断に生かすか。金融情報インフラを支えるブルームバーグの日本トップに、情報過多を突破するデータ経営学を聞く。",
-      "content": "デフレからインフレへ経済の潮目が激変した日本市場。もはや過去の数値（財務諸表）を眺めるだけのデータ経営では勝てない。情報の洪水におぼれず、気象や音声などの「非構造化データ」をいかに素早く選別し、リアルタイムの決断に生かすか。金融情報インフラを支えるブルームバーグの日本トップに、情報過多を突破するデータ経営学を聞く。",
-      "published": "Wed, 17 Jun 2026 07:45:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "cms_knowledge",
-        "japan"
       ]
     },
     {
@@ -95,11 +81,11 @@
       ]
     },
     {
-      "title": "セルフ給油、実はスタッフが手動で許可していた!? コスモ石油の「AI監視」は消えゆくガソリンスタンドを救うか",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/17/news012.html",
-      "summary": "従来のセルフ式ガソリンスタンドでは、利用者が給油ノズルを手にした後も、スタッフが安全を確認した上で給油を許可している。この監視業務をAIで支援する取り組みが動き出した。コスモ石油マーケティングとELEMENTSは、AIが給油許可を判断する監視システムを共同開発。背景には、人手不足やサービスステーション数の減少といった業界課題がある。AIはガソリンスタンドの現場をどう変えるのか。",
-      "content": "従来のセルフ式ガソリンスタンドでは、利用者が給油ノズルを手にした後も、スタッフが安全を確認した上で給油を許可している。この監視業務をAIで支援する取り組みが動き出した。コスモ石油マーケティングとELEMENTSは、AIが給油許可を判断する監視システムを共同開発。背景には、人手不足やサービスステーション数の減少といった業界課題がある。AIはガソリンスタンドの現場をどう変えるのか。",
-      "published": "Wed, 17 Jun 2026 07:00:00 +0900",
+      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
+      "summary": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT writing」は、人間たちが生み出すアイデアと生成AIが出力するアイデアのどちらが多様で創造的であるかを検証した研究報告だ。",
+      "content": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT writing」は、人間たちが生み出すアイデアと生成AIが出力するアイデアのどちらが多様で創造的であるかを検証した研究報告だ。",
+      "published": "Thu, 18 Jun 2026 07:30:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -108,30 +94,28 @@
       ]
     },
     {
-      "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA 各社が目指す「フィジカルAI」は何が違うのか",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
-      "summary": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
-      "content": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
-      "published": "Wed, 17 Jun 2026 05:00:00 +0900",
+      "title": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+      "summary": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
+      "content": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
+      "published": "Thu, 18 Jun 2026 06:25:34 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "published": "2026-06-17T15:49:03Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -148,6 +132,32 @@
       ]
     },
     {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "published": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
@@ -158,6 +168,45 @@
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "How an Alaska news nonprofit bought the local newspaper it was founded to compete with",
+      "url": "https://www.niemanlab.org/2026/06/how-an-alaska-news-nonprofit-bought-the-local-newspaper-it-was-founded-to-compete-with/",
+      "summary": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
+      "content": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
+      "published": "Thu, 11 Jun 2026 18:14:00 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "cms_knowledge"
       ]
     },
     {
@@ -172,41 +221,6 @@
       "matched_topics": [
         "enterprise"
       ]
-    },
-    {
-      "title": "AI amplifies creativity by removing friction",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
-      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
-      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
-      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "The Centre Daily Times unionizes after backlash to McClatchy’s AI tool",
-      "url": "https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/",
-      "summary": "Josh Moyer remembers the exact moment he decided he needed to unionize. Moyer is a senior reporter for the Centre Daily Times, a newspaper in State College, PA, and for months he had been concerned about a new AI tool being rolled out in his newsroom. McClatchy, the Centre Daily Times’ parent company, had chosen...",
-      "content": "Josh Moyer remembers the exact moment he decided he needed to unionize. Moyer is a senior reporter for the Centre Daily Times, a newspaper in State College, PA, and for months he had been concerned about a new AI tool being rolled out in his newsroom. McClatchy, the Centre Daily Times’ parent company, had chosen...",
-      "published": "Wed, 10 Jun 2026 19:38:45 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
     },
     {
       "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
@@ -231,25 +245,14 @@
       "matched_topics": []
     },
     {
-      "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
-      "url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
-      "summary": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
-      "content": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...",
-      "published": "2026-06-09T15:55:18Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ ただし危うさも",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
-      "summary": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
-      "content": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
-      "published": "Wed, 17 Jun 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
