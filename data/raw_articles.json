@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T23:26:37.617219+00:00",
+  "generated_at": "2026-06-18T23:47:23.522341+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -55,6 +55,47 @@
       ]
     },
     {
+      "title": "米大企業の7割が導入する「Databricks」とは何者か？ 評価額20兆円の「AI向けデータ基盤」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
+      "summary": "評価額約20兆円、Fortune 500の7割が利用するデータ・AI基盤企業Databricks。オープンソースのビッグデータ分散処理エンジン「Apache Spark」開発者らが2013年に創業した同社の軌跡と最新情報を解説する。",
+      "content": "評価額約20兆円、Fortune 500の7割が利用するデータ・AI基盤企業Databricks。オープンソースのビッグデータ分散処理エンジン「Apache Spark」開発者らが2013年に創業した同社の軌跡と最新情報を解説する。",
+      "published": "Fri, 19 Jun 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 52,
+      "matched_topics": [
+        "cms_knowledge",
+        "japan"
+      ]
+    },
+    {
+      "title": "工数「76％」削減 味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
+      "summary": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
+      "content": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
+      "published": "Fri, 19 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "AIで要らなくなったSaaS、要るSaaSは、どれ？ 日本の「SaaS is dead」の実態",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html",
+      "summary": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
+      "content": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
+      "published": "Fri, 19 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
       "title": "2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想",
       "url": "https://www.publickey1.jp/blog/26/2027ai65ide.html",
       "summary": "調査会社のガートナーは、エンタープライズ市場におけるAIコーディングエージェント市場が、拡大と競争再編の新たな段階に突入したとし、それに関する予想を発表しました。 AIによる支援を用いたコーディング作業は、当初はVisual Studio ...",
@@ -81,41 +122,17 @@
       ]
     },
     {
-      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
-      "summary": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT writing」は、人間たちが生み出すアイデアと生成AIが出力するアイデアのどちらが多様で創造的であるかを検証した研究報告だ。",
-      "content": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT writing」は、人間たちが生み出すアイデアと生成AIが出力するアイデアのどちらが多様で創造的であるかを検証した研究報告だ。",
-      "published": "Thu, 18 Jun 2026 07:30:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "content": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "published": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
       "matched_topics": [
         "enterprise"
       ]
-    },
-    {
-      "title": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
-      "summary": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
-      "content": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
-      "published": "Thu, 18 Jun 2026 06:25:34 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "published": "2026-06-17T15:49:03Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
     },
     {
       "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
@@ -129,6 +146,32 @@
       "matched_topics": [
         "enterprise",
         "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "content": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "published": "Thu, 18 Jun 2026 11:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "content": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -151,45 +194,6 @@
       "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "published": "Wed, 17 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "published": "Sun, 14 Jun 2026 17:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
@@ -223,37 +227,43 @@
       ]
     },
     {
-      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
-      "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-      "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "content": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "published": "2026-06-16T18:05:15Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
-      "url": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-      "summary": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
-      "content": "Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「Stack Overflow for Agents」をベータ版として提供開始したことを明らかにしました。 What i...",
-      "published": "2026-06-15T15:46:43Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "published": "Tue, 16 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "AI amplifies creativity by removing friction",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
+      "source": "Microsoft AI Blog",
       "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "融資の決め手、決算書→「データ」「未来のシナリオ」へ 中小企業が資金調達に成功するための最大のポイントは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news023.html",
+      "summary": "中小企業の資金調達の在り方が、大きく変わろうとしている。融資特化型デジタルバンクである01（ゼロワン）銀行（大阪府吹田市）の大塚篤史副社長と北國銀行（金沢市）の竹内均氏（常務執行役員マーケティング部長）が、中小企業の経営や資金調達がどう変わっていくかの見解を語った。",
+      "content": "中小企業の資金調達の在り方が、大きく変わろうとしている。融資特化型デジタルバンクである01（ゼロワン）銀行（大阪府吹田市）の大塚篤史副社長と北國銀行（金沢市）の竹内均氏（常務執行役員マーケティング部長）が、中小企業の経営や資金調達がどう変わっていくかの見解を語った。",
+      "published": "Fri, 19 Jun 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
     }
   ]
 }
