@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:47:23.522341+00:00",
+  "generated_at": "2026-06-19T23:00:26.932413+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -55,43 +55,44 @@
       ]
     },
     {
-      "title": "米大企業の7割が導入する「Databricks」とは何者か？ 評価額20兆円の「AI向けデータ基盤」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
-      "summary": "評価額約20兆円、Fortune 500の7割が利用するデータ・AI基盤企業Databricks。オープンソースのビッグデータ分散処理エンジン「Apache Spark」開発者らが2013年に創業した同社の軌跡と最新情報を解説する。",
-      "content": "評価額約20兆円、Fortune 500の7割が利用するデータ・AI基盤企業Databricks。オープンソースのビッグデータ分散処理エンジン「Apache Spark」開発者らが2013年に創業した同社の軌跡と最新情報を解説する。",
-      "published": "Fri, 19 Jun 2026 08:00:00 +0900",
+      "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+      "summary": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
+      "content": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
+      "published": "Fri, 19 Jun 2026 16:26:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 52,
       "matched_topics": [
+        "enterprise",
         "cms_knowledge",
         "japan"
       ]
     },
     {
-      "title": "工数「76％」削減 味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
-      "summary": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
-      "content": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
-      "published": "Fri, 19 Jun 2026 07:00:00 +0900",
+      "title": "GMO傘下、Unitreeの国内正規代理店に 人型ロボの導入から保守まで一気通貫で支援",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+      "summary": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+      "content": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+      "published": "Fri, 19 Jun 2026 16:16:24 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 39,
       "matched_topics": [
-        "enterprise",
         "japan"
       ]
     },
     {
-      "title": "AIで要らなくなったSaaS、要るSaaSは、どれ？ 日本の「SaaS is dead」の実態",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html",
-      "summary": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
-      "content": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
-      "published": "Fri, 19 Jun 2026 07:00:00 +0900",
+      "title": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
+      "summary": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "content": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "published": "Fri, 19 Jun 2026 11:26:50 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
       "matched_topics": [
+        "enterprise",
         "japan"
       ]
     },
@@ -132,20 +133,6 @@
       "selection_score": 40,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
-      "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
-      "content": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 14 May 2026 15:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise",
-        "cms_knowledge"
       ]
     },
     {
@@ -201,6 +188,19 @@
       ]
     },
     {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
       "title": "How an Alaska news nonprofit bought the local newspaper it was founded to compete with",
       "url": "https://www.niemanlab.org/2026/06/how-an-alaska-news-nonprofit-bought-the-local-newspaper-it-was-founded-to-compete-with/",
       "summary": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
@@ -227,6 +227,19 @@
       ]
     },
     {
+      "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
+      "summary": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
+      "content": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
+      "published": "Thu, 18 Jun 2026 16:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "AI amplifies creativity by removing friction",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
       "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
@@ -240,24 +253,11 @@
       ]
     },
     {
-      "title": "融資の決め手、決算書→「データ」「未来のシナリオ」へ 中小企業が資金調達に成功するための最大のポイントは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news023.html",
-      "summary": "中小企業の資金調達の在り方が、大きく変わろうとしている。融資特化型デジタルバンクである01（ゼロワン）銀行（大阪府吹田市）の大塚篤史副社長と北國銀行（金沢市）の竹内均氏（常務執行役員マーケティング部長）が、中小企業の経営や資金調達がどう変わっていくかの見解を語った。",
-      "content": "中小企業の資金調達の在り方が、大きく変わろうとしている。融資特化型デジタルバンクである01（ゼロワン）銀行（大阪府吹田市）の大塚篤史副社長と北國銀行（金沢市）の竹内均氏（常務執行役員マーケティング部長）が、中小企業の経営や資金調達がどう変わっていくかの見解を語った。",
-      "published": "Fri, 19 Jun 2026 08:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
