@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T23:00:26.932413+00:00",
+  "generated_at": "2026-06-20T23:11:05.102436+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -227,19 +227,6 @@
       ]
     },
     {
-      "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
-      "summary": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
-      "content": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 18 Jun 2026 16:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "AI amplifies creativity by removing friction",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
       "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
@@ -264,6 +251,17 @@
       "matched_topics": [
         "ai_search"
       ]
+    },
+    {
+      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "published": "2026-06-17T15:49:03Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
