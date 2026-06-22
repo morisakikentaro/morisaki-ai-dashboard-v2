@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:16:35.135241+00:00",
+  "generated_at": "2026-06-22T23:21:30.668230+00:00",
   "articles": [
     {
       "title": "News sites are the new newspapers: People are abandoning them for social media",
@@ -42,27 +42,68 @@
       ]
     },
     {
-      "title": "The Newsground turns to coffee to fund investigative journalism",
-      "url": "https://www.niemanlab.org/2026/06/the-newsground-turns-to-coffee-to-fund-investigative-journalism/",
-      "summary": "It&#8217;s a beloved newspaper cliché: The reader sitting at the kitchen table sipping a hot cup of coffee while leisurely scanning the newspaper. The news consumption experience, for most people, hasn&#8217;t looked like that for a long time. But a new publication wants to update the news-and-coffee experience for the modern era. Enter: The Newsground,...",
-      "content": "It&#8217;s a beloved newspaper cliché: The reader sitting at the kitchen table sipping a hot cup of coffee while leisurely scanning the newspaper. The news consumption experience, for most people, hasn&#8217;t looked like that for a long time. But a new publication wants to update the news-and-coffee experience for the modern era. Enter: The Newsground,...",
-      "published": "Mon, 15 Jun 2026 14:28:46 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
-        "media"
+        "ai_search"
       ]
     },
     {
-      "title": "情シスが「日本1位のAIスパコン」作るまで 猶予は4カ月、ソフトバンク“社長プロジェクト”の舞台裏",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/22/news029.html",
-      "summary": "ソフトバンクのスパコンが、AI計算性能で国内1位を獲得した。実は、これを開発したのは「情シス」のメンバーだった。“社長プロジェクト”に挑んだメンバーの奮闘を追う。",
-      "content": "ソフトバンクのスパコンが、AI計算性能で国内1位を獲得した。実は、これを開発したのは「情シス」のメンバーだった。“社長プロジェクト”に挑んだメンバーの奮闘を追う。",
-      "published": "Mon, 22 Jun 2026 07:00:00 +0900",
+      "title": "AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html",
+      "summary": "ソルバは、AIアークスと提携し、地域企業向けのAI顧問サービスを開始した。AI・DXの専門人材による伴走支援を月額制で提供し、企業ごとの課題に応じたAI活用を後押しする。生産性向上や原価改善、人手不足対策を通じて、地域企業の競争力強化を目指す。",
+      "content": "ソルバは、AIアークスと提携し、地域企業向けのAI顧問サービスを開始した。AI・DXの専門人材による伴走支援を月額制で提供し、企業ごとの課題に応じたAI活用を後押しする。生産性向上や原価改善、人手不足対策を通じて、地域企業の競争力強化を目指す。",
+      "published": "Tue, 23 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "Excelの10万行データを3分でAIに処理させる、M365 Copilotの使い方",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news043.html",
+      "summary": "上司から突然「このデータを見ておいて」と任され、Excelを前に手が止まった経験がある人も多いはずだ。大量データの集計は負担が大きく、分析業務は特定の担当者に偏ってしまう。Copilotのチャットや関数機能は、その前提を変えつつある。",
+      "content": "上司から突然「このデータを見ておいて」と任され、Excelを前に手が止まった経験がある人も多いはずだ。大量データの集計は負担が大きく、分析業務は特定の担当者に偏ってしまう。Copilotのチャットや関数機能は、その前提を変えつつある。",
+      "published": "Tue, 23 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "ダイハツがAI品質検査システムを共同開発、アルミ加工穴内部の目視検査を自動化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html",
+      "summary": "ダイハツ工業は、滋賀（竜王）工場 第1地区にAIを用いた自動車部品の品質検査システムを導入したと発表した。製造業向けAIソリューションを提供するスタートアップのVRAIN Solutionと共同開発したもので、現場主導のDX推進の取り組みに位置付けられる。",
+      "content": "ダイハツ工業は、滋賀（竜王）工場 第1地区にAIを用いた自動車部品の品質検査システムを導入したと発表した。製造業向けAIソリューションを提供するスタートアップのVRAIN Solutionと共同開発したもので、現場主導のDX推進の取り組みに位置付けられる。",
+      "published": "Tue, 23 Jun 2026 06:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入",
+      "url": "https://www.publickey1.jp/blog/26/githubai_1.html",
+      "summary": "GitHubは、ユーザーに対してプルリクエスト数の上限を設定できる新機能の導入を発表しました。 Pull requests are easier to open than ever, but every review still takes...",
+      "content": "GitHubは、ユーザーに対してプルリクエスト数の上限を設定できる新機能の導入を発表しました。 Pull requests are easier to open than ever, but every review still takes...",
+      "published": "2026-06-22T15:14:38Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
@@ -79,41 +120,6 @@
       "matched_topics": [
         "cms_knowledge"
       ]
-    },
-    {
-      "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/22/news018.html",
-      "summary": "東京都心から北東へおよそ40キロメートルにある千葉県印西市。かつて「千葉ニュータウン」として開発されたこの郊外の街が、いま世界の巨大IT企業にとって“聖地”になっている。",
-      "content": "東京都心から北東へおよそ40キロメートルにある千葉県印西市。かつて「千葉ニュータウン」として開発されたこの郊外の街が、いま世界の巨大IT企業にとって“聖地”になっている。",
-      "published": "Mon, 22 Jun 2026 06:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-      "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
-      "content": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
-      "published": "2026-06-21T15:24:42Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "published": "2026-06-17T15:49:03Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
     },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -142,6 +148,20 @@
       ]
     },
     {
+      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
+      "summary": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
+      "content": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in their AI maturity, constrained by fragmented foundations, unclear governance, and limited organizational alignment. These gaps make it difficult to move from experimentation to repeatable, enterprise‑wide impact. The post From AI ambition to Frontier Transformation: Readiness defines the leaders appeared first on The Microsoft Cloud Blog .",
+      "published": "Thu, 14 May 2026 15:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "enterprise",
+        "cms_knowledge"
+      ]
+    },
+    {
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
@@ -155,55 +175,16 @@
       ]
     },
     {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "content": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "published": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
         "ai_search"
-      ]
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "published": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "How an Alaska news nonprofit bought the local newspaper it was founded to compete with",
-      "url": "https://www.niemanlab.org/2026/06/how-an-alaska-news-nonprofit-bought-the-local-newspaper-it-was-founded-to-compete-with/",
-      "summary": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
-      "content": "It&#8217;s been a big couple of years for Amy Bushatz. A former executive editor of Military.com, her husband&#8217;s military career had taken their family to the Matanuska-Susitna Valley of Alaska — northern suburbs of Anchorage that make up the state&#8217;s fastest growing region. (Perhaps best known in the Lower 48 as the starting point for...",
-      "published": "Thu, 11 Jun 2026 18:14:00 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
       ]
     },
     {
@@ -213,19 +194,6 @@
       "content": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
       "published": "Mon, 01 Jun 2026 16:00:00 +0000",
       "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
-      "summary": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
-      "content": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
-      "published": "Thu, 18 Jun 2026 16:00:00 +0000",
-      "source": "Microsoft AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
@@ -246,17 +214,52 @@
       ]
     },
     {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
+      "title": "「取引先経由」のサイバー攻撃が増加 狙われる中小企業が見直すべき「セキュリティ対策」の3ステップ",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/23/news032.html",
+      "summary": "企業を狙ったサイバー攻撃が後を絶たない。2025年後半に、アスクルやアサヒグループホールディングスが被害を受け、商品の受注や出荷が停止したことは記憶に新しい。ローカーや交渉人、実行組織などが絡み合う犯罪集団に、人手やリソースが限られる中堅・中小企業が単独で立ち向かうのは難しい。では、どのように対策を進めればよいのか。",
+      "content": "企業を狙ったサイバー攻撃が後を絶たない。2025年後半に、アスクルやアサヒグループホールディングスが被害を受け、商品の受注や出荷が停止したことは記憶に新しい。ローカーや交渉人、実行組織などが絡み合う犯罪集団に、人手やリソースが限られる中堅・中小企業が単独で立ち向かうのは難しい。では、どのように対策を進めればよいのか。",
+      "published": "Tue, 23 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
-        "ai_search"
+        "japan"
       ]
+    },
+    {
+      "title": "Book reviews are an endangered species. So this independent bookstore decided to start publishing its own.",
+      "url": "https://www.niemanlab.org/2026/06/book-reviews-are-an-endangered-species-so-this-independent-bookstore-decided-to-start-publishing-its-own/",
+      "summary": "When The Washington Post&#8217;s management axed Book World in February, it wasn&#8217;t just one casualty among hundreds of layoffs; it was the latest high-profile death blow to a newspaper book review section in more than two decades of a thousand cuts. The AP stopped publishing book reviews last fall. Metro dailies like the San Francisco...",
+      "content": "When The Washington Post&#8217;s management axed Book World in February, it wasn&#8217;t just one casualty among hundreds of layoffs; it was the latest high-profile death blow to a newspaper book review section in more than two decades of a thousand cuts. The AP stopped publishing book reviews last fall. Metro dailies like the San Francisco...",
+      "published": "Mon, 22 Jun 2026 19:25:55 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "経営者は「何を捨てるか考えて」――中東紛争“サイバー戦”のリアルが突き付ける、無視できない脅威",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/23/news011.html",
+      "summary": "サイバー戦やAIの悪用など、サイバー空間は“危険と隣り合わせの場所”になった。企業の経営者は、この課題にどう向き合えばよいのだろうか。",
+      "content": "サイバー戦やAIの悪用など、サイバー空間は“危険と隣り合わせの場所”になった。企業の経営者は、この課題にどう向き合えばよいのだろうか。",
+      "published": "Tue, 23 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+      "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
+      "content": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
+      "published": "2026-06-21T15:24:42Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
