@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-06-23T23:09:55.587149+00:00",
+  "generated_at": "2026-06-24T23:05:20.583812+00:00",
   "articles": [
+    {
+      "title": "Overwhelmed by news on social? SaySo is betting a smaller, vetted creator feed is the answer",
+      "url": "https://www.niemanlab.org/2026/06/overwhelmed-by-news-on-social-sayso-is-betting-a-smaller-vetted-creator-feed-is-the-answer/",
+      "summary": "Social media is overwhelming. The amount of information, misinformation, and slop makes it hard for the average news consumer to wade through the deluge of posts and know who to trust. According to the Reuters Institute for the Study of Journalism, more and more people are turning to creators for news. About 27% of adults...",
+      "content": "Social media is overwhelming. The amount of information, misinformation, and slop makes it hard for the average news consumer to wade through the deluge of posts and know who to trust. According to the Reuters Institute for the Study of Journalism, more and more people are turning to creators for news. About 27% of adults...",
+      "published": "Wed, 24 Jun 2026 18:45:58 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "cms_knowledge",
+        "media"
+      ]
+    },
     {
       "title": "The use of AI chatbots for news is on the rise — but not everywhere",
       "url": "https://www.niemanlab.org/2026/06/the-use-of-ai-chatbots-for-news-is-on-the-rise-but-not-everywhere/",
@@ -18,27 +32,14 @@
     {
       "title": "States with less local news have higher rates of loneliness",
       "url": "https://www.niemanlab.org/2026/06/states-with-less-local-news-have-higher-rates-of-loneliness/",
-      "summary": "The 2026 Local Journalist Index, this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends to...",
-      "content": "The 2026 Local Journalist Index, this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends to...",
+      "summary": "The 2026 Local Journalist Index, released this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends...",
+      "content": "The 2026 Local Journalist Index, released this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends...",
       "published": "Wed, 17 Jun 2026 19:36:36 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
         "cms_knowledge"
-      ]
-    },
-    {
-      "title": "How should news organizations label their AI use for audiences? New studies suggest some answers",
-      "url": "https://www.niemanlab.org/2026/06/how-should-news-organizations-label-their-ai-use-for-audiences-new-studies-suggest-some-answers/",
-      "summary": "As we&#8217;ve reported previously, AI-generated journalism provokes distrust from readers, with audiences favoring a human touch. That might seem obvious, but a lot of questions lie buried in that broad statement. First, with so many ways to use AI, what does &#8220;AI-generated&#8221; mean, and how do audiences respond to different types and levels of AI...",
-      "content": "As we&#8217;ve reported previously, AI-generated journalism provokes distrust from readers, with audiences favoring a human touch. That might seem obvious, but a lot of questions lie buried in that broad statement. First, with so many ways to use AI, what does &#8220;AI-generated&#8221; mean, and how do audiences respond to different types and levels of AI...",
-      "published": "Wed, 17 Jun 2026 16:19:10 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
       ]
     },
     {
@@ -55,16 +56,43 @@
       ]
     },
     {
-      "title": "業務でAIを使う人の約38％「禁止されても利用継続」 セキュリティ企業が調査",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/",
-      "summary": "業務でAIを使っている人の37.8％が勤務先に禁止されても利用を継続する意向を示した――Webセキュリティサービスなどを手掛けるサイバーセキュリティクラウドは、このような調査結果を発表した。",
-      "content": "業務でAIを使っている人の37.8％が勤務先に禁止されても利用を継続する意向を示した――Webセキュリティサービスなどを手掛けるサイバーセキュリティクラウドは、このような調査結果を発表した。",
-      "published": "Tue, 23 Jun 2026 17:18:44 +0900",
+      "title": "「AI教育、どこから手を付ける？」 全社導入のカギは“生成AIリテラシー向上研修”（前編）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news008.html",
+      "summary": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の前編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
+      "content": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の前編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
+      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 52,
       "matched_topics": [
         "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "「AI教育、どこから手を付ける？」 全社導入のカギは“生成AIリテラシー向上研修”（後編）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news009.html",
+      "summary": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の後編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
+      "content": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の後編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
+      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 52,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "「最強モデル」はもう無意味 ナデラCEOが語る、企業の生き残り新戦略「学習ループ」",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news016.html",
+      "summary": "AIの進化で、自社システムの模倣やコモディティ化への不安が広がっている。MicrosoftのナデラCEOが示す「学習ループ」戦略とは何か。日本のソフトウェア企業の生き残りにも通じる筆者の視点を交えて解説する。",
+      "content": "AIの進化で、自社システムの模倣やコモディティ化への不安が広がっている。MicrosoftのナデラCEOが示す「学習ループ」戦略とは何か。日本のソフトウェア企業の生き残りにも通じる筆者の視点を交えて解説する。",
+      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
         "japan"
       ]
     },
@@ -92,32 +120,6 @@
       "selection_score": 32,
       "matched_topics": [
         "cms_knowledge"
-      ]
-    },
-    {
-      "title": "Geminiで「AIを使いたい現場」と「ダメと言う会社」のギャップを埋める方法",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2606/26/news003.html",
-      "summary": "生成AIやAIエージェントの取り組みが活発化している。ただ、その取り組みが検証止まりになるケースも多い。グーグル・クラウド・ジャパンの北瀬公彦氏は、そうした「AI活用のカベ」を乗り越えるために「スピードと守りを両立が重要」と語った。",
-      "content": "生成AIやAIエージェントの取り組みが活発化している。ただ、その取り組みが検証止まりになるケースも多い。グーグル・クラウド・ジャパンの北瀬公彦氏は、そうした「AI活用のカベ」を乗り越えるために「スピードと守りを両立が重要」と語った。",
-      "published": "Wed, 24 Jun 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "“中国ヒューマノイド革命”はなぜ起きた、異業種や大手テックが動かす市場の今",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/24/news053.html",
-      "summary": "中国のヒューマノイドロボット市場は、劇的なパラダイムシフトの渦中にある。出荷台数は前年比約7倍、世界シェアは8割に達し、異業種企業の参入で本体企業数は倍増した。野村総合研究所の李智慧氏による、量産化フェーズへ突入した中国市場の急成長を支えるマクロ動向の解説を紹介する。",
-      "content": "中国のヒューマノイドロボット市場は、劇的なパラダイムシフトの渦中にある。出荷台数は前年比約7倍、世界シェアは8割に達し、異業種企業の参入で本体企業数は倍増した。野村総合研究所の李智慧氏による、量産化フェーズへ突入した中国市場の急成長を支えるマクロ動向の解説を紹介する。",
-      "published": "Wed, 24 Jun 2026 06:15:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
       ]
     },
     {
@@ -186,15 +188,28 @@
       ]
     },
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "published": "Wed, 24 Jun 2026 06:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
+    },
+    {
+      "title": "味の素、“万能DX人材”増員へ 育成のきっかけは新規プロジェクトの苦い経験",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/25/news021.html",
+      "summary": "味の素が、AIを活用して「フルスタック人財」の育成を目指している。DX推進のキーパーソンにする狙いだ。既に300時間の工数削減例も生まれている。一体どう育成したのか。",
+      "content": "味の素が、AIを活用して「フルスタック人財」の育成を目指している。DX推進のキーパーソンにする狙いだ。既に300時間の工数削減例も生まれている。一体どう育成したのか。",
+      "published": "Thu, 25 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
       "title": "The British government wants to force more trustworthy news into your doomscrolling",
@@ -235,17 +250,6 @@
       "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
       "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
       "published": "2026-06-17T15:49:03Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
-      "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-      "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "content": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...",
-      "published": "2026-06-16T18:05:15Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
