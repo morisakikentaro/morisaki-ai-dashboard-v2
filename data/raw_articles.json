@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-06-24T23:05:20.583812+00:00",
+  "generated_at": "2026-06-25T23:20:21.825947+00:00",
   "articles": [
+    {
+      "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
+      "url": "https://www.niemanlab.org/2026/06/beehiivs-new-cloudflare-partnership-gives-indie-journalists-a-new-level-of-control-over-ai-crawlers/",
+      "summary": "Over the past year, major news publishers have taken aggressive anti-scraping measures to curb the rise of AI crawlers. So far, most of these backend interventions have been out of reach for independent journalists who publish on third-party newsletter platforms. That is changing with a new partnership announced on Tuesday between Beehiiv and Cloudflare, the...",
+      "content": "Over the past year, major news publishers have taken aggressive anti-scraping measures to curb the rise of AI crawlers. So far, most of these backend interventions have been out of reach for independent journalists who publish on third-party newsletter platforms. That is changing with a new partnership announced on Tuesday between Beehiiv and Cloudflare, the...",
+      "published": "Thu, 25 Jun 2026 19:22:19 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
+    {
+      "title": "The demand for news video is growing (and that’s a good thing for publishers)",
+      "url": "https://www.niemanlab.org/2026/06/the-demand-for-news-video-is-growing-and-thats-a-good-thing-for-publishers/",
+      "summary": "News video is as popular as ever. Publishers who remember the &#8220;pivot to video&#8221; from a decade ago might wince at the thought, remembering how misleading metrics led many publishers to invest in video content. But evidence from our newly published Digital News Report suggests the demand for news video is growing. A decade on,...",
+      "content": "News video is as popular as ever. Publishers who remember the &#8220;pivot to video&#8221; from a decade ago might wince at the thought, remembering how misleading metrics led many publishers to invest in video content. But evidence from our newly published Digital News Report suggests the demand for news video is growing. A decade on,...",
+      "published": "Thu, 25 Jun 2026 14:11:15 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "Overwhelmed by news on social? SaySo is betting a smaller, vetted creator feed is the answer",
       "url": "https://www.niemanlab.org/2026/06/overwhelmed-by-news-on-social-sayso-is-betting-a-smaller-vetted-creator-feed-is-the-answer/",
@@ -30,69 +58,16 @@
       ]
     },
     {
-      "title": "States with less local news have higher rates of loneliness",
-      "url": "https://www.niemanlab.org/2026/06/states-with-less-local-news-have-higher-rates-of-loneliness/",
-      "summary": "The 2026 Local Journalist Index, released this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends...",
-      "content": "The 2026 Local Journalist Index, released this week by Muck Rack and the Rebuild Local News Coalition, contains a fair bit of bad news that may not surprise you: The number of working local journalists has plummeted over the last 25 years (and continued to decline last year), and the little coverage that&#8217;s left tends...",
-      "published": "Wed, 17 Jun 2026 19:36:36 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "「AI教育、どこから手を付ける？」 全社導入のカギは“生成AIリテラシー向上研修”（前編）",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news008.html",
-      "summary": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の前編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
-      "content": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の前編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
-      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
+      "title": "“AIの回答が薄い問題”をどう解決？ 日本ハム、「AIが食べやすいデータ」作戦の全貌",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/26/news012.html",
+      "summary": "データ×AIによる意思決定を推進するには、非構造化データを「AIが食べやすいデータ」に変える必要がある。日本ハムが選んだアプローチとは。",
+      "content": "データ×AIによる意思決定を推進するには、非構造化データを「AIが食べやすいデータ」に変える必要がある。日本ハムが選んだアプローチとは。",
+      "published": "Fri, 26 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 52,
+      "selection_score": 34,
       "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "「AI教育、どこから手を付ける？」 全社導入のカギは“生成AIリテラシー向上研修”（後編）",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news009.html",
-      "summary": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の後編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
-      "content": "生成AIは業務の現場に急速に浸透し、「使って当たり前」の時代が到来しています。その活用範囲は広がる一方、情報漏洩や誤情報のリスクが企業の大きな課題になっています。今求められるのは、誰もが“安全かつ賢く”生成AIを使いこなすリテラシーです。本稿は、社内の誰もが生成AIを安全に、自信を持って使えるようになるための第一歩として位置付けられた全社員向け研修資料の後編です。業種や職種を問わず実践できる生成AIリテラシー向上のポイントを、具体的な事例やノウハウとともに解説します。",
-      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 52,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "「最強モデル」はもう無意味 ナデラCEOが語る、企業の生き残り新戦略「学習ループ」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news016.html",
-      "summary": "AIの進化で、自社システムの模倣やコモディティ化への不安が広がっている。MicrosoftのナデラCEOが示す「学習ループ」戦略とは何か。日本のソフトウェア企業の生き残りにも通じる筆者の視点を交えて解説する。",
-      "content": "AIの進化で、自社システムの模倣やコモディティ化への不安が広がっている。MicrosoftのナデラCEOが示す「学習ループ」戦略とは何か。日本のソフトウェア企業の生き残りにも通じる筆者の視点を交えて解説する。",
-      "published": "Thu, 25 Jun 2026 05:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
+        "cms_knowledge",
         "japan"
       ]
     },
@@ -123,6 +98,58 @@
       ]
     },
     {
+      "title": "チャットの貴重な情報をAIが収集 AIエージェントで会話を資産に",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/26/news041.html",
+      "summary": "業務上の会話には、後から参照すべき貴重な情報が多く含まれる。しかし、従来型のチャットでは、こうした情報が整理されないまま流れ、必要な場面で見つけにくい。そうした課題を解決するために、AIチャットエージェントが役立つかもしれない。",
+      "content": "業務上の会話には、後から参照すべき貴重な情報が多く含まれる。しかし、従来型のチャットでは、こうした情報が整理されないまま流れ、必要な場面で見つけにくい。そうした課題を解決するために、AIチャットエージェントが役立つかもしれない。",
+      "published": "Fri, 26 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "リコーが多能工ヒューマノイドを披露、工場ではPoCから導入に向けた実証段階へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/26/news056.html",
+      "summary": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
+      "content": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
+      "published": "Fri, 26 Jun 2026 06:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
@@ -146,19 +173,6 @@
       "selection_score": 30,
       "matched_topics": [
         "ai_search"
-      ]
-    },
-    {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "content": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -188,28 +202,28 @@
       ]
     },
     {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "published": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "味の素、“万能DX人材”増員へ 育成のきっかけは新規プロジェクトの苦い経験",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/25/news021.html",
-      "summary": "味の素が、AIを活用して「フルスタック人財」の育成を目指している。DX推進のキーパーソンにする狙いだ。既に300時間の工数削減例も生まれている。一体どう育成したのか。",
-      "content": "味の素が、AIを活用して「フルスタック人財」の育成を目指している。DX推進のキーパーソンにする狙いだ。既に300時間の工数削減例も生まれている。一体どう育成したのか。",
-      "published": "Thu, 25 Jun 2026 07:00:00 +0900",
+      "title": "男性に美人局容疑で3人逮捕 ChatGPTの示談相場示し脅迫か 警視庁",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html",
+      "summary": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
+      "content": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
+      "published": "Thu, 25 Jun 2026 18:11:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
+    },
+    {
+      "title": "Full Fact is battling AI-generated elections content with AI tools of its own",
+      "url": "https://www.niemanlab.org/2026/06/full-fact-is-battling-ai-generated-elections-content-with-ai-tools-of-its-own/",
+      "summary": "As campaign videos go, it was a classic. To the sound of a soulful pop ballad, a smiling politician meets voters in the street, chats to school children and visits a hospital. The only problem? The scenes shown in the video weren&#8217;t real. They were AI-generated, and shared and labeled as &#8220;illustrative&#8221; by an independent...",
+      "content": "As campaign videos go, it was a classic. To the sound of a soulful pop ballad, a smiling politician meets voters in the street, chats to school children and visits a hospital. The only problem? The scenes shown in the video weren&#8217;t real. They were AI-generated, and shared and labeled as &#8220;illustrative&#8221; by an independent...",
+      "published": "Thu, 25 Jun 2026 14:00:36 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "The British government wants to force more trustworthy news into your doomscrolling",
@@ -223,15 +237,17 @@
       "matched_topics": []
     },
     {
-      "title": "Book reviews are an endangered species. So this independent bookstore decided to start publishing its own.",
-      "url": "https://www.niemanlab.org/2026/06/book-reviews-are-an-endangered-species-so-this-independent-bookstore-decided-to-start-publishing-its-own/",
-      "summary": "When The Washington Post&#8217;s management axed Book World in February, it wasn&#8217;t just one casualty among hundreds of layoffs; it was the latest high-profile death blow to a newspaper book review section in more than two decades of a thousand cuts. The AP stopped publishing book reviews last fall. Metro dailies like the San Francisco...",
-      "content": "When The Washington Post&#8217;s management axed Book World in February, it wasn&#8217;t just one casualty among hundreds of layoffs; it was the latest high-profile death blow to a newspaper book review section in more than two decades of a thousand cuts. The AP stopped publishing book reviews last fall. Metro dailies like the San Francisco...",
-      "published": "Mon, 22 Jun 2026 19:25:55 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
+      "title": "中国が人型ロボット開発で急成長しているワケ 日本が学ぶべきポイントは？ 専門家が解説",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000128/",
+      "summary": "なぜ人型ロボットの開発で中国が急成長しているのか。日本が学ぶべきポイントを野村総合研究所の李智慧氏が解説した。",
+      "content": "なぜ人型ロボットの開発で中国が急成長しているのか。日本が学ぶべきポイントを野村総合研究所の李智慧氏が解説した。",
+      "published": "Thu, 25 Jun 2026 17:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
@@ -239,17 +255,6 @@
       "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
       "content": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
       "published": "2026-06-21T15:24:42Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "published": "2026-06-17T15:49:03Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
