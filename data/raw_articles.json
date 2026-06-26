@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T23:20:21.825947+00:00",
+  "generated_at": "2026-06-26T23:08:06.952154+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -58,17 +58,16 @@
       ]
     },
     {
-      "title": "“AIの回答が薄い問題”をどう解決？ 日本ハム、「AIが食べやすいデータ」作戦の全貌",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/26/news012.html",
-      "summary": "データ×AIによる意思決定を推進するには、非構造化データを「AIが食べやすいデータ」に変える必要がある。日本ハムが選んだアプローチとは。",
-      "content": "データ×AIによる意思決定を推進するには、非構造化データを「AIが食べやすいデータ」に変える必要がある。日本ハムが選んだアプローチとは。",
-      "published": "Fri, 26 Jun 2026 07:00:00 +0900",
+      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+      "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "content": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "published": "Sat, 27 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
       "matched_topics": [
-        "cms_knowledge",
-        "japan"
+        "media"
       ]
     },
     {
@@ -98,11 +97,11 @@
       ]
     },
     {
-      "title": "チャットの貴重な情報をAIが収集 AIエージェントで会話を資産に",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2606/26/news041.html",
-      "summary": "業務上の会話には、後から参照すべき貴重な情報が多く含まれる。しかし、従来型のチャットでは、こうした情報が整理されないまま流れ、必要な場面で見つけにくい。そうした課題を解決するために、AIチャットエージェントが役立つかもしれない。",
-      "content": "業務上の会話には、後から参照すべき貴重な情報が多く含まれる。しかし、従来型のチャットでは、こうした情報が整理されないまま流れ、必要な場面で見つけにくい。そうした課題を解決するために、AIチャットエージェントが役立つかもしれない。",
-      "published": "Fri, 26 Jun 2026 07:00:00 +0900",
+      "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+      "summary": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
+      "content": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
+      "published": "Sat, 27 Jun 2026 04:56:10 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -111,11 +110,11 @@
       ]
     },
     {
-      "title": "リコーが多能工ヒューマノイドを披露、工場ではPoCから導入に向けた実証段階へ",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/26/news056.html",
-      "summary": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
-      "content": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
-      "published": "Fri, 26 Jun 2026 06:15:00 +0900",
+      "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
+      "summary": "OpenAIとAmazon Web Services（AWS）が戦略的パートナーシップを拡大した。OpenAIのモデル、コーディングエージェント「Codex」、マネージドエージェントを、企業がAWS環境で利用できるようにする。",
+      "content": "OpenAIとAmazon Web Services（AWS）が戦略的パートナーシップを拡大した。OpenAIのモデル、コーディングエージェント「Codex」、マネージドエージェントを、企業がAWS環境で利用できるようにする。",
+      "published": "Fri, 26 Jun 2026 13:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -202,19 +201,6 @@
       ]
     },
     {
-      "title": "男性に美人局容疑で3人逮捕 ChatGPTの示談相場示し脅迫か 警視庁",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html",
-      "summary": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
-      "content": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
-      "published": "Thu, 25 Jun 2026 18:11:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "Full Fact is battling AI-generated elections content with AI tools of its own",
       "url": "https://www.niemanlab.org/2026/06/full-fact-is-battling-ai-generated-elections-content-with-ai-tools-of-its-own/",
       "summary": "As campaign videos go, it was a classic. To the sound of a soulful pop ballad, a smiling politician meets voters in the street, chats to school children and visits a hospital. The only problem? The scenes shown in the video weren&#8217;t real. They were AI-generated, and shared and labeled as &#8220;illustrative&#8221; by an independent...",
@@ -237,25 +223,34 @@
       "matched_topics": []
     },
     {
-      "title": "中国が人型ロボット開発で急成長しているワケ 日本が学ぶべきポイントは？ 専門家が解説",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000128/",
-      "summary": "なぜ人型ロボットの開発で中国が急成長しているのか。日本が学ぶべきポイントを野村総合研究所の李智慧氏が解説した。",
-      "content": "なぜ人型ロボットの開発で中国が急成長しているのか。日本が学ぶべきポイントを野村総合研究所の李智慧氏が解説した。",
-      "published": "Thu, 25 Jun 2026 17:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
       "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
       "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
       "content": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
       "published": "2026-06-21T15:24:42Z",
       "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
+      "published": "2026-06-17T15:49:03Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？ 「プロダクトの差別化」の要点",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+      "summary": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+      "content": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+      "published": "Fri, 26 Jun 2026 18:15:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
