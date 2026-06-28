@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:03:59.807504+00:00",
+  "generated_at": "2026-06-28T23:04:30.161390+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -236,26 +236,30 @@
       "matched_topics": []
     },
     {
-      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-      "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
-      "content": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...",
-      "published": "2026-06-21T15:24:42Z",
-      "source": "Publickey",
+      "title": "解剖・孫正義氏の「ガチョウ論」 「ソフトバンクG株価が低過ぎ」主張を信じてよいのか",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/29/news034.html",
+      "summary": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
+      "content": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
+      "published": "Mon, 29 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
-      "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-      "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-      "summary": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "content": "Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。 AWSはそ...",
-      "published": "2026-06-17T15:49:03Z",
-      "source": "Publickey",
+      "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+      "summary": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+      "content": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+      "published": "Sun, 28 Jun 2026 13:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "media"
+      ]
     }
   ]
 }
