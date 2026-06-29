@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:04:30.161390+00:00",
+  "generated_at": "2026-06-29T23:00:27.101676+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -44,43 +44,30 @@
       ]
     },
     {
-      "title": "The use of AI chatbots for news is on the rise — but not everywhere",
-      "url": "https://www.niemanlab.org/2026/06/the-use-of-ai-chatbots-for-news-is-on-the-rise-but-not-everywhere/",
-      "summary": "This year&#8217;s Digital News Report marked a notable milestone: for the first time, social and video networks overtook news publishers as a source of news globally. As audiences continue to migrate toward digital intermediaries for news, AI chatbots are emerging as the next platform to watch. Findings from our 2026 survey show that one in...",
-      "content": "This year&#8217;s Digital News Report marked a notable milestone: for the first time, social and video networks overtook news publishers as a source of news globally. As audiences continue to migrate toward digital intermediaries for news, AI chatbots are emerging as the next platform to watch. Findings from our 2026 survey show that one in...",
-      "published": "Tue, 23 Jun 2026 15:01:29 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 46,
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
-        "ai_search",
-        "media"
+        "ai_search"
       ]
     },
     {
-      "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
-      "summary": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
-      "content": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
-      "published": "Sat, 27 Jun 2026 08:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
-      "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "content": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "published": "Sat, 27 Jun 2026 07:00:00 +0900",
+      "title": "中小企業の採用から勤怠・経費管理まで バラバラのSaaSからまとめてAIがデータ分析",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/29/news108.html",
+      "summary": "中小企業では、複数のSaaSや紙、Excelが混在することで、管理業務の負担が増えている。NoahWorksは、採用から勤怠、決済までを一元化し、AIによるデータ分析で現場の業務改善を支援する。",
+      "content": "中小企業では、複数のSaaSや紙、Excelが混在することで、管理業務の負担が増えている。NoahWorksは、採用から勤怠、決済までを一元化し、AIによるデータ分析で現場の業務改善を支援する。",
+      "published": "Tue, 30 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
       "matched_topics": [
-        "media"
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -110,11 +97,11 @@
       ]
     },
     {
-      "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
-      "summary": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
-      "content": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
-      "published": "Sat, 27 Jun 2026 11:07:50 +0900",
+      "title": "自社の業務に合わせたAIエージェントを「10分で作成」 freeeが「AI戦略」を強化",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/30/news064.html",
+      "summary": "クラウド会計システム「freee」の開発などを手掛けるフリーは、2月に発表したAI戦略の実現に向けた新たな取り組みとして「freee AIアシスタント」と「freee カスタムオーダー」の提供を6月に開始した。「AIから最も使いやすいSaaS」として、AI業界におけるリーディングカンパニーの地位確立を目指す。",
+      "content": "クラウド会計システム「freee」の開発などを手掛けるフリーは、2月に発表したAI戦略の実現に向けた新たな取り組みとして「freee AIアシスタント」と「freee カスタムオーダー」の提供を6月に開始した。「AIから最も使いやすいSaaS」として、AI業界におけるリーディングカンパニーの地位確立を目指す。",
+      "published": "Tue, 30 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -123,29 +110,29 @@
       ]
     },
     {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
+      "title": "メール、Teams、Slack――バラバラな連絡ツールの「見落とし」 ChatGPT Agentsで解決する方法",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/30/news060.html",
+      "summary": "メールやTeams、Slackなど複数の連絡ツールを使っていると、重要なメッセージの見落としや返信漏れをしてしまいます。AIで解決できませんか？",
+      "content": "メールやTeams、Slackなど複数の連絡ツールを使っていると、重要なメッセージの見落としや返信漏れをしてしまいます。AIで解決できませんか？",
+      "published": "Tue, 30 Jun 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
       "matched_topics": [
-        "ai_search"
+        "enterprise"
       ]
     },
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "content": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
-        "ai_search"
+        "enterprise"
       ]
     },
     {
@@ -154,19 +141,6 @@
       "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
       "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
       "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "content": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
@@ -201,17 +175,26 @@
       ]
     },
     {
-      "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
-      "summary": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
-      "content": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
-      "published": "Sat, 27 Jun 2026 04:56:10 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
     },
     {
       "title": "Full Fact is battling AI-generated elections content with AI tools of its own",
@@ -236,11 +219,11 @@
       "matched_topics": []
     },
     {
-      "title": "解剖・孫正義氏の「ガチョウ論」 「ソフトバンクG株価が低過ぎ」主張を信じてよいのか",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/29/news034.html",
-      "summary": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
-      "content": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
-      "published": "Mon, 29 Jun 2026 07:00:00 +0900",
+      "title": "AIで人は幸せになれるのか？ 「AIで稼ぐ企業」と「コストを負担する企業」",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/30/news041.html",
+      "summary": "Appleが複数製品の価格を引き上げる一方で、AI需要の拡大を追い風にキオクシアなど半導体関連企業は成長を続けている。技術革新が生む大きな利益の裏側で、誰が恩恵を受け、誰がコストを負担するのか。",
+      "content": "Appleが複数製品の価格を引き上げる一方で、AI需要の拡大を追い風にキオクシアなど半導体関連企業は成長を続けている。技術革新が生む大きな利益の裏側で、誰が恩恵を受け、誰がコストを負担するのか。",
+      "published": "Tue, 30 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
@@ -249,17 +232,26 @@
       ]
     },
     {
-      "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
-      "summary": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
-      "content": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
-      "published": "Sun, 28 Jun 2026 13:00:00 +0900",
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "summary": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "content": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "published": "2026-06-29T15:33:20Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "社長もAIが代わる時代に 社員の相談にいつでも答えるエージェント「AI社長」が登場",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/30/news046.html",
+      "summary": "日テレHR総合研究所は、社長やキーパーソンの価値観と判断基準を基に答える専用AI「AI社長」の提供を開始した。忙しい社長や決定層の思考を学習し、考えの整理と判断の質向上を支える社内用の相談役として活用できる。",
+      "content": "日テレHR総合研究所は、社長やキーパーソンの価値観と判断基準を基に答える専用AI「AI社長」の提供を開始した。忙しい社長や決定層の思考を学習し、考えの整理と判断の質向上を支える社内用の相談役として活用できる。",
+      "published": "Tue, 30 Jun 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "media"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
