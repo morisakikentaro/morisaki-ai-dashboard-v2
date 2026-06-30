@@ -4386,5 +4386,106 @@
         "body": "AI活用が進まない原因は、モデルではなく情報の散在にあることが多いです。社内文書、FAQ、提案資料、製品情報、サポート履歴がどこにあるかを整理するだけでも次の打ち手が見えてきます。"
       }
     ]
+  },
+  "2026-06-30": {
+    "date": "2026-06-30",
+    "headline": "生成AIは、検索・実行・知識基盤の競争へ移っている",
+    "executive_summary": "今日の生成AI動向で重要なのは、個別の新機能やモデル性能ではなく、AIが情報流通と業務実行の中心に入り始めていることです。検索では、ユーザーがリンクを選ぶ前にAIが回答を作るようになり、企業ではAIエージェントが社内データや業務システムを横断して使われ始めています。この変化の中心には、AIが参照できる信頼性の高い情報基盤があります。メディアにとっては一次情報、出典、アーカイブ、信頼性がより重要になり、ソリューション側にとってはCMS、RAG、構造化データ、権限管理、運用保守が事業機会になります。",
+    "big_shift": {
+      "title": "AIは、コンテンツを読む側から業務を動かす側へ進み始めている",
+      "body": "これまで生成AIは、文章を作る、質問に答える、要約する、といった利用が中心でした。しかし今起きている変化は、AIがユーザーの代わりに情報を探し、整理し、判断の材料を作り、場合によっては業務の一部を実行する方向へ進んでいることです。検索ではAIが回答を先に提示し、企業内ではAIエージェントが文書、FAQ、顧客情報、業務システムを横断して使われ始めています。このとき価値を持つのは、AIモデルそのものだけではありません。AIが参照できる情報が整理されているか、権限が管理されているか、出典や更新履歴が明確か、業務に接続できる形になっているかが重要になります。つまり、生成AIの競争は、モデル選定の競争から、情報基盤と業務設計の競争へ移っています。"
+    },
+    "why_now": {
+      "title": "なぜ今、情報基盤が重要になっているのか",
+      "body": "背景には、AI検索とEnterprise AIの同時進行があります。AI検索では、ユーザーがWebページへ移動する前にAIが回答をまとめるため、情報源として引用されるかどうかが重要になります。一方、企業内ではAIエージェントやRAGの活用が進み、社内文書、Webコンテンツ、FAQ、製品情報、業務データをAIが利用できる状態にする必要が出ています。そのため、従来のCMSやWebサイトは、単に人間に見せるためのものではなく、AIが理解し、検索し、参照し、業務に使うための知識基盤として再定義されつつあります。この変化は、メディア企業にもCMS・ソリューション企業にも関係します。信頼できる情報を持つ側と、それをAIが使える形に整える側の価値が同時に高まっているからです。"
+    },
+    "media_perspective": {
+      "title": "視点A：メディア視点",
+      "body": "メディアにとって、AI検索の普及は単なる検索流入の変化ではありません。読者が記事ページに来る前に、AIが記事の内容を要約し、他の情報源と組み合わせて回答する時代が近づいています。このとき重要になるのは、記事がどれだけ多いかだけではなく、AIが信頼できる一次情報として扱えるかどうかです。出典、更新日、文脈、人物・組織・出来事の関係、過去記事とのつながり、解説の質が、AI時代のメディア価値になります。さらに、アーカイブの価値も上がります。過去記事は単なる保管物ではなく、AIが社会的文脈を理解するための知識資産になります。これを構造化し、正しく参照される形にできるかが、今後の競争力になります。",
+      "bullets": [
+        "AI検索時代には、一次情報・出典・更新履歴の明確さがメディア価値になる",
+        "アーカイブは過去記事ではなく、AI時代の知識資産として再評価される",
+        "検索流入だけでなく、AIに正しく引用される仕組みを設計する必要がある"
+      ]
+    },
+    "solution_perspective": {
+      "title": "視点B：ソリューション視点",
+      "body": "ソリューション側から見ると、CMSの役割は大きく変わっています。従来のCMSは、Webページを作り、承認し、公開するための仕組みでした。しかしAI時代には、CMSは企業の知識を整理し、AI検索やRAG、AIエージェントへ供給する基盤になります。製品情報、FAQ、導入事例、ニュース、PDF、動画、アクセシビリティ情報、更新履歴などを、AIが理解できる形で管理する必要があります。ここには大きな事業機会があります。多くの企業はAIツールを導入しても、社内情報が散らばっていてAIが使えません。CMS、ナレッジ管理、構造化データ、権限管理、運用保守を組み合わせた提案は、AI導入の現実的な入口になります。",
+      "bullets": [
+        "CMSはWeb更新ツールからAI-readyなKnowledge OSへ拡張できる",
+        "RAG、構造化、権限管理、履歴管理は顧客提案の中核になる",
+        "AI導入支援は初期構築だけでなく、継続運用・改善モデルに向いている"
+      ]
+    },
+    "signals": [
+      {
+        "title_jp": "メディアと著作権をめぐるAI動向",
+        "original_title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
+        "source": "Nieman Lab",
+        "url": "https://www.niemanlab.org/2026/06/beehiivs-new-cloudflare-partnership-gives-indie-journalists-a-new-level-of-control-over-ai-crawlers/",
+        "category": "メディア",
+        "meaning": "元記事「Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 46
+      },
+      {
+        "title_jp": "メディアと著作権をめぐるAI動向",
+        "original_title": "The demand for news video is growing (and that’s a good thing for publishers)",
+        "source": "Nieman Lab",
+        "url": "https://www.niemanlab.org/2026/06/the-demand-for-news-video-is-growing-and-thats-a-good-thing-for-publishers/",
+        "category": "メディア",
+        "meaning": "元記事「The demand for news video is growing (and that’s a good thing for publishers)」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 46
+      },
+      {
+        "title_jp": "生成AIをめぐる重要動向",
+        "original_title": "Introducing GeneBench-Pro",
+        "source": "OpenAI News",
+        "url": "https://openai.com/index/introducing-genebench-pro",
+        "category": "AI動向",
+        "meaning": "元記事「Introducing GeneBench-Pro」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 30
+      },
+      {
+        "title_jp": "生成AIをめぐる重要動向",
+        "original_title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "source": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "category": "AI動向",
+        "meaning": "元記事「New research shows how AMIE, our medical AI, could help manage health conditions.」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 30
+      },
+      {
+        "title_jp": "メディアと著作権をめぐるAI動向",
+        "original_title": "謎の「“日の丸AI”開発企業」正体明らかに ソフトバンク、NECら大手がそろって出資するワケ",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/business/articles/2607/01/news042.html",
+        "category": "メディア",
+        "meaning": "元記事「謎の「“日の丸AI”開発企業」正体明らかに ソフトバンク、NECら大手がそろって出資するワケ」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 34
+      },
+      {
+        "title_jp": "メディアと著作権をめぐるAI動向",
+        "original_title": "生成AIの請求書、人件費と並べる時代へ 国内5社のAI責任者が語る「トークンマネジメント」の現在地",
+        "source": "ITmedia AI+",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
+        "category": "メディア",
+        "meaning": "元記事「生成AIの請求書、人件費と並べる時代へ 国内5社のAI責任者が語る「トークンマネジメント」の現在地」は、生成AIをめぐる市場・技術・情報流通の変化を示す材料です。この記事単体で判断するのではなく、AI検索、企業ナレッジ基盤、業務プロセスの変化とつなげて見ることで、今後の事業機会やリスクを整理しやすくなります。",
+        "importance_score": 32
+      }
+    ],
+    "actions": [
+      {
+        "title": "AI-ready CMSの要件を1枚に整理する",
+        "body": "構造化データ、出典管理、更新履歴、権限管理、API、RAG連携、アクセシビリティを含めて、AI時代にCMSへ求められる要件を簡潔に整理します。営業資料や社内議論の土台になります。"
+      },
+      {
+        "title": "AI検索で引用される情報設計を考える",
+        "body": "記事や製品ページがAIにどう読まれるかを前提に、見出し、要約、FAQ、メタデータ、出典表示を見直します。これはSEOの延長ではなく、AIに信頼される情報設計です。"
+      },
+      {
+        "title": "社内ナレッジの散らばりを棚卸しする",
+        "body": "AI活用が進まない原因は、モデルではなく情報の散在にあることが多いです。社内文書、FAQ、提案資料、製品情報、サポート履歴がどこにあるかを整理するだけでも次の打ち手が見えてきます。"
+      }
+    ]
   }
 }
