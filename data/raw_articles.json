@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T23:15:33.291629+00:00",
+  "generated_at": "2026-07-01T23:17:56.939676+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -30,6 +30,19 @@
       ]
     },
     {
+      "title": "Now we’re getting AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "summary": "Reading sad things about journalism — newspapers, especially — has been a big part of my job for almost two decades. On Monday, I came across such a story that seemed to be getting traction on social media. According to the link aggregator Sill, 18 people I follow on Bluesky had shared a link to...",
+      "content": "Reading sad things about journalism — newspapers, especially — has been a big part of my job for almost two decades. On Monday, I came across such a story that seemed to be getting traction on social media. According to the link aggregator Sill, 18 people I follow on Bluesky had shared a link to...",
+      "published": "Wed, 01 Jul 2026 20:33:50 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
+      ]
+    },
+    {
       "title": "Introducing GeneBench-Pro",
       "url": "https://openai.com/index/introducing-genebench-pro",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
@@ -43,43 +56,55 @@
       ]
     },
     {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
+      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
+      "summary": "Anthropicの社員自身はどのようにAIエージェントを業務に役立てているのか──「AWS Summit Japan 2026」のAnthropicブースで、日本法人で営業担当を務めるイブラギモブ・シャボズさんが「自身の業務で使うAIエージェント」をテーマに講演した。",
+      "content": "Anthropicの社員自身はどのようにAIエージェントを業務に役立てているのか──「AWS Summit Japan 2026」のAnthropicブースで、日本法人で営業担当を務めるイブラギモブ・シャボズさんが「自身の業務で使うAIエージェント」をテーマに講演した。",
+      "published": "Thu, 02 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "静的サイトジェネレータ「Astro 7.0」正式リリース、ビルドシステムがVite 8/Rolldownに、Rust製コンパイラ採用で高速化",
+      "url": "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
+      "summary": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...",
+      "content": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...",
+      "published": "2026-07-01T15:01:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "「ねこ」検索で「手押し一輪車」表示――モノタロウが守った、生成AIに“譲れない”購買体験",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/02/news015.html",
+      "summary": "AI検索の台頭で、自社の強みが薄れる――この危機感を抱えた通販の「モノタロウ」運営元は、購買AIエージェントを内製した。その効果についてCTO（最高技術責任者）が語った。",
+      "content": "AI検索の台頭で、自社の強みが薄れる――この危機感を抱えた通販の「モノタロウ」運営元は、購買AIエージェントを内製した。その効果についてCTO（最高技術責任者）が語った。",
+      "published": "Thu, 02 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
       "matched_topics": [
         "ai_search"
       ]
     },
     {
-      "title": "謎の「“日の丸AI”開発企業」正体明らかに ソフトバンク、NECら大手がそろって出資するワケ",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/01/news042.html",
-      "summary": "ソフトバンクやNECなどが出資する「国産AIモデル開発企業」がベールを脱いだ。一体なぜ、国内大手企業が出資するのか。",
-      "content": "ソフトバンクやNECなどが出資する「国産AIモデル開発企業」がベールを脱いだ。一体なぜ、国内大手企業が出資するのか。",
-      "published": "Wed, 01 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+      "url": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+      "summary": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...",
+      "content": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...",
+      "published": "2026-07-01T15:04:00Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "生成AIの請求書、人件費と並べる時代へ 国内5社のAI責任者が語る「トークンマネジメント」の現在地",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
-      "summary": "経費精算SaaSのLayerXやラクス、名刺管理から事業を広げたSansan、会計クラウドのfreee、フリマアプリのメルカリ。取材した5社のAI・人事責任者から、驚くほど重なるトーンでAIのトークンコストを語る声が聞こえてきた。",
-      "content": "経費精算SaaSのLayerXやラクス、名刺管理から事業を広げたSansan、会計クラウドのfreee、フリマアプリのメルカリ。取材した5社のAI・人事責任者から、驚くほど重なるトーンでAIのトークンコストを語る声が聞こえてきた。",
-      "published": "Wed, 01 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
@@ -87,28 +112,6 @@
       "summary": "Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に...",
       "content": "Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に...",
       "published": "2026-06-30T15:51:42Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
-      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
-      "summary": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
-      "content": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
-      "published": "2026-06-30T15:45:51Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "summary": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "content": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "published": "2026-06-29T15:33:20Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
@@ -138,6 +141,19 @@
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -178,17 +194,6 @@
       "matched_topics": []
     },
     {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
       "title": "Fact-checkers reckon with shrinking budgets and growing AI threats at GlobalFact 2026",
       "url": "https://www.niemanlab.org/2026/06/at-globalfact-fact-checkers-reckon-with-declining-grant-funding-and-ai-generated-disinfo-on-the-rise/",
       "summary": "&#8220;Welcome to Vilnius, the city where we face cognitive warfare for real,&#8221; Robertas Kaunas, Lithuania&#8217;s minister of national defense, said in his opening remarks at this year&#8217;s GlobalFact. On June 17, hundreds of fact-checkers assembled in Vilnius for the annual conference of the International Fact-Checking Network (IFCN), part of the Poynter Institute. Roughly 180 fact-checking...",
@@ -200,44 +205,44 @@
       "matched_topics": []
     },
     {
-      "title": "Full Fact is battling AI-generated elections content with AI tools of its own",
-      "url": "https://www.niemanlab.org/2026/06/full-fact-is-battling-ai-generated-elections-content-with-ai-tools-of-its-own/",
-      "summary": "As campaign videos go, it was a classic. To the sound of a soulful pop ballad, a smiling politician meets voters in the street, chats to school children and visits a hospital. The only problem? The scenes shown in the video weren&#8217;t real. They were AI-generated, and shared and labeled as &#8220;illustrative&#8221; by an independent...",
-      "content": "As campaign videos go, it was a classic. To the sound of a soulful pop ballad, a smiling politician meets voters in the street, chats to school children and visits a hospital. The only problem? The scenes shown in the video weren&#8217;t real. They were AI-generated, and shared and labeled as &#8220;illustrative&#8221; by an independent...",
-      "published": "Thu, 25 Jun 2026 14:00:36 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
+      "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
+      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
+      "summary": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
+      "content": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
+      "published": "2026-06-30T15:45:51Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "日産「AIで再び世界トップの開発力へ」、独自の統合型次世代AIDV基盤描く",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news029.html",
-      "summary": "日産自動車は「AWS Summit Japan 2026」において、次世代モビリティ「AIDV（AIディファインドビークル）」に向けたクラウド基盤構築の取り組みと、AIを活用したソフトウェア開発環境の今後の展望を語った。",
-      "content": "日産自動車は「AWS Summit Japan 2026」において、次世代モビリティ「AIDV（AIディファインドビークル）」に向けたクラウド基盤構築の取り組みと、AIを活用したソフトウェア開発環境の今後の展望を語った。",
-      "published": "Wed, 01 Jul 2026 07:30:00 +0900",
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "summary": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "content": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "published": "2026-06-29T15:33:20Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "AI活用、実際どれくらい評価・昇進に影響するの？ 調査で管理職の意識が明らかに",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/02/news025.html",
+      "summary": "管理職・経営層は社内のAI活用をどのように評価しているのか。意識調査で、AI活用が上層部の評価や昇進にどの程度影響しているのかが明らかとなった。同時に、管理職自身の活用不足や、AI活用の世代差、研修や利用ルールの未整備の実態も判明した。",
+      "content": "管理職・経営層は社内のAI活用をどのように評価しているのか。意識調査で、AI活用が上層部の評価や昇進にどの程度影響しているのかが明らかとなった。同時に、管理職自身の活用不足や、AI活用の世代差、研修や利用ルールの未整備の実態も判明した。",
+      "published": "Thu, 02 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
-      "summary": "「不良品で幾ら損する？」をベイズ統計で見積もってみましょう。製品のサイズを測ったデータから、平均やばらつきを推定し、さらに「これから作る製品が規格外になる確率」までをPythonを使って予測します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第4回です。",
-      "content": "「不良品で幾ら損する？」をベイズ統計で見積もってみましょう。製品のサイズを測ったデータから、平均やばらつきを推定し、さらに「これから作る製品が規格外になる確率」までをPythonを使って予測します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第4回です。",
-      "published": "Wed, 01 Jul 2026 05:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "農水省の“クソダサ”ポスター話題 「AIよりよっぽど良い」の声も 担当者に狙いを聞いた",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
-      "summary": "農林水産省の公式Xアカウントが6月29日に投稿した「佃煮の日」のポスターが、良い意味で「ダサい」と話題だ。農水省広報室の担当者はITmedia NEWSの取材に応じ、デザインの狙いやSNSの投稿体制について語った。",
-      "content": "農林水産省の公式Xアカウントが6月29日に投稿した「佃煮の日」のポスターが、良い意味で「ダサい」と話題だ。農水省広報室の担当者はITmedia NEWSの取材に応じ、デザインの狙いやSNSの投稿体制について語った。",
-      "published": "Tue, 30 Jun 2026 19:55:00 +0900",
+      "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資 第3弾は10月に",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
+      "summary": "ソフトバンクグループは7月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、第2弾となる100億ドル（同1兆6273億円）を実行したと発表した。残る第3弾の100億ドルは10月1日に予定する。",
+      "content": "ソフトバンクグループは7月1日、米OpenAIへの総額300億ドル（約4兆6743億円）の追加出資のうち、第2弾となる100億ドル（同1兆6273億円）を実行したと発表した。残る第3弾の100億ドルは10月1日に予定する。",
+      "published": "Wed, 01 Jul 2026 18:10:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
