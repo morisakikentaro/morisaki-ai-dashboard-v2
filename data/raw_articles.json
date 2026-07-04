@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:06:11.417422+00:00",
+  "generated_at": "2026-07-04T22:59:20.947451+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -175,6 +175,19 @@
       ]
     },
     {
+      "title": "AI amplifies creativity by removing friction",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -184,30 +197,6 @@
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-      "summary": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
-      "content": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
-      "published": "Fri, 03 Jul 2026 11:01:17 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
     },
     {
       "title": "Fact-checkers reckon with shrinking budgets and growing AI threats at GlobalFact 2026",
@@ -248,6 +237,17 @@
       "summary": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
       "content": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
       "published": "2026-06-30T15:45:51Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "summary": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "content": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
+      "published": "2026-06-29T15:33:20Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
