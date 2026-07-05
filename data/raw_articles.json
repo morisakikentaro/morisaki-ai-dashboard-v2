@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T22:59:20.947451+00:00",
+  "generated_at": "2026-07-05T23:02:36.843139+00:00",
   "articles": [
     {
       "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
@@ -56,6 +56,20 @@
       ]
     },
     {
+      "title": "カクヤス「30年物の泥沼システム」をAIでどう解読？ 現場が思いついた“ある考え”",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html",
+      "summary": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。",
+      "content": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。",
+      "published": "Mon, 06 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
       "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
       "summary": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
@@ -83,20 +97,6 @@
       ]
     },
     {
-      "title": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-      "summary": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
-      "content": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
-      "published": "Fri, 03 Jul 2026 12:59:30 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
       "title": "静的サイトジェネレータ「Astro 7.0」正式リリース、ビルドシステムがVite 8/Rolldownに、Rust製コンパイラ採用で高速化",
       "url": "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
       "summary": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...",
@@ -110,16 +110,16 @@
       ]
     },
     {
-      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-      "summary": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "content": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "published": "Fri, 03 Jul 2026 15:34:43 +0900",
+      "title": "富裕層にいかに金を使わせる？ ダイナースとニューオータニ「18万円超カード」の真意",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/06/news019.html",
+      "summary": "内閣府のデータが示す「85歳でも資産が減らない」というデフレマインドに縛られた日本型富裕層。インフレ時代を迎え「資産を体験に変える」ためのコンパスとして、ダイナースクラブとホテルニューオータニが年会費18万円超のプレミアムカードを解禁した。「全員平等」を守ってきた老舗ホテルの方針転換の裏には、半世紀続く厳格な審査体制と「平均値しか出せないAI」には不可能な人間のおもてなし戦略があった。",
+      "content": "内閣府のデータが示す「85歳でも資産が減らない」というデフレマインドに縛られた日本型富裕層。インフレ時代を迎え「資産を体験に変える」ためのコンパスとして、ダイナースクラブとホテルニューオータニが年会費18万円超のプレミアムカードを解禁した。「全員平等」を守ってきた老舗ホテルの方針転換の裏には、半世紀続く厳格な審査体制と「平均値しか出せないAI」には不可能な人間のおもてなし戦略があった。",
+      "published": "Mon, 06 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
@@ -232,25 +232,25 @@
       "matched_topics": []
     },
     {
-      "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
-      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
-      "summary": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
-      "content": "マイクロソフトは、WSL（Windows Subsystem for Linux）の新機能としてWindows上でLinuxコンテナが動く「WSL Containers」のパブリックプレビューを公開しました。 WindowsにはWindow...",
-      "published": "2026-06-30T15:45:51Z",
-      "source": "Publickey",
+      "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+      "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "content": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "published": "Sun, 05 Jul 2026 11:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
-      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-      "summary": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "content": "スマートフォン用のSoC（System-on-a-Chip）や各種通信機器向けの半導体事業などで知られるクアルコムテクノロジーズ社（以下、クアルコム）は、AI処理の高速化を目指すPythonライクな新言語「Mojo」の開発元であるModul...",
-      "published": "2026-06-29T15:33:20Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
