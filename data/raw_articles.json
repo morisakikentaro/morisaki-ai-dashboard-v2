@@ -1,31 +1,16 @@
 {
-  "generated_at": "2026-07-05T23:02:36.843139+00:00",
+  "generated_at": "2026-07-06T23:10:16.711454+00:00",
   "articles": [
     {
-      "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
-      "url": "https://www.niemanlab.org/2026/06/beehiivs-new-cloudflare-partnership-gives-indie-journalists-a-new-level-of-control-over-ai-crawlers/",
-      "summary": "Over the past year, major news publishers have taken aggressive anti-scraping measures to curb the rise of AI crawlers. So far, most of these backend interventions have been out of reach for independent journalists who publish on third-party newsletter platforms. That is changing with a new partnership announced on Tuesday between Beehiiv and Cloudflare, the...",
-      "content": "Over the past year, major news publishers have taken aggressive anti-scraping measures to curb the rise of AI crawlers. So far, most of these backend interventions have been out of reach for independent journalists who publish on third-party newsletter platforms. That is changing with a new partnership announced on Tuesday between Beehiiv and Cloudflare, the...",
-      "published": "Thu, 25 Jun 2026 19:22:19 +0000",
+      "title": "“We cannot be in this journalism silo”: News Futures tries to grow a civic media field",
+      "url": "https://www.niemanlab.org/2026/07/we-cannot-be-in-this-journalism-silo-news-futures-tries-to-grow-a-civic-media-field/",
+      "summary": "&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...",
+      "content": "&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...",
+      "published": "Mon, 06 Jul 2026 12:03:18 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 46,
+      "selection_score": 36,
       "matched_topics": [
-        "ai_search",
-        "media"
-      ]
-    },
-    {
-      "title": "The demand for news video is growing (and that’s a good thing for publishers)",
-      "url": "https://www.niemanlab.org/2026/06/the-demand-for-news-video-is-growing-and-thats-a-good-thing-for-publishers/",
-      "summary": "News video is as popular as ever. Publishers who remember the &#8220;pivot to video&#8221; from a decade ago might wince at the thought, remembering how misleading metrics led many publishers to invest in video content. But evidence from our newly published Digital News Report suggests the demand for news video is growing. A decade on,...",
-      "content": "News video is as popular as ever. Publishers who remember the &#8220;pivot to video&#8221; from a decade ago might wince at the thought, remembering how misleading metrics led many publishers to invest in video content. But evidence from our newly published Digital News Report suggests the demand for news video is growing. A decade on,...",
-      "published": "Thu, 25 Jun 2026 14:11:15 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 46,
-      "matched_topics": [
-        "ai_search",
         "media"
       ]
     },
@@ -56,70 +41,83 @@
       ]
     },
     {
-      "title": "カクヤス「30年物の泥沼システム」をAIでどう解読？ 現場が思いついた“ある考え”",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html",
-      "summary": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。",
-      "content": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。",
-      "published": "Mon, 06 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
+      "url": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+      "summary": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
+      "content": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
+      "published": "2026-07-06T15:08:16Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 52,
       "matched_topics": [
         "enterprise",
         "japan"
       ]
     },
     {
-      "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
-      "summary": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "content": "2026年6月29日～7月3日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
-      "published": "Sat, 04 Jul 2026 07:00:00 +0900",
+      "title": "経営層の66％が「パスワード使い回し」 「管理が面倒」なのにツール未導入が約6割",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/07/news057.html",
+      "summary": "企業のパスワード管理において、本来セキュリティ対策を主導すべき意思決定層ほど、対策の遅れが目立つ――。国内のビジネスパーソン1219人を対象に実施した「企業のパスワード管理に関する実態調査2026」で分かった。",
+      "content": "企業のパスワード管理において、本来セキュリティ対策を主導すべき意思決定層ほど、対策の遅れが目立つ――。国内のビジネスパーソン1219人を対象に実施した「企業のパスワード管理に関する実態調査2026」で分かった。",
+      "published": "Tue, 07 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 47,
       "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "3万円で「Yahoo!ニュース」にPR掲載 プレスリリースをAIで「ニュース風記事」に",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-      "summary": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
-      "content": "Yahoo!ニュース内に、企業の発表情報をニュース記事と同じフォーマットで掲載する。",
-      "published": "Fri, 03 Jul 2026 15:44:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "media",
         "japan"
       ]
     },
     {
-      "title": "静的サイトジェネレータ「Astro 7.0」正式リリース、ビルドシステムがVite 8/Rolldownに、Rust製コンパイラ採用で高速化",
-      "url": "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
-      "summary": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...",
-      "content": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...",
-      "published": "2026-07-01T15:01:18Z",
-      "source": "Publickey",
+      "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
+      "summary": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していることを示しています。",
+      "content": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していることを示しています。",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "「AIはもう十分賢い」 活用のボトルネックは「モデル性能」から「評価」へ 米データ基盤開発企業のAI研究者に聞く",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
+      "summary": "AIの進化は学習データや計算資源の不足で止まるのか。米DatabricksのチーフAIサイエンティスト、ジョナサン・フランクル氏は「モデルはもう十分賢い」と語り、真のボトルネックは「AIを評価すること」にあると指摘する。",
+      "content": "AIの進化は学習データや計算資源の不足で止まるのか。米DatabricksのチーフAIサイエンティスト、ジョナサン・フランクル氏は「モデルはもう十分賢い」と語り、真のボトルネックは「AIを評価すること」にあると指摘する。",
+      "published": "Mon, 06 Jul 2026 16:40:18 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "cms_knowledge",
+        "japan"
+      ]
+    },
+    {
+      "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
+      "summary": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+      "content": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "富裕層にいかに金を使わせる？ ダイナースとニューオータニ「18万円超カード」の真意",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/06/news019.html",
-      "summary": "内閣府のデータが示す「85歳でも資産が減らない」というデフレマインドに縛られた日本型富裕層。インフレ時代を迎え「資産を体験に変える」ためのコンパスとして、ダイナースクラブとホテルニューオータニが年会費18万円超のプレミアムカードを解禁した。「全員平等」を守ってきた老舗ホテルの方針転換の裏には、半世紀続く厳格な審査体制と「平均値しか出せないAI」には不可能な人間のおもてなし戦略があった。",
-      "content": "内閣府のデータが示す「85歳でも資産が減らない」というデフレマインドに縛られた日本型富裕層。インフレ時代を迎え「資産を体験に変える」ためのコンパスとして、ダイナースクラブとホテルニューオータニが年会費18万円超のプレミアムカードを解禁した。「全員平等」を守ってきた老舗ホテルの方針転換の裏には、半世紀続く厳格な審査体制と「平均値しか出せないAI」には不可能な人間のおもてなし戦略があった。",
-      "published": "Mon, 06 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
       ]
     },
     {
@@ -146,19 +144,6 @@
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "content": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
       ]
     },
     {
@@ -199,6 +184,41 @@
       "matched_topics": []
     },
     {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+      "summary": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "content": "Palantirのアレックス・カープCEOがCNBCのインタビューで、OpenAIのサム・アルトマンCEOやAnthropicのダリオ・アモデイCEOの名前を挙げつつ、フロンティアモデル提供企業が顧客のデータを使って競争優位性を確保する業界の現状を批判した。対抗して打ち出したのがNVIDIAとの提携だ。",
+      "published": "Mon, 06 Jul 2026 18:50:54 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "The New York Times appears to be cracking down on login sharing",
+      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/",
+      "summary": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
+      "content": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
+      "published": "Mon, 06 Jul 2026 13:23:35 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
       "title": "Fact-checkers reckon with shrinking budgets and growing AI threats at GlobalFact 2026",
       "url": "https://www.niemanlab.org/2026/06/at-globalfact-fact-checkers-reckon-with-declining-grant-funding-and-ai-generated-disinfo-on-the-rise/",
       "summary": "&#8220;Welcome to Vilnius, the city where we face cognitive warfare for real,&#8221; Robertas Kaunas, Lithuania&#8217;s minister of national defense, said in his opening remarks at this year&#8217;s GlobalFact. On June 17, hundreds of fact-checkers assembled in Vilnius for the annual conference of the International Fact-Checking Network (IFCN), part of the Poynter Institute. Roughly 180 fact-checking...",
@@ -221,36 +241,14 @@
       "matched_topics": []
     },
     {
-      "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
-      "url": "https://www.publickey1.jp/blog/26/googleipv650.html",
-      "summary": "Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に...",
-      "content": "Googleが提供しているサービスを利用するユーザーのうち、IPv6を使用している割合を示す「Google IPv6」のページで、IPv6の割合が今年（2026年）3月に50％を超えていたことが分かりました。 公開されたグラフによると最初に...",
-      "published": "2026-06-30T15:51:42Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
-      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
-      "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
-      "content": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
-      "published": "Sun, 05 Jul 2026 11:00:00 +0900",
+      "title": "1年でAfter AIの組織に生まれ変わったソラコム、「トークン資本」の安全な器へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/07/news073.html",
+      "summary": "ソラコムが、2025年7月から始めた「After AIの組織」に移行するための取り組みを説明。この新たな組織体制から生み出したマネージドAIエージェントサービス「SORACOM Agent」も紹介した。",
+      "content": "ソラコムが、2025年7月から始めた「After AIの組織」に移行するための取り組みを説明。この新たな組織体制から生み出したマネージドAIエージェントサービス「SORACOM Agent」も紹介した。",
+      "published": "Tue, 07 Jul 2026 07:15:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
       "matched_topics": []
     }
   ]
