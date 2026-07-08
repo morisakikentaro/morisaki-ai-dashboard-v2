@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-07T23:03:49.482798+00:00",
+  "generated_at": "2026-07-08T23:09:50.195253+00:00",
   "articles": [
+    {
+      "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
+      "url": "https://www.niemanlab.org/2026/07/a-new-study-looks-at-the-skills-journalists-are-losing-and-gaining-because-of-ai-tools/",
+      "summary": "Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...",
+      "content": "Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...",
+      "published": "Wed, 08 Jul 2026 20:25:41 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "We asked our readers to buy, not donate. Here’s what it taught us about the new math of news.",
+      "url": "https://www.niemanlab.org/2026/07/we-asked-our-readers-to-buy-not-donate-heres-what-it-taught-us-about-the-new-math-of-news/",
+      "summary": "Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...",
+      "content": "Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...",
+      "published": "Wed, 08 Jul 2026 15:04:05 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
     {
       "title": "Rebuild Local News’ Matt Pearce is trying to help journalists and lawmakers speak the same language",
       "url": "https://www.niemanlab.org/2026/07/rebuild-local-news-matt-pearce-is-trying-to-help-journalists-and-lawmakers-speak-the-same-language/",
@@ -15,43 +42,15 @@
       ]
     },
     {
-      "title": "“We cannot be in this journalism silo”: News Futures tries to grow a civic media field",
-      "url": "https://www.niemanlab.org/2026/07/we-cannot-be-in-this-journalism-silo-news-futures-tries-to-grow-a-civic-media-field/",
-      "summary": "&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...",
-      "content": "&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...",
-      "published": "Mon, 06 Jul 2026 12:03:18 +0000",
+      "title": "The New York Times appears to be cracking down on login sharing",
+      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/",
+      "summary": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
+      "content": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
+      "published": "Mon, 06 Jul 2026 13:23:35 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "Now we’re getting AI fake news complaining about how AI fake news is the death of real news",
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-      "summary": "Reading sad things about journalism — newspapers, especially — has been a big part of my job for almost two decades. On Monday, I came across such a story that seemed to be getting traction on social media. According to the link aggregator Sill, 18 people I follow on Bluesky had shared a link to...",
-      "content": "Reading sad things about journalism — newspapers, especially — has been a big part of my job for almost two decades. On Monday, I came across such a story that seemed to be getting traction on social media. According to the link aggregator Sill, 18 people I follow on Bluesky had shared a link to...",
-      "published": "Wed, 01 Jul 2026 20:33:50 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "content": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
@@ -68,58 +67,55 @@
       ]
     },
     {
-      "title": "逸材も不採用に……トヨタ系企業がAIで「人材採用のブレ」解消、800件の応募を効率化",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/08/news050.html",
-      "summary": "年間約800件に及ぶ応募書類の確認に加え、採用基準の共有や面接記録の作成など、人事担当者の業務負担が課題となっていた。トヨタテクニカルディベロップメントは、これらの課題に対し、AIを活用した採用業務の見直しに取り組んだ。",
-      "content": "年間約800件に及ぶ応募書類の確認に加え、採用基準の共有や面接記録の作成など、人事担当者の業務負担が課題となっていた。トヨタテクニカルディベロップメントは、これらの課題に対し、AIを活用した採用業務の見直しに取り組んだ。",
-      "published": "Wed, 08 Jul 2026 07:00:00 +0900",
+      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
+      "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+      "summary": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "content": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "published": "2026-07-07T15:55:48Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+      "summary": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "content": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "published": "Thu, 09 Jul 2026 06:53:09 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "SDV時代支えるHEREの位置情報プラットフォーム、新たな柱は「二輪」へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news051.html",
+      "summary": "SDVによる変革が進むモビリティ社会において、「位置情報」は人々の移動にどのような価値をもたらすのか。デジタル地図からグローバルなロケーションのプラットフォーマーへと進化を遂げたHERE Technologiesの日本法人トップを務める枝隆志氏に話を聞いた。",
+      "content": "SDVによる変革が進むモビリティ社会において、「位置情報」は人々の移動にどのような価値をもたらすのか。デジタル地図からグローバルなロケーションのプラットフォーマーへと進化を遂げたHERE Technologiesの日本法人トップを務める枝隆志氏に話を聞いた。",
+      "published": "Thu, 09 Jul 2026 06:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
         "japan"
       ]
     },
     {
-      "title": "ガバメントAI「源内」は自治体で本当に使えるのか？ クラウド依存による“3つの落とし穴”",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html",
-      "summary": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
-      "content": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
-      "published": "Wed, 08 Jul 2026 07:00:00 +0900",
+      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+      "summary": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "content": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "published": "Wed, 08 Jul 2026 18:54:06 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "AIがExcel作業を丸ごと自動化？ 企業の定型業務を効率化へ",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/08/news053.html",
-      "summary": "生成AIによる業務自動化が広がる一方、取得したExcelやCSVファイルの集計・加工には依然として人手を伴う。データ収集からファイル処理までをAIが一貫して担うことで、企業に残る定型作業の効率化が進むだろう。",
-      "content": "生成AIによる業務自動化が広がる一方、取得したExcelやCSVファイルの集計・加工には依然として人手を伴う。データ収集からファイル処理までをAIが一貫して担うことで、企業に残る定型作業の効率化が進むだろう。",
-      "published": "Wed, 08 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "IT予算の9割が人件費に消える――日本オラクル社長が切り込む「企業最大の課題」",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/08/news044.html",
-      "summary": "日本オラクルの三澤智光社長が、日本企業のIT課題に切り込んだ。同社長が指摘する「IT投資の構造的問題」「オンプレミスシステムが抱える課題」とは何か。",
-      "content": "日本オラクルの三澤智光社長が、日本企業のIT課題に切り込んだ。同社長が指摘する「IT投資の構造的問題」「オンプレミスシステムが抱える課題」とは何か。",
-      "published": "Wed, 08 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -136,14 +132,14 @@
       ]
     },
     {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "content": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
-      "selection_score": 30,
+      "selection_score": 40,
       "matched_topics": [
         "enterprise"
       ]
@@ -162,6 +158,32 @@
       ]
     },
     {
+      "title": "AI amplifies creativity by removing friction",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
+      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "content": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "summary": "Managed agents feature bundle launch",
@@ -175,80 +197,58 @@
       ]
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの消費トークン数を表示可能に",
-      "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
-      "summary": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した生成AIのトークン数などを表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャ...",
-      "content": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した生成AIのトークン数などを表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャ...",
-      "published": "2026-07-07T15:55:48Z",
-      "source": "Publickey",
+      "title": "現場に聞いた「IT関連50製品」のぶっちゃけ理解度 “浸透するツール”の共通点とは？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/09/news053.html",
+      "summary": "似た機能を持つITツールが増える中、「なぜ定着する製品とそうでない製品が生まれるのか」。IT関連の主要50製品を対象に、利用イメージや認知度の違いから、企業が選ぶツールの条件を探った。",
+      "content": "似た機能を持つITツールが増える中、「なぜ定着する製品とそうでない製品が生まれるのか」。IT関連の主要50製品を対象に、利用イメージや認知度の違いから、企業が選ぶツールの条件を探った。",
+      "published": "Thu, 09 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
-      "title": "The New York Times appears to be cracking down on login sharing",
-      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/",
-      "summary": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
-      "content": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
-      "published": "Mon, 06 Jul 2026 13:23:35 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "NTTドコモビジネスがIOWN活用の分散GPU環境を提供、25GBを2秒で転送",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news052.html",
-      "summary": "NTTドコモビジネスは、次世代ネットワーク「IOWN APN」を活用し、全国8拠点に分散したGPUを統合利用できる実証環境の提供を開始した。電力などの制限を解消し、オンデマンドなリソース確保やデータ主権に対応した分散AI基盤の実用性を検証できる。",
-      "content": "NTTドコモビジネスは、次世代ネットワーク「IOWN APN」を活用し、全国8拠点に分散したGPUを統合利用できる実証環境の提供を開始した。電力などの制限を解消し、オンデマンドなリソース確保やデータ主権に対応した分散AI基盤の実用性を検証できる。",
-      "published": "Wed, 08 Jul 2026 07:30:00 +0900",
+      "title": "CEOの利用額も「全社員に丸見え」 LayerXがAI予算を「第二の人件費」にした真意",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/09/news022.html",
+      "summary": "「社長のAI利用額まで全社に生中継する」という透明性でコスト管理に挑むLayerX。利用額が予算の10倍を超過しても経営陣が現場を叱らなかった背景には、AI予算を「第二の人件費」として組織の資産に変える計算があった。単なる経費の締め付けを排し、外注費をAI費に切り替える基準から、上司1人で部下20人を見る「未来の組織図」まで。現場を萎縮させずにAI活用を進めるマネジメントの極意に迫る。",
+      "content": "「社長のAI利用額まで全社に生中継する」という透明性でコスト管理に挑むLayerX。利用額が予算の10倍を超過しても経営陣が現場を叱らなかった背景には、AI予算を「第二の人件費」として組織の資産に変える計算があった。単なる経費の締め付けを排し、外注費をAI費に切り替える基準から、上司1人で部下20人を見る「未来の組織図」まで。現場を萎縮させずにAI活用を進めるマネジメントの極意に迫る。",
+      "published": "Thu, 09 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "content": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
+      "title": "フィジカルAI搭載ロボットがモノポリーを実演、1台のPCにモーション制御も統合",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news066.html",
+      "summary": "モベンシスは、「第38回 ものづくりワールド［東京］」の構成展である「第1回 フィジカルAI展［東京］」において、PCでリアルタイム制御を実現するソフトモーションコントローラー「WMX3」のROS 2向けパッケージ「WMX for ROS 2」を紹介した。",
+      "content": "モベンシスは、「第38回 ものづくりワールド［東京］」の構成展である「第1回 フィジカルAI展［東京］」において、PCでリアルタイム制御を実現するソフトモーションコントローラー「WMX3」のROS 2向けパッケージ「WMX for ROS 2」を紹介した。",
+      "published": "Thu, 09 Jul 2026 06:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "content": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
     },
     {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "content": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "published": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "source": "Google AI Blog",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "content": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
       "matched_topics": []
