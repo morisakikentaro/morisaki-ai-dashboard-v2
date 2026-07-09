@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:09:50.195253+00:00",
+  "generated_at": "2026-07-09T23:13:41.386583+00:00",
   "articles": [
     {
       "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
@@ -13,6 +13,19 @@
       "matched_topics": [
         "ai_search",
         "enterprise"
+      ]
+    },
+    {
+      "title": "The New York Times will launch a local newsletter pilot in the Twin Cities next month",
+      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-will-launch-a-local-newsletter-pilot-in-the-twin-cities-next-month/",
+      "summary": "The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...",
+      "content": "The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...",
+      "published": "Thu, 09 Jul 2026 20:59:44 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
       ]
     },
     {
@@ -42,17 +55,6 @@
       ]
     },
     {
-      "title": "The New York Times appears to be cracking down on login sharing",
-      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/",
-      "summary": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
-      "content": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
-      "published": "Mon, 06 Jul 2026 13:23:35 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
       "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
       "url": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
       "summary": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
@@ -67,11 +69,51 @@
       ]
     },
     {
-      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
-      "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
-      "summary": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
-      "content": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
-      "published": "2026-07-07T15:55:48Z",
+      "title": "「Notion」でAI利用量が4倍に スター精密が全社にAIを定着させた業務基盤の作り方",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/09/news171.html",
+      "summary": "スター精密は、国内約550人を対象に「Notion」と「Notion AI」を導入し、情報基盤を刷新した。情報を一元化するとともにAIを業務へ組み込むことで、利用率約90％、AI利用量は従来のチャット型AIツール比で約4倍を達成した。",
+      "content": "スター精密は、国内約550人を対象に「Notion」と「Notion AI」を導入し、情報基盤を刷新した。情報を一元化するとともにAIを業務へ組み込むことで、利用率約90％、AI利用量は従来のチャット型AIツール比で約4倍を達成した。",
+      "published": "Fri, 10 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 52,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "AIに企業理念を宿せるか？ スポーツ小売り・ヒマラヤ、接客ノウハウまで学習した「AI副店長」開発の舞台裏",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/10/news046.html",
+      "summary": "スポーツ用品店をチェーン展開するヒマラヤ（岐阜市）は「アイダ つなぐ」と名付けた“AI副店長”を6月から全99店舗に導入した。同社店舗運営部の金丸智功氏（部室長代理）とヒマラヤスポーツ本館店長の高島雅央氏に、AI副店長開発の舞台裏を聞いた。",
+      "content": "スポーツ用品店をチェーン展開するヒマラヤ（岐阜市）は「アイダ つなぐ」と名付けた“AI副店長”を6月から全99店舗に導入した。同社店舗運営部の金丸智功氏（部室長代理）とヒマラヤスポーツ本館店長の高島雅央氏に、AI副店長開発の舞台裏を聞いた。",
+      "published": "Fri, 10 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "コスト削減にAIは効果なし？ 利益が変わらない企業が過半、手直しも課題に",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/10/news065.html",
+      "summary": "AI活用企業507人調査で、売上高拡大を目的にAIを導入した企業の約7割が営業利益増を実感した。一方、コスト削減を目的とした導入では利益不変が過半となり、プロンプト格差や手直し、データ連携制約などの課題も浮かび上がった。",
+      "content": "AI活用企業507人調査で、売上高拡大を目的にAIを導入した企業の約7割が営業利益増を実感した。一方、コスト削減を目的とした導入では利益不変が過半となり、プロンプト格差や手直し、データ連携制約などの課題も浮かび上がった。",
+      "published": "Fri, 10 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "summary": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "content": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
+      "published": "2026-07-09T15:47:05Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
@@ -80,66 +122,27 @@
       ]
     },
     {
-      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
-      "summary": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
-      "content": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
-      "published": "Thu, 09 Jul 2026 06:53:09 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "SDV時代支えるHEREの位置情報プラットフォーム、新たな柱は「二輪」へ",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news051.html",
-      "summary": "SDVによる変革が進むモビリティ社会において、「位置情報」は人々の移動にどのような価値をもたらすのか。デジタル地図からグローバルなロケーションのプラットフォーマーへと進化を遂げたHERE Technologiesの日本法人トップを務める枝隆志氏に話を聞いた。",
-      "content": "SDVによる変革が進むモビリティ社会において、「位置情報」は人々の移動にどのような価値をもたらすのか。デジタル地図からグローバルなロケーションのプラットフォーマーへと進化を遂げたHERE Technologiesの日本法人トップを務める枝隆志氏に話を聞いた。",
-      "published": "Thu, 09 Jul 2026 06:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
-      "summary": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
-      "content": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
-      "published": "Wed, 08 Jul 2026 18:54:06 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "content": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "published": "Thu, 09 Jul 2026 13:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
-      "selection_score": 40,
+      "selection_score": 30,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
-      "selection_score": 40,
+      "selection_score": 30,
       "matched_topics": [
         "enterprise"
       ]
@@ -158,32 +161,6 @@
       ]
     },
     {
-      "title": "AI amplifies creativity by removing friction",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
-      "summary": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
-      "content": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, storytelling, and trust. The post AI amplifies creativity by removing friction appeared first on The Microsoft Cloud Blog .",
-      "published": "Wed, 10 Jun 2026 16:00:00 +0000",
-      "source": "Microsoft AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "content": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 22,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "summary": "Managed agents feature bundle launch",
@@ -197,38 +174,14 @@
       ]
     },
     {
-      "title": "現場に聞いた「IT関連50製品」のぶっちゃけ理解度 “浸透するツール”の共通点とは？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/09/news053.html",
-      "summary": "似た機能を持つITツールが増える中、「なぜ定着する製品とそうでない製品が生まれるのか」。IT関連の主要50製品を対象に、利用イメージや認知度の違いから、企業が選ぶツールの条件を探った。",
-      "content": "似た機能を持つITツールが増える中、「なぜ定着する製品とそうでない製品が生まれるのか」。IT関連の主要50製品を対象に、利用イメージや認知度の違いから、企業が選ぶツールの条件を探った。",
-      "published": "Thu, 09 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "CEOの利用額も「全社員に丸見え」 LayerXがAI予算を「第二の人件費」にした真意",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/09/news022.html",
-      "summary": "「社長のAI利用額まで全社に生中継する」という透明性でコスト管理に挑むLayerX。利用額が予算の10倍を超過しても経営陣が現場を叱らなかった背景には、AI予算を「第二の人件費」として組織の資産に変える計算があった。単なる経費の締め付けを排し、外注費をAI費に切り替える基準から、上司1人で部下20人を見る「未来の組織図」まで。現場を萎縮させずにAI活用を進めるマネジメントの極意に迫る。",
-      "content": "「社長のAI利用額まで全社に生中継する」という透明性でコスト管理に挑むLayerX。利用額が予算の10倍を超過しても経営陣が現場を叱らなかった背景には、AI予算を「第二の人件費」として組織の資産に変える計算があった。単なる経費の締め付けを排し、外注費をAI費に切り替える基準から、上司1人で部下20人を見る「未来の組織図」まで。現場を萎縮させずにAI活用を進めるマネジメントの極意に迫る。",
-      "published": "Thu, 09 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "フィジカルAI搭載ロボットがモノポリーを実演、1台のPCにモーション制御も統合",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news066.html",
-      "summary": "モベンシスは、「第38回 ものづくりワールド［東京］」の構成展である「第1回 フィジカルAI展［東京］」において、PCでリアルタイム制御を実現するソフトモーションコントローラー「WMX3」のROS 2向けパッケージ「WMX for ROS 2」を紹介した。",
-      "content": "モベンシスは、「第38回 ものづくりワールド［東京］」の構成展である「第1回 フィジカルAI展［東京］」において、PCでリアルタイム制御を実現するソフトモーションコントローラー「WMX3」のROS 2向けパッケージ「WMX for ROS 2」を紹介した。",
-      "published": "Thu, 09 Jul 2026 06:15:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     },
     {
@@ -240,6 +193,54 @@
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
+      "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+      "summary": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "content": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
+      "published": "2026-07-07T15:55:48Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "summary": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "content": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "published": "Fri, 10 Jul 2026 07:13:44 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "summary": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
+      "content": "NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。",
+      "published": "Fri, 10 Jul 2026 07:45:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+      "summary": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
+      "content": "Metaは、AIモデル「Muse Spark 1.1」を発表した。初代モデルを強化したマルチモーダル推論モデルで、ツール操作や複雑なコーディングなどのエージェント能力が向上している。新設の「Meta Model API」を通じてパブリックプレビューとして外部向けに提供され、競合モデルを下回る低価格な料金体系が特徴だ。",
+      "published": "Fri, 10 Jul 2026 07:20:30 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     },
     {
