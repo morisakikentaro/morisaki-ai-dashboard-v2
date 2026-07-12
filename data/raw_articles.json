@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:51:34.273279+00:00",
+  "generated_at": "2026-07-12T22:52:03.511647+00:00",
   "articles": [
     {
       "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
@@ -55,16 +55,16 @@
       ]
     },
     {
-      "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
-      "url": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-      "summary": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
-      "content": "生成AIとツールとの接続プロトコルとしてLinux Foundation傘下で標準化と機能拡張が進められているMCP（Model Context Protocol）の企業向けの新機能「Enterprise-Managed Authoriza...",
-      "published": "2026-07-06T15:08:16Z",
+      "title": "IT系上場企業の平均年収を業種別にみてみた 2026年版［前編］ ～ ネットベンチャー、ゲーム、メディア系",
+      "url": "https://www.publickey1.jp/blog/26/it_2026_1.html",
+      "summary": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 上場企業は毎年「有価証券報告書」の発行を義務づけられており、そこには従業員の人数や平均年齢...",
+      "content": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 上場企業は毎年「有価証券報告書」の発行を義務づけられており、そこには従業員の人数や平均年齢...",
+      "published": "2026-07-12T15:02:28Z",
       "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 52,
+      "selection_score": 42,
       "matched_topics": [
-        "enterprise",
+        "media",
         "japan"
       ]
     },
