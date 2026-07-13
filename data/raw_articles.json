@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:52:03.511647+00:00",
+  "generated_at": "2026-07-13T22:57:07.546164+00:00",
   "articles": [
     {
       "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
@@ -42,16 +42,28 @@
       ]
     },
     {
-      "title": "Rebuild Local News’ Matt Pearce is trying to help journalists and lawmakers speak the same language",
-      "url": "https://www.niemanlab.org/2026/07/rebuild-local-news-matt-pearce-is-trying-to-help-journalists-and-lawmakers-speak-the-same-language/",
-      "summary": "For a growing number of local journalists and supporters of local journalism, the relevant question in 2026 is no longer, &#8220;Should public policy to support local news exist?&#8221; but &#8220;What should public policy to support local news look like here?&#8221; At least 21 states and territories have proposed legislation intended to financially support local news...",
-      "content": "For a growing number of local journalists and supporters of local journalism, the relevant question in 2026 is no longer, &#8220;Should public policy to support local news exist?&#8221; but &#8220;What should public policy to support local news look like here?&#8221; At least 21 states and territories have proposed legislation intended to financially support local news...",
-      "published": "Tue, 07 Jul 2026 20:20:59 +0000",
+      "title": "This app turns the web into a scrollable feed (just don’t call it RSS)",
+      "url": "https://www.niemanlab.org/2026/07/this-app-turns-the-web-into-a-scrollable-feed-just-dont-call-it-rss/",
+      "summary": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
+      "content": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
+      "published": "Mon, 13 Jul 2026 17:35:53 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 36,
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
+      "url": "https://www.publickey1.jp/blog/26/3ai.html",
+      "summary": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
+      "content": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
+      "published": "2026-07-13T15:48:50Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 42,
       "matched_topics": [
-        "media"
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -69,16 +81,16 @@
       ]
     },
     {
-      "title": "OpenAI、Codexと「ChatGPT Work」の利用制限リセット 競合Claudeとリセット合戦に",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000181/",
-      "summary": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
-      "content": "Anthropicは同日、OpenAIの制限リセットに先立ち、Claudeの利用制限をリセットしていた。",
-      "published": "Fri, 10 Jul 2026 12:13:22 +0900",
+      "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
+      "summary": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
+      "content": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
+      "published": "Mon, 13 Jul 2026 13:17:01 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
@@ -95,12 +107,12 @@
       ]
     },
     {
-      "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
-      "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
-      "summary": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
-      "content": "マイクロソフトはVisual Studio Codeの新機能として、GitHub Copilotで消費した費用を表示できるようにしました。 GitHub Copilotは今年（2026年）6月から、生成AIを利用したチャットやAIエージェン...",
-      "published": "2026-07-07T15:55:48Z",
-      "source": "Publickey",
+      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+      "summary": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
+      "content": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
+      "published": "Mon, 13 Jul 2026 14:20:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -108,16 +120,16 @@
       ]
     },
     {
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-      "summary": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
-      "content": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
-      "published": "Fri, 10 Jul 2026 21:15:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -184,35 +196,11 @@
       "matched_topics": []
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
-      "summary": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
-      "content": "米Microsoftは、Microsoft 365のAI機能「Microsoft 365 Copilot」に、米OpenAIの最新のAIモデル「GPT-5.6」シリーズを追加すると発表した。WordやExcel、PowerPointなどで順次展開する。",
-      "published": "Fri, 10 Jul 2026 16:16:10 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
-      "summary": "OpenAIが新AIモデル群「GPT-5.6」を一般公開した。最上位の「Sol」は、Anthropicの「Claude Fable 5」を超える性能を推定コスト半分程度で実現するとうたう。",
-      "content": "OpenAIが新AIモデル群「GPT-5.6」を一般公開した。最上位の「Sol」は、Anthropicの「Claude Fable 5」を超える性能を推定コスト半分程度で実現するとうたう。",
-      "published": "Fri, 10 Jul 2026 12:09:08 +0900",
+      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "summary": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "content": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
+      "published": "Mon, 13 Jul 2026 13:27:45 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
@@ -221,22 +209,33 @@
       ]
     },
     {
-      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-      "summary": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
-      "content": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
-      "published": "Fri, 10 Jul 2026 16:45:00 +0900",
+      "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+      "summary": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公...",
+      "content": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公...",
+      "published": "2026-07-13T15:50:52Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "「We Must Act Now」 AIによる急激な変革に著名経済学者やIT重鎮が警鐘",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000188/",
+      "summary": "AIによる経済変革への備えを訴える声明「We Must Act Now」が、ノーベル賞受賞者16人を含む200人以上の経済学者やAI研究者の署名付きで公開された。スタンフォード大学の研究者らが取りまとめたもので、AIは産業革命を上回る規模の経済変革をはるかに短期間で引き起こす可能性があるとし、政策立案者や技術リーダーに制度構築を急ぐよう求めている。",
+      "content": "AIによる経済変革への備えを訴える声明「We Must Act Now」が、ノーベル賞受賞者16人を含む200人以上の経済学者やAI研究者の署名付きで公開された。スタンフォード大学の研究者らが取りまとめたもので、AIは産業革命を上回る規模の経済変革をはるかに短期間で引き起こす可能性があるとし、政策立案者や技術リーダーに制度構築を急ぐよう求めている。",
+      "published": "Tue, 14 Jul 2026 07:04:56 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "content": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
