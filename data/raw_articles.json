@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-07-13T22:57:07.546164+00:00",
+  "generated_at": "2026-07-14T22:57:53.037437+00:00",
   "articles": [
     {
-      "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
-      "url": "https://www.niemanlab.org/2026/07/a-new-study-looks-at-the-skills-journalists-are-losing-and-gaining-because-of-ai-tools/",
-      "summary": "Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...",
-      "content": "Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...",
-      "published": "Wed, 08 Jul 2026 20:25:41 +0000",
+      "title": "One name at a time: How Die Zeit built a searchable database of Nazi Party members",
+      "url": "https://www.niemanlab.org/2026/07/one-name-at-a-time-how-die-zeit-built-a-searchable-database-of-nazi-party-members/",
+      "summary": "In the final days of World War II, as the German Reich collapsed, Nazi officials ordered millions of party membership cards to be destroyed. The vast card index that documented membership across Germany survived largely because a paper mill operator, Hanns Huber, chose to hand the records over to the advancing US forces rather than...",
+      "content": "In the final days of World War II, as the German Reich collapsed, Nazi officials ordered millions of party membership cards to be destroyed. The vast card index that documented membership across Germany survived largely because a paper mill operator, Hanns Huber, chose to hand the records over to the advancing US forces rather than...",
+      "published": "Tue, 14 Jul 2026 19:46:20 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 46,
+      "selection_score": 36,
       "matched_topics": [
-        "ai_search",
-        "enterprise"
+        "ai_search"
       ]
     },
     {
@@ -29,19 +28,6 @@
       ]
     },
     {
-      "title": "We asked our readers to buy, not donate. Here’s what it taught us about the new math of news.",
-      "url": "https://www.niemanlab.org/2026/07/we-asked-our-readers-to-buy-not-donate-heres-what-it-taught-us-about-the-new-math-of-news/",
-      "summary": "Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...",
-      "content": "Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...",
-      "published": "Wed, 08 Jul 2026 15:04:05 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "This app turns the web into a scrollable feed (just don’t call it RSS)",
       "url": "https://www.niemanlab.org/2026/07/this-app-turns-the-web-into-a-scrollable-feed-just-dont-call-it-rss/",
       "summary": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
@@ -51,6 +37,19 @@
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "content": "Google Images logo surrounded by illustrations of people searching for different images",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
+      ]
     },
     {
       "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
@@ -81,19 +80,6 @@
       ]
     },
     {
-      "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可 国内AIベンチャーAIdeaLab",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
-      "summary": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
-      "content": "AI開発企業のAIdeaLabは、アニメに特化した動画生成AIモデル「AnimeGen」（アニメジェン）を公開した。ライセンスは商用利用もできる「Apache-2.0」。",
-      "published": "Mon, 13 Jul 2026 13:17:01 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
       "url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
       "summary": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
@@ -107,14 +93,66 @@
       ]
     },
     {
-      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-      "summary": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
-      "content": "米OpenAIがAIブラウザ「ChatGPT Atlas」の停止日を2026年8月9日と案内し、データの移行手順を公開した。移行先には新しいChatGPTデスクトップアプリとChrome拡張機能を挙げている。",
-      "published": "Mon, 13 Jul 2026 14:20:00 +0900",
+      "title": "「RPA負債」をこれで解消 言葉で指示するだけでPC作業を自動化する最新AI",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
+      "summary": "RPAでは、保守負担や属人化、画面変更による停止といった課題が付きものだ。こうした「RPA負債」を解消する手段として、AIが状況を判断して操作するAIエージェント型RPAが登場し、業務自動化の対象をデスクトップへ広げ始めている。",
+      "content": "RPAでは、保守負担や属人化、画面変更による停止といった課題が付きものだ。こうした「RPA負債」を解消する手段として、AIが状況を判断して操作するAIエージェント型RPAが登場し、業務自動化の対象をデスクトップへ広げ始めている。",
+      "published": "Wed, 15 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
+      "summary": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
+      "content": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
+      "published": "Wed, 15 Jul 2026 06:15:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "published": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "content": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
         "enterprise"
       ]
@@ -138,19 +176,6 @@
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -185,28 +210,28 @@
       ]
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "Claude、利用制限を全リセット 競合「GPT-5.6」公開と同日……OpenAI幹部「ビビってるね」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-      "summary": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
-      "content": "OpenAIが「GPT-5.6」を一般公開した同日、AnthropicがClaude全ユーザーの利用制限を一斉リセット。OpenAI幹部の「ビビってるね」という煽り返信も話題だ。",
-      "published": "Mon, 13 Jul 2026 13:27:45 +0900",
+      "title": "「ピースサインで勤怠打刻」 Joshinが全事業所に導入した顔認証が“従業員から絶賛”のワケ",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/15/news041.html",
+      "summary": "従業員の負担を減らすべく、家電量販店を展開するJoshinは全事業所の従業員向けに、顔認証クラウドサービスと顔認証端末を組み合わせた勤怠管理システムを導入した。",
+      "content": "従業員の負担を減らすべく、家電量販店を展開するJoshinは全事業所の従業員向けに、顔認証クラウドサービスと顔認証端末を組み合わせた勤怠管理システムを導入した。",
+      "published": "Wed, 15 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
+    },
+    {
+      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+      "url": "https://www.publickey1.jp/blog/26/202960.html",
+      "summary": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
+      "content": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
+      "published": "2026-07-14T15:51:18Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
@@ -220,36 +245,14 @@
       "matched_topics": []
     },
     {
-      "title": "「We Must Act Now」 AIによる急激な変革に著名経済学者やIT重鎮が警鐘",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000188/",
-      "summary": "AIによる経済変革への備えを訴える声明「We Must Act Now」が、ノーベル賞受賞者16人を含む200人以上の経済学者やAI研究者の署名付きで公開された。スタンフォード大学の研究者らが取りまとめたもので、AIは産業革命を上回る規模の経済変革をはるかに短期間で引き起こす可能性があるとし、政策立案者や技術リーダーに制度構築を急ぐよう求めている。",
-      "content": "AIによる経済変革への備えを訴える声明「We Must Act Now」が、ノーベル賞受賞者16人を含む200人以上の経済学者やAI研究者の署名付きで公開された。スタンフォード大学の研究者らが取りまとめたもので、AIは産業革命を上回る規模の経済変革をはるかに短期間で引き起こす可能性があるとし、政策立案者や技術リーダーに制度構築を急ぐよう求めている。",
-      "published": "Tue, 14 Jul 2026 07:04:56 +0900",
+      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+      "summary": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+      "content": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+      "published": "Wed, 15 Jul 2026 07:25:13 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "content": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 20,
       "matched_topics": []
     }
   ]
