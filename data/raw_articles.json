@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:57:53.037437+00:00",
+  "generated_at": "2026-07-15T22:59:17.929086+00:00",
   "articles": [
     {
       "title": "One name at a time: How Die Zeit built a searchable database of Nazi Party members",
@@ -15,17 +15,15 @@
       ]
     },
     {
-      "title": "The New York Times will launch a local newsletter pilot in the Twin Cities next month",
-      "url": "https://www.niemanlab.org/2026/07/the-new-york-times-will-launch-a-local-newsletter-pilot-in-the-twin-cities-next-month/",
-      "summary": "The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...",
-      "content": "The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...",
-      "published": "Thu, 09 Jul 2026 20:59:44 +0000",
+      "title": "Business Insider’s big bet against aggregation",
+      "url": "https://www.niemanlab.org/2026/07/business-insiders-big-bet-against-aggregation/",
+      "summary": "&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...",
+      "content": "&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...",
+      "published": "Wed, 15 Jul 2026 19:03:08 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
+      "selection_score": 26,
+      "matched_topics": []
     },
     {
       "title": "This app turns the web into a scrollable feed (just don’t call it RSS)",
@@ -52,6 +50,21 @@
       ]
     },
     {
+      "title": "Claude、NotebookLM、Genspark……238社が選んだ「現場が支持する」AIサービス",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news023.html",
+      "summary": "IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。",
+      "content": "IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。",
+      "published": "Thu, 16 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 54,
+      "matched_topics": [
+        "enterprise",
+        "media",
+        "japan"
+      ]
+    },
+    {
       "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
       "url": "https://www.publickey1.jp/blog/26/3ai.html",
       "summary": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
@@ -66,56 +79,42 @@
       ]
     },
     {
-      "title": "IT系上場企業の平均年収を業種別にみてみた 2026年版［前編］ ～ ネットベンチャー、ゲーム、メディア系",
-      "url": "https://www.publickey1.jp/blog/26/it_2026_1.html",
-      "summary": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 上場企業は毎年「有価証券報告書」の発行を義務づけられており、そこには従業員の人数や平均年齢...",
-      "content": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 上場企業は毎年「有価証券報告書」の発行を義務づけられており、そこには従業員の人数や平均年齢...",
-      "published": "2026-07-12T15:02:28Z",
-      "source": "Publickey",
+      "title": "Anthropicと組んだNEC それでも森田社長が「4つの主権」にこだわる真意",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
+      "summary": "米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。",
+      "content": "米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。",
+      "published": "Thu, 16 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
-        "media",
         "japan"
       ]
     },
     {
-      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
-      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-      "summary": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
-      "content": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...",
-      "published": "2026-07-09T15:47:05Z",
-      "source": "Publickey",
+      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
+      "summary": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。",
+      "content": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。",
+      "published": "Wed, 15 Jul 2026 18:30:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 42,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "「RPA負債」をこれで解消 言葉で指示するだけでPC作業を自動化する最新AI",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/15/news021.html",
-      "summary": "RPAでは、保守負担や属人化、画面変更による停止といった課題が付きものだ。こうした「RPA負債」を解消する手段として、AIが状況を判断して操作するAIエージェント型RPAが登場し、業務自動化の対象をデスクトップへ広げ始めている。",
-      "content": "RPAでは、保守負担や属人化、画面変更による停止といった課題が付きものだ。こうした「RPA負債」を解消する手段として、AIが状況を判断して操作するAIエージェント型RPAが登場し、業務自動化の対象をデスクトップへ広げ始めている。",
-      "published": "Wed, 15 Jul 2026 07:00:00 +0900",
+      "title": "【一時非公開のお知らせ】「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
+      "summary": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
+      "content": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
+      "published": "Wed, 15 Jul 2026 18:12:12 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-      "summary": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
-      "content": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
-      "published": "Wed, 15 Jul 2026 06:15:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
       ]
     },
     {
@@ -124,19 +123,6 @@
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "published": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -158,24 +144,11 @@
       ]
     },
     {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "published": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -210,16 +183,27 @@
       ]
     },
     {
-      "title": "「ピースサインで勤怠打刻」 Joshinが全事業所に導入した顔認証が“従業員から絶賛”のワケ",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/15/news041.html",
-      "summary": "従業員の負担を減らすべく、家電量販店を展開するJoshinは全事業所の従業員向けに、顔認証クラウドサービスと顔認証端末を組み合わせた勤怠管理システムを導入した。",
-      "content": "従業員の負担を減らすべく、家電量販店を展開するJoshinは全事業所の従業員向けに、顔認証クラウドサービスと顔認証端末を組み合わせた勤怠管理システムを導入した。",
-      "published": "Wed, 15 Jul 2026 07:00:00 +0900",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン 先着1万人限定",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
+      "summary": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
+      "content": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
+      "published": "Wed, 15 Jul 2026 14:29:36 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
       "matched_topics": [
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -245,14 +229,25 @@
       "matched_topics": []
     },
     {
-      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
-      "summary": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
-      "content": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
-      "published": "Wed, 15 Jul 2026 07:25:13 +0900",
+      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+      "summary": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
+      "content": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
+      "published": "Thu, 16 Jul 2026 07:26:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
