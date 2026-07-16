@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-07-15T22:59:17.929086+00:00",
+  "generated_at": "2026-07-16T22:57:55.861595+00:00",
   "articles": [
+    {
+      "title": "Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically",
+      "url": "https://www.niemanlab.org/2026/07/mobilizer-connector-spectator-or-outsider-new-pew-research-categorizes-how-americans-do-or-dont-engage-civically/",
+      "summary": "Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...",
+      "content": "Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...",
+      "published": "Thu, 16 Jul 2026 20:53:45 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
     {
       "title": "One name at a time: How Die Zeit built a searchable database of Nazi Party members",
       "url": "https://www.niemanlab.org/2026/07/one-name-at-a-time-how-die-zeit-built-a-searchable-database-of-nazi-party-members/",
@@ -26,22 +39,11 @@
       "matched_topics": []
     },
     {
-      "title": "This app turns the web into a scrollable feed (just don’t call it RSS)",
-      "url": "https://www.niemanlab.org/2026/07/this-app-turns-the-web-into-a-scrollable-feed-just-dont-call-it-rss/",
-      "summary": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
-      "content": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
-      "published": "Mon, 13 Jul 2026 17:35:53 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "content": "Google Images logo surrounded by illustrations of people searching for different images",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "Connected apps rendering",
+      "content": "Connected apps rendering",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -50,18 +52,16 @@
       ]
     },
     {
-      "title": "Claude、NotebookLM、Genspark……238社が選んだ「現場が支持する」AIサービス",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news023.html",
-      "summary": "IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。",
-      "content": "IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。",
-      "published": "Thu, 16 Jul 2026 07:00:00 +0900",
+      "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
+      "summary": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
+      "content": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
+      "published": "Fri, 17 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 54,
+      "selection_score": 47,
       "matched_topics": [
-        "enterprise",
-        "media",
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -79,11 +79,25 @@
       ]
     },
     {
-      "title": "Anthropicと組んだNEC それでも森田社長が「4つの主権」にこだわる真意",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
-      "summary": "米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。",
-      "content": "米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。",
-      "published": "Thu, 16 Jul 2026 07:00:00 +0900",
+      "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
+      "summary": "富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。",
+      "content": "富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。",
+      "published": "Fri, 17 Jul 2026 06:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "フアンCEO「ジャパンAI構築はマストだ」 経産省、国産フィジカルAIで新プロジェクト 赤沢大臣も“革ジャン”羽織る",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+      "summary": "経済産業省が、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」をスタートさせた。国内44社が共同出資するAI開発企業Noetraと産総研を中心とし、2030年での「実世界ネイティブAI」実現を目指す。16日に開催されたキックオフイベントでは、NVIDIAのジェンスン・フアンCEOのほか、革ジャン姿で現れた赤沢経産大臣の姿があった。",
+      "content": "経済産業省が、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」をスタートさせた。国内44社が共同出資するAI開発企業Noetraと産総研を中心とし、2030年での「実世界ネイティブAI」実現を目指す。16日に開催されたキックオフイベントでは、NVIDIAのジェンスン・フアンCEOのほか、革ジャン姿で現れた赤沢経産大臣の姿があった。",
+      "published": "Thu, 16 Jul 2026 23:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
@@ -92,27 +106,27 @@
       ]
     },
     {
-      "title": "ゼロから分かる「Claude」の教科書 ChatGPTと比べて分かった強みとは？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
-      "summary": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。",
-      "content": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。",
-      "published": "Wed, 15 Jul 2026 18:30:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "【一時非公開のお知らせ】「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
-      "summary": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
-      "content": "野田クリスタルさんがGeminiで開発した「ペットカードジェネレーター」は初日に130万アクセスを集めるも、AI利用料の高騰で一時停止に。「うちのこカード伝説」として復活するまでの舞台裏を、野田さんと電通の開発者に聞いた。",
-      "published": "Wed, 15 Jul 2026 18:12:12 +0900",
+      "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
+      "summary": "経済産業省とNEDOは、AIロボットやフィジカルAIに用いられる国産マルチモーダル基盤モデル「FRONTia（フロンティア）」の開発プロジェクトの本格始動に合わせて、東京都内で「我が国のフィジカルAI政策に関する対外発信イベント」を開催した。",
+      "content": "経済産業省とNEDOは、AIロボットやフィジカルAIに用いられる国産マルチモーダル基盤モデル「FRONTia（フロンティア）」の開発プロジェクトの本格始動に合わせて、東京都内で「我が国のフィジカルAI政策に関する対外発信イベント」を開催した。",
+      "published": "Fri, 17 Jul 2026 06:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
         "enterprise"
       ]
@@ -144,19 +158,6 @@
       ]
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
       "summary": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
@@ -167,6 +168,32 @@
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "content": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "content": "Google Images logo surrounded by illustrations of people searching for different images",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -183,27 +210,16 @@
       ]
     },
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
-      "matched_topics": []
-    },
-    {
-      "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン 先着1万人限定",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
-      "summary": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
-      "content": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
-      "published": "Wed, 15 Jul 2026 14:29:36 +0900",
+      "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業 NVIDIAの技術活用",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/",
+      "summary": "富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。",
+      "content": "富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。",
+      "published": "Thu, 16 Jul 2026 19:43:39 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
@@ -229,25 +245,14 @@
       "matched_topics": []
     },
     {
-      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
-      "summary": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
-      "content": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
-      "published": "Thu, 16 Jul 2026 07:26:00 +0900",
+      "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
+      "summary": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。",
+      "content": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。",
+      "published": "Fri, 17 Jul 2026 06:51:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
       "matched_topics": []
     }
   ]
