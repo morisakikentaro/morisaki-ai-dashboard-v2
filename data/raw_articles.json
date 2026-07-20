@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T22:54:41.974515+00:00",
+  "generated_at": "2026-07-20T23:02:04.875976+00:00",
   "articles": [
     {
       "title": "Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically",
@@ -52,39 +52,26 @@
       ]
     },
     {
-      "title": "強気値上げで自爆か ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
-      "summary": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
-      "content": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
-      "published": "Fri, 17 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 47,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
-      "url": "https://www.publickey1.jp/blog/26/3ai.html",
-      "summary": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
-      "content": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...",
-      "published": "2026-07-13T15:48:50Z",
+      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+      "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+      "summary": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "content": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
+      "published": "2026-07-20T15:54:57Z",
       "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 52,
       "matched_topics": [
         "enterprise",
         "japan"
       ]
     },
     {
-      "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-      "summary": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換となる。",
-      "content": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換となる。",
-      "published": "Sat, 18 Jul 2026 12:50:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "published": "2026-07-20T15:52:57Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -92,24 +79,37 @@
       ]
     },
     {
-      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "summary": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "content": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "published": "Fri, 17 Jul 2026 08:21:00 +0900",
+      "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
+      "summary": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "content": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "published": "Tue, 21 Jul 2026 07:33:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
-      "title": "「AIエージェントの約半数が\"戦力外\"になる」 なぜ企業は使いこなせない？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-      "summary": "Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。",
-      "content": "Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。",
-      "published": "Fri, 17 Jul 2026 13:00:00 +0900",
+      "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
+      "summary": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
+      "content": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
+      "published": "Tue, 21 Jul 2026 06:30:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "NTT、ソフトバンク、サカナAI――国産AI開発「成功組」の“ある共通点”",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/21/news036.html",
+      "summary": "NTTやソフトバンク、サカナAIなどの「AI開発に成功した企業」には“ある共通点”がある。彼らはどのような技術を活用し、AI開発を成し遂げたのか。",
+      "content": "NTTやソフトバンク、サカナAIなどの「AI開発に成功した企業」には“ある共通点”がある。彼らはどのような技術を活用し、AI開発を成し遂げたのか。",
+      "published": "Tue, 21 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
@@ -123,19 +123,6 @@
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "published": "Tue, 14 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -196,6 +183,17 @@
       ]
     },
     {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
       "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
       "url": "https://www.publickey1.jp/blog/26/202960.html",
       "summary": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...",
@@ -207,22 +205,22 @@
       "matched_topics": []
     },
     {
-      "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
-      "url": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
-      "summary": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公...",
-      "content": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公...",
-      "published": "2026-07-13T15:50:52Z",
-      "source": "Publickey",
+      "title": "中外製薬「社員1人にAIエージェント10体」作戦で成果倍増を目指す、AI使いこなし術",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html",
+      "summary": "製薬はコストも高く成功率も低い苛烈な業界だ。一方で、AIの活用により費用を1200億から半減、成功率を10倍にできるという試算もある。中外製薬はそのような業界の中で、AIにより2030年に研究開発の成果を倍増するという計画を掲げた。その秘策とは。",
+      "content": "製薬はコストも高く成功率も低い苛烈な業界だ。一方で、AIの活用により費用を1200億から半減、成功率を10倍にできるという試算もある。中外製薬はそのような業界の中で、AIにより2030年に研究開発の成果を倍増するという計画を掲げた。その秘策とは。",
+      "published": "Tue, 21 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "これからのロボットは「買ったときが一番性能低い」？ ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
-      "summary": "「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。",
-      "content": "「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。",
-      "published": "Fri, 17 Jul 2026 08:00:00 +0900",
+      "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+      "summary": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
+      "content": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
+      "published": "Mon, 20 Jul 2026 10:08:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
