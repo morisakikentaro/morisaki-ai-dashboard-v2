@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-07-21T22:58:52.478156+00:00",
+  "generated_at": "2026-07-22T23:05:38.689566+00:00",
   "articles": [
+    {
+      "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
+      "url": "https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/",
+      "summary": "Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term &#8220;Google Zero,&#8221; which he defined as &#8220;that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.&#8221; It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...",
+      "content": "Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term &#8220;Google Zero,&#8221; which he defined as &#8220;that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.&#8221; It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...",
+      "published": "Wed, 22 Jul 2026 18:18:08 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 56,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically",
       "url": "https://www.niemanlab.org/2026/07/mobilizer-connector-spectator-or-outsider-new-pew-research-categorizes-how-americans-do-or-dont-engage-civically/",
@@ -15,33 +43,11 @@
       ]
     },
     {
-      "title": "How America’s newspapers lost their voice",
-      "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
-      "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "content": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "published": "Tue, 21 Jul 2026 22:01:09 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "The World Cup of misinformation",
-      "url": "https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/",
-      "summary": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "content": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "published": "Tue, 21 Jul 2026 17:56:43 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "Business Insider’s big bet against aggregation",
-      "url": "https://www.niemanlab.org/2026/07/business-insiders-big-bet-against-aggregation/",
-      "summary": "&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...",
-      "content": "&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...",
-      "published": "Wed, 15 Jul 2026 19:03:08 +0000",
+      "title": "“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails",
+      "url": "https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/",
+      "summary": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
+      "content": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
+      "published": "Wed, 22 Jul 2026 19:32:45 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
@@ -62,29 +68,42 @@
       ]
     },
     {
-      "title": "ブレストで膨らむ“隠れ人件費”を削れ 矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
-      "summary": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表した。ブレインストーミングによる役員の時間拘束や「隠れ人件費」の膨張という企業の課題に対し、30分で100の具体案と評価スコアを自動生成。一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速させる新ソリューションだ。",
-      "content": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表した。ブレインストーミングによる役員の時間拘束や「隠れ人件費」の膨張という企業の課題に対し、30分で100の具体案と評価スコアを自動生成。一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速させる新ソリューションだ。",
-      "published": "Wed, 22 Jul 2026 07:00:00 +0900",
+      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+      "summary": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語った。",
+      "content": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語った。",
+      "published": "Thu, 23 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 52,
+      "selection_score": 47,
       "matched_topics": [
-        "enterprise",
         "japan"
       ]
     },
     {
-      "title": "AIトークン消費「24倍」の衝撃 本番運用に向けて絶対に“やってはいけない”コストの捉え方",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
-      "summary": "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面している。将来的なトークン消費の急増を見据え、組織が今見直すべき視点とは何か。実運用を持続させるための「3つの条件」を解説します。",
-      "content": "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面している。将来的なトークン消費の急増を見据え、組織が今見直すべき視点とは何か。実運用を持続させるための「3つの条件」を解説します。",
-      "published": "Wed, 22 Jul 2026 05:00:00 +0900",
+      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
+      "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+      "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
+      "content": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
+      "published": "2026-07-22T15:35:19Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+      "summary": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
+      "content": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
+      "published": "Thu, 23 Jul 2026 06:55:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
+        "enterprise",
         "japan"
       ]
     },
@@ -102,14 +121,14 @@
       ]
     },
     {
-      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
-      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "published": "2026-07-20T15:52:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
       "matched_topics": [
         "enterprise"
       ]
@@ -128,12 +147,12 @@
       ]
     },
     {
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/",
+      "summary": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
+      "content": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
+      "published": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "Microsoft AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
@@ -180,24 +199,24 @@
       ]
     },
     {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "content": "Google Images logo surrounded by illustrations of people searching for different images",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 22,
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "published": "2026-07-20T15:52:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
-        "ai_search"
+        "enterprise"
       ]
     },
     {
-      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
-      "summary": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
-      "content": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
-      "published": "Wed, 22 Jul 2026 07:07:13 +0900",
+      "title": "AI時代、開発チームの人材は“5つの型”に分かれる Claude Code開発責任者の見立て",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
+      "summary": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
+      "content": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
+      "published": "Thu, 23 Jul 2026 05:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -219,38 +238,25 @@
       ]
     },
     {
-      "title": "矢崎総業がイノベーション拠点を公開、労働集約型モノづくりのスマート化に向け",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news054.html",
-      "summary": "矢崎総業は、新たに開設したイノベーション施設「Innovation Hub - REN（錬）」（IH-REN）を報道陣に公開した。IH-RENでは、AI／ロボティクスを活用した次世代のモノづくりに向けて、自働化の検証や産学連携による研究開発を推進し、新たな価値の創出を目指す。",
-      "content": "矢崎総業は、新たに開設したイノベーション施設「Innovation Hub - REN（錬）」（IH-REN）を報道陣に公開した。IH-RENでは、AI／ロボティクスを活用した次世代のモノづくりに向けて、自働化の検証や産学連携による研究開発を推進し、新たな価値の創出を目指す。",
-      "published": "Wed, 22 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "summary": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
-      "content": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
-      "published": "Wed, 22 Jul 2026 07:45:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "How America’s newspapers lost their voice",
+      "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
+      "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
+      "content": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
+      "published": "Tue, 21 Jul 2026 22:01:09 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
       "matched_topics": []
     },
     {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "content": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 20,
+      "title": "The World Cup of misinformation",
+      "url": "https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/",
+      "summary": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
+      "content": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
+      "published": "Tue, 21 Jul 2026 17:56:43 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
       "matched_topics": []
     }
   ]
