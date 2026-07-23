@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:05:38.689566+00:00",
+  "generated_at": "2026-07-23T22:57:49.507524+00:00",
   "articles": [
     {
       "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
@@ -68,19 +68,6 @@
       ]
     },
     {
-      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
-      "summary": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語った。",
-      "content": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語った。",
-      "published": "Thu, 23 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 47,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
@@ -94,16 +81,16 @@
       ]
     },
     {
-      "title": "AMDとAnthropicが戦略的提携 「Helios」を最大2GW導入、最大50億ドルの出資も",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-      "summary": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
-      "content": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
-      "published": "Thu, 23 Jul 2026 06:55:00 +0900",
+      "title": "【元経産省の専門家に聞く】中小企業がハマる「生成AIトラブル」5つの解決シナリオ",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/24/news049.html",
+      "summary": "キーマンズネットの読者調査には、生成AIを巡る中小企業の切実な悩みが数多く寄せられた。代表的な5つの「あるある課題」を、経済産業省・中小企業庁でデジタル活用支援に携わった小池明氏にぶつけ、明日から使える乗り切り方を聞いた。",
+      "content": "キーマンズネットの読者調査には、生成AIを巡る中小企業の切実な悩みが数多く寄せられた。代表的な5つの「あるある課題」を、経済産業省・中小企業庁でデジタル活用支援に携わった小池明氏にぶつけ、明日から使える乗り切り方を聞いた。",
+      "published": "Fri, 24 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
-        "enterprise",
+        "media",
         "japan"
       ]
     },
@@ -121,38 +108,51 @@
       ]
     },
     {
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "published": "2026-07-20T15:52:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "published": "Wed, 22 Jul 2026 05:30:00 GMT",
       "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "content": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "published": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/",
-      "summary": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
-      "content": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
-      "published": "Tue, 21 Jul 2026 15:00:00 +0000",
-      "source": "Microsoft AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
@@ -199,32 +199,6 @@
       ]
     },
     {
-      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
-      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "published": "2026-07-20T15:52:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "AI時代、開発チームの人材は“5つの型”に分かれる Claude Code開発責任者の見立て",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
-      "summary": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
-      "content": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
-      "published": "Thu, 23 Jul 2026 05:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "summary": "Managed agents feature bundle launch",
@@ -258,6 +232,32 @@
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "「スパイダーロボ」登場 がれきを走破、モノに「触って判断」も 災害現場で活用へ 国内ベンチャー",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/",
+      "summary": "アトラックラボ（埼玉県入間郡）は、クモの形を模したロボットを開発したと発表した。実際のクモより2本少ない6本の脚を備えており、画像や触覚情報も処理できる。災害現場や危険区域などでの活用を目指す。",
+      "content": "アトラックラボ（埼玉県入間郡）は、クモの形を模したロボットを開発したと発表した。実際のクモより2本少ない6本の脚を備えており、画像や触覚情報も処理できる。災害現場や危険区域などでの活用を目指す。",
+      "published": "Thu, 23 Jul 2026 19:04:48 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "content": "Google Images logo surrounded by illustrations of people searching for different images",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
+      ]
     }
   ]
 }
