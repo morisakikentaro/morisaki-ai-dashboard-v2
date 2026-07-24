@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:57:49.507524+00:00",
+  "generated_at": "2026-07-24T23:02:57.335904+00:00",
   "articles": [
     {
       "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
@@ -68,6 +68,20 @@
       ]
     },
     {
+      "title": "海外の「Claude」や「GPT」ではダメなのか 日本企業向けai&、そのメリットは？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
+      "summary": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
+      "content": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
+      "published": "Fri, 24 Jul 2026 13:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 52,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
@@ -81,43 +95,31 @@
       ]
     },
     {
-      "title": "【元経産省の専門家に聞く】中小企業がハマる「生成AIトラブル」5つの解決シナリオ",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/24/news049.html",
-      "summary": "キーマンズネットの読者調査には、生成AIを巡る中小企業の切実な悩みが数多く寄せられた。代表的な5つの「あるある課題」を、経済産業省・中小企業庁でデジタル活用支援に携わった小池明氏にぶつけ、明日から使える乗り切り方を聞いた。",
-      "content": "キーマンズネットの読者調査には、生成AIを巡る中小企業の切実な悩みが数多く寄せられた。代表的な5つの「あるある課題」を、経済産業省・中小企業庁でデジタル活用支援に携わった小池明氏にぶつけ、明日から使える乗り切り方を聞いた。",
-      "published": "Fri, 24 Jul 2026 07:00:00 +0900",
+      "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+      "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "content": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "published": "Sat, 25 Jul 2026 07:28:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 42,
       "matched_topics": [
-        "media",
-        "japan"
+        "enterprise",
+        "cms_knowledge"
       ]
     },
     {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-      "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "summary": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "content": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "published": "2026-07-21T13:51:42Z",
-      "source": "Publickey",
+      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+      "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "content": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "published": "Fri, 24 Jul 2026 17:30:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 42,
       "matched_topics": [
+        "enterprise",
         "japan"
-      ]
-    },
-    {
-      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
-      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "published": "2026-07-20T15:52:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -160,6 +162,19 @@
       ]
     },
     {
+      "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/",
+      "summary": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
+      "content": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
+      "published": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "Microsoft AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
       "summary": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value across employees, customers, operations, and innovation. By embedding AI into workflows and aligning it to outcomes, these organizations are transforming how value is created and scaled. The post 4 paths to Frontier Transformation: From AI experimentation to real business value appeared first on The Microsoft Cloud Blog .",
@@ -183,6 +198,19 @@
       "selection_score": 22,
       "matched_topics": [
         "ai_search"
+      ]
+    },
+    {
+      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
+      "published": "2026-07-20T15:52:57Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -212,6 +240,19 @@
       ]
     },
     {
+      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+      "summary": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
+      "content": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
+      "published": "2026-07-21T13:51:42Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
       "title": "How America’s newspapers lost their voice",
       "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
       "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
@@ -221,43 +262,6 @@
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
-    },
-    {
-      "title": "The World Cup of misinformation",
-      "url": "https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/",
-      "summary": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "content": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "published": "Tue, 21 Jul 2026 17:56:43 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "「スパイダーロボ」登場 がれきを走破、モノに「触って判断」も 災害現場で活用へ 国内ベンチャー",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/",
-      "summary": "アトラックラボ（埼玉県入間郡）は、クモの形を模したロボットを開発したと発表した。実際のクモより2本少ない6本の脚を備えており、画像や触覚情報も処理できる。災害現場や危険区域などでの活用を目指す。",
-      "content": "アトラックラボ（埼玉県入間郡）は、クモの形を模したロボットを開発したと発表した。実際のクモより2本少ない6本の脚を備えており、画像や触覚情報も処理できる。災害現場や危険区域などでの活用を目指す。",
-      "published": "Thu, 23 Jul 2026 19:04:48 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "content": "Google Images logo surrounded by illustrations of people searching for different images",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 22,
-      "matched_topics": [
-        "ai_search"
-      ]
     }
   ]
 }
