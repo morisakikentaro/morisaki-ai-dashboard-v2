@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:57:01.289450+00:00",
+  "generated_at": "2026-07-26T22:59:40.893335+00:00",
   "articles": [
     {
       "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
@@ -54,20 +54,6 @@
       "matched_topics": []
     },
     {
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "summary": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "content": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...",
-      "published": "2026-07-20T15:54:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 52,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
       "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
       "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
       "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
@@ -95,26 +81,38 @@
       ]
     },
     {
-      "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-      "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "content": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "published": "Fri, 24 Jul 2026 17:30:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
       "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
       "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
       "summary": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
       "content": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
       "published": "2026-07-21T13:51:42Z",
       "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "法人被害45億円、元警視庁が解説「会話もできるAI詐欺」の手口と対策",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/27/news029.html",
+      "summary": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
+      "content": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
+      "published": "Mon, 27 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "content": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "published": "Sun, 26 Jul 2026 06:51:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -200,19 +198,6 @@
       ]
     },
     {
-      "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
-      "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-      "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "content": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....",
-      "published": "2026-07-20T15:52:57Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "Create, edit and star in videos with two Google Vids updates",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
       "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
@@ -239,19 +224,6 @@
       ]
     },
     {
-      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
-      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "content": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "published": "Sun, 26 Jul 2026 06:51:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
       "title": "How America’s newspapers lost their voice",
       "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
       "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
@@ -261,6 +233,30 @@
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "The World Cup of misinformation",
+      "url": "https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/",
+      "summary": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
+      "content": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
+      "published": "Tue, 21 Jul 2026 17:56:43 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "content": "Google Images logo surrounded by illustrations of people searching for different images",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
+      ]
     }
   ]
 }
