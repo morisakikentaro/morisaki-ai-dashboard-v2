@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:59:40.893335+00:00",
+  "generated_at": "2026-07-27T23:03:37.276338+00:00",
   "articles": [
     {
       "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
@@ -13,6 +13,20 @@
       "matched_topics": [
         "ai_search",
         "media"
+      ]
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "ai_search",
+        "enterprise"
       ]
     },
     {
@@ -30,107 +44,77 @@
       ]
     },
     {
-      "title": "Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically",
-      "url": "https://www.niemanlab.org/2026/07/mobilizer-connector-spectator-or-outsider-new-pew-research-categorizes-how-americans-do-or-dont-engage-civically/",
-      "summary": "Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...",
-      "content": "Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...",
-      "published": "Thu, 16 Jul 2026 20:53:45 +0000",
+      "title": "LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond",
+      "url": "https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/",
+      "summary": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
+      "content": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
+      "published": "Mon, 27 Jul 2026 14:00:06 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails",
-      "url": "https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/",
-      "summary": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
-      "content": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
-      "published": "Wed, 22 Jul 2026 19:32:45 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
-      "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-      "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
-      "content": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...",
-      "published": "2026-07-22T15:35:19Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
-      "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
-      "content": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
-      "published": "Sat, 25 Jul 2026 07:28:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
         "cms_knowledge"
       ]
     },
     {
-      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-      "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-      "summary": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "content": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...",
-      "published": "2026-07-21T13:51:42Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "法人被害45億円、元警視庁が解説「会話もできるAI詐欺」の手口と対策",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/27/news029.html",
-      "summary": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
-      "content": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
-      "published": "Mon, 27 Jul 2026 07:00:00 +0900",
+      "title": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news030.html",
+      "summary": "生成AIは「答える」から「仕事を進める」ツールへと進化している。では、業務で本当に頼れるAIと、単なる生成ツールの違いはどこにあるのか。鍵を握るのは、企業固有の文脈を理解する力だ。",
+      "content": "生成AIは「答える」から「仕事を進める」ツールへと進化している。では、業務で本当に頼れるAIと、単なる生成ツールの違いはどこにあるのか。鍵を握るのは、企業固有の文脈を理解する力だ。",
+      "published": "Tue, 28 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 44,
       "matched_topics": [
+        "enterprise",
         "japan"
       ]
     },
     {
-      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
-      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "content": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "published": "Sun, 26 Jul 2026 06:51:00 +0900",
+      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
+      "summary": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
+      "content": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
+      "published": "Mon, 27 Jul 2026 19:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
+      "selection_score": 24,
       "matched_topics": [
         "enterprise"
       ]
+    },
+    {
+      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
+      "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+      "summary": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
+      "content": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
+      "published": "2026-07-26T15:06:36Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
+      "url": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
+      "summary": "マイクロソフトは今秋リリース予定の包括的フレームワーク「Microsoft .NET」のプレビュー版となる「Microsoft .NET 11 Preview 6」（以下、.NET Preview 6）を公開しました。 .NET 11 Pr...",
+      "content": "マイクロソフトは今秋リリース予定の包括的フレームワーク「Microsoft .NET」のプレビュー版となる「Microsoft .NET 11 Preview 6」（以下、.NET Preview 6）を公開しました。 .NET 11 Pr...",
+      "published": "2026-07-23T18:22:56Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+      "summary": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
+      "content": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
+      "published": "Tue, 28 Jul 2026 07:16:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -224,22 +208,22 @@
       ]
     },
     {
-      "title": "How America’s newspapers lost their voice",
-      "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
-      "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "content": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "published": "Tue, 21 Jul 2026 22:01:09 +0000",
+      "title": "“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails",
+      "url": "https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/",
+      "summary": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
+      "content": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
+      "published": "Wed, 22 Jul 2026 19:32:45 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
     },
     {
-      "title": "The World Cup of misinformation",
-      "url": "https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/",
-      "summary": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "content": "One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...",
-      "published": "Tue, 21 Jul 2026 17:56:43 +0000",
+      "title": "How America’s newspapers lost their voice",
+      "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
+      "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
+      "content": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
+      "published": "Tue, 21 Jul 2026 22:01:09 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
@@ -257,6 +241,17 @@
       "matched_topics": [
         "ai_search"
       ]
+    },
+    {
+      "title": "AIエージェントが車載アプリを動的に生成、イーソルがAIDVに向けた実験場を披露",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/28/news056.html",
+      "summary": "イーソルは、ユーザーイベント「eSOL Technology Forum 2026」において、AIエージェントと人／車両が対話するための実験場となる仮想環境「eSOL AI Mobility Sandbox」を披露した。",
+      "content": "イーソルは、ユーザーイベント「eSOL Technology Forum 2026」において、AIエージェントと人／車両が対話するための実験場となる仮想環境「eSOL AI Mobility Sandbox」を披露した。",
+      "published": "Tue, 28 Jul 2026 06:45:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     }
   ]
 }
