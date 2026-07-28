@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-07-27T23:03:37.276338+00:00",
+  "generated_at": "2026-07-28T23:01:02.499419+00:00",
   "articles": [
+    {
+      "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
+      "url": "https://www.niemanlab.org/2026/07/despite-concerns-about-ai-overviews-some-nonprofit-news-outlets-see-a-surge-in-search-traffic/",
+      "summary": "Election season is a busy time for any newsroom. In the second quarter of 2026, some nonprofit newsrooms saw their coverage of the primaries — especially voter guides — pay off in both interest and traffic. In Nieman Lab&#8217;s quarterly ranking of nonprofit news outlets, four news outlets saw a bump in traffic thanks in...",
+      "content": "Election season is a busy time for any newsroom. In the second quarter of 2026, some nonprofit newsrooms saw their coverage of the primaries — especially voter guides — pay off in both interest and traffic. In Nieman Lab&#8217;s quarterly ranking of nonprofit news outlets, four news outlets saw a bump in traffic thanks in...",
+      "published": "Tue, 28 Jul 2026 20:30:19 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 56,
+      "matched_topics": [
+        "ai_search",
+        "cms_knowledge"
+      ]
+    },
     {
       "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
       "url": "https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/",
@@ -44,77 +58,70 @@
       ]
     },
     {
-      "title": "LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond",
-      "url": "https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/",
-      "summary": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
-      "content": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
-      "published": "Mon, 27 Jul 2026 14:00:06 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
-      "title": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news030.html",
-      "summary": "生成AIは「答える」から「仕事を進める」ツールへと進化している。では、業務で本当に頼れるAIと、単なる生成ツールの違いはどこにあるのか。鍵を握るのは、企業固有の文脈を理解する力だ。",
-      "content": "生成AIは「答える」から「仕事を進める」ツールへと進化している。では、業務で本当に頼れるAIと、単なる生成ツールの違いはどこにあるのか。鍵を握るのは、企業固有の文脈を理解する力だ。",
-      "published": "Tue, 28 Jul 2026 07:00:00 +0900",
+      "title": "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news042.html",
+      "summary": "千代田区では「Microsoft 365 Copilot」の実証実験を重ね、2025年10月に全庁導入を果たし、業務時間を約2000時間削減したという。同区が全庁導入後にどのように職員のCopilot活用を推進させたのか。その方法をキーマンズネットが独自取材した。",
+      "content": "千代田区では「Microsoft 365 Copilot」の実証実験を重ね、2025年10月に全庁導入を果たし、業務時間を約2000時間削減したという。同区が全庁導入後にどのように職員のCopilot活用を推進させたのか。その方法をキーマンズネットが独自取材した。",
+      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 44,
+      "selection_score": 52,
       "matched_topics": [
         "enterprise",
         "japan"
       ]
     },
     {
-      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
-      "summary": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
-      "content": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
-      "published": "Mon, 27 Jul 2026 19:00:00 +0900",
+      "title": "地震、台風、有事の寸断――日本のサプライチェーン危機管理を変えるとき",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news035.html",
+      "summary": "自然災害や地政学リスクなど、日本企業を取り巻く危機はかつてなく深刻だ。自社のサプライチェーンリスクをAIエージェントで可視化し、有事の初動対応まで自律代替する。不確実な時代を勝ち抜く強靭な経営基盤の姿に迫る。",
+      "content": "自然災害や地政学リスクなど、日本企業を取り巻く危機はかつてなく深刻だ。自社のサプライチェーンリスクをAIエージェントで可視化し、有事の初動対応まで自律代替する。不確実な時代を勝ち抜く強靭な経営基盤の姿に迫る。",
+      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
+      "summary": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
+      "content": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
+      "published": "Wed, 29 Jul 2026 07:50:56 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-      "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-      "summary": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "content": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "published": "2026-07-26T15:06:36Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
-      "url": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
-      "summary": "マイクロソフトは今秋リリース予定の包括的フレームワーク「Microsoft .NET」のプレビュー版となる「Microsoft .NET 11 Preview 6」（以下、.NET Preview 6）を公開しました。 .NET 11 Pr...",
-      "content": "マイクロソフトは今秋リリース予定の包括的フレームワーク「Microsoft .NET」のプレビュー版となる「Microsoft .NET 11 Preview 6」（以下、.NET Preview 6）を公開しました。 .NET 11 Pr...",
-      "published": "2026-07-23T18:22:56Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-      "summary": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
-      "content": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
-      "published": "Tue, 28 Jul 2026 07:16:00 +0900",
+      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+      "summary": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "content": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
+      "published": "Wed, 29 Jul 2026 07:11:48 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 32,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "エバンジェリスト・みのるん氏が解説 「自前のAIエージェント」爆速開発術",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news050.html",
+      "summary": "AIエージェント活用が広がる中、次のステップとして注目されるのが自社業務に最適化したAIエージェントの開発だ。KDDIアジャイル開発センターの御田 稔氏が、開発を加速する技術や実践事例、成功のポイントを解説した。",
+      "content": "AIエージェント活用が広がる中、次のステップとして注目されるのが自社業務に最適化したAIエージェントの開発だ。KDDIアジャイル開発センターの御田 稔氏が、開発を加速する技術や実践事例、成功のポイントを解説した。",
+      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -130,16 +137,29 @@
       ]
     },
     {
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "source": "OpenAI News",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "content": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 30,
       "matched_topics": [
-        "enterprise"
+        "ai_search"
+      ]
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "content": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -169,24 +189,11 @@
       ]
     },
     {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "summary": "Connected apps rendering",
-      "content": "Connected apps rendering",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 22,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "content": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "content": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "published": "Tue, 28 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -195,11 +202,24 @@
       ]
     },
     {
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "summary": "Managed agents feature bundle launch",
-      "content": "Managed agents feature bundle launch",
-      "published": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "title": "LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond",
+      "url": "https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/",
+      "summary": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
+      "content": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
+      "published": "Mon, 27 Jul 2026 14:00:06 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "content": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -219,22 +239,11 @@
       "matched_topics": []
     },
     {
-      "title": "How America’s newspapers lost their voice",
-      "url": "https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/",
-      "summary": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "content": "Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...",
-      "published": "Tue, 21 Jul 2026 22:01:09 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "content": "Google Images logo surrounded by illustrations of people searching for different images",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "Connected apps rendering",
+      "content": "Connected apps rendering",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
       "selection_score": 22,
@@ -243,12 +252,12 @@
       ]
     },
     {
-      "title": "AIエージェントが車載アプリを動的に生成、イーソルがAIDVに向けた実験場を披露",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/28/news056.html",
-      "summary": "イーソルは、ユーザーイベント「eSOL Technology Forum 2026」において、AIエージェントと人／車両が対話するための実験場となる仮想環境「eSOL AI Mobility Sandbox」を披露した。",
-      "content": "イーソルは、ユーザーイベント「eSOL Technology Forum 2026」において、AIエージェントと人／車両が対話するための実験場となる仮想環境「eSOL AI Mobility Sandbox」を披露した。",
-      "published": "Tue, 28 Jul 2026 06:45:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "published": "2026-07-28T15:54:06Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
