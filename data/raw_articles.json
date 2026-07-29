@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:01:02.499419+00:00",
+  "generated_at": "2026-07-29T23:00:06.027208+00:00",
   "articles": [
     {
       "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
@@ -16,17 +16,30 @@
       ]
     },
     {
-      "title": "Search traffic has declined so much that some publishers are considering opting out of Google entirely",
-      "url": "https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/",
-      "summary": "Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term &#8220;Google Zero,&#8221; which he defined as &#8220;that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.&#8221; It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...",
-      "content": "Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term &#8220;Google Zero,&#8221; which he defined as &#8220;that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.&#8221; It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...",
-      "published": "Wed, 22 Jul 2026 18:18:08 +0000",
+      "title": "How three newsrooms are charting different paths for AI use",
+      "url": "https://www.niemanlab.org/2026/07/how-three-newsrooms-are-charting-different-paths-for-ai-use/",
+      "summary": "A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...",
+      "content": "A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...",
+      "published": "Wed, 29 Jul 2026 14:00:18 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
-      "selection_score": 56,
+      "selection_score": 46,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
       "matched_topics": [
         "ai_search",
-        "media"
+        "enterprise"
       ]
     },
     {
@@ -44,52 +57,38 @@
       ]
     },
     {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "ai_search",
-        "media"
-      ]
-    },
-    {
-      "title": "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news042.html",
-      "summary": "千代田区では「Microsoft 365 Copilot」の実証実験を重ね、2025年10月に全庁導入を果たし、業務時間を約2000時間削減したという。同区が全庁導入後にどのように職員のCopilot活用を推進させたのか。その方法をキーマンズネットが独自取材した。",
-      "content": "千代田区では「Microsoft 365 Copilot」の実証実験を重ね、2025年10月に全庁導入を果たし、業務時間を約2000時間削減したという。同区が全庁導入後にどのように職員のCopilot活用を推進させたのか。その方法をキーマンズネットが独自取材した。",
-      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
+      "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供 「平時をはるかに超える業務」対応のため",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+      "summary": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
+      "content": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
+      "published": "Wed, 29 Jul 2026 12:52:12 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 52,
+      "selection_score": 42,
       "matched_topics": [
         "enterprise",
         "japan"
       ]
     },
     {
-      "title": "地震、台風、有事の寸断――日本のサプライチェーン危機管理を変えるとき",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news035.html",
-      "summary": "自然災害や地政学リスクなど、日本企業を取り巻く危機はかつてなく深刻だ。自社のサプライチェーンリスクをAIエージェントで可視化し、有事の初動対応まで自律代替する。不確実な時代を勝ち抜く強靭な経営基盤の姿に迫る。",
-      "content": "自然災害や地政学リスクなど、日本企業を取り巻く危機はかつてなく深刻だ。自社のサプライチェーンリスクをAIエージェントで可視化し、有事の初動対応まで自律代替する。不確実な時代を勝ち抜く強靭な経営基盤の姿に迫る。",
-      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
+      "url": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
+      "summary": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...",
+      "content": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...",
+      "published": "2026-07-29T15:02:00Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
     },
     {
-      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
-      "summary": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-      "content": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-      "published": "Wed, 29 Jul 2026 07:50:56 +0900",
+      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+      "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "content": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "published": "Wed, 29 Jul 2026 16:29:39 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -98,30 +97,28 @@
       ]
     },
     {
-      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-      "summary": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
-      "content": "OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。",
-      "published": "Wed, 29 Jul 2026 07:11:48 +0900",
+      "title": "AI・半導体企業トップが語る“稼ぎ頭” キオクシア、フジクラ、東京エレデバの見解まとめ【無料PDF】",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/30/news045.html",
+      "summary": "乱高下するAI・半導体市場の今後はどうなるか？ 注目企業の経営幹部が見通しを語った注目記事をPDFにまとめてお届けする。",
+      "content": "乱高下するAI・半導体市場の今後はどうなるか？ 注目企業の経営幹部が見通しを語った注目記事をPDFにまとめてお届けする。",
+      "published": "Thu, 30 Jul 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
     },
     {
-      "title": "エバンジェリスト・みのるん氏が解説 「自前のAIエージェント」爆速開発術",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news050.html",
-      "summary": "AIエージェント活用が広がる中、次のステップとして注目されるのが自社業務に最適化したAIエージェントの開発だ。KDDIアジャイル開発センターの御田 稔氏が、開発を加速する技術や実践事例、成功のポイントを解説した。",
-      "content": "AIエージェント活用が広がる中、次のステップとして注目されるのが自社業務に最適化したAIエージェントの開発だ。KDDIアジャイル開発センターの御田 稔氏が、開発を加速する技術や実践事例、成功のポイントを解説した。",
-      "published": "Wed, 29 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "published": "2026-07-28T15:54:06Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "Launching Health in ChatGPT",
@@ -228,17 +225,6 @@
       ]
     },
     {
-      "title": "“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails",
-      "url": "https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/",
-      "summary": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
-      "content": "Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...",
-      "published": "Wed, 22 Jul 2026 19:32:45 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 26,
-      "matched_topics": []
-    },
-    {
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "summary": "Connected apps rendering",
@@ -252,12 +238,23 @@
       ]
     },
     {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "published": "2026-07-28T15:54:06Z",
+      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
+      "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+      "summary": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
+      "content": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
+      "published": "2026-07-26T15:06:36Z",
       "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
+      "summary": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
+      "content": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
+      "published": "Wed, 29 Jul 2026 10:29:20 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
