@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:00:06.027208+00:00",
+  "generated_at": "2026-07-30T23:09:02.898351+00:00",
   "articles": [
     {
       "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
@@ -13,6 +13,20 @@
       "matched_topics": [
         "ai_search",
         "cms_knowledge"
+      ]
+    },
+    {
+      "title": "Readers turned to these local newspapers for real-time safety updates and weekend reads",
+      "url": "https://www.niemanlab.org/2026/07/readers-turned-to-these-local-newspapers-for-real-time-safety-updates-and-weekend-reads/",
+      "summary": "Deliberate audience initiatives and breaking news alike have driven traffic to local newspapers in the last few months. According to Similarweb&#8217;s data, The Philadelphia Inquirer received 1.1 million more web visits in April than it did in March, about a 17% jump. Lisa Hughes, the Inquirer&#8217;s publisher and CEO, told me the spike coincided with...",
+      "content": "Deliberate audience initiatives and breaking news alike have driven traffic to local newspapers in the last few months. According to Similarweb&#8217;s data, The Philadelphia Inquirer received 1.1 million more web visits in April than it did in March, about a 17% jump. Lisa Hughes, the Inquirer&#8217;s publisher and CEO, told me the spike coincided with...",
+      "published": "Thu, 30 Jul 2026 18:51:11 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
       ]
     },
     {
@@ -43,31 +57,16 @@
       ]
     },
     {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "ai_search",
-        "enterprise"
-      ]
-    },
-    {
-      "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供 「平時をはるかに超える業務」対応のため",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
-      "summary": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
-      "content": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
-      "published": "Wed, 29 Jul 2026 12:52:12 +0900",
+      "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
+      "summary": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
+      "content": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
+      "published": "Thu, 30 Jul 2026 13:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 42,
+      "selection_score": 34,
       "matched_topics": [
-        "enterprise",
-        "japan"
+        "enterprise"
       ]
     },
     {
@@ -84,48 +83,64 @@
       ]
     },
     {
-      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」 GPT-5.6 Solの“トークン消費問題”を改善",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
-      "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
-      "content": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
-      "published": "Wed, 29 Jul 2026 16:29:39 +0900",
+      "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+      "summary": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
+      "content": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
+      "published": "Thu, 30 Jul 2026 14:52:01 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "AI・半導体企業トップが語る“稼ぎ頭” キオクシア、フジクラ、東京エレデバの見解まとめ【無料PDF】",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/30/news045.html",
-      "summary": "乱高下するAI・半導体市場の今後はどうなるか？ 注目企業の経営幹部が見通しを語った注目記事をPDFにまとめてお届けする。",
-      "content": "乱高下するAI・半導体市場の今後はどうなるか？ 注目企業の経営幹部が見通しを語った注目記事をPDFにまとめてお届けする。",
-      "published": "Thu, 30 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
       "matched_topics": [
         "japan"
       ]
     },
     {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "published": "2026-07-28T15:54:06Z",
-      "source": "Publickey",
+      "title": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
+      "summary": "サイバーセキュリティクラウドが実施した調査で、上司よりも生成AIを参考にした経験を持つ人が半数に上るなど、職場でのAI依存が進んでいる実態が明らかになった。",
+      "content": "サイバーセキュリティクラウドが実施した調査で、上司よりも生成AIを参考にした経験を持つ人が半数に上るなど、職場でのAI依存が進んでいる実態が明らかになった。",
+      "published": "Fri, 31 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "title": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
+      "summary": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
+      "content": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
+      "published": "Fri, 31 Jul 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "ai_search",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "content": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -199,19 +214,6 @@
       ]
     },
     {
-      "title": "LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond",
-      "url": "https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/",
-      "summary": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
-      "content": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
-      "published": "Mon, 27 Jul 2026 14:00:06 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "cms_knowledge"
-      ]
-    },
-    {
       "title": "Create, edit and star in videos with two Google Vids updates",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
       "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
@@ -222,6 +224,19 @@
       "selection_score": 22,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "AI authentication tools are built without adequate journalist input, new report finds",
+      "url": "https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/",
+      "summary": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
+      "content": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
+      "published": "Thu, 30 Jul 2026 19:19:19 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
       ]
     },
     {
@@ -238,23 +253,12 @@
       ]
     },
     {
-      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-      "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-      "summary": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "content": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...",
-      "published": "2026-07-26T15:06:36Z",
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "published": "2026-07-30T17:48:59Z",
       "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
-      "summary": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
-      "content": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
-      "published": "Wed, 29 Jul 2026 10:29:20 +0900",
-      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
