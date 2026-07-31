@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:09:02.898351+00:00",
+  "generated_at": "2026-07-31T23:02:22.306282+00:00",
   "articles": [
     {
       "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
@@ -43,30 +43,31 @@
       ]
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
+      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+      "summary": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "content": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
+      "published": "Fri, 31 Jul 2026 11:18:22 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
       "matched_topics": [
         "ai_search",
         "enterprise"
       ]
     },
     {
-      "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応 何ができる？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
-      "summary": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
-      "content": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
-      "published": "Thu, 30 Jul 2026 13:00:00 +0900",
+      "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
+      "summary": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
+      "content": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
+      "published": "Fri, 31 Jul 2026 15:57:22 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 34,
+      "selection_score": 42,
       "matched_topics": [
-        "enterprise"
+        "enterprise",
+        "japan"
       ]
     },
     {
@@ -83,55 +84,61 @@
       ]
     },
     {
-      "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
-      "summary": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
-      "content": "日本HPと楽天が、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始。70億パラメータの日本語LLM「Rakuten AI 7B」で、オフラインでも要約や翻訳をローカルで実行できる。",
-      "published": "Thu, 30 Jul 2026 14:52:01 +0900",
-      "source": "ITmedia AI+",
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "published": "2026-07-30T17:48:59Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
-      "title": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
-      "summary": "サイバーセキュリティクラウドが実施した調査で、上司よりも生成AIを参考にした経験を持つ人が半数に上るなど、職場でのAI依存が進んでいる実態が明らかになった。",
-      "content": "サイバーセキュリティクラウドが実施した調査で、上司よりも生成AIを参考にした経験を持つ人が半数に上るなど、職場でのAI依存が進んでいる実態が明らかになった。",
-      "published": "Fri, 31 Jul 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
+      "published": "2026-07-28T15:54:06Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
-      "title": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
-      "summary": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
-      "content": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
-      "published": "Fri, 31 Jul 2026 07:00:00 +0900",
+      "title": "キオクシア、株価3分の1急落は「絶好のタイミング」 過去最高益と8000億円自社株買いで示す自信",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/31/news108.html",
+      "summary": "キオクシアHDは、2026年4～6月のNon-GAAP営業利益が1兆3262億円で、直近1年間の営業利益を上回ったと説明した。7～9月の売上収益は、2兆3900億円を見込む。経営幹部からは力強い言葉が続いた。",
+      "content": "キオクシアHDは、2026年4～6月のNon-GAAP営業利益が1兆3262億円で、直近1年間の営業利益を上回ったと説明した。7～9月の売上収益は、2兆3900億円を見込む。経営幹部からは力強い言葉が続いた。",
+      "published": "Fri, 31 Jul 2026 18:45:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "content": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 40,
       "matched_topics": [
-        "ai_search",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
         "enterprise"
       ]
     },
@@ -251,17 +258,6 @@
       "matched_topics": [
         "ai_search"
       ]
-    },
-    {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "published": "2026-07-30T17:48:59Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
     }
   ]
 }
