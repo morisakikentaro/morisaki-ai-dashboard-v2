@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:57:13.690502+00:00",
+  "generated_at": "2026-08-03T23:02:11.353072+00:00",
   "articles": [
-    {
-      "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
-      "url": "https://www.niemanlab.org/2026/07/despite-concerns-about-ai-overviews-some-nonprofit-news-outlets-see-a-surge-in-search-traffic/",
-      "summary": "Election season is a busy time for any newsroom. In the second quarter of 2026, some nonprofit newsrooms saw their coverage of the primaries — especially voter guides — pay off in both interest and traffic. In Nieman Lab&#8217;s quarterly ranking of nonprofit news outlets, four news outlets saw a bump in traffic thanks in...",
-      "content": "Election season is a busy time for any newsroom. In the second quarter of 2026, some nonprofit newsrooms saw their coverage of the primaries — especially voter guides — pay off in both interest and traffic. In Nieman Lab&#8217;s quarterly ranking of nonprofit news outlets, four news outlets saw a bump in traffic thanks in...",
-      "published": "Tue, 28 Jul 2026 20:30:19 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 56,
-      "matched_topics": [
-        "ai_search",
-        "cms_knowledge"
-      ]
-    },
     {
       "title": "Readers turned to these local newspapers for real-time safety updates and weekend reads",
       "url": "https://www.niemanlab.org/2026/07/readers-turned-to-these-local-newspapers-for-real-time-safety-updates-and-weekend-reads/",
@@ -56,14 +42,27 @@
       ]
     },
     {
-      "title": "「AI、結局使えないじゃん」問題 セールスフォースが431万件対応で導いた正解",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
-      "summary": "AIエージェントの導入が進む一方、全社的な利益改善に至る企業は4割弱にとどまる。そんな「AI導入の壁」を破り、自社実践（カスタマーゼロ）で431万件の顧客対応を完了、商談数を4～5割増加させたのがセールスフォースだ。同社はなぜ明快なROIを生み出せるのか。データやKPIが整う領域の選定や「シンプルで高頻度な業務」から任せる鉄則など、AI投資を成果につなげる運用の方法論を田中遼太COOに聞いた。",
-      "content": "AIエージェントの導入が進む一方、全社的な利益改善に至る企業は4割弱にとどまる。そんな「AI導入の壁」を破り、自社実践（カスタマーゼロ）で431万件の顧客対応を完了、商談数を4～5割増加させたのがセールスフォースだ。同社はなぜ明快なROIを生み出せるのか。データやKPIが整う領域の選定や「シンプルで高頻度な業務」から任せる鉄則など、AI投資を成果につなげる運用の方法論を田中遼太COOに聞いた。",
-      "published": "Mon, 03 Aug 2026 07:00:00 +0900",
+      "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
+      "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+      "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
+      "content": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
+      "published": "2026-08-03T15:39:50Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
+      "summary": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を聞く。",
+      "content": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を聞く。",
+      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 52,
+      "selection_score": 42,
       "matched_topics": [
         "enterprise",
         "japan"
@@ -83,11 +82,11 @@
       ]
     },
     {
-      "title": "生成AI利用率、情シスよりも高いのはあの職種だった",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2608/03/news020.html",
-      "summary": "生成AIの活用状況は、担当する業務や職種によって大きく異なる。職種別の生成AI利用実態を把握するためにラグザスが実施した調査によると、エンジニア・情シスの生成AI利用率は職種別で1位ではなかった。では、その職種がそれらを上回ったのか。",
-      "content": "生成AIの活用状況は、担当する業務や職種によって大きく異なる。職種別の生成AI利用実態を把握するためにラグザスが実施した調査によると、エンジニア・情シスの生成AI利用率は職種別で1位ではなかった。では、その職種がそれらを上回ったのか。",
-      "published": "Mon, 03 Aug 2026 07:00:00 +0900",
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "summary": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
+      "content": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
+      "published": "Mon, 03 Aug 2026 20:45:49 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -96,11 +95,11 @@
       ]
     },
     {
-      "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」 サイバーエージェントのAI推進策",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
-      "summary": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
-      "content": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
-      "published": "Mon, 03 Aug 2026 07:00:00 +0900",
+      "title": "「融資」現場にAIの足音、資金調達どう変わる？ カネを借りられる企業の条件、専修大教授に聞く",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news005.html",
+      "summary": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
+      "content": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
+      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
@@ -109,15 +108,17 @@
       ]
     },
     {
-      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
-      "url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
-      "summary": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
-      "content": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
-      "published": "2026-08-02T15:56:09Z",
-      "source": "Publickey",
+      "title": "「大きな投資計画が次々に。久しぶりだ」――強く豊かな日本投資枠、経済成長かなうか？ 片山大臣が語る狙い",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news024.html",
+      "summary": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
+      "content": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
+      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "Univé builds an AI-ready workforce",
@@ -138,19 +139,6 @@
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "content": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -224,6 +212,17 @@
       ]
     },
     {
+      "title": "A record-breaking eight Pulitzer awardees disclosed AI use this year",
+      "url": "https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/",
+      "summary": "A translation of a mass shooter&#8217;s cryptic journal in the days after an attack. A public records review that revealed failures to install flood warning systems in Central Texas. An exposé of American technology companies&#8217; complicity in building the Chinese surveillance state. An audit of the SEC&#8217;s crypto lawsuits that showed weakening enforcement under the...",
+      "content": "A translation of a mass shooter&#8217;s cryptic journal in the days after an attack. A public records review that revealed failures to install flood warning systems in Central Texas. An exposé of American technology companies&#8217; complicity in building the Chinese surveillance state. An audit of the SEC&#8217;s crypto lawsuits that showed weakening enforcement under the...",
+      "published": "Mon, 03 Aug 2026 18:03:37 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 26,
+      "matched_topics": []
+    },
+    {
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "summary": "Connected apps rendering",
@@ -237,22 +236,22 @@
       ]
     },
     {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "published": "2026-07-30T17:48:59Z",
+      "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
+      "url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+      "summary": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
+      "content": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
+      "published": "2026-08-02T15:56:09Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-      "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "content": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...",
-      "published": "2026-07-28T15:54:06Z",
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
+      "published": "2026-07-30T17:48:59Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
