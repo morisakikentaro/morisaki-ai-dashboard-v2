@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:02:11.353072+00:00",
+  "generated_at": "2026-08-04T23:04:36.969586+00:00",
   "articles": [
     {
       "title": "Readers turned to these local newspapers for real-time safety updates and weekend reads",
@@ -29,6 +29,20 @@
       ]
     },
     {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "content": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 40,
+      "matched_topics": [
+        "ai_search",
+        "enterprise"
+      ]
+    },
+    {
       "title": "AI authentication tools are built without adequate journalist input, new report finds",
       "url": "https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/",
       "summary": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
@@ -42,6 +56,59 @@
       ]
     },
     {
+      "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
+      "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+      "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
+      "content": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
+      "published": "2026-08-04T15:38:32Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "「日本人が海外へ行けない」を打ち破る シンガポール発LCCが仕掛ける“逆張り戦略”",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/05/news025.html",
+      "summary": "1ドル160円超の円安と燃油高により「海外旅行離れ」が進む日本市場。シンガポール航空傘下のLCC「スクート」が羽田・那覇線を相次ぎ新設する“逆張り攻勢”を見せている。なぜ円安下でも拡大を続けるのか。「若者・女性向け」を脱した中小企業などのビジネス需要獲得、最新規格「NDC」を活用したチャネル戦略、小型機投入による130都市網の構築など、安武秀敏・日本支社長に日本市場攻略の戦略を聞いた。",
+      "content": "1ドル160円超の円安と燃油高により「海外旅行離れ」が進む日本市場。シンガポール航空傘下のLCC「スクート」が羽田・那覇線を相次ぎ新設する“逆張り攻勢”を見せている。なぜ円安下でも拡大を続けるのか。「若者・女性向け」を脱した中小企業などのビジネス需要獲得、最新規格「NDC」を活用したチャネル戦略、小型機投入による130都市網の構築など、安武秀敏・日本支社長に日本市場攻略の戦略を聞いた。",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "【8/5まで】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news037.html",
+      "summary": "現在、「AIを活用した開発業務」に関する読者調査を実施しています。回答者の中から抽選で3名さまにAmazonギフトカード500円分をプレゼントします。",
+      "content": "現在、「AIを活用した開発業務」に関する読者調査を実施しています。回答者の中から抽選で3名さまにAmazonギフトカード500円分をプレゼントします。",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "enterprise",
+        "media"
+      ]
+    },
+    {
+      "title": "中小企業で「AI活用を回す」には？ JAPAN AIと大塚商会らが考える支援策",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/05/news035.html",
+      "summary": "生成AIの課題は「導入」から「定着」へと移っている。AIツールが社内に広がらず成果につながらない中堅・中小企業に求められることとは。",
+      "content": "生成AIの課題は「導入」から「定着」へと移っている。AIツールが社内に広がらず成果につながらない中堅・中小企業に求められることとは。",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
       "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
       "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
       "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
@@ -52,98 +119,6 @@
       "selection_score": 32,
       "matched_topics": [
         "ai_search"
-      ]
-    },
-    {
-      "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
-      "summary": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を聞く。",
-      "content": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を聞く。",
-      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
-        "japan"
-      ]
-    },
-    {
-      "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
-      "url": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
-      "summary": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...",
-      "content": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...",
-      "published": "2026-07-29T15:02:00Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "summary": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
-      "content": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
-      "published": "Mon, 03 Aug 2026 20:45:49 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "「融資」現場にAIの足音、資金調達どう変わる？ カネを借りられる企業の条件、専修大教授に聞く",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news005.html",
-      "summary": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
-      "content": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
-      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "「大きな投資計画が次々に。久しぶりだ」――強く豊かな日本投資枠、経済成長かなうか？ 片山大臣が語る狙い",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news024.html",
-      "summary": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
-      "content": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
-      "published": "Tue, 04 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "content": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 40,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -199,16 +174,38 @@
       ]
     },
     {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "content": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "content": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "published": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "source": "OpenAI News",
       "source_group": "global",
-      "selection_score": 22,
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "content": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "塩野義製薬、生成AIの正答率を50→90％に 膨大な機密データをどう最適化した？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
+      "summary": "生成AIを社内実務に組み込みたくても、情報の機密性やデータ量の多さなどに導入が難しい業界もある。そのうちの一つ、製薬業界に属する塩野義製薬も、同様の課題を抱えていたが、ある手法によってそれを解決したという。同社はいかにして、AI導入を進めたのだろうか。",
+      "content": "生成AIを社内実務に組み込みたくても、情報の機密性やデータ量の多さなどに導入が難しい業界もある。そのうちの一つ、製薬業界に属する塩野義製薬も、同様の課題を抱えていたが、ある手法によってそれを解決したという。同社はいかにして、AI導入を進めたのだろうか。",
+      "published": "Tue, 04 Aug 2026 10:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
@@ -223,17 +220,28 @@
       "matched_topics": []
     },
     {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "summary": "Connected apps rendering",
-      "content": "Connected apps rendering",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 22,
+      "title": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
+      "summary": "三菱重工が、決算説明にAIナレーター「ジュリア」を起用した。導入の狙いを問われた西尾浩CFOが、笑顔で語った理由とは。",
+      "content": "三菱重工が、決算説明にAIナレーター「ジュリア」を起用した。導入の狙いを問われた西尾浩CFOが、笑顔で語った理由とは。",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
       "matched_topics": [
-        "ai_search"
+        "japan"
       ]
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "published": "2026-08-04T15:36:16Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
       "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
@@ -241,17 +249,6 @@
       "summary": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
       "content": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...",
       "published": "2026-08-02T15:56:09Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-      "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-      "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "content": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...",
-      "published": "2026-07-30T17:48:59Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
