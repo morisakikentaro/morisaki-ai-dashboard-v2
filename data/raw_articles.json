@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:04:36.969586+00:00",
+  "generated_at": "2026-08-05T23:01:03.451135+00:00",
   "articles": [
     {
       "title": "Readers turned to these local newspapers for real-time safety updates and weekend reads",
@@ -13,19 +13,6 @@
       "matched_topics": [
         "ai_search",
         "media"
-      ]
-    },
-    {
-      "title": "How three newsrooms are charting different paths for AI use",
-      "url": "https://www.niemanlab.org/2026/07/how-three-newsrooms-are-charting-different-paths-for-ai-use/",
-      "summary": "A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...",
-      "content": "A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...",
-      "published": "Wed, 29 Jul 2026 14:00:18 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 46,
-      "matched_topics": [
-        "enterprise"
       ]
     },
     {
@@ -43,16 +30,29 @@
       ]
     },
     {
-      "title": "AI authentication tools are built without adequate journalist input, new report finds",
-      "url": "https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/",
-      "summary": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
-      "content": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
-      "published": "Thu, 30 Jul 2026 19:19:19 +0000",
+      "title": "Is Americans’ declining trust in media driven by political messaging?",
+      "url": "https://www.niemanlab.org/2026/08/is-americans-declining-trust-in-media-driven-by-political-messaging/",
+      "summary": "Why has trust in American news media dropped so much in the past 50 years — much more than it&#8217;s declined in other rich western countries? To some people, I&#8217;m sure, the answer will seem obvious: Journalism&#8217;s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...",
+      "content": "Why has trust in American news media dropped so much in the past 50 years — much more than it&#8217;s declined in other rich western countries? To some people, I&#8217;m sure, the answer will seem obvious: Journalism&#8217;s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...",
+      "published": "Wed, 05 Aug 2026 20:23:03 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
         "media"
+      ]
+    },
+    {
+      "title": "Even The New York Times “isn’t immune” to declining search traffic — one reason it’s leaning into video",
+      "url": "https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/",
+      "summary": "Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times&#8217; subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...",
+      "content": "Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times&#8217; subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...",
+      "published": "Wed, 05 Aug 2026 20:07:23 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -69,38 +69,11 @@
       ]
     },
     {
-      "title": "「日本人が海外へ行けない」を打ち破る シンガポール発LCCが仕掛ける“逆張り戦略”",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/05/news025.html",
-      "summary": "1ドル160円超の円安と燃油高により「海外旅行離れ」が進む日本市場。シンガポール航空傘下のLCC「スクート」が羽田・那覇線を相次ぎ新設する“逆張り攻勢”を見せている。なぜ円安下でも拡大を続けるのか。「若者・女性向け」を脱した中小企業などのビジネス需要獲得、最新規格「NDC」を活用したチャネル戦略、小型機投入による130都市網の構築など、安武秀敏・日本支社長に日本市場攻略の戦略を聞いた。",
-      "content": "1ドル160円超の円安と燃油高により「海外旅行離れ」が進む日本市場。シンガポール航空傘下のLCC「スクート」が羽田・那覇線を相次ぎ新設する“逆張り攻勢”を見せている。なぜ円安下でも拡大を続けるのか。「若者・女性向け」を脱した中小企業などのビジネス需要獲得、最新規格「NDC」を活用したチャネル戦略、小型機投入による130都市網の構築など、安武秀敏・日本支社長に日本市場攻略の戦略を聞いた。",
-      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "【8/5まで】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news037.html",
-      "summary": "現在、「AIを活用した開発業務」に関する読者調査を実施しています。回答者の中から抽選で3名さまにAmazonギフトカード500円分をプレゼントします。",
-      "content": "現在、「AIを活用した開発業務」に関する読者調査を実施しています。回答者の中から抽選で3名さまにAmazonギフトカード500円分をプレゼントします。",
-      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 34,
-      "matched_topics": [
-        "enterprise",
-        "media"
-      ]
-    },
-    {
-      "title": "中小企業で「AI活用を回す」には？ JAPAN AIと大塚商会らが考える支援策",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2608/05/news035.html",
-      "summary": "生成AIの課題は「導入」から「定着」へと移っている。AIツールが社内に広がらず成果につながらない中堅・中小企業に求められることとは。",
-      "content": "生成AIの課題は「導入」から「定着」へと移っている。AIツールが社内に広がらず成果につながらない中堅・中小企業に求められることとは。",
-      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "title": "KDDIも40年前はスタートアップだった 高橋会長の“昔話”から考える、日本企業の成長戦略",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/06/news028.html",
+      "summary": "KDDIはイケイケの人たちが作った――KDDIの高橋誠会長は、こう振り返る。“スタートアップ精神”で成長してきた同社から、企業の成長戦略を考える。",
+      "content": "KDDIはイケイケの人たちが作った――KDDIの高橋誠会長は、こう振り返る。“スタートアップ精神”で成長してきた同社から、企業の成長戦略を考える。",
+      "published": "Thu, 06 Aug 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 34,
@@ -119,6 +92,32 @@
       "selection_score": 32,
       "matched_topics": [
         "ai_search"
+      ]
+    },
+    {
+      "title": "Google DeepMindのデミス・ハサビスCEOが退任して会長に チーフサイエンティストのジェフ・ディーン氏は独立へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/",
+      "summary": "Google DeepMindのCEOを務めてきたデミス・ハサビス氏が業務執行から退き、DeepMind会長兼Alphabetチーフサイエンティストに就任する。後任にはコーレイ・カブクチュオール氏が就く。また、チーフサイエンティストのジェフ・ディーン氏とGoogleシニアフェローのサンジェイ・ゲマワット氏が退社し、独立した公益法人を設立することも発表された。",
+      "content": "Google DeepMindのCEOを務めてきたデミス・ハサビス氏が業務執行から退き、DeepMind会長兼Alphabetチーフサイエンティストに就任する。後任にはコーレイ・カブクチュオール氏が就く。また、チーフサイエンティストのジェフ・ディーン氏とGoogleシニアフェローのサンジェイ・ゲマワット氏が退社し、独立した公益法人を設立することも発表された。",
+      "published": "Thu, 06 Aug 2026 07:08:01 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "資金調達の「二極化」進む 勝ち抜く企業の条件は？ 早大教授に聞く",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/06/news014.html",
+      "summary": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
+      "content": "「AIによる審査の高度化」と「資金調達の多様化」は必ずしも同じ話ではない──ベンチャーファイナンスの第一人者である早稲田大学ビジネススクール（経営管理研究科）の長谷川博和教授は、こう指摘する。",
+      "published": "Thu, 06 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
       ]
     },
     {
@@ -196,16 +195,16 @@
       "matched_topics": []
     },
     {
-      "title": "塩野義製薬、生成AIの正答率を50→90％に 膨大な機密データをどう最適化した？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
-      "summary": "生成AIを社内実務に組み込みたくても、情報の機密性やデータ量の多さなどに導入が難しい業界もある。そのうちの一つ、製薬業界に属する塩野義製薬も、同様の課題を抱えていたが、ある手法によってそれを解決したという。同社はいかにして、AI導入を進めたのだろうか。",
-      "content": "生成AIを社内実務に組み込みたくても、情報の機密性やデータ量の多さなどに導入が難しい業界もある。そのうちの一つ、製薬業界に属する塩野義製薬も、同様の課題を抱えていたが、ある手法によってそれを解決したという。同社はいかにして、AI導入を進めたのだろうか。",
-      "published": "Tue, 04 Aug 2026 10:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "title": "AI authentication tools are built without adequate journalist input, new report finds",
+      "url": "https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/",
+      "summary": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
+      "content": "It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...",
+      "published": "Thu, 30 Jul 2026 19:19:19 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
       "matched_topics": [
-        "japan"
+        "media"
       ]
     },
     {
@@ -220,11 +219,11 @@
       "matched_topics": []
     },
     {
-      "title": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
-      "summary": "三菱重工が、決算説明にAIナレーター「ジュリア」を起用した。導入の狙いを問われた西尾浩CFOが、笑顔で語った理由とは。",
-      "content": "三菱重工が、決算説明にAIナレーター「ジュリア」を起用した。導入の狙いを問われた西尾浩CFOが、笑顔で語った理由とは。",
-      "published": "Wed, 05 Aug 2026 07:00:00 +0900",
+      "title": "ワークマン、実は画像生成AIを導入していた 間に合わない商品撮影を代替 アプリ通知開封も1.5倍",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
+      "summary": "",
+      "content": "",
+      "published": "Thu, 06 Aug 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
