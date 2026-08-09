@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:30:45.542537+00:00",
+  "generated_at": "2026-08-09T22:32:58.097168+00:00",
   "articles": [
     {
       "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
@@ -67,16 +67,29 @@
       ]
     },
     {
-      "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
-      "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
-      "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
-      "content": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...",
-      "published": "2026-08-03T15:39:50Z",
-      "source": "Publickey",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+      "summary": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "content": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "published": "Sun, 09 Aug 2026 12:12:07 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
-        "ai_search"
+        "enterprise"
+      ]
+    },
+    {
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "content": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "published": "Sun, 09 Aug 2026 12:11:16 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -93,23 +106,12 @@
       ]
     },
     {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "published": "2026-08-04T15:36:16Z",
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。...",
+      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。...",
+      "published": "2026-08-09T15:19:33Z",
       "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-      "summary": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
-      "content": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
-      "published": "Sat, 08 Aug 2026 07:11:46 +0900",
-      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
@@ -217,36 +219,36 @@
       "matched_topics": []
     },
     {
-      "title": "「声の無断利用」が権利侵害に――法務省が見解を明示 「AIカバー」も対象",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000452/",
-      "summary": "法務省は、生成AIの普及によって声優などの声が無断利用されている問題を巡り、声も既存の権利で法的に保護できるとの見解を明示した。本人の声を模したAI音声によるカバー音源なども権利侵害の可能性があるという。",
-      "content": "法務省は、生成AIの普及によって声優などの声が無断利用されている問題を巡り、声も既存の権利で法的に保護できるとの見解を明示した。本人の声を模したAI音声によるカバー音源なども権利侵害の可能性があるという。",
-      "published": "Fri, 07 Aug 2026 21:19:15 +0900",
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "published": "2026-08-04T15:36:16Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+      "content": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+      "published": "Sun, 09 Aug 2026 07:16:59 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "シャープ、通期純利益見通し170億円下方修正 円安など影響 AIサーバは9月に参入",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
-      "summary": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
-      "content": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
-      "published": "Fri, 07 Aug 2026 19:34:01 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "「就活に生成AI利用」ほぼ全員に 面接で内容追及され困惑も",
-      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
-      "summary": "2027年春に卒業予定の大学生らを対象に行ったアンケートで、就職活動で生成AIを「利用していない」とした割合は3％にとどまり、ほぼ全ての学生が就活で何らかの形で生成AIを活用している実態が、人事分野の調査研究機関HR総研（東京都千代田区）などの調査で分かった。",
-      "content": "2027年春に卒業予定の大学生らを対象に行ったアンケートで、就職活動で生成AIを「利用していない」とした割合は3％にとどまり、ほぼ全ての学生が就活で何らかの形で生成AIを活用している実態が、人事分野の調査研究機関HR総研（東京都千代田区）などの調査で分かった。",
-      "published": "Fri, 07 Aug 2026 19:16:08 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "published": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
       "matched_topics": []
     }
   ]
