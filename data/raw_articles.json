@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-10T22:38:37.529439+00:00",
+  "generated_at": "2026-08-11T22:43:24.137771+00:00",
   "articles": [
+    {
+      "title": "The Society of Professional Journalists proposes edits to its code of ethics for the AI age",
+      "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+      "summary": "On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...",
+      "content": "On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...",
+      "published": "Tue, 11 Aug 2026 19:36:35 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
+      ]
+    },
+    {
+      "title": "We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information",
+      "url": "https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/",
+      "summary": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "content": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "published": "Tue, 11 Aug 2026 15:40:59 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "media"
+      ]
+    },
     {
       "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
       "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
@@ -28,32 +54,6 @@
       ]
     },
     {
-      "title": "Is Americans’ declining trust in media driven by political messaging?",
-      "url": "https://www.niemanlab.org/2026/08/is-americans-declining-trust-in-media-driven-by-political-messaging/",
-      "summary": "Why has trust in American news media dropped so much in the past 50 years — much more than it&#8217;s declined in other rich western countries? To some people, I&#8217;m sure, the answer will seem obvious: Journalism&#8217;s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...",
-      "content": "Why has trust in American news media dropped so much in the past 50 years — much more than it&#8217;s declined in other rich western countries? To some people, I&#8217;m sure, the answer will seem obvious: Journalism&#8217;s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...",
-      "published": "Wed, 05 Aug 2026 20:23:03 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
-      "title": "Even The New York Times “isn’t immune” to declining search traffic — one reason it’s leaning into video",
-      "url": "https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/",
-      "summary": "Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times&#8217; subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...",
-      "content": "Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times&#8217; subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...",
-      "published": "Wed, 05 Aug 2026 20:07:23 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
@@ -67,50 +67,83 @@
       ]
     },
     {
-      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場 CodexやVS Codeなど対応、Claudeは未対応",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-      "summary": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "content": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "published": "Mon, 10 Aug 2026 23:11:18 +0900",
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "summary": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
+      "content": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
+      "published": "Wed, 12 Aug 2026 07:16:45 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "無料で読めるITまんが 2026年版 ～マンガでわかるAIの仕組み／DC業務のリアルを知るヤマダくん、ほか",
+      "url": "https://www.publickey1.jp/blog/26/content_4.html",
+      "summary": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
+      "content": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
+      "published": "2026-08-11T15:33:09Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "enterprise"
       ]
     },
     {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "published": "2026-08-09T15:19:33Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "published": "2026-08-04T15:36:16Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/",
-      "summary": "MetaのザッカーバーグCEOは、超知能の分散化と個人のエンパワーメントを訴える論考を公開した。単一の超知能への集権化を否定し、権力の均衡が安全の基礎であると主張。モデル公開審査の独立組織委任や政府へのチェックポイント提供などの管理策を提示しつつ、オープンソースモデルの公開再開と新モデルのウェイト提供を明言した。",
-      "content": "MetaのザッカーバーグCEOは、超知能の分散化と個人のエンパワーメントを訴える論考を公開した。単一の超知能への集権化を否定し、権力の均衡が安全の基礎であると主張。モデル公開審査の独立組織委任や政府へのチェックポイント提供などの管理策を提示しつつ、オープンソースモデルの公開再開と新モデルのウェイト提供を明言した。",
-      "published": "Tue, 11 Aug 2026 07:21:33 +0900",
+      "title": "【注目の企業】キオクシア、なぜこんなに話題？ 今からでも間に合う“入門記事”まとめました",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
+      "summary": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
+      "content": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
+      "published": "Wed, 12 Aug 2026 07:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
+      "summary": "AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。",
+      "content": "AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。",
+      "published": "Tue, 11 Aug 2026 08:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "content": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "content": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
+      ]
     },
     {
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
@@ -139,36 +172,10 @@
       ]
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "content": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "published": "Mon, 10 Aug 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
       "content": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "content": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
       "published": "Tue, 28 Jul 2026 13:00:00 +0000",
       "source": "Google AI Blog",
       "source_group": "global",
@@ -215,36 +222,38 @@
       "matched_topics": []
     },
     {
-      "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
-      "summary": "MetaのAI研究部門は、約296億パラメータのオープンウェイトAIモデル「Muse Glimmer」を公開した。Apache 2.0ライセンスで提供され、PCやMacのGPU1基で動作する。上位モデルからの蒸留によりローカル環境でのエージェント処理やマルチモーダル推論に最適化され、量子化により24GBのVRAM等で稼働する。",
-      "content": "MetaのAI研究部門は、約296億パラメータのオープンウェイトAIモデル「Muse Glimmer」を公開した。Apache 2.0ライセンスで提供され、PCやMacのGPU1基で動作する。上位モデルからの蒸留によりローカル環境でのエージェント処理やマルチモーダル推論に最適化され、量子化により24GBのVRAM等で稼働する。",
-      "published": "Tue, 11 Aug 2026 07:11:40 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
-      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-      "summary": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
-      "content": "米シカゴ大学などに所属する研究者らがPNASで発表した論文「Social dynamics of AI adoption in parents’ educational decisions」は、親が子どもに生成AIを使わせる判断の背景を調査した研究報告だ。",
-      "published": "Tue, 11 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "content": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "source": "OpenAI News",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "AMIE promotional video",
+      "content": "AMIE promotional video",
+      "published": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
       "source_group": "global",
-      "selection_score": 20,
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "published": "2026-08-09T15:19:33Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "published": "2026-08-04T15:36:16Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
       "matched_topics": []
     }
   ]
