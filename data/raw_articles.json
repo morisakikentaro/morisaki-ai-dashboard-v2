@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-08-11T22:43:24.137771+00:00",
+  "generated_at": "2026-08-12T22:42:17.672627+00:00",
   "articles": [
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "content": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 50,
+      "matched_topics": [
+        "ai_search",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Japanese publishers are fighting imposter news sites with a cryptographic signature",
+      "url": "https://www.niemanlab.org/2026/08/japanese-publishers-are-fighting-imposter-news-sites-with-a-cryptographic-signature/",
+      "summary": "On January 1, 2024, a 7.5 magnitude earthquake struck Japan&#8217;s Noto Peninsula, killing more than 700 people. In the days that followed, AI-generated images of the wreckage circulated widely and fake philanthropic websites scammed people out of donations. False claims that people were trapped under rubble diverted rescue efforts away from the places that needed...",
+      "content": "On January 1, 2024, a 7.5 magnitude earthquake struck Japan&#8217;s Noto Peninsula, killing more than 700 people. In the days that followed, AI-generated images of the wreckage circulated widely and fake philanthropic websites scammed people out of donations. False claims that people were trapped under rubble diverted rescue efforts away from the places that needed...",
+      "published": "Wed, 12 Aug 2026 19:21:35 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
+      ]
+    },
     {
       "title": "The Society of Professional Journalists proposes edits to its code of ethics for the AI age",
       "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
@@ -28,32 +56,6 @@
       ]
     },
     {
-      "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "summary": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
-      "content": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
-      "published": "Thu, 06 Aug 2026 20:58:18 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "A new book looks at how AI is rewiring the newsroom, for better and worse",
-      "url": "https://www.niemanlab.org/2026/08/a-new-book-looks-at-how-ai-is-rewiring-the-newsroom-for-better-and-worse/",
-      "summary": "In Journalism in the Age of AI, Rodrigo Zamith, Tomás Dodds, and I make the case that artificial intelligence is reshaping how we create, how we learn, and how we understand the world around us — and that journalism, the institution society depends on most to make sense of it all, is at the center...",
-      "content": "In Journalism in the Age of AI, Rodrigo Zamith, Tomás Dodds, and I make the case that artificial intelligence is reshaping how we create, how we learn, and how we understand the world around us — and that journalism, the institution society depends on most to make sense of it all, is at the center...",
-      "published": "Thu, 06 Aug 2026 12:21:01 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
@@ -64,20 +66,6 @@
       "selection_score": 42,
       "matched_topics": [
         "enterprise"
-      ]
-    },
-    {
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-      "summary": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
-      "content": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
-      "published": "Wed, 12 Aug 2026 07:16:45 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise",
-        "japan"
       ]
     },
     {
@@ -94,29 +82,55 @@
       ]
     },
     {
-      "title": "【注目の企業】キオクシア、なぜこんなに話題？ 今からでも間に合う“入門記事”まとめました",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
-      "summary": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
-      "content": "話題を呼び続ける半導体メモリ大手のキオクシア。一体なぜこんなにも注目されるのか。同社の“今”が分かる記事をまとめた。",
-      "published": "Wed, 12 Aug 2026 07:00:00 +0900",
+      "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+      "summary": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
+      "content": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+      "summary": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
+      "content": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
+      "published": "Wed, 12 Aug 2026 23:10:09 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
       "matched_topics": [
         "japan"
       ]
     },
     {
-      "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
-      "summary": "AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。",
-      "content": "AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。",
-      "published": "Tue, 11 Aug 2026 08:00:00 +0900",
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "summary": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+      "content": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+      "published": "Wed, 12 Aug 2026 23:03:56 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 24,
+      "selection_score": 32,
       "matched_topics": [
-        "japan"
+        "enterprise"
+      ]
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "content": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "published": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 30,
+      "matched_topics": [
+        "enterprise"
       ]
     },
     {
@@ -151,19 +165,6 @@
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "content": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "published": "Mon, 10 Aug 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "content": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 30,
@@ -211,15 +212,41 @@
       ]
     },
     {
-      "title": "Grokipedia, Elon Musk’s anti-woke AI Wikipedia, seems to have stopped updating in April",
-      "url": "https://www.niemanlab.org/2026/08/grokipedia-elon-musks-anti-woke-ai-wikipedia-seems-to-have-stopped-updating-in-april/",
-      "summary": "Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of &#8220;an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source of basic information in the age of AI.&#8221; Grokipedia allows humans to suggest edits, but Columbia&#8217;s Tow...",
-      "content": "Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of &#8220;an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source of basic information in the age of AI.&#8221; Grokipedia allows humans to suggest edits, but Columbia&#8217;s Tow...",
-      "published": "Thu, 06 Aug 2026 16:01:24 +0000",
+      "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "summary": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
+      "content": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
+      "published": "Thu, 06 Aug 2026 20:58:18 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 36,
+      "matched_topics": [
+        "ai_search"
+      ]
+    },
+    {
+      "title": "Remember that raid on a small-town Kansas newspaper? The city has agreed to pay one reporter $850,000",
+      "url": "https://www.niemanlab.org/2026/08/remember-that-raid-on-a-small-town-kansas-newspaper-the-city-has-agreed-to-pay-one-reporter-850000/",
+      "summary": "On August 11, 2023, local law enforcement seized electronics and reporting materials from the Marion County Record in a raid that provoked a national outcry over the blatant press freedom violation in small-town Kansas. The raid led to multiple federal lawsuits against the county government, public officials, and the city, accusing them of retaliating against...",
+      "content": "On August 11, 2023, local law enforcement seized electronics and reporting materials from the Marion County Record in a raid that provoked a national outcry over the blatant press freedom violation in small-town Kansas. The raid led to multiple federal lawsuits against the county government, public officials, and the city, accusing them of retaliating against...",
+      "published": "Wed, 12 Aug 2026 20:45:09 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 26,
       "matched_topics": []
+    },
+    {
+      "title": "結局、AIで仕事はラクになった？ データで読む「効率化＝成果」の勘違い",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/13/news024.html",
+      "summary": "生成AIの利用が広がる一方、効率化と成果の間にはギャップも。企業のAI活用に関する調査データや事例をまとめた無償ブックレットを提供する。",
+      "content": "生成AIの利用が広がる一方、効率化と成果の間にはギャップも。企業のAI活用に関する調査データや事例をまとめた無償ブックレットを提供する。",
+      "published": "Thu, 13 Aug 2026 07:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "japan"
+      ]
     },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -233,28 +260,6 @@
       "matched_topics": [
         "ai_search"
       ]
-    },
-    {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "published": "2026-08-09T15:19:33Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "published": "2026-08-04T15:36:16Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
     }
   ]
 }
