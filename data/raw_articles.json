@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:42:17.672627+00:00",
+  "generated_at": "2026-08-13T22:42:49.984358+00:00",
   "articles": [
     {
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -13,6 +13,20 @@
       "matched_topics": [
         "ai_search",
         "enterprise"
+      ]
+    },
+    {
+      "title": "Apple may start paying publishers to deliver news with Siri AI",
+      "url": "https://www.niemanlab.org/2026/08/apple-may-start-paying-publishers-to-deliver-news-with-siri-ai/",
+      "summary": "Hey Siri, how much is the news worth to an AI assistant? The answer, according to a report by Alexandra Bruell in The Wall Street Journal, starts at $100 million. Apple has approached publishers to use their news and up-to-date information in the revamped Siri AI, sources told the Journal. The company has reportedly discussed...",
+      "content": "Hey Siri, how much is the news worth to an AI assistant? The answer, according to a report by Alexandra Bruell in The Wall Street Journal, starts at $100 million. Apple has approached publishers to use their news and up-to-date information in the revamped Siri AI, sources told the Journal. The company has reportedly discussed...",
+      "published": "Thu, 13 Aug 2026 18:31:58 +0000",
+      "source": "Nieman Lab",
+      "source_group": "media",
+      "selection_score": 46,
+      "matched_topics": [
+        "ai_search",
+        "media"
       ]
     },
     {
@@ -43,19 +57,6 @@
       ]
     },
     {
-      "title": "We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information",
-      "url": "https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/",
-      "summary": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
-      "content": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
-      "published": "Tue, 11 Aug 2026 15:40:59 +0000",
-      "source": "Nieman Lab",
-      "source_group": "media",
-      "selection_score": 36,
-      "matched_topics": [
-        "media"
-      ]
-    },
-    {
       "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
       "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
       "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
@@ -66,6 +67,33 @@
       "selection_score": 42,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+      "summary": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
+      "content": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
+      "published": "Fri, 14 Aug 2026 06:25:13 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 42,
+      "matched_topics": [
+        "enterprise",
+        "japan"
+      ]
+    },
+    {
+      "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+      "summary": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常より2倍高いピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。",
+      "content": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常より2倍高いピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。",
+      "published": "Thu, 13 Aug 2026 23:12:24 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 34,
+      "matched_topics": [
+        "japan"
       ]
     },
     {
@@ -82,40 +110,14 @@
       ]
     },
     {
-      "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
-      "summary": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
-      "content": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0900",
+      "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+      "summary": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
+      "content": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
+      "published": "Fri, 14 Aug 2026 07:15:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
-      "summary": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
-      "content": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
-      "published": "Wed, 12 Aug 2026 23:10:09 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-      "summary": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
-      "content": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
-      "published": "Wed, 12 Aug 2026 23:03:56 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 24,
       "matched_topics": [
         "enterprise"
       ]
@@ -147,45 +149,6 @@
       ]
     },
     {
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "content": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "content": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "published": "Mon, 10 Aug 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "content": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "published": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
-      "selection_score": 30,
-      "matched_topics": [
-        "ai_search"
-      ]
-    },
-    {
       "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation",
       "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/",
       "summary": "Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise. The post The AI Strategy Roadmap: Five drivers of successful AI transformation appeared first on The Microsoft Cloud Blog .",
@@ -196,6 +159,19 @@
       "selection_score": 30,
       "matched_topics": [
         "enterprise"
+      ]
+    },
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "AMIE promotional video",
+      "content": "AMIE promotional video",
+      "published": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
+      "source_group": "global",
+      "selection_score": 22,
+      "matched_topics": [
+        "ai_search"
       ]
     },
     {
@@ -212,16 +188,40 @@
       ]
     },
     {
-      "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "summary": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
-      "content": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
-      "published": "Thu, 06 Aug 2026 20:58:18 +0000",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "published": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+      "content": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+      "published": "Thu, 13 Aug 2026 22:16:13 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information",
+      "url": "https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/",
+      "summary": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "content": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "published": "Tue, 11 Aug 2026 15:40:59 +0000",
       "source": "Nieman Lab",
       "source_group": "media",
       "selection_score": 36,
       "matched_topics": [
-        "ai_search"
+        "media"
       ]
     },
     {
@@ -236,30 +236,26 @@
       "matched_topics": []
     },
     {
-      "title": "結局、AIで仕事はラクになった？ データで読む「効率化＝成果」の勘違い",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2608/13/news024.html",
-      "summary": "生成AIの利用が広がる一方、効率化と成果の間にはギャップも。企業のAI活用に関する調査データや事例をまとめた無償ブックレットを提供する。",
-      "content": "生成AIの利用が広がる一方、効率化と成果の間にはギャップも。企業のAI活用に関する調査データや事例をまとめた無償ブックレットを提供する。",
-      "published": "Thu, 13 Aug 2026 07:00:00 +0900",
-      "source": "ITmedia AI+",
+      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
+      "published": "2026-08-09T15:19:33Z",
+      "source": "Publickey",
       "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "japan"
-      ]
+      "selection_score": 22,
+      "matched_topics": []
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "AMIE promotional video",
-      "content": "AMIE promotional video",
-      "published": "Tue, 11 Aug 2026 17:00:00 +0000",
-      "source": "Google AI Blog",
-      "source_group": "global",
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
+      "published": "2026-08-04T15:36:16Z",
+      "source": "Publickey",
+      "source_group": "japan",
       "selection_score": 22,
-      "matched_topics": [
-        "ai_search"
-      ]
+      "matched_topics": []
     }
   ]
 }
