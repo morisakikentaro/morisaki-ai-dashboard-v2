@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:22:55.152521+00:00",
+  "generated_at": "2026-08-16T22:21:59.108732+00:00",
   "articles": [
     {
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -57,25 +57,38 @@
       ]
     },
     {
-      "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
-      "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-      "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
-      "content": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...",
-      "published": "2026-08-04T15:38:32Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 42,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
       "title": "無料で読めるITまんが 2026年版 ～マンガでわかるAIの仕組み／DC業務のリアルを知るヤマダくん、ほか",
       "url": "https://www.publickey1.jp/blog/26/content_4.html",
       "summary": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
       "content": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
       "published": "2026-08-11T15:33:09Z",
       "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+      "summary": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+      "content": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+      "published": "Mon, 17 Aug 2026 05:00:00 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 32,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+      "summary": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "content": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "published": "Sun, 16 Aug 2026 07:58:11 +0900",
+      "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
       "matched_topics": [
@@ -101,19 +114,6 @@
       "summary": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
       "content": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
       "published": "Fri, 14 Aug 2026 20:33:51 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に 「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
-      "summary": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。",
-      "content": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。",
-      "published": "Fri, 14 Aug 2026 08:00:00 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 32,
@@ -222,34 +222,34 @@
       "matched_topics": []
     },
     {
-      "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-      "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-      "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "content": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました...",
-      "published": "2026-08-09T15:19:33Z",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "summary": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
+      "content": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...",
+      "published": "2026-08-16T15:10:13Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
-      "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-      "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "content": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...",
-      "published": "2026-08-04T15:36:16Z",
+      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+      "url": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+      "summary": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
+      "content": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...",
+      "published": "2026-08-16T15:05:36Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
     },
     {
-      "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
-      "summary": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
-      "content": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
-      "published": "Fri, 14 Aug 2026 16:32:48 +0900",
-      "source": "ITmedia AI+",
+      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+      "url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+      "summary": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
+      "content": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...",
+      "published": "2026-08-16T15:01:16Z",
+      "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
       "matched_topics": []
