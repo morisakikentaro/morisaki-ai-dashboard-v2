@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:29:09.595740+00:00",
+  "generated_at": "2026-08-21T22:26:31.671038+00:00",
   "articles": [
     {
       "title": "Claude is changing how it generates prose to be more detectable (and maybe worse?)",
@@ -48,50 +48,24 @@
       "matched_topics": []
     },
     {
-      "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
-      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
-      "summary": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
-      "content": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
-      "published": "Fri, 21 Aug 2026 06:37:48 +0900",
+      "title": "SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+      "summary": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+      "content": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+      "published": "Fri, 21 Aug 2026 18:31:35 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
-      "selection_score": 32,
+      "selection_score": 42,
       "matched_topics": [
-        "enterprise"
+        "japan"
       ]
     },
     {
-      "title": "GoogleはAI競争に負けたのか 「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
-      "summary": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
-      "content": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
-      "published": "Fri, 21 Aug 2026 05:00:00 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 32,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "「ロボットのChatGPTモーメントが近づいている」 中国UnitreeのCEO、世界ロボット大会で言及",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/",
-      "summary": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
-      "content": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
-      "published": "Thu, 20 Aug 2026 17:08:10 +0900",
-      "source": "ITmedia AI+",
-      "source_group": "japan",
-      "selection_score": 24,
-      "matched_topics": [
-        "enterprise"
-      ]
-    },
-    {
-      "title": "日本精工が「国産人型ロボ」開発を後押し スタートアップのアトムと協力、アクチュエータの検証など",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/",
-      "summary": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
-      "content": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
-      "published": "Thu, 20 Aug 2026 16:47:56 +0900",
+      "title": "中国AI「Kimi」が日本進出か 有料プランのプレゼントキャンペーンも 「はじめまして、日本」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000679/",
+      "summary": "AIモデル「Kimi」を開発する中国Moonshot AIは、Kimiの日本語版公式X（@KimiAI_Japan）で「今日から、日本での歩みを始める」と投稿した。日本に本格進出するとみられる。",
+      "content": "AIモデル「Kimi」を開発する中国Moonshot AIは、Kimiの日本語版公式X（@KimiAI_Japan）で「今日から、日本での歩みを始める」と投稿した。日本に本格進出するとみられる。",
+      "published": "Fri, 21 Aug 2026 15:54:13 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 24,
@@ -100,11 +74,35 @@
       ]
     },
     {
+      "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+      "summary": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+      "content": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+      "published": "Fri, 21 Aug 2026 11:26:13 +0900",
+      "source": "ITmedia AI+",
+      "source_group": "japan",
+      "selection_score": 24,
+      "matched_topics": [
+        "enterprise"
+      ]
+    },
+    {
       "title": "Fluter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
       "url": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
       "summary": "Googleは、Dart言語によるアプリケーションフレームワークの最新版「Flutter 3.47」正式リリースを発表しました。 We’ve pieced together something special... Flutter 3.47...",
       "content": "Googleは、Dart言語によるアプリケーションフレームワークの最新版「Flutter 3.47」正式リリースを発表しました。 We’ve pieced together something special... Flutter 3.47...",
       "published": "2026-08-20T15:02:15Z",
+      "source": "Publickey",
+      "source_group": "japan",
+      "selection_score": 22,
+      "matched_topics": []
+    },
+    {
+      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+      "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+      "summary": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
+      "content": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
+      "published": "2026-08-18T15:55:25Z",
       "source": "Publickey",
       "source_group": "japan",
       "selection_score": 22,
@@ -189,17 +187,6 @@
       ]
     },
     {
-      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
-      "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-      "summary": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
-      "content": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...",
-      "published": "2026-08-18T15:55:25Z",
-      "source": "Publickey",
-      "source_group": "japan",
-      "selection_score": 22,
-      "matched_topics": []
-    },
-    {
       "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
       "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
       "summary": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...",
@@ -211,11 +198,11 @@
       "matched_topics": []
     },
     {
-      "title": "カルビーが挑むジャガイモ収量の限界――自社開発AIでサプライチェーン最適化",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news046.html",
-      "summary": "「ポテトチップス」や「じゃがりこ」など、カルビーの主力商品に欠かせないばれいしょには、収穫量の限界がある。後手の意思決定から脱却すべく、同社はAIを活用した全社最適シミュレーター「C-BOSS」を自社開発。いかにして現場定着の壁を越え、データに基づく攻めのサプライチェーンを構築したのか。",
-      "content": "「ポテトチップス」や「じゃがりこ」など、カルビーの主力商品に欠かせないばれいしょには、収穫量の限界がある。後手の意思決定から脱却すべく、同社はAIを活用した全社最適シミュレーター「C-BOSS」を自社開発。いかにして現場定着の壁を越え、データに基づく攻めのサプライチェーンを構築したのか。",
-      "published": "Fri, 21 Aug 2026 06:00:00 +0900",
+      "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超 GitHubに公式ディレクトリ公開",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
+      "summary": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
+      "content": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
+      "published": "Fri, 21 Aug 2026 10:14:33 +0900",
       "source": "ITmedia AI+",
       "source_group": "japan",
       "selection_score": 22,
@@ -238,6 +225,17 @@
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "content": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "source": "OpenAI News",
+      "source_group": "global",
+      "selection_score": 20,
+      "matched_topics": []
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "content": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "source": "OpenAI News",
       "source_group": "global",
       "selection_score": 20,
